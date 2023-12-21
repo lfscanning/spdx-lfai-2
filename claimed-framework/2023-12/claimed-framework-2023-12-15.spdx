@@ -1,0 +1,2414 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_claimed-framework-2023-12-15.zip_1702989177.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-12-19T12:32:58Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: claimed-framework-2023-12-15.zip
+PackageFileName: claimed-framework-2023-12-15.zip
+SPDXID: SPDXRef-upload1135
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 40cf0e3efc9768a948f30cf6ab94bf89fa9cef07
+PackageChecksum: SHA1: 493a0b9003322bddb0bcaec712b1be3df043f496
+PackageChecksum: SHA256: 67facf5f63369cc8c6d602dd0b26475b1c703fab6ba4709bdd5b7521dcbbad2a
+PackageChecksum: MD5: 249bd67d928680bcea2e2940d07c6552
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1135
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/LICENSE.md
+SPDXID: SPDXRef-item6577358
+FileChecksum: SHA1: 669a1e53b9dd9df3474300d3d959bb85bad75945
+FileChecksum: SHA256: c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08
+FileChecksum: MD5: fa818a259cbed7ce8bc2a22d35a464fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright {yyyy} {name of copyright owner} </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/CONTRIBUTING.md
+SPDXID: SPDXRef-item6577367
+FileChecksum: SHA1: 0827cf32c9a7499be927000c56209e799b1c1d15
+FileChecksum: SHA256: e6d6111749835b52a1b752b8df05982aac326cb3d684649665f99d3d119e83b8
+FileChecksum: MD5: 8234581ad8278ebb6b6dc1123c694644
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2022 IBM </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/README.md
+SPDXID: SPDXRef-item6577491
+FileChecksum: SHA1: 2d492a7cfe68fb5f645b27d8103a52ec8d5f5b99
+FileChecksum: SHA256: a86c7c54ce956318106e6ba462ce9e6c34d157992aa646ac83e6e0d0936f54a0
+FileChecksum: MD5: 2eb71e262fb8912656957371911c13c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2021 Elyra Authors </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/train/README.md
+SPDXID: SPDXRef-item6577403
+FileChecksum: SHA1: e821527cd987fa754f041699e816928f4c7bfcb2
+FileChecksum: SHA256: a2dacb33d1bbd678d3272cc4f89a1b0dbf4b21bc000feab1b0ece0c52aa58f54
+FileChecksum: MD5: ca1cdf9d54d9d2ead3f9a9567458900e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2021 Elyra Authors </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/predict/README.md
+SPDXID: SPDXRef-item6577505
+FileChecksum: SHA1: c154c03f8dc9f0d597a3d707772a32e9ac3d7c2e
+FileChecksum: SHA256: 46d297585a2f826ffa58a35ecef7412d041d772740a5f3de2d51515ee7faaa36
+FileChecksum: MD5: a2a8444a3b8249065f727fbf45b3e649
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2021 Elyra Authors </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/monitoring/README.md
+SPDXID: SPDXRef-item6577527
+FileChecksum: SHA1: f0cf89643dd217b4d38717c770a9eac3d212a0e0
+FileChecksum: SHA256: 75401662e7f6a6e69ca51a38685bd0ab9891e00301351e11c9eabec928c936cf
+FileChecksum: MD5: 0257007e8e3e05f66d0506d1329bdcdb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2021 Elyra Authors </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/metric/README.md
+SPDXID: SPDXRef-item6577435
+FileChecksum: SHA1: 22cac3619e6dae1a226b15be2403954d03b1362f
+FileChecksum: SHA256: c2a791fc5018049ce90f9003ab65abc161bd649b291c7e82407b5f9b04cecb62
+FileChecksum: MD5: 1c358f4a6963553f22f675ee7b3def57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2021 Elyra Authors </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/README.md
+SPDXID: SPDXRef-item6577452
+FileChecksum: SHA1: f5527b54d17dd6804a2b29e503d414e14b8ca307
+FileChecksum: SHA256: 157ea1127de8b54de1b163fedf7e6478146cacae63ecddaa420e522c851f5bf9
+FileChecksum: MD5: 9e05a5e368e98a60b980ddc8af98b403
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2021 Elyra Authors </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/filter/README.md
+SPDXID: SPDXRef-item6577533
+FileChecksum: SHA1: 9ecd39ff1fdd0d442f83a2c82ef62314585335fe
+FileChecksum: SHA256: 3c4f434df09ca915b52734e9e0122e36f6d2eceaa065ccd709c66f9743f289fc
+FileChecksum: MD5: 13df5ddf69773100fb45cd635279cb8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2021 Elyra Authors </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/deploy/README.md
+SPDXID: SPDXRef-item6577426
+FileChecksum: SHA1: d4e574329759327c476bda05d8a9f9567926dd57
+FileChecksum: SHA256: 96d45c253d5583a61513f5242ecc3e569c160b86f5014d0fe8c4d032ff72b2c6
+FileChecksum: MD5: fc155c8baa6286e57df313bb9f63e720
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2021 Elyra Authors </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/.github/pull_request_template.md
+SPDXID: SPDXRef-item6577373
+FileChecksum: SHA1: 0b5807f2b73fc64e8f23bc4c4ed9baa8a1e30bae
+FileChecksum: SHA256: 406f23a9b83e7d8b932692331dba7b54ae27510e704dd27664821aedc89f81a9
+FileChecksum: MD5: e7921304fc9f575c5ab15846a96423cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (c) The contribution was provided directly to me by some other
+(c) and I have not modified it. </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/cli/pyproject.toml
+SPDXID: SPDXRef-item6577297
+FileChecksum: SHA1: 5cef475ba35a877a115c9a9a1326b2aca17a7845
+FileChecksum: SHA256: 529c335db748a7e0ac6d8a6adb0813f1dd86d2726fb998f5f91d5e2f6206dfe6
+FileChecksum: MD5: edf1e9c0a93cafe1edd2701cfe50f7e7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Python
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/cli/LICENSE
+SPDXID: SPDXRef-item6577296
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/pyproject.toml
+SPDXID: SPDXRef-item6577310
+FileChecksum: SHA1: 9561c69007642899cd8b3d8da3ab1914476f33d0
+FileChecksum: SHA256: 97eeac0c337a6b05061a4da876a8561eabc3ce16f25402728b22b58697bd8da2
+FileChecksum: MD5: 85efa3c115eb66dd2567d677ccfa30df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/README.md
+SPDXID: SPDXRef-item6577345
+FileChecksum: SHA1: be96fa3fced8b1ea48b5c6c81fac248ab086a14e
+FileChecksum: SHA256: ec5bc96d0652c16f377f3762ea730c4e26756dda39fdb3fd668bdc4349d5c18f
+FileChecksum: MD5: 0fd3c58225725c6409358fd487389c7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/LICENSE.txt
+SPDXID: SPDXRef-item6577343
+FileChecksum: SHA1: 2b8b815229aa8a61e483fb4ba0588b8b6c491890
+FileChecksum: SHA256: cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30
+FileChecksum: MD5: 3b83ef96387f14655fc854ddc3c6bd57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/parser.py
+SPDXID: SPDXRef-item6577319
+FileChecksum: SHA1: 67052b20bd3fea66ea954720cda6a77b4a49afbd
+FileChecksum: SHA256: 753b7c0bca3950696283129c66ea43f84e0a881c78eef8940b4e92974cb528aa
+FileChecksum: MD5: 0397e9ac46f7f7868d85e445d285e688
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2021 Elyra Authors </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/boilerplate/LICENSE
+SPDXID: SPDXRef-item6577347
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/cli/src/claimed.py
+SPDXID: SPDXRef-item6577299
+FileChecksum: SHA1: e2302906d3c9e175cb22d6a099deaed35f807ab1
+FileChecksum: SHA256: 2b573130b3c5cce56fb48ce4df9f6420c9dd97ff58920fda7168a9f77c9fc872
+FileChecksum: MD5: 1170673d4571725fb253916d6189e3e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/cli/src/scripts/claimed
+SPDXID: SPDXRef-item6577301
+FileChecksum: SHA1: 412719a7b8334adb83b0ed77d428a85feddbc19a
+FileChecksum: SHA256: 7c34d30e145e5731c3f67283f23c2c84cf9829f2e1d113bf3f943b450b3f6095
+FileChecksum: MD5: d6f2a5c2034997954ba6eadad9d20942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/cli/.gitignore
+SPDXID: SPDXRef-item6577302
+FileChecksum: SHA1: f26b232e1292ac4c2470694cd3f0fa80f99c97ce
+FileChecksum: SHA256: 5e2c671ddc9e301dafc241ad1a7c07aa85a91fef560a17721b41977b9eddba17
+FileChecksum: MD5: 83a915b86b03f694b477f01afb8b957e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/cli/README.md
+SPDXID: SPDXRef-item6577303
+FileChecksum: SHA1: a786921eda2d421daf875a3be455c033d7722d29
+FileChecksum: SHA256: 3ff90a8dcc9161c727c1fddf1620641ef76f19040468878fe4759ce8c976d7e6
+FileChecksum: MD5: c2422821c18810835d35a4ee0aa36e13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/tests/test_compiler.py
+SPDXID: SPDXRef-item6577306
+FileChecksum: SHA1: 5a39e6631a0af799439f1d2971050bf3b4fbcf2c
+FileChecksum: SHA256: 61d55ce4a258094654107b26dbe349cc1b30d0c0ed103b71ef799dfd2455083d
+FileChecksum: MD5: beef2f92a221b732389061fccf75427f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/tests/example_script.py
+SPDXID: SPDXRef-item6577307
+FileChecksum: SHA1: abc7022e4d6aaaac7a81ce56e0335f6bc2bbb609
+FileChecksum: SHA256: 7a55be39212fb1c405282a893aa797583c9a065419a5376950eea00b40657ea7
+FileChecksum: MD5: 0a0e8d751b108812b920db1d2b3d4691
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/tests/example_notebook.ipynb
+SPDXID: SPDXRef-item6577308
+FileChecksum: SHA1: 5877c3fefff0096924dfe2727f9c6d8c489e9a5d
+FileChecksum: SHA256: 8bc9929c6b8d713ec3a26e9e2277e1dc3d3bed9225ced84516a6c274eb1616b3
+FileChecksum: MD5: abdb00aa54bd9102f5d632265ff84239
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/tests/example_rscript.R
+SPDXID: SPDXRef-item6577309
+FileChecksum: SHA1: e3285fc0e9b4ff91fc0c777b8115ed83015197db
+FileChecksum: SHA256: e4e9c6ba57addd5e7be248f40fd07f50f7c67dbe4800c6b375764b66be2dc70a
+FileChecksum: MD5: 6580f878d86e14ba298955f409f626d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/setup.py
+SPDXID: SPDXRef-item6577312
+FileChecksum: SHA1: d36c24611b7d08c0ed6fff173fc98dd893590ad1
+FileChecksum: SHA256: 31a41954f7319468623138b79bc86c7b5c1073cb38b6b36620db332eebf809b6
+FileChecksum: MD5: 41667c0aa1071d2e27ccade2a20f3e17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/create_gridwrapper.py
+SPDXID: SPDXRef-item6577314
+FileChecksum: SHA1: 9abc39e4fc370470080ce1a028d8e4e8908043b4
+FileChecksum: SHA256: 63a3e1dda23f54ab6fc98b495115c1af678a66ae8e6be4419fe80d24eff1fa7a
+FileChecksum: MD5: 612535cf05a8091403922465f114784f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/rscript.py
+SPDXID: SPDXRef-item6577315
+FileChecksum: SHA1: 15a742d64d95b5d89a43f13b38593ec52bec1173
+FileChecksum: SHA256: 22cdc748091776776d67d1431a8b0fe54ebc6efa3d8d4c1c35391f5e7e35f50d
+FileChecksum: MD5: f008c4861e586b7dee083504b714599b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/create_operator.py
+SPDXID: SPDXRef-item6577316
+FileChecksum: SHA1: d95243e31a997f962507559a762b614681bde13b
+FileChecksum: SHA256: ed27c5d7511da41e20516f2b2941a6fb30a4f9869521331ef6c58b487faa2bc6
+FileChecksum: MD5: 73fdb5eb91eebcfa6ec568b2a697435c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/pythonscript.py
+SPDXID: SPDXRef-item6577317
+FileChecksum: SHA1: 347cf388aa2c20f315a72b4b2464d1e97d43bedf
+FileChecksum: SHA256: afae1c245f3a192f7614e8656d49608703a67f88918e92a532bec3e73be35b84
+FileChecksum: MD5: 05573741cbc667af4b249edd890b8462
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/__init__.py
+SPDXID: SPDXRef-item6577318
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/templates/component_setup_code.R
+SPDXID: SPDXRef-item6577321
+FileChecksum: SHA1: 9afce3bbbbaad6ab6c3ce9213c352eea412f716a
+FileChecksum: SHA256: 3268df98f7179913a10a02aac695edc8b2df5181d90a58db3ffe5a52f81a1307
+FileChecksum: MD5: 81da1bc2cfab519f328c1d401d09ddfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/templates/kfp_component_template.yaml
+SPDXID: SPDXRef-item6577322
+FileChecksum: SHA1: 7145065de1438ed255b6e3251ef66013834cbf36
+FileChecksum: SHA256: 881606096ca8d412b3573bca7de91096e91d17a5df9711001584cae09702e94c
+FileChecksum: MD5: 0872a5068f3817a8279ba2bbb2426bd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/templates/kubernetes_job_template.job.yaml
+SPDXID: SPDXRef-item6577323
+FileChecksum: SHA1: c59a6cdfc3ac43a2c6200f67b08e51fe67e56ca7
+FileChecksum: SHA256: 8c2bd7db6b4616a9daaf7388ecd4bd955d677f569d5995c7a0cf89188186bebe
+FileChecksum: MD5: dc742cb15bc29991c7020c99d74acdd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/templates/cwl_component_template.cwl
+SPDXID: SPDXRef-item6577324
+FileChecksum: SHA1: 26e0baacb31e8465c0ba4685d52410cd07d00033
+FileChecksum: SHA256: cd44f713b72f213a7579a035aed6af01592da8a357444fe5d511e65bfb5cadf1
+FileChecksum: MD5: 536e270124f222f62e36d6e5c2398eee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/templates/component_setup_code.py
+SPDXID: SPDXRef-item6577325
+FileChecksum: SHA1: e8f7d572142d15a613d29d34759c8743b03c163f
+FileChecksum: SHA256: 70e4bb56f140d2e97037187e94b4049cd1b81e115166e46775bd9b05be151844
+FileChecksum: MD5: b5abc0987f88cf446f60b89390d55cda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/templates/cos_grid_wrapper_template.py
+SPDXID: SPDXRef-item6577326
+FileChecksum: SHA1: 8d96c37200b52492795e2bd90a21967e6f839115
+FileChecksum: SHA256: 2e80c06d06d53ca8e672f67c11764b56ca63409107f8f289e46cb078d0a72ddd
+FileChecksum: MD5: 887adeb78e85c9c1ee0b89f1d4db1e0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/templates/gw_component_setup_code.py
+SPDXID: SPDXRef-item6577327
+FileChecksum: SHA1: 10b0c756acd104fe15a5060eb38982eb3610dc4a
+FileChecksum: SHA256: d0095006ef90df794927d213c8e4d8e32acf8e541cab5fe3d6a42ccf9083b4ed
+FileChecksum: MD5: 3275053e2671e041b0dc6b582059cf96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/templates/__init__.py
+SPDXID: SPDXRef-item6577328
+FileChecksum: SHA1: 35503900628fb885be81117fdd01589a750013da
+FileChecksum: SHA256: 09670c012101524b0e0e093b2e9401522e622631fb50774fb18b9f27cbf99b07
+FileChecksum: MD5: 378014b02f18730fac49db8f68c0ce48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/templates/python_dockerfile_template
+SPDXID: SPDXRef-item6577329
+FileChecksum: SHA1: d8348d95de598f11af65e2749852a7f0d155fdba
+FileChecksum: SHA256: 387fa23dcda58132c570c2bd5fff0505c75b77668993f5a7effd060fa2a25bff
+FileChecksum: MD5: 72e348f7f6b0f5dffb7bffd5a2c0f2ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/templates/R_dockerfile_template
+SPDXID: SPDXRef-item6577330
+FileChecksum: SHA1: e05348d64a0d1e6d0f655e66ed33f28ab333b526
+FileChecksum: SHA256: f5de4dc63a46c045320aeff4f25831c7b2e0273b3ec9ee780c38b1ff8b32d500
+FileChecksum: MD5: 942794c158778ef1fff673db41baffbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/templates/grid_wrapper_template.py
+SPDXID: SPDXRef-item6577331
+FileChecksum: SHA1: ec15d1da39b5d6372c87e6277d472e98009a06f2
+FileChecksum: SHA256: fd29e86aa57cdd72f06a015397417174c1cd04f133ced013bb11c0314aa6cc82
+FileChecksum: MD5: 2e55c5d0d23c5c81954739ba192786c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/c3/utils.py
+SPDXID: SPDXRef-item6577332
+FileChecksum: SHA1: d3ccf1a46e9ae3e2cb4dc064ac77c376ddaf58bf
+FileChecksum: SHA256: 4eb06992e067e095694d4960cde6a992b6b677d0a43454a3f42ed7a711ae3b00
+FileChecksum: MD5: e658e4cc1d9aea8d0869879738f3ee00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/src/__init__.py
+SPDXID: SPDXRef-item6577333
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/.github/workflows/python-publish.yml
+SPDXID: SPDXRef-item6577336
+FileChecksum: SHA1: b0cab46195ca93059c5bcc9f090abba70b446f3e
+FileChecksum: SHA256: a9e752e2ec2436b79c8596e1fe1624dda516fd56e47ffb1e5b7c14ae3648803b
+FileChecksum: MD5: d868d5e507464a6601ec0e30a90ed10e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/examples/operator_example.ipynb
+SPDXID: SPDXRef-item6577338
+FileChecksum: SHA1: 14dc9155d6d70170c2c1957c3965023894a2b3f5
+FileChecksum: SHA256: 5c4c784009892e849665ecd7ab05cefcaace0d07e82e2e2b90d13967056a388b
+FileChecksum: MD5: a60559634730760ceeb946a78707b540
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/examples/example_rscript.R
+SPDXID: SPDXRef-item6577339
+FileChecksum: SHA1: 1c8ebbb63cb51ee231f49841dec69db2cb9b5d10
+FileChecksum: SHA256: ea03589125671598a43ddbfee0d66b098cb02807f93681daf2f93257d9884447
+FileChecksum: MD5: 8350953c04b3bcdb663cba3a64cd4b1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/examples/operator_example.py
+SPDXID: SPDXRef-item6577340
+FileChecksum: SHA1: 216deb1f31ad197521d9f8de7f1126c625b33fbc
+FileChecksum: SHA256: f4c0ad2f15f07dba2e18bac4c58fcb0d3376fb3856eb00811c89fe7cb25687e5
+FileChecksum: MD5: 413b43045d204dea7ee8ca67e3b1e18a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/examples/pipeline_example.py
+SPDXID: SPDXRef-item6577341
+FileChecksum: SHA1: d473910420e4bc2e23e1d14893e9e3d7b74cf69e
+FileChecksum: SHA256: 8780aff2002ba0990a98b22fda5e1590d2059d1094075f80c649fc1f928cea79
+FileChecksum: MD5: fef1259401137c2670e3fcc5001e19ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/.gitignore
+SPDXID: SPDXRef-item6577342
+FileChecksum: SHA1: d3140e10f9e529d64d0441d80990637573d221e2
+FileChecksum: SHA256: fab8b1a64c0b0db725054445d06f15ec32d981ccdbcbb14a409ee9407b627941
+FileChecksum: MD5: 38231581b3790c851697bed388cc29c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/c3/GettingStarted.md
+SPDXID: SPDXRef-item6577344
+FileChecksum: SHA1: 33e618f738d5758ca1b393ef3d7804413aee4301
+FileChecksum: SHA256: 60a24e0007c0a28b227f83066af628d28f4330e630c3c6c18eb27cacb5b3f3ba
+FileChecksum: MD5: f4825ad6c921c4c3b33db83eb5288cf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Non-commercial
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/boilerplate/operators/example_operator.yaml
+SPDXID: SPDXRef-item6577349
+FileChecksum: SHA1: cd20cfd41a6516c2e6e79879725cd07bc34cb058
+FileChecksum: SHA256: 3539d292b8af7b178678215bd6ea936ad8dfdb50b9922f2b3b2e03137177841a
+FileChecksum: MD5: ac58148205fe2bb70c9b7889966f2dd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/boilerplate/operators/example_operator.job.yaml
+SPDXID: SPDXRef-item6577350
+FileChecksum: SHA1: 0746a22f383fb9085912dba94d38aade8a767d36
+FileChecksum: SHA256: b53dd614c6840266a1e932c284b2b8af6988a08f6b9e5e144d6d029db8e97148
+FileChecksum: MD5: 598eb85d7ad32e8302e30e6de0e937f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/boilerplate/operators/example_operator.py
+SPDXID: SPDXRef-item6577351
+FileChecksum: SHA1: e762b11e1d1b44093dc72db88e265e00e6259088
+FileChecksum: SHA256: 3b22a52c95f62a87a3c08f3058d857db2ed425a07a3aed0c5b87e75a5ddca731
+FileChecksum: MD5: 57788f87c27e4d654b93e12b7ec77d10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/boilerplate/operators/example_operator.cwl
+SPDXID: SPDXRef-item6577352
+FileChecksum: SHA1: d198a57bb1956f70af5d1584c3ee698ae9767d73
+FileChecksum: SHA256: 34e37c98abf024994cd6f3df72736d9f07cf579a0bffc39367e608ddd44075c4
+FileChecksum: MD5: 573154503e953af492339d730987958d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/boilerplate/workflows/example_workflow.cwl
+SPDXID: SPDXRef-item6577354
+FileChecksum: SHA1: 17950de8cf1cabd95c015238746af922779172b6
+FileChecksum: SHA256: d41e8cc2ba24eccabc290fabcaa95cbba0667c9fe83a02cba642dd158f30d0b9
+FileChecksum: MD5: 957d666d9c87ec61c6faede0f308c7c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/boilerplate/.gitignore
+SPDXID: SPDXRef-item6577355
+FileChecksum: SHA1: f26b232e1292ac4c2470694cd3f0fa80f99c97ce
+FileChecksum: SHA256: 5e2c671ddc9e301dafc241ad1a7c07aa85a91fef560a17721b41977b9eddba17
+FileChecksum: MD5: 83a915b86b03f694b477f01afb8b957e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/boilerplate/README.md
+SPDXID: SPDXRef-item6577356
+FileChecksum: SHA1: f1fd797637b91bb4abc7b5eec02c564420221576
+FileChecksum: SHA256: aa2079c82839ce7057e5f83b5e5f039365115f40dc66163e96b811e9dd2c6e96
+FileChecksum: MD5: 5eff5a28a75db0abc6eec315790fb385
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item6577359
+FileChecksum: SHA1: ccc46105ee727421c624926f9f82db708a13ad5d
+FileChecksum: SHA256: 00f49e4fe2d2ff53a690641c9741181564a82bfebcae4d6c08b9d1c96d68d12a
+FileChecksum: MD5: 54dede0d4c50c59ec1c4327eed622328
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/CODEOWNERS
+SPDXID: SPDXRef-item6577360
+FileChecksum: SHA1: f40e494c86964264cece9d642e2fec871801ff7a
+FileChecksum: SHA256: 179794e7e28e84ab6f5592111c7e1e71671832e3a13ebd2f92766cb93611a9b1
+FileChecksum: MD5: 26f9bd5e060414c76aa25dd7bb9a045f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/operators/dummy/dummy.job.yaml
+SPDXID: SPDXRef-item6577363
+FileChecksum: SHA1: 9560b8dff65f7a40e4b303e4e79a05faa01d833e
+FileChecksum: SHA256: 361bf795abac1aeea5d95fbf2c0299f347d1af0dae77456e99e0f93e7232fd8d
+FileChecksum: MD5: a9c3abd82beb20f236bd4761739f3802
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/operators/dummy/dummy.yaml
+SPDXID: SPDXRef-item6577364
+FileChecksum: SHA1: 17e2de1708dc34afbf21f47275fa857327ef02aa
+FileChecksum: SHA256: a7379c8d9cf8e75ac2e9d368b1c8b11304e51cf21069f39821659f8421347f69
+FileChecksum: MD5: adefe235ee5d6514ecb3f85d1b617539
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/operators/dummy/dummy.cfg
+SPDXID: SPDXRef-item6577365
+FileChecksum: SHA1: a21af579383efffc18796284b2304ea7e5b7ed26
+FileChecksum: SHA256: 21da130a40bfa682cf7915881bd255d68ef161107a4c2cd08b0431b35bb2bba0
+FileChecksum: MD5: ce0a5cc74093d617a955550adf140054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/operators/dummy/dummy.py
+SPDXID: SPDXRef-item6577366
+FileChecksum: SHA1: 8d664567ec1870198fd14aa2778f83be45c1ff4e
+FileChecksum: SHA256: 73979b2b260cf6250757f3e8b6f2c2b4ddeb9dd834cd4e23186071a4442f5605
+FileChecksum: MD5: 6a6a23f3c9e5df6a76a0c91de703b902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item6577370
+FileChecksum: SHA1: 832165bcdd836e71782b4b43caba8f329fea9bd1
+FileChecksum: SHA256: 345938fcb52ecebd8a44565d12551bd902b9294f117318fb1d9f667ab2310f7e
+FileChecksum: MD5: e5802c9a6870516aa27eb0ebd90702a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/.github/ISSUE_TEMPLATE/issue-report.md
+SPDXID: SPDXRef-item6577371
+FileChecksum: SHA1: 351a410893e887292dff5438f67d963ffbea08a5
+FileChecksum: SHA256: b2eca695db363b897d71ad3b532b91cb78354db7abeecb5ac45765a3172d4e8d
+FileChecksum: MD5: ba5e40e895a1525550d97fa7dd7d2cd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/.github/ISSUE_TEMPLATE/-report-a-vulnerability-.md
+SPDXID: SPDXRef-item6577372
+FileChecksum: SHA1: 9198c80c0611eee836650f99d8e89e5ac7720fbe
+FileChecksum: SHA256: f4ce9b7e5d97baf4ced280f642cb755123bceeffe25d571a55bffbb3fd18cdaa
+FileChecksum: MD5: 6888e73d157295b92ec34359f39da763
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/.github/build_operators_commits.txt
+SPDXID: SPDXRef-item6577374
+FileChecksum: SHA1: ee4377215678941ff5fa5a4d91eccc297b9861d2
+FileChecksum: SHA256: a732fd4153081132ab4af964fad45fb67bdfba802c4d9f7bc8813e4319c3cd38
+FileChecksum: MD5: 0463406993c1655bd29c56339e48cef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/.github/workflows/build_push_container_image.yaml
+SPDXID: SPDXRef-item6577376
+FileChecksum: SHA1: 166dc55d6b72050de485293087ee66cc61e75ba7
+FileChecksum: SHA256: 8580fad0a3099e37f89a44c591990a18411123e448d56631f434317a6111c0dd
+FileChecksum: MD5: f0b51899d5a106c7101521340af0bdf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/.github/workflows/build_operators.yaml
+SPDXID: SPDXRef-item6577377
+FileChecksum: SHA1: 0a55afc7771e006b754a5e9055ccc0c5883f8627
+FileChecksum: SHA256: 51e975aec112d3a361581cb4e2aeb62b2bb920b6079fb0b88a0fa5486c07979f
+FileChecksum: MD5: 075b7d3ff58e6479dfc7807d0799d62d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/.github/workflows/pylint.yml
+SPDXID: SPDXRef-item6577378
+FileChecksum: SHA1: 03ad96fe1a30690c67c076363f3e2424929488a6
+FileChecksum: SHA256: d44dab202373ec09d191600a3711d183d9716d3f615a2d9004cee1e0991ddad3
+FileChecksum: MD5: 21e502e4b36b27df97f2550e728daada
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/.github/workflows/python-app.yml
+SPDXID: SPDXRef-item6577379
+FileChecksum: SHA1: 75f997c39501f900638250592d8df2a2e6e5a30c
+FileChecksum: SHA256: 2c4d3de9b82e9407573bce24eb9fabead66f697fb49eb51370d6580e2fbbdffa
+FileChecksum: MD5: 4f4799736ccc0e1724d7da289c85a775
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/.github/workflows/integration-test.yml
+SPDXID: SPDXRef-item6577380
+FileChecksum: SHA1: d9b4e252357a64d046f59262b128ea4b305fd02a
+FileChecksum: SHA256: 08781bf524667c1ffb971ed36e0bf63d481eb22401215aff711329442c6d2da9
+FileChecksum: MD5: 480f9103eedd80dec9c74a8e11067bc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/.github/build_operators.sh
+SPDXID: SPDXRef-item6577381
+FileChecksum: SHA1: c26abac4814747bfe7f793d1f48d6f65d12ae595
+FileChecksum: SHA256: cca1f75cf0a5a87cea576439d76a54fc97ea6cb0ef2eaa423f78be40205d6da3
+FileChecksum: MD5: c188e33f239bf398a7466d5e9704dfe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/FAQ.md
+SPDXID: SPDXRef-item6577382
+FileChecksum: SHA1: 0b128e2d956de7acb1ae7100025cdbd403d7d535
+FileChecksum: SHA256: 774c24d081378f08b3e6fb8feb876f401b4aa992c67c301f5735c1780af1bee2
+FileChecksum: MD5: 79db10720830996128b3133afd2f4dae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-IBM-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/test_requirements.txt
+SPDXID: SPDXRef-item6577383
+FileChecksum: SHA1: f71554d49a1a39c0a4220d467d2eedb41ef0795f
+FileChecksum: SHA256: 04ead89b34ebe83fff1d2d62acac2a787701c8cefd60c8521d332bd96f36d728
+FileChecksum: MD5: edd4dcfd76de33b0cc62e90e51593732
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/.gitignore
+SPDXID: SPDXRef-item6577384
+FileChecksum: SHA1: d5bf6c7698d2c6e0858a258575e047c5aea5931c
+FileChecksum: SHA256: baded7f96d1a4691074136a6bed79d0946946c9363f980e1004446bd73dcf177
+FileChecksum: MD5: 3607adacb1fce00752246acd526e99f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/CHANGELOG.md
+SPDXID: SPDXRef-item6577385
+FileChecksum: SHA1: c31802d09b107f6efb8772ac082c94836f97e580
+FileChecksum: SHA256: 60010480897f80ef6f34c857369f8f53feed992a80ce4c69f6c1f402c909ccbf
+FileChecksum: MD5: 887c7a3c6a99d8ed1a030d3b6ff02a75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/SUPPORT.md
+SPDXID: SPDXRef-item6577386
+FileChecksum: SHA1: 90fc1b900e315083bf06c6df8c9a20fb8c3aa101
+FileChecksum: SHA256: 9381b6b84e18ddd94308b3bf161abfa23bd8b5f444c6de7295500869460264a2
+FileChecksum: MD5: 24b64833fe98bf1118c53984d24928e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/generic-notebook-runner.ipynb
+SPDXID: SPDXRef-item6577388
+FileChecksum: SHA1: efa121f1215b81b2c19d5d9d7e3b3fc0c6d03f7f
+FileChecksum: SHA256: 408c73c2a34ac155f66a0a194624251ef3d6820a8321ac6afdbe71cc7305d887
+FileChecksum: MD5: 2a00499503dccc854fd357a913087633
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/segment-anything/get-masks.ipynb
+SPDXID: SPDXRef-item6577390
+FileChecksum: SHA1: f12e92fa7723514c3fb7e148dbb6f0914b7a0b84
+FileChecksum: SHA256: 2bf9fbaa5415a6d75e2f79223f92d306ba7593d32bbf9e80f98199a7c7139236
+FileChecksum: MD5: 6ec3bbdf7728c5cd1a34baeb7522a04e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/segment-anything/generate-masks.ipynb
+SPDXID: SPDXRef-item6577391
+FileChecksum: SHA1: f7ef1e7678936df3d7aac5a3d73ac9a01dca773d
+FileChecksum: SHA256: 14ecf773e26bd93493ff6ba73736d9764f61a80e535d59cb39d2d5d65409f251
+FileChecksum: MD5: abe145b5899dee032a2efeb5ed96a495
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/segment-anything/generate-masks.yaml
+SPDXID: SPDXRef-item6577392
+FileChecksum: SHA1: 91dc09cd621f7baf3b2e6ddc394d87042c4fc707
+FileChecksum: SHA256: 1cc6ebae92935abedd1643b723f034037acee85435b01715497608ca2abb07a2
+FileChecksum: MD5: 71d7f7c57fb3e5de1a8493c39caf5b58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/segment-anything/get-masks.yaml
+SPDXID: SPDXRef-item6577393
+FileChecksum: SHA1: 038d0ec1b3f9c100274a742ed0e547aa2e619898
+FileChecksum: SHA256: 77cc6051b73d56cd0fd2005bde5b208fe02c6834ce724960a7f19fa0d38df659
+FileChecksum: MD5: 49fe5d2056612a5686492aa85947d4c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/geo/gdal.ipynb
+SPDXID: SPDXRef-item6577395
+FileChecksum: SHA1: 781e579d12fe54c2eba5ffc055d349c759ca8cb4
+FileChecksum: SHA256: e1b005f0af58e1bd088d8e4b3eb94580d9b2e1017318f23d63c794a3a2542ced
+FileChecksum: MD5: 486709eb20842baf0a0c0c9b04120ade
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/claimed_utils.py
+SPDXID: SPDXRef-item6577396
+FileChecksum: SHA1: a384df2f6e3b8cb5b77d88a1d68ef3af95bf2bf8
+FileChecksum: SHA256: 5a94e9b11ce600d762460e0b79ad4e6e0e17eb03cba8f29a53ac43a8ed00d524
+FileChecksum: MD5: d092894fd308a5f405bf94dd2c3df29e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/train/train-mobilenet_v2.yaml
+SPDXID: SPDXRef-item6577398
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/train/nvflare.ipynb
+SPDXID: SPDXRef-item6577399
+FileChecksum: SHA1: b5bcb327e6fe6812319aa9e82d12a9601c57992d
+FileChecksum: SHA256: 0e91d3b6da2600e84645640508d49ae949e9ce0937ae0e1d431c98f2a3e9c959
+FileChecksum: MD5: 3dd8695bc60e59925a5cd5ec0b62610a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/train/train-mobilenet_v2.ipynb
+SPDXID: SPDXRef-item6577400
+FileChecksum: SHA1: 17437b6846abe4eb3584b123e80a2e57755dff92
+FileChecksum: SHA256: 275b2e1867302da1fbc1255f313e652620e3762dc33b607327985ec46f88e460
+FileChecksum: MD5: d6bab1adf0af7c7c89e518dd3c5641de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/train/spark-train-lr.yaml
+SPDXID: SPDXRef-item6577401
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/train/spark-train-lr.ipynb
+SPDXID: SPDXRef-item6577402
+FileChecksum: SHA1: 4d62692ab743758f34faae057ab73889e2fe943e
+FileChecksum: SHA256: b0c75324cf4d7efd58fdb889cfc8477d4c786a5c3240fdfe598c82309891e12f
+FileChecksum: MD5: 068a431c1013e0f3923daa6b1d900b47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/output/upload-to-cos.yaml
+SPDXID: SPDXRef-item6577405
+FileChecksum: SHA1: b7032582f27dec27a7041713ad0c31153ecf2cdd
+FileChecksum: SHA256: 9473009c43159701236fd785bafb1635fd4d7b688c64cc70dfe31ef0081015c8
+FileChecksum: MD5: fc30c75bbf432068521fa68e4853b5fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/output/upload-to-cos-http-adapter.ipynb
+SPDXID: SPDXRef-item6577406
+FileChecksum: SHA1: 90c2461834b954f609b0fbc563a010032c804d12
+FileChecksum: SHA256: 5a35519fdd390043583fa1926e93f708bbf70bcb7e3d20ccfaed3a861b6c29d1
+FileChecksum: MD5: ecfc145b4a3b0d2a1f9a9102aae7efd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/output/output-rdbms-sqlalchemy.yaml
+SPDXID: SPDXRef-item6577407
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/output/output-rdbms-sqlalchemy.ipynb
+SPDXID: SPDXRef-item6577408
+FileChecksum: SHA1: e74fb923dba958cf1553a6db67ea01a3cd3806a8
+FileChecksum: SHA256: 481271b9fb4147b2981ee041d0fb18eabf366b324681454ac2bd7265550efaaa
+FileChecksum: MD5: 7a99d931f0fad900ed28f9c0f0d9e63d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/output/upload-to-cos.ipynb
+SPDXID: SPDXRef-item6577409
+FileChecksum: SHA1: 83b822d9f136af4a167acc614ff2c20ac9b9eedf
+FileChecksum: SHA256: 71bac894cfc3992ec5d5ec8c22a97592d13657d620251625ff0d35613bd362d7
+FileChecksum: MD5: 4cb03c33c6d403baa32acbae7ebabea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/output/output-elastic.ipynb
+SPDXID: SPDXRef-item6577410
+FileChecksum: SHA1: c8465186e94fcc871d4e8d2fa52acb92682ec309
+FileChecksum: SHA256: 4e5d6ea39f08dadb1d038d39285d0c9af514b6e62516d389c31de5c9ebdc1e7a
+FileChecksum: MD5: bd20d15f58f076ad686e54c003f5aaf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/sim/wrf.ipynb
+SPDXID: SPDXRef-item6577412
+FileChecksum: SHA1: 275768aec2c08abb8aae485f9abedba4cd017408
+FileChecksum: SHA256: ca115d3577bde328298777782ee2ad7bc098d492862d6d2534e6f21ba265b8a6
+FileChecksum: MD5: 599cfa05aec95ad2040f24da0c031fe9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/sim/wrf.yaml
+SPDXID: SPDXRef-item6577413
+FileChecksum: SHA1: 2defe34bd3bf20f08605a59a48400df68db4db0b
+FileChecksum: SHA256: ff6e2866f54e92544949432b210fa1b230182af0da9a3a69fca666c243e5c215
+FileChecksum: MD5: e224e2ebc4b2c294ea5f5ea3d4851116
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/util/cgw-util-cos-sync.ipynb
+SPDXID: SPDXRef-item6577415
+FileChecksum: SHA1: a6c79a845edfe31f31055e10c4fa5768a9093278
+FileChecksum: SHA256: ac5b819771ed2b7aaca11370afeed8eb3ac22c217bb83752e44ba8a4b07f001d
+FileChecksum: MD5: 43355d4b2759d5fa00edeb44e7c658b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/util/sparksql-interactive.ipynb
+SPDXID: SPDXRef-item6577416
+FileChecksum: SHA1: 823ce3272efa55d316ee73d23ba4d9e18d949108
+FileChecksum: SHA256: b89b95df76f7ffd47ca201b4a4c06826bbbc777c326364c337bb8440737b80d3
+FileChecksum: MD5: 281a954ef8208f313789b0f0f9a00794
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/util/util-cos.job.yaml
+SPDXID: SPDXRef-item6577417
+FileChecksum: SHA1: fb9b19019f76782a7b2f06ab158a298540913e8c
+FileChecksum: SHA256: 6ab34443e33eb7ca76836c7fe1c529439b60a0187d131faa22e1d4e79e384196
+FileChecksum: MD5: 0bd58d17438d9caf6bd15e5efa65b2f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/util/util-cos.yaml
+SPDXID: SPDXRef-item6577418
+FileChecksum: SHA1: 0944fd33dd28d7a731b5c3fd1f4d18f2a033ea3b
+FileChecksum: SHA256: d40708a5c5118c6cab100c1bd6311f4762280ee140a808044f47476b131c71f1
+FileChecksum: MD5: f9c70b1196e77489ab3089a01d202cf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/util/util-cos.ipynb
+SPDXID: SPDXRef-item6577419
+FileChecksum: SHA1: a58ac28c07caf23739e870e1074f0f0efb7f18ba
+FileChecksum: SHA256: 772d42da040d3a96ade3f6ddcbc3f041e0379ab91fd593038904ef547e1d3f50
+FileChecksum: MD5: 41b1edb4550b5c0f33d0dc008b31b5c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/deploy/deploy_wml_pmml.ipynb
+SPDXID: SPDXRef-item6577421
+FileChecksum: SHA1: 79c95a3b18b8acf21f7ae5714c03044b818716f3
+FileChecksum: SHA256: 2035c826809dae154fa2fd34a8817062e60c33a5e275bc71d83ef6e239475166
+FileChecksum: MD5: 91158d1337de4d22b42c45a6b0995930
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-IBM-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/deploy/deploy-kfserving.ipynb
+SPDXID: SPDXRef-item6577422
+FileChecksum: SHA1: 59d67b930301d1dadadc980f98a77e7c42096806
+FileChecksum: SHA256: 4e36597fbea7dfe094ca09e3374bf86fb4cf0da3a1f1e2042176396705987e76
+FileChecksum: MD5: a14ddd62918a8db0c18e6ddb73070a0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/deploy/condition-blessing.yaml
+SPDXID: SPDXRef-item6577423
+FileChecksum: SHA1: 18f836a593182ff5fa168f34eae261768311adb2
+FileChecksum: SHA256: b90653a6c197ec9a4c28474bc81f7b7e3a49c8faf67334e12b2f112ac67f9938
+FileChecksum: MD5: c3f9cfa2916bfd86d5ae83f15c09341b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/deploy/deploy_watson_machine_learning.ipynb
+SPDXID: SPDXRef-item6577424
+FileChecksum: SHA1: 931a10e66858b5d18a51bb5b43fdb996600372de
+FileChecksum: SHA256: 23e7a001b34b29059797b5494f93fac80a6fa84ead4e9a189f1cb6eda3d8bfd9
+FileChecksum: MD5: ac0e6f4989a4fa3d88903341354755c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-IBM-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/deploy/deploy_watson_machine_learning.yaml
+SPDXID: SPDXRef-item6577425
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/deploy/deploy_wml_pmml.yaml
+SPDXID: SPDXRef-item6577427
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/deploy/condition-blessing.ipynb
+SPDXID: SPDXRef-item6577428
+FileChecksum: SHA1: 2d9d9025ddb031ac20dd4dee3257efba1e8c5c58
+FileChecksum: SHA256: 76f8e98bf46bfb8aa84b872ae9e77e9a5b3e878ea895bef2029d273c70139041
+FileChecksum: MD5: 3457f6a4b1dce39e420fbf1a84295d86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/metric/metric-aix360-lime.yaml
+SPDXID: SPDXRef-item6577430
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/metric/metric-confusion-matrix.yaml
+SPDXID: SPDXRef-item6577431
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/metric/metric-aif360.yaml
+SPDXID: SPDXRef-item6577432
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/metric/metric-aix360-lime.ipynb
+SPDXID: SPDXRef-item6577433
+FileChecksum: SHA1: fb61485e9bd69a85b7e4e6359d6edef91ee71705
+FileChecksum: SHA256: dcb11e39c6573639c4c965bb5463c6ef3994de58bcf7090728a651a2ac7101a6
+FileChecksum: MD5: 32db36f4ab70216d7d1ad1077fa47147
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/metric/metric-aif360.ipynb
+SPDXID: SPDXRef-item6577434
+FileChecksum: SHA1: 486244701fe2832b6f67cc133bebfc4dbe8a31a0
+FileChecksum: SHA256: d5ed242e58ef5bf7c5594d3074c3e8edb1e6a6a7a7ad50cfc3dec085317c5246
+FileChecksum: MD5: 6c967c53e28053b0990f77bedafe6e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/metric/metric-confusion-matrix.ipynb
+SPDXID: SPDXRef-item6577436
+FileChecksum: SHA1: 7fee3e638abd1f2487654e0747e074125287b511
+FileChecksum: SHA256: 7cee007fa1e4cb6b1813b87adac0fe9a6ff1b5d463f68727ed12dc9adee0cd1d
+FileChecksum: MD5: e1648218ea3e10eacd35cfa87d9090ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-covid-chestxray.ipynb
+SPDXID: SPDXRef-item6577438
+FileChecksum: SHA1: 158c2e1c6055ffb0d492bb1a30c6b1939e0cbb51
+FileChecksum: SHA256: 0bdf10ef938dffb81b82b9df0d13a38b73bb38682fe927da45b1c8ac0f338281
+FileChecksum: MD5: 3c56924810e66c9f06755f0e5541d0ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-cos-zarr.ipynb
+SPDXID: SPDXRef-item6577439
+FileChecksum: SHA1: a1dea8615f8957ac1464d3e74e0fcab83a9074ec
+FileChecksum: SHA256: d491c3eca6aaf6a3763e0f566bf559f8e795293bcc14c0c063e5be3ee5d82e51
+FileChecksum: MD5: ac41297546abff698ed90b41efde5bd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-climate-copernicus.ipynb
+SPDXID: SPDXRef-item6577440
+FileChecksum: SHA1: 140fc0e24fc487bbe2393c2d1820ed85c0b59917
+FileChecksum: SHA256: 3a20364e661ef85b7f18c8cf0075899bdd5879b19875799c3a091f5e880a1e67
+FileChecksum: MD5: 7b9d3520d567f9d960052d79f9147445
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-codenet-LangClass.ipynb
+SPDXID: SPDXRef-item6577441
+FileChecksum: SHA1: bdde9e62d778cd632f6c505d8aac9a3a63aefcb0
+FileChecksum: SHA256: ef4c8138ed123d6f809650c0935f3ccc4b85a18ae07c2197583e512b20ac8926
+FileChecksum: MD5: 6a2f9198b7918783833f3121c396c0c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/ls-cos.ipynb
+SPDXID: SPDXRef-item6577442
+FileChecksum: SHA1: 1dd28d70e5c08e226fc37e19af1af0abc74edaa6
+FileChecksum: SHA256: 855e1454eb26ee690454c24b17cbd0fcd8dd7d1b3f951022d8d848618428de0b
+FileChecksum: MD5: 2d71a0f581e427b1e785105987bec192
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-hmp.yaml
+SPDXID: SPDXRef-item6577443
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-codenet-LangClass.yaml
+SPDXID: SPDXRef-item6577444
+FileChecksum: SHA1: 63eae29d6177d9cf3a515efb2c3613cbcf06ff9a
+FileChecksum: SHA256: 6cdef9de8a9d8058f2720ea9f8bce36143e248c100a43e3b1bd027b568dcb47d
+FileChecksum: MD5: acdfcda2f617882fc7acedbc193e1ac2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-covid-chestxray.yaml
+SPDXID: SPDXRef-item6577445
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-mqtt.ipynb
+SPDXID: SPDXRef-item6577446
+FileChecksum: SHA1: 451301d8917fd1f3419cdc706ee60ba2be421398
+FileChecksum: SHA256: e656f8ef59c55632a3d19ce189b56de94abae197e336c71e8acbe03504bafb58
+FileChecksum: MD5: fc210c083d3624e87fca8f43e577e67e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-rki-covid19-deaths.ipynb
+SPDXID: SPDXRef-item6577447
+FileChecksum: SHA1: 1a8fe867df0b20920384194902fca628aed80a82
+FileChecksum: SHA256: 34ed02f2efdfc815f1a4438a4090a13a41a7856afeaf74e8269419c6027ceebf
+FileChecksum: MD5: 1a6d606343120385393e100845985f01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-url.yaml
+SPDXID: SPDXRef-item6577448
+FileChecksum: SHA1: 6382eeb801d06cacc6fd76ce520cdae52c44443e
+FileChecksum: SHA256: fc95d0949a57de14037cffc7b7b0447bc879ad1f6f48d0f51d4946d70c360d02
+FileChecksum: MD5: ac67d4410e8b1f74b2e2fabd033aaaac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-from-mongodb.ipynb
+SPDXID: SPDXRef-item6577449
+FileChecksum: SHA1: 0b031d2835794ef31e62ebc67a817483ad6bf56f
+FileChecksum: SHA256: 00f81eb4d563257ef9315eb9ac6d0319a211c6c4d936c0de82b2ec836aab44ec
+FileChecksum: MD5: e386b92f26c008da45bee8f5ea019d57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-webcam.ipynb
+SPDXID: SPDXRef-item6577450
+FileChecksum: SHA1: c17dc37c34be3815bc33d9e7ab28f53c04348024
+FileChecksum: SHA256: 47088b6d4fb7af2f55c5d34fd1d948c29f0ff0d5d061279b5bada3d421c03879
+FileChecksum: MD5: fed57aa81d94085208ce95312c674384
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-postgresql.yaml
+SPDXID: SPDXRef-item6577451
+FileChecksum: SHA1: d21c513327f556434a85be7d098f95164dd95c72
+FileChecksum: SHA256: 31a7ede5af6264e7524ea5390f3077226473adb41e26f3941f522ded1cccba36
+FileChecksum: MD5: 743adaf18aac5a55a99f171830316c4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-postgresql.ipynb
+SPDXID: SPDXRef-item6577453
+FileChecksum: SHA1: 81febb85aa525454bfd8394e3e4be226de08b9b8
+FileChecksum: SHA256: b12706c5592c06463e6a88a9b2a7f4286e34ade63c0d1f1c3d1cff9320a065d8
+FileChecksum: MD5: 4d53a1cd35ad266378638d9fd72fed6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-hmp.ipynb
+SPDXID: SPDXRef-item6577454
+FileChecksum: SHA1: 27a72a7dc32bbbf8a5a1942af886e2eed027241f
+FileChecksum: SHA256: 8a2476f11024f9d65e25d88a8910d971acd8e641f00e69b33980bb9a1ad5d1aa
+FileChecksum: MD5: 3d950a8b48a967ca9f0ab7d7e8f65b80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-pei.ipynb
+SPDXID: SPDXRef-item6577455
+FileChecksum: SHA1: fe9422e8bb9882003502143c046ecea6a535bd35
+FileChecksum: SHA256: 8a29ba9177bd3db4f7a6c421329d2a0e4f9f6bd844fc1ea86b17744b9a0c87ce
+FileChecksum: MD5: 2c3650700845769a3a60e77579e685a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-swissmedic.ipynb
+SPDXID: SPDXRef-item6577456
+FileChecksum: SHA1: e14784f7a478b48703ed54a2b54870c4201a011b
+FileChecksum: SHA256: a500e5049d70a0e86b84dad072812b9512aa0810e4ea55615a56303e76163ea8
+FileChecksum: MD5: 8dcc932e968a20a759b4821084533ddb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-pardata.ipynb
+SPDXID: SPDXRef-item6577457
+FileChecksum: SHA1: 0c7897cc8d8494d346714970b54ab6f360cb58fe
+FileChecksum: SHA256: 78dec6b8415276878550bb555d72c9dd1cfd71e50a7fa3452f6bfb8360d2f4f7
+FileChecksum: MD5: 371c2ef4962e20cb442c5863b78ef30d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-climate-copernicus.yaml
+SPDXID: SPDXRef-item6577458
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-url.ipynb
+SPDXID: SPDXRef-item6577459
+FileChecksum: SHA1: 0b2c111cd3a3e38c7d193ebcb22b6fef01200abe
+FileChecksum: SHA256: c1552fdc4e2d0e619bb7631caab0574fb689ebd12a06a0913159fd3d0775a534
+FileChecksum: MD5: a9a6ebce741425c0b6fd85cd10afe92c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/input/input-pardata.yaml
+SPDXID: SPDXRef-item6577460
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/checkpoint/pull_asset.yaml
+SPDXID: SPDXRef-item6577462
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/checkpoint/store_asset.ipynb
+SPDXID: SPDXRef-item6577463
+FileChecksum: SHA1: 5e96ef5c898f6b01bf61bd52d08adbe057a61378
+FileChecksum: SHA256: de2c9e1e72335602bd9b665464cb8f3e49ea1e7b51064bb904b4a08f8988f44d
+FileChecksum: MD5: 0a0225048ee8b7f3d3e081d60e9780c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/checkpoint/store_asset.yaml
+SPDXID: SPDXRef-item6577464
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/checkpoint/pull_asset.ipynb
+SPDXID: SPDXRef-item6577465
+FileChecksum: SHA1: d863463b7d24b5fa78eefe97f94d55b796359b09
+FileChecksum: SHA256: dd6118d974e1c536a88210c85c4663d2c6eea2855eb31eb45ab9f3f99a1183ae
+FileChecksum: MD5: fa24fdb23b22b4643958ccbd5e0d2389
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/transform-images.yaml
+SPDXID: SPDXRef-item6577467
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/ibm-sql-query-cpd.ipynb
+SPDXID: SPDXRef-item6577468
+FileChecksum: SHA1: 88ca79c1fdcb32cf3f2ff44158fee7f9e0ad1e6d
+FileChecksum: SHA256: 3a33f69b3904b9383c2166d1326da355b5d4bcfb0d25950e5d8e7bbcd8d3bfad
+FileChecksum: MD5: ca163df2322387b7a9e09139579f9172
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-sql-interactive/app.py
+SPDXID: SPDXRef-item6577470
+FileChecksum: SHA1: f31110b900679d5d1b7d8a0c6e9042f8d3564b80
+FileChecksum: SHA256: bfbec66f32169b1ed1dda79358bf99a7205690aa28bf75f259dce456b4f2453b
+FileChecksum: MD5: 055e5b3935c8402bd3acac8a6ddc3aa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-sql-interactive/Dockerfile
+SPDXID: SPDXRef-item6577471
+FileChecksum: SHA1: c80e7a989e2bd17269e3613159e7710cfdeda2cd
+FileChecksum: SHA256: ddea8ab579408f738f16059e0390bbc620a211dcb9943f26e549570ca25b3c55
+FileChecksum: MD5: 27c2b37e39d9cc11a79c68b831a3ac06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-sql-interactive/build.sh
+SPDXID: SPDXRef-item6577472
+FileChecksum: SHA1: 32a334b314650ebac696cd8f966f17c498ca26d8
+FileChecksum: SHA256: 516aa75a6ff7918a906330a2b26ce9d921f669b795a21f3335967d133d75780c
+FileChecksum: MD5: 0810f53a1b3a0e7bad62057d5aa4d582
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-sql-interactive.ipynb
+SPDXID: SPDXRef-item6577473
+FileChecksum: SHA1: 7c6907dfa43eb0814e17d14f51de347e1197370e
+FileChecksum: SHA256: e0cc0ff1dc42ffe759ba46020391b25a39e1ec95673ee8d9c53c14cdc97767c5
+FileChecksum: MD5: 92db4bfdf6da5c067788ca40f2d29b81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Apache-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-condense-parquet.yaml
+SPDXID: SPDXRef-item6577474
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/ibm-sql-query-cpd.yaml
+SPDXID: SPDXRef-item6577475
+FileChecksum: SHA1: 364ee0376a8a60f3141bf7970f33cd7a2e117041
+FileChecksum: SHA256: ec66f3fb864c69be3285f992808c6df8afd63edab3babc173c3d1ac5da9bac9f
+FileChecksum: MD5: 5d6c151f1cea2b0c7469d75a1811e991
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-sql.yaml
+SPDXID: SPDXRef-item6577476
+FileChecksum: SHA1: 465f7060df1f3e075aacd14f78f9c7fe5e6ba311
+FileChecksum: SHA256: fe33502dce503e21517d87125caa99ed988e02afd287cda67f2fb5538137b6dd
+FileChecksum: MD5: f82db396f1a8496fc2bffd4773cce4a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-csv-to-parquet.yaml
+SPDXID: SPDXRef-item6577477
+FileChecksum: SHA1: f4c4450f621e07f7a50c85b44428a113d094e1f4
+FileChecksum: SHA256: 0cef2108252675aafd6c4958f1cd11e77df57b05485ae837d5780d23680c6c51
+FileChecksum: MD5: 80df583193ba7c198671ce1050511811
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/transform-apply.ipynb
+SPDXID: SPDXRef-item6577478
+FileChecksum: SHA1: 1006f51989ca0b69890a3d543ca98ca186fd5441
+FileChecksum: SHA256: 443203590568b8ef3083c7cacff517fe9d55f2e4b8cb655fe3c39f2ec3eba1b8
+FileChecksum: MD5: 1ed68ff50096ea4408a40b08934ddb7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/ibm-sql-query.yaml
+SPDXID: SPDXRef-item6577479
+FileChecksum: SHA1: 3957355a4df2f9745f9374c006440814ec525db8
+FileChecksum: SHA256: 6d35ba2a703a7347361d455f9f937e03078fcc35e87da19f75caf1154253e491
+FileChecksum: MD5: 0187458757fc6c7cac9a69c74114aedb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/ibm-sql-query-cpd-manual.yaml
+SPDXID: SPDXRef-item6577480
+FileChecksum: SHA1: b1ac33f177949d6cdbbe8c420d28cdd7d1b5d3d5
+FileChecksum: SHA256: 1b837189ac29e6c4b2d00bd47ec563de87c213a5ac7150e205a770b5c7b99150
+FileChecksum: MD5: 23789991b04f517b712226dff8bce1d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-parquet-to-csv.ipynb
+SPDXID: SPDXRef-item6577481
+FileChecksum: SHA1: 258d9c65ec8513a9cc6b9478c1924654f57c208d
+FileChecksum: SHA256: b6ebce4b2d31214c40a6147eb8d0f5da0e03452efe27c4ffc6ce5da6c6765f3a
+FileChecksum: MD5: fa6a1048818143ca1bbbe7597c332e9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-condense-parquet.ipynb
+SPDXID: SPDXRef-item6577482
+FileChecksum: SHA1: ca3ea66b27b47a9cddf11ddbfa322045e4c1f8ab
+FileChecksum: SHA256: 40d15be334b5e5ac76998757a34e071ee80347b3bff75d9a96e7c702a8496a88
+FileChecksum: MD5: 248d735c5139e0e638c9b432ad9876aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-csv-to-parquet.ipynb
+SPDXID: SPDXRef-item6577483
+FileChecksum: SHA1: 5095201fc247cb553b3e528285c806b0b6e5fb89
+FileChecksum: SHA256: 01e60b5fe840ff68f90b3f2935019976946d4ee8c06dfe9a65cb7dd3a81b08bc
+FileChecksum: MD5: 3121697f43be39a8c726b9024fd190c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/ibm-sql-query.dockerfile
+SPDXID: SPDXRef-item6577484
+FileChecksum: SHA1: 8b811ca2a0addd7a1a8f7b2348a4c1771937740f
+FileChecksum: SHA256: 03ed95e59333109aea03a938dfa655664a6822b5ff62d48870aacce98d6592ca
+FileChecksum: MD5: df52e3a81a5b160a246b7483efc2d38f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/alchemy-sql-query.ipynb
+SPDXID: SPDXRef-item6577485
+FileChecksum: SHA1: 5289127164b25a903a8ca239b66b3b5b500ab1f8
+FileChecksum: SHA256: dd278b38e796949ce819aeb508986fbfd0619d89214a424912bba3d4686776e3
+FileChecksum: MD5: cd31383bd4da9b28f69f8c917ed6079f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/cloud-object-store-housekeeping.ipynb
+SPDXID: SPDXRef-item6577486
+FileChecksum: SHA1: 0c8d07999ba1a4928bcc5f01ac8172b21d2f4909
+FileChecksum: SHA256: 5eb2985dc8cd142aa3804ed0fc39413501b400fb63beca83b862d7067457fda1
+FileChecksum: MD5: aa1f8d9a07e8e23ee89bcd7db7f18223
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-json-to-parquet.ipynb
+SPDXID: SPDXRef-item6577487
+FileChecksum: SHA1: c3ce0b950b5555580978ec400c04a85465846d9f
+FileChecksum: SHA256: da01ee7b9019f1de557aa705677efe5ebb119b2252d723512043010b0d8a8f60
+FileChecksum: MD5: fdbae8c17d4b66f4f5048dd263b705e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/cpdconfig.yaml
+SPDXID: SPDXRef-item6577488
+FileChecksum: SHA1: 45a7065882a18481dba511ee4b788a5684c0f4ea
+FileChecksum: SHA256: 72a3efebc388f72a585b279b293a8a6f44b015c468b79be532c68b10d91898c6
+FileChecksum: MD5: 08c0364b562bfb45eb7ce2507332718a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/transform-images.ipynb
+SPDXID: SPDXRef-item6577489
+FileChecksum: SHA1: 45ad78ce83384ac1ffccd6f5272c1027f8999cf3
+FileChecksum: SHA256: a802e40346a1716f94e4182d04756522f4899aee601f966f605d203ca96086dd
+FileChecksum: MD5: 81ef3a4911bd0d1946386868e5f6a622
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/ibm-sql-query.config
+SPDXID: SPDXRef-item6577490
+FileChecksum: SHA1: 288ea2fae974a883640fda7064d6dc5f1cbebb98
+FileChecksum: SHA256: fe8171137e8f362cdac924ebce4b6483e21d6b2a373e861ad874416af67ba496
+FileChecksum: MD5: 250aecaa10c8359caaf05ba1a81f2453
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/ibm-sql-query.secrets.template
+SPDXID: SPDXRef-item6577492
+FileChecksum: SHA1: ebeaaf91036bb1b57eedba58b32e7f7a8a6e7cea
+FileChecksum: SHA256: d1bf7c9057e112e2016a4b7588654b0d49e6d1263bd6dda0e874bad402d8f205
+FileChecksum: MD5: 0e67b6d1c43981302b99fb056cab03bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-sql.ipynb
+SPDXID: SPDXRef-item6577493
+FileChecksum: SHA1: 446470c89cb975eb934a8c5f6f4c2bc1b3ccdca1
+FileChecksum: SHA256: 56af3f0277fc83ae15b30f5a8f47bbbb774f9e3831910a1f73741a619e4a26d7
+FileChecksum: MD5: 9f35a761a1c9ac48abbd791ccb0f4836
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/spark-json-to-parquet.yaml
+SPDXID: SPDXRef-item6577494
+FileChecksum: SHA1: 3d1824076e32d94b03759e815ac06d42cbe1d16f
+FileChecksum: SHA256: c36103132bdefcac07a77a558339ab2a3de41a18725aac7f9a5f54e390ac1da2
+FileChecksum: MD5: d3314e322046dee5dfd53ab2b51792e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/ibm-sql-query.ipynb
+SPDXID: SPDXRef-item6577495
+FileChecksum: SHA1: 1c485fc28318a4d87168f1102675aa3f9d2191ea
+FileChecksum: SHA256: 8ada3542b1c21043a852dff30070e37726ae5aaf3c0c5ee7fe32e9f2aa6483bb
+FileChecksum: MD5: 2d1f528abaf0a6ecb491b122dd1b647e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-IBM-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/ibm-sql-query-cpd-test.ipynb
+SPDXID: SPDXRef-item6577496
+FileChecksum: SHA1: 6409e228653b2848b0a2c5758304d1398949ac61
+FileChecksum: SHA256: b26f84319272c74408dba6ff2c18d340166b6d2f91d22a9efa7bef5a7f6afd1c
+FileChecksum: MD5: 0623d50be7844d363c9004e32a6c91b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-IBM-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/transform/ibm-sql-query-test.ipynb
+SPDXID: SPDXRef-item6577497
+FileChecksum: SHA1: 790577ac4c0b60345f6e3070374bca1b3dc6217d
+FileChecksum: SHA256: 14a2d938fbfdf72bc2e6692b3de9b7b495e568f0af4830513bafaca2c236422e
+FileChecksum: MD5: b4b47c3a06e8de3524d6d1a9db0fd811
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-IBM-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/nlp/nlp-classify-text-simple.ipynb
+SPDXID: SPDXRef-item6577499
+FileChecksum: SHA1: b528fe9d790d71cde2a13abcf6c6cea56ac0dc53
+FileChecksum: SHA256: 45813098fc7757c9a5292b5cf300d55d29487da0490ada0b88308a208dda5c37
+FileChecksum: MD5: 9fb6ad224fda97af828fe7d70f4b65aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/nlp/nlp-classify-text-simple.yaml
+SPDXID: SPDXRef-item6577500
+FileChecksum: SHA1: 814b2982737e33fc08c55aa5141411937a8d8b5d
+FileChecksum: SHA256: eb7130059ffa8e058cc0626569d61756d1f6cabc9795838d9335b62b6143753a
+FileChecksum: MD5: ef956c914897aa43e65e357da3954fd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/predict/tvn2.ipynb
+SPDXID: SPDXRef-item6577502
+FileChecksum: SHA1: d23aed7501e2ffd9628738ea795136ca3348e2d9
+FileChecksum: SHA256: e41cbe571b300f8f65ec98d1fbad647379a0e3f53a244ea4e554b820870364a9
+FileChecksum: MD5: ad5256b6eb9853cd213b9b3c0938f142
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/predict/predict-images.ipynb
+SPDXID: SPDXRef-item6577503
+FileChecksum: SHA1: 50a9975191feedfc28d2788e052f8f569c53390a
+FileChecksum: SHA256: 55a15b92bd9860408911c2b3bcce03de366867c6bea948171a4032ac53469542
+FileChecksum: MD5: ce1601a2d826e54e662727bfda95743c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/predict/image-endpoint.ipynb
+SPDXID: SPDXRef-item6577504
+FileChecksum: SHA1: de84d79f5958b65196eda36a2ee60f4cd6e06f0d
+FileChecksum: SHA256: f82d1508fd19f1ef65af633da50a1f63c768b504ba099b4eedb4cacebbce7f42
+FileChecksum: MD5: 0c35cd7b121459a55659d23643538d8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/predict/predict-images.yaml
+SPDXID: SPDXRef-item6577506
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/predict/yolo.ipynb
+SPDXID: SPDXRef-item6577507
+FileChecksum: SHA1: 132e56e1b911bc9ea6230d1f61fcb05b762b9e32
+FileChecksum: SHA256: 70dfc34b649e004a2041948e81b01a4777f79712d7b29604ed80c298452ae301
+FileChecksum: MD5: efe6072cc7594dc3548a85b66db21d58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/predict/image-endpoint-tester.ipynb
+SPDXID: SPDXRef-item6577508
+FileChecksum: SHA1: 852fdcdedd144b9efde348b59412d3501aba0542
+FileChecksum: SHA256: 76f6e4614ff3535d9fd83e42f22f163a248776f28d8195328e04a0e89a568eb4
+FileChecksum: MD5: e5889b2288bb788b28b5d277ffba65fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised/Dockerfile
+SPDXID: SPDXRef-item6577511
+FileChecksum: SHA1: 5b8fadf4f48eb9d09c1da10b2ec541b3605a6396
+FileChecksum: SHA256: c892fda0d186b62266f145f3e40aca2554fcd51890cbe13ca532b5b710eb9a5f
+FileChecksum: MD5: 563fe0ef33a1d8ab762eb15baad1b1cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised/build.sh
+SPDXID: SPDXRef-item6577512
+FileChecksum: SHA1: 3d2041d0c5323376738b32e227e7892861b0626a
+FileChecksum: SHA256: c64dbbaef1581979ca322a1109fbaf411b5cf061a659c9fb864d40a5393be8a6
+FileChecksum: MD5: c9b8a303a41c135517008765e79ea81b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised/watsoniotp.healthy.phase_aligned.pickle
+SPDXID: SPDXRef-item6577513
+FileChecksum: SHA1: f7f2a3bb0fd6d6fd84d08c515c5ba96cf4c6ad8b
+FileChecksum: SHA256: 70e2f742ada96126ea2e59bbd02efd42230a9268b5443eda421156cfe6c2a49b
+FileChecksum: MD5: 581be306acf592571d2d70f5c7641044
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised/dapr/start_sidecar.sh
+SPDXID: SPDXRef-item6577515
+FileChecksum: SHA1: 31f9dea40bc2de64730415859e37a840ede13a7b
+FileChecksum: SHA256: 90a9667bc59eb02631300469ca00158e523f2844ffa01f58673266cc66ffd89f
+FileChecksum: MD5: 1a630dabfdf6bad92d870b9e1771ad14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised/dapr/statestore.yaml
+SPDXID: SPDXRef-item6577516
+FileChecksum: SHA1: af12c9f7c6156a7d790c4a1cf5545d543ee15a02
+FileChecksum: SHA256: fa07b107f0881cdc6ec238175bad23867da75b00498f7aa0667126f8ad863bb4
+FileChecksum: MD5: 828fbe41764e6bb5585c751412e52b52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised/dapr/publish_event.sh
+SPDXID: SPDXRef-item6577517
+FileChecksum: SHA1: 71b7adb18fa569934c21353e7fe2238e9b373c3c
+FileChecksum: SHA256: d591b679a8e72a6896742b30e6fe57a54a73953b7c9c1071852b54944c0e00f8
+FileChecksum: MD5: 1a36fbc92ac2442a0da075869cef5f5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised/dapr/start_subscriber.sh
+SPDXID: SPDXRef-item6577518
+FileChecksum: SHA1: d52e656b5339fd8c23acca83ecdadfb1ebc16ba0
+FileChecksum: SHA256: 22419682c1e80c56824567b1c8cbfc6cff7bfe8a5d68cee05cb6f620d931dda8
+FileChecksum: MD5: ba4cf86d0813b0d7e250a91af5420d93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised/dapr/pubsub.yaml
+SPDXID: SPDXRef-item6577519
+FileChecksum: SHA1: aec7c0aa27aa2c045bbcea8bba0317d3a295e504
+FileChecksum: SHA256: 2e1d530e3e2a3c51b466bc18f0891daf2c40027bf4f539ccf8f997697db94b8c
+FileChecksum: MD5: 1128ce344303f82c397ebe4e43f64c27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised/dapr/subscription.yaml
+SPDXID: SPDXRef-item6577520
+FileChecksum: SHA1: 30298b4319982e451cfde3e361223e7d670c72cc
+FileChecksum: SHA256: 1c7d00ba3a34fd776b50823b681ca6008b14bf14136aba91c90f1e1e85db1c56
+FileChecksum: MD5: 7266408e660f82d81f2581519d1138bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised/dapr/subscriber.py
+SPDXID: SPDXRef-item6577521
+FileChecksum: SHA1: 675e7c8e78b51ce335f699835f9d320f37b45fda
+FileChecksum: SHA256: dd6a8fbaa710dae51cf9b88bae9c35db3d80df8248be34d9914b473a9c3fdc14
+FileChecksum: MD5: 20c44c4b10b1fff5906254e158539c42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised/watsoniotp.broken.phase_aligned.pickle
+SPDXID: SPDXRef-item6577522
+FileChecksum: SHA1: 513ffa00f6983f40d7e7bfcc7934f1ea0689bc58
+FileChecksum: SHA256: 007a2e6498478a42be3caffadba524283de4650abe19536cb16f98964dbe55d4
+FileChecksum: MD5: 955b1ae39340d74525d15eb3328238b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised/test-anomaly-score-unsupervised.ipynb
+SPDXID: SPDXRef-item6577523
+FileChecksum: SHA1: 0aa718bc74d12194695cc4026650b07dfefb952f
+FileChecksum: SHA256: 191956070bfd7124efeeb8ce92beade1d871da0f7deb27f2ac36846ee3ec20e2
+FileChecksum: MD5: d52fc6c25fb8b895edacf0b5fa2059aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/anomaly/anomaly-score-unsupervised.ipynb
+SPDXID: SPDXRef-item6577524
+FileChecksum: SHA1: f683c6c1b0b93ac69deea62f342c8b0ba1b25e09
+FileChecksum: SHA256: 1d7268325ec8b904515230d85d4cc8de9e26ccc2e48f55b9f4f6db861da4a698
+FileChecksum: MD5: b8af361dce20e7cf20f3faf7da189f1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/monitoring/notification-email.yaml
+SPDXID: SPDXRef-item6577526
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/monitoring/notification-email.ipynb
+SPDXID: SPDXRef-item6577528
+FileChecksum: SHA1: ca83cf074033d2de3ba14df4120a82a462115e3d
+FileChecksum: SHA256: 8a742fa1382e2804e8080234f50b0252d35159b66e18d4135bb41b9675d6b2b5
+FileChecksum: MD5: 0853e30de09be8f3627e63a51419ecb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/voila-notebook-runner.ipynb
+SPDXID: SPDXRef-item6577529
+FileChecksum: SHA1: f311c82c4ada46762010c24a2010e5270c32a965
+FileChecksum: SHA256: 0cf3a3bc4ea081e62ed9dc122bbd6bf90c3c54a8ba7f8f91d6b0ee25d4a5ddd8
+FileChecksum: MD5: 28ab8aa4befdd063d19b822eb44d0709
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/filter/spark-sample.ipynb
+SPDXID: SPDXRef-item6577531
+FileChecksum: SHA1: 7fad884ca0bc3026e971d96ac05f78de7c85b834
+FileChecksum: SHA256: 054fccf6918b3ceabd6fcb69ae5c530fa82b68ee2b73f78bd5228fbe75941748
+FileChecksum: MD5: f46d27162500eb3c7c126471a029670f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/filter/filter.yaml
+SPDXID: SPDXRef-item6577532
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/filter/filter.ipynb
+SPDXID: SPDXRef-item6577534
+FileChecksum: SHA1: 2660287ba48f239b21aa29c967b7e83f018eac37
+FileChecksum: SHA256: 8c9cf23949bdcba6dfee2d9112c215e443851c07c556b83fc91afa8002ebb536
+FileChecksum: MD5: bd216a7053162f7ea22b380ebc715684
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/analyze/spark-ts-trends.ipynb
+SPDXID: SPDXRef-item6577536
+FileChecksum: SHA1: f1d1714790eead705764a8d5cd351843f133341a
+FileChecksum: SHA256: b7c60e939fe5168ff57c7df2b8492b39e2448159afed613ff8e0af7356b93e70
+FileChecksum: MD5: 088a5a5df51e41bc91bc3bffff0d7b9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/analyze/spark-ts-trends.yaml
+SPDXID: SPDXRef-item6577537
+FileChecksum: SHA1: 82fd9f070c1d6400c1e92c31b2a8f801270bc089
+FileChecksum: SHA256: a3f502a5f307dd493dea9ad10fefe521084bbb07aa21fc6c7eee22d0ec939f89
+FileChecksum: MD5: f259ec2be70af98d4fed3fd526c97b12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/visualize/timeseries-runchart.yaml
+SPDXID: SPDXRef-item6577539
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/visualize/timeseries-runchart.ipynb
+SPDXID: SPDXRef-item6577540
+FileChecksum: SHA1: 9041d738c662a85e02fecbc63ac54b433b5d702b
+FileChecksum: SHA256: 223003bf093733d6445b6c6972307defb324007fb46c73c0faf2510e4f31a86c
+FileChecksum: MD5: 8007f459475c77f93ba602d09670aa7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/visualize/visualize-with-quickchart.ipynb
+SPDXID: SPDXRef-item6577541
+FileChecksum: SHA1: 5a1d998e1e117eb291ca9b1a9796a959ca7f0192
+FileChecksum: SHA256: 4b75686de8d0f7184fda07f4f73ff3b55860775c1b1fd1bf6344e4d1ac3c853f
+FileChecksum: MD5: 488664eb89f0658b2160a51ecd95e747
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/visualize/visualize-with-quickchart-mongodb.ipynb
+SPDXID: SPDXRef-item6577542
+FileChecksum: SHA1: 80712e43193299e6500f8289fa20ab36cfc5db39
+FileChecksum: SHA256: b0bb0dcde6f04e4997d70f3df6514caf6e1efba6a8d0f4fac96626868f687a5a
+FileChecksum: MD5: 49a22dfe54133d3880bf56fc3590f93e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/visualize/map-from-coordinates.ipynb
+SPDXID: SPDXRef-item6577543
+FileChecksum: SHA1: 1527c1dca36a87333ffe67bfe58645d5f2c34246
+FileChecksum: SHA256: 5afc5cdc172e1ca84850d6d8a9338aadbc6122272e31d39fe28a399e53f99ae4
+FileChecksum: MD5: e38ed76a6f7a82bbbbaa845ca4f1877f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/component-library/run_tests.py
+SPDXID: SPDXRef-item6577544
+FileChecksum: SHA1: dcb2dbffbffb90fe1f72c668aacf355a452edb0e
+FileChecksum: SHA256: 8ab9ac65766bfb5608e3f016d1924f7ac30c70ce75ee0189fc20cf2ad8465532
+FileChecksum: MD5: 1998b46fe4938be2aa510793659541ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/README.md
+SPDXID: SPDXRef-item6577545
+FileChecksum: SHA1: bf5b5caa81ffd61dcd5fa69502e6649885319b37
+FileChecksum: SHA256: 838549d78ba6da19dd1ee9a9eebe67d32f7485df525c5d0a800ecff4bfa30b8b
+FileChecksum: MD5: a51712218fb5b5e884aebca3387824f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/SECURITY.md
+SPDXID: SPDXRef-item6577546
+FileChecksum: SHA1: 76d0b218ffe27b83212d516ce00ca0379a74f0dd
+FileChecksum: SHA256: 1e66ee5412b9b8d7bb8078405f68f36926d24dc824c137987c531ee1a8bf1dfb
+FileChecksum: MD5: f90e297d32b533d6306a68e6571bf4aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: claimed-framework-2023-12-15.zip/component-library/VULNERABILITIES.md
+SPDXID: SPDXRef-item6577547
+FileChecksum: SHA1: 096df3fb132484ea36ca80df30b209ac8d3318f1
+FileChecksum: SHA256: 1529a78a0409c1fb57d52e809891ae65f521acc31df792ac83cfe10751f5a462
+FileChecksum: MD5: 42f51bc11e8cf244f2eb937b640ebd4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-IBM-possibility
+LicenseName: IBM-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-fossology-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Python
+LicenseName: Python
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Non-commercial
+LicenseName: Non-commercial
+ExtractedText: <text> License by Nomos. </text>
+
