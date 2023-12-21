@@ -1,0 +1,1410 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_artigraph-2023-12-15.zip_1702989065.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-12-19T12:31:06Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: artigraph-2023-12-15.zip
+PackageFileName: artigraph-2023-12-15.zip
+SPDXID: SPDXRef-upload1126
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: ca3d0c2b22c69b8c6f394701e4bcc3d40cb4df9d
+PackageChecksum: SHA1: 2b3792a806eca20bc2c09e0d6c13f52113f10b97
+PackageChecksum: SHA256: 011a13db30bbb98010ecdf7a2f3ff2fccb52ad68f196bb7156677bade617e007
+PackageChecksum: MD5: 31404f46fad31af2f3f321bd9c9bfb3d
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1126
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/pyproject.toml
+SPDXID: SPDXRef-item6553358
+FileChecksum: SHA1: b2f06b32cedc2e55a9a05c3919689eafdfc1ede8
+FileChecksum: SHA256: 62a1e955242cfe09cba5b2a2d6cd0b3ecbbb9588e091fe7b624dba43d070cf3c
+FileChecksum: MD5: 169210f063c6d6741fcc2e2cd60371a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/LICENSE
+SPDXID: SPDXRef-item6553356
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/CONTRIBUTING.md
+SPDXID: SPDXRef-item6553359
+FileChecksum: SHA1: 48e5e4faf9dd78f63bff1db2baf59fa265a61504
+FileChecksum: SHA256: 9b9328eca6a67c6b59702cbeb2716e6c104888b7402b48a7db214eb0ec304a48
+FileChecksum: MD5: bb51a7a07d0d86e162c4ba23b857f782
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tsc/CHARTER.pdf/CHARTER
+SPDXID: SPDXRef-item6553452
+FileChecksum: SHA1: a0c2252a4f688783b3bca5717b304f963879808d
+FileChecksum: SHA256: a0e5a46ca25a7853f157b858af48223bb6d5a482005423fac4ae1d572d0d4bc7
+FileChecksum: MD5: 6b6dc89a7a0611e770a948925c18ea59
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright in all new contributions will be
+copyrights to the Project. b. Except as described in Section 7.c., all contributions to the Project are subject to the following: i. All new inbound code contributions to the Project must be made using the “Project License”). ii. All new inbound code contributions must also be accompanied by a </text>
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/bin/add-dco-signoff.sh
+SPDXID: SPDXRef-item6553285
+FileChecksum: SHA1: 8e15750aa2fc5fc27695f6e4a741bc109c404929
+FileChecksum: SHA256: 99133df34a92621cdb7c72708fc09142b9d3861aa0118e256b547b85b04bb75b
+FileChecksum: MD5: 8015549ac3ed3c62d1b73b0cb98bdedd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/bin/dev
+SPDXID: SPDXRef-item6553286
+FileChecksum: SHA1: 4291221d4c9e85ac409a628515adbc69eed59c25
+FileChecksum: SHA256: ae7fd6ef8a2f43318a3c90833b4ee0329d09650ba3ad5aa5ef0a6df49145fe53
+FileChecksum: MD5: d1c2cd857d2df5b010deef2e5517d91e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/conftest.py
+SPDXID: SPDXRef-item6553288
+FileChecksum: SHA1: 71bea8fa8c71b7aa37a9eca5c3e0def2fdf6c071
+FileChecksum: SHA256: 48f09cc6be949cfb0a3f6655513d38790337b4170a2ebbd91d1a54dbed473480
+FileChecksum: MD5: 5b96ce1df2ba0c9bd5e7daeec9650b43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/graphs/test_graph.py
+SPDXID: SPDXRef-item6553291
+FileChecksum: SHA1: 133d44cf5eb597d26459e83083c63233000eb887
+FileChecksum: SHA256: 3975878f99c3e1cfad4bbe6fba33dbd25743fcb4e62a42c7636854c76112ef0e
+FileChecksum: MD5: c0b69c9cc913f9ac92487676efa36544
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) # type: ignore[call-arg] with Graph(name="test") as g_ba:
+(c) # type: ignore[call-arg] </text>
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/types/test_pyarrow_adapters.py
+SPDXID: SPDXRef-item6553293
+FileChecksum: SHA1: d2cb771f303b705e5333dfc3b50480f47bd5623c
+FileChecksum: SHA256: e32058268478eb5eac6b5a5cfbb9ec5f45490e43b86fcfebdea12adc21bbf669
+FileChecksum: MD5: bec71cc386a6646370f1dcef3c4ba313
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/types/test_numpy_adapters.py
+SPDXID: SPDXRef-item6553294
+FileChecksum: SHA1: 9607b8ba8e59f3e935cb2f2b9be1ceaca813ef55
+FileChecksum: SHA256: 00d7c57f579a831a10fc2b2411408f6c0c9c2954f8fa4c9a15a14d2e4bf8fee9
+FileChecksum: MD5: cad1db3d15d10fb6ae87b6dfe94683e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/types/test_python_adapters.py
+SPDXID: SPDXRef-item6553295
+FileChecksum: SHA1: 38c9e995409d26405d72821d34cc8f215d784cbf
+FileChecksum: SHA256: 077cb9e8234a39ab1276a2389b6bb0407fab66b5ead1a772c8a23c2a9407e21c
+FileChecksum: MD5: cad3b9560a0cc9e6c321c31b961ac59d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/types/test_pydantic_adapters.py
+SPDXID: SPDXRef-item6553296
+FileChecksum: SHA1: 2b3a34f96dc90b8023032409e5d7b75b9937caa7
+FileChecksum: SHA256: 74da7f46c3cd3ef42384fd8e049162c44c63a865ba468cb59d2a0cac901f6e49
+FileChecksum: MD5: 6ecd094a6639a26cb30f7fa5f5aa4849
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/types/test_types.py
+SPDXID: SPDXRef-item6553297
+FileChecksum: SHA1: 7c739a50bd9f4bfc10ebb838b88f83c5ebb7b091
+FileChecksum: SHA256: d4e1eb8d30ee4574070ea5b9ae5bb45ba840df9388bad528bb0ce0deebb68773
+FileChecksum: MD5: af85489fa1c58a7b4a3213234147bdee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/types/test_bigquery_adapters.py
+SPDXID: SPDXRef-item6553298
+FileChecksum: SHA1: 7fbdc9f8de381da887b5d323764210e7e7d1a78a
+FileChecksum: SHA256: 66ca7c73b95dc39a31bc600864e67bcb6c5cf451bda6f2bcb7db61a5526bbb86
+FileChecksum: MD5: 3927575b46cc9e61b19c8de3dfb2d3c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/types/test_pandas_adapters.py
+SPDXID: SPDXRef-item6553299
+FileChecksum: SHA1: f507647996633a371c58767a348963635e93e59c
+FileChecksum: SHA256: c1af092bdef7888c25d2992cf240e3f9619de589a96c365d39ae87dd4c7a1863
+FileChecksum: MD5: be7b5f281e416eac576476c56273442f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/producers/test_producer.py
+SPDXID: SPDXRef-item6553301
+FileChecksum: SHA1: a6378e14794953d4169e37aa3ef520a0674286c3
+FileChecksum: SHA256: dad312b62cec8dd203cd31580135fd8d5556e466de70c861be5d927aece7f559
+FileChecksum: MD5: 127660bd8de6788e6be78e7c4cd36706
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/partitions/test_partitions.py
+SPDXID: SPDXRef-item6553303
+FileChecksum: SHA1: 5cffff21d0def3e15397b036c758d1eee6a263ab
+FileChecksum: SHA256: d65edf194bce71b98887776143b08d224e77ad1531d9aee5d5147fc5f4a1059b
+FileChecksum: MD5: 997d8a967f148e4e57d62c1480839d84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/test_version.py
+SPDXID: SPDXRef-item6553304
+FileChecksum: SHA1: 406c2ff24cabf89d093b7d8eb29c931aa39b0040
+FileChecksum: SHA256: 3c1a208ab70f479c8fa377941ebc1c8d6f5b15394756412d8f0816eda54bdafd
+FileChecksum: MD5: 0ad86cb938bc5c524d3c0e51840c8c53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/dummies.py
+SPDXID: SPDXRef-item6553305
+FileChecksum: SHA1: f9ecce1067455f8e065ffd2f527acdf8f3aef38f
+FileChecksum: SHA256: cf8004b0f2cb288977bd1268ad3681cb107fd8f3febe6a117a60b4cd56f63496
+FileChecksum: MD5: caed2f5d9e8e39942fc930816ad0a0f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/test_thresholds.py
+SPDXID: SPDXRef-item6553306
+FileChecksum: SHA1: ffe61ce113c79671853b05e99951646cb2b43c66
+FileChecksum: SHA256: 95a42eb3f58ef3f3cad2ad71024d155720d73899fc96674059f3d0098132ca2b
+FileChecksum: MD5: ac5e4fa1353ed7794e58b4bf52208ecb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/versions/test_version.py
+SPDXID: SPDXRef-item6553308
+FileChecksum: SHA1: a34cc7fed1f00a184d44cf1d6f69d40bed5766b5
+FileChecksum: SHA256: 763f49c3f0c8be16e063a04cdf5d17f36503f71d46efabda7e477f5d22013e06
+FileChecksum: MD5: 29bb4688862c42826f7764158171c292
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/test_fingerprints.py
+SPDXID: SPDXRef-item6553309
+FileChecksum: SHA1: e9770ba83aa7acbc95b0161dd7d25078152585ec
+FileChecksum: SHA256: d9589ae5b0c3e3ffea19050419eb427fb9430cfd29de65ce581ed9e90d55d402
+FileChecksum: MD5: b37e50654431786d957fe745a224662b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/artifacts/test_artifact.py
+SPDXID: SPDXRef-item6553311
+FileChecksum: SHA1: ac274f4cbaeaf74b05828faf3c5986541603bed8
+FileChecksum: SHA256: fb29865e639224eb8a0f7d85c597894a1a5620cf4088ee1e41fc6d04d030f4c5
+FileChecksum: MD5: 99db8ae0f0839f11dcafc0d5e92cd54a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/__init__.py
+SPDXID: SPDXRef-item6553312
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/views/test_views.py
+SPDXID: SPDXRef-item6553314
+FileChecksum: SHA1: fe52629413191b14fc3c4bea59eb530f017daeb4
+FileChecksum: SHA256: 0abb475b7daf2b82129e2f0c122e36fda77bc417581018f8ea4ac01235dbea5f
+FileChecksum: MD5: f62f88de7140687082a5ee46272fd85d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/views/test_python.py
+SPDXID: SPDXRef-item6553315
+FileChecksum: SHA1: bff993d50f12c9624f402edb4d567060a4ae9b6f
+FileChecksum: SHA256: b3a34089118a5085ccb84c377b09091a145131ad407818db4fcf65e6aedfc43f
+FileChecksum: MD5: af4c74c86327a16f5f716743be90a159
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/storage/test_storage.py
+SPDXID: SPDXRef-item6553317
+FileChecksum: SHA1: 42a4af2ddf70bb445422364bcb9b7c88900044df
+FileChecksum: SHA256: 68345fa56190a2ef903f6fb10776bf61e4b271c8f2a7472c83737b0e86e3be30
+FileChecksum: MD5: e57965ad5b2f63c46504292d511b46ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/storage/test_local_storage.py
+SPDXID: SPDXRef-item6553318
+FileChecksum: SHA1: 3d00b1356d42f9c30ad8772f2a614344566f4794
+FileChecksum: SHA256: cb8f7d4f484f0e604027949d0d9761082406a72512c19675400230a19cdb4d72
+FileChecksum: MD5: de0eecb7d6b654de2fdf5fcb092faf6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/storage/test_literal_storage.py
+SPDXID: SPDXRef-item6553319
+FileChecksum: SHA1: becd6177955cc4fcf61d604f41ad6fa1ab60dabe
+FileChecksum: SHA256: e0f7f954cc686e0466347d7d945e4ea73d3771523a3803cb75d83c5312371148
+FileChecksum: MD5: 0ff41ab32a50e8f3d94e88de83a91c62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/storage/test_storage_internal.py
+SPDXID: SPDXRef-item6553320
+FileChecksum: SHA1: 90ae020dd206e7f48991bcaad6d3be4c67fdc164
+FileChecksum: SHA256: 0a245f6d6d81dec15d680880dfcc6b5237e63193d3e979b0534efb0e7515bd32
+FileChecksum: MD5: 21e544dcb9042b14e3e2b79735cd1b39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/storage/test_gcs_storage.py
+SPDXID: SPDXRef-item6553321
+FileChecksum: SHA1: 241aebc02a2365dc9db2c8c0fb7e48dd73a6bcc0
+FileChecksum: SHA256: e98a05d0ee2547e5428af572bd9b591e0621eeb3f79c380f7ed88bbe7c2e5a9c
+FileChecksum: MD5: 0883945815ed53160b7b3e0fae47603e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/io/test_localfile_io.py
+SPDXID: SPDXRef-item6553323
+FileChecksum: SHA1: 8453619fc20d69195346b7f1c36f12b4be6ea14b
+FileChecksum: SHA256: a5d45b427630eb75e0cb6dd13da35e15985f0af94fbdf8cccf646ef50a137e7e
+FileChecksum: MD5: f7a5ce98ef4431d89e2005bd513e84c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/io/test_gcs_io.py
+SPDXID: SPDXRef-item6553324
+FileChecksum: SHA1: d29f88806f1d12061232c165853c44af834c036e
+FileChecksum: SHA256: 486c5b4c612e26789fa633ee8c70803236761396882f44a52a1937779eb66e76
+FileChecksum: MD5: 9a2daeaf4031ba0d9a11e508ed070c64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/io/test_literal_io.py
+SPDXID: SPDXRef-item6553325
+FileChecksum: SHA1: bf0573c18071d7a1e1c1c6086fb76e9b8a6242d1
+FileChecksum: SHA256: 473100a2dd2a2fad6208dceded800a37f540a8e4845c1c6070e21236a4a7b9c8
+FileChecksum: MD5: 4199a48477224fc96822f3f6f3c5abb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/internal/test_models.py
+SPDXID: SPDXRef-item6553327
+FileChecksum: SHA1: b5be25633c8dac80ba599145cb7765dc0c56a779
+FileChecksum: SHA256: 916002c3ad5089c9613513e1bc551169bcce10a413de8c330e9c08719359435b
+FileChecksum: MD5: 0eedb93d83256f65f275dc1dd065f3ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/internal/test_dispatch.py
+SPDXID: SPDXRef-item6553328
+FileChecksum: SHA1: 7b854118af63b217ecd9eb24dea6d5c645054a48
+FileChecksum: SHA256: 0bde2bd3b3bbef1fa233b279b421c07b5f1f6d11772b31f4b0049e68482c8bb7
+FileChecksum: MD5: f8a64526da3b15ae8802ae24178c9c2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/internal/test_internal.py
+SPDXID: SPDXRef-item6553329
+FileChecksum: SHA1: 10f7d68a9eface4dc51b2f43b13209f9e33739e9
+FileChecksum: SHA256: 43d1a7eb4d85f9efd7c373be58bde27ab88b5978e9b48b32c374c5cba61a43cb
+FileChecksum: MD5: c9311c0879ca4e4ffa1aec2809a9f6d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/internal/test_utils.py
+SPDXID: SPDXRef-item6553330
+FileChecksum: SHA1: 863a0ae88147d22a1765b8cc95f48b602937cc4c
+FileChecksum: SHA256: 2adee2173841af02f1ee40ed3fad7b6d86816fe7d85766945ef9c54730516ad9
+FileChecksum: MD5: 00a55e4ca8f81855bcd7ea22dfddb592
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/internal/test_type_hints.py
+SPDXID: SPDXRef-item6553331
+FileChecksum: SHA1: 9cbc93011fc922f49587fae4ee14b1232eaeec0c
+FileChecksum: SHA256: 985b6340e53f5dee22dea6f23319a6222f08f2f18c08331b1af4ea6d76743aaf
+FileChecksum: MD5: 068c893756bb50813f82eb1777be42e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/internal/import_submodules_test_modules/a.py
+SPDXID: SPDXRef-item6553333
+FileChecksum: SHA1: 3844fe376bcf07b84376dcdd33084b327048f046
+FileChecksum: SHA256: e1f5e5a70b81c570bd33caa0ef68a72b631e98bbbb3d2c7f487decff989070b8
+FileChecksum: MD5: 32e950486fb9c60eb919791bac909828
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/internal/import_submodules_test_modules/__init__.py
+SPDXID: SPDXRef-item6553334
+FileChecksum: SHA1: c6a06990debc67ad0b1acfd115b0c9ad81b301f6
+FileChecksum: SHA256: c8dc315cb5c9f33b64d00f2276a72e665f64b9fad3a1eab401293dce767c10bc
+FileChecksum: MD5: b8f873471df1b1d278a0c14d009b9a36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/internal/import_submodules_test_modules/sub/b.py
+SPDXID: SPDXRef-item6553336
+FileChecksum: SHA1: 3844fe376bcf07b84376dcdd33084b327048f046
+FileChecksum: SHA256: e1f5e5a70b81c570bd33caa0ef68a72b631e98bbbb3d2c7f487decff989070b8
+FileChecksum: MD5: 32e950486fb9c60eb919791bac909828
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/arti/internal/import_submodules_test_modules/sub/folder/c.py
+SPDXID: SPDXRef-item6553338
+FileChecksum: SHA1: 3844fe376bcf07b84376dcdd33084b327048f046
+FileChecksum: SHA256: e1f5e5a70b81c570bd33caa0ef68a72b631e98bbbb3d2c7f487decff989070b8
+FileChecksum: MD5: 32e950486fb9c60eb919791bac909828
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tests/__init__.py
+SPDXID: SPDXRef-item6553339
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item6553340
+FileChecksum: SHA1: 95b9e9429a0d247998340e3f8fd34966615cafbd
+FileChecksum: SHA256: 6c496971ffb84582b3f691e21b9227d5f27dad2e2551f82f6ec117d2c9442273
+FileChecksum: MD5: 4d05c5a47a02aa3f6003f28a58753ac2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.direnv/.gitignore
+SPDXID: SPDXRef-item6553342
+FileChecksum: SHA1: 886e6d00ac28a586434ae1b6320c0bb185e3ddfc
+FileChecksum: SHA256: 240a3e0d37d2e86b614063f5347eb02d4f99ca6c254de6b82871ff8d95532a7d
+FileChecksum: MD5: 4954fe3f439337e5535185debf8fb3dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.python-version
+SPDXID: SPDXRef-item6553343
+FileChecksum: SHA1: 866588d1edf0ccb5b0d33896974338f97564f719
+FileChecksum: SHA256: d30f1520c6b70aa635e37a22df030c16723c65eb74814c5e751fe40eeed95b7a
+FileChecksum: MD5: 83d1103f00aa4232403c11fb28f57a87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/docs/examples/spend/transactions/1970-01-02.json
+SPDXID: SPDXRef-item6553348
+FileChecksum: SHA1: 7f31b8e267d2ff1dbfda37fca2bba4642ab6c6ed
+FileChecksum: SHA256: 13bbe6707acebf84928250fed9bc7d2499222590f3244a14218f5e5d0403febf
+FileChecksum: MD5: 2c9d8fd809c838253352fe0986a85bab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/docs/examples/spend/transactions/1970-01-01.json
+SPDXID: SPDXRef-item6553349
+FileChecksum: SHA1: 5329d47096cf75de738ddce5b8b43c5af018656f
+FileChecksum: SHA256: 63847ef224db9f725ceb3298565bf3537a0997bc01b96300f93e18547196343f
+FileChecksum: MD5: 979f6f32b132b912aafb9a0f71c222ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/docs/examples/spend/.gitignore
+SPDXID: SPDXRef-item6553350
+FileChecksum: SHA1: 6711187b632f0ba86ffce84c9a76540e61ecc738
+FileChecksum: SHA256: b12f49700664214d61b77b1043fed9715ce264f95ec4b4010e649a9e63328994
+FileChecksum: MD5: 741acb5c62672ede1ffb116eb4cc07db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/docs/examples/spend/demo.py
+SPDXID: SPDXRef-item6553351
+FileChecksum: SHA1: 8cd3452c441ce0e8374ffdc7a81ff2b9bf1797ea
+FileChecksum: SHA256: 4690cf9dcfd063e8574efe04857f230f501b141c3f5d87b352476a57a3985f26
+FileChecksum: MD5: a1ad2e35be969609b0ca2062921ba981
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/docs/examples/spend/Dockerfile
+SPDXID: SPDXRef-item6553352
+FileChecksum: SHA1: 7347a8d967a089bab46c6df96027ce143458567b
+FileChecksum: SHA256: 42301c701f2b22a7bcf3da80b176a5481e39e751d8b3c28307e59c6fbe29cee7
+FileChecksum: MD5: 43c1cfd6d62973ba29faff725f35b942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/docs/examples/spend/push.sh
+SPDXID: SPDXRef-item6553353
+FileChecksum: SHA1: 7d38f4ce09fccc22a05513179df3d205369c0e29
+FileChecksum: SHA256: 3f1a504a922c587b4cda004663ec413ad6d828caa995af198c2048df12aac7bc
+FileChecksum: MD5: 87e00f7d421b7b6381787cf11baba555
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/GOVERNANCE.md
+SPDXID: SPDXRef-item6553354
+FileChecksum: SHA1: 4aa9ff5e611d8397b743be2dc7ab7a8a09482dff
+FileChecksum: SHA256: d2a31c0ab6931b544d52c8db0fe43a7755d5958f497e8f57ec28ed9882581846
+FileChecksum: MD5: e43484dbf0fad35dca20a07052fd5a39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/CODEOWNERS
+SPDXID: SPDXRef-item6553355
+FileChecksum: SHA1: 5c0d7ae52e56a3a0d687bfd796cbd897d4acd625
+FileChecksum: SHA256: ab4706dfeb27d2be1a682ec64ff7781512c11b83647a415baa1ef3410b50d7a8
+FileChecksum: MD5: 89e42c50c011e611f3170ad7a002d6c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.envrc
+SPDXID: SPDXRef-item6553357
+FileChecksum: SHA1: 16a3ce10dcfd9305f9939a19fb072f2036d7c1d5
+FileChecksum: SHA256: b69ebd565748eebc8c87c17ccc71c5f2aaf033e93b1125d75a91ed94a4d7e2c1
+FileChecksum: MD5: c8eacb61722eb35a15e406c191881a0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/graphs/__init__.py
+SPDXID: SPDXRef-item6553363
+FileChecksum: SHA1: f9d113960bf9fe2d21fd069636851c89961e0cd8
+FileChecksum: SHA256: 69d8933a044278dca8006651cb36452754715f07295c67dc056d90bc1fe50ab9
+FileChecksum: MD5: 4a6d70c8e1572cfeef4f8203a56e2ff8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/types/pyarrow.py
+SPDXID: SPDXRef-item6553365
+FileChecksum: SHA1: 7436d4409b5191ac5e501a1ed064c1525ef639b0
+FileChecksum: SHA256: 23c5fb015edcdeb58c7966c10f3166d787d3c421b9281370641a54dee71d510f
+FileChecksum: MD5: bee465c52344610e1cdb835ab4d68707
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/types/pandas.py
+SPDXID: SPDXRef-item6553366
+FileChecksum: SHA1: d4fb43e866db709f3ba74c31374c265119c378fb
+FileChecksum: SHA256: d826b8804b006ce74cc8700091e971e084207e9206d26ce735a712bcd40f094b
+FileChecksum: MD5: c1cac0fbe8d5ae94513c74df4fd2aea3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/types/python.py
+SPDXID: SPDXRef-item6553367
+FileChecksum: SHA1: a53b55d322f2c672c8ddb70b8a7a4419801c3694
+FileChecksum: SHA256: 72dac1764d1f4b1e98479fc40b6b576bd6bb97867933df50f17e9a494d7d483d
+FileChecksum: MD5: 697d4e27b6a09bce89d8020bf5294950
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/types/numpy.py
+SPDXID: SPDXRef-item6553368
+FileChecksum: SHA1: c919cd46cfd6042f283df03fd2d63789c4e6287f
+FileChecksum: SHA256: eec9b1a4dc7088ba7fa288691388515f2020f0f1896d6208a28a030d52c451ab
+FileChecksum: MD5: 7696ce9f39520568e7f842799a7bf1bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/types/__init__.py
+SPDXID: SPDXRef-item6553369
+FileChecksum: SHA1: 58bf0c8f277b0d8c08c50cd4ce8b95f563422a84
+FileChecksum: SHA256: c82777e9263c80c03529c90b78497a9fd4658e4f10198a4f1b15bce06c13d9cd
+FileChecksum: MD5: 39fc4da37be8ef5ffb41284f15c5ccc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/types/pydantic.py
+SPDXID: SPDXRef-item6553370
+FileChecksum: SHA1: b219f072b7b6bbcb2f3814ba96ebb5f1bad68ea8
+FileChecksum: SHA256: 57451f97651e59062d9fb508de21653f9dde0831b64d5d12bff3cc90494aa619
+FileChecksum: MD5: 6319d04b6624301041297a8e8e6e50a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/types/bigquery.py
+SPDXID: SPDXRef-item6553371
+FileChecksum: SHA1: 0f67fa69802d60baa9c6bb3b05dcf46e0e0d2494
+FileChecksum: SHA256: fbb48de611c7f285cc0d182c4f428ffc1ea753cd654ffb1c22e4f39ac66560b7
+FileChecksum: MD5: b48ea4c86ce28ca32be143d64c6041ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/formats/json.py
+SPDXID: SPDXRef-item6553373
+FileChecksum: SHA1: 503ca444c6edf7e257a84d812db8061864de943b
+FileChecksum: SHA256: ca4a1dc4be715a2c33489e5a2f3a4a3088505b2ea13834175664ac6d73bd6f48
+FileChecksum: MD5: 123faff7778d42fe9672a4fc5d8caaa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/formats/pickle.py
+SPDXID: SPDXRef-item6553374
+FileChecksum: SHA1: 2f7bbec22ad27e11c237c64ed871a5b982899088
+FileChecksum: SHA256: e3a824e65ec28c0b55e6d4530f5976ab4fba51ea3a5f77ba9aa0eefb5caf446e
+FileChecksum: MD5: 1c865dfc638d9b5148bc388c7453b2a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/formats/__init__.py
+SPDXID: SPDXRef-item6553375
+FileChecksum: SHA1: 6dd9ae664aed6081edf6fcf88aaa638c9bb2f4c5
+FileChecksum: SHA256: 8c2a669e7757f6ffec290427b01e8a324503dcf594ed578f4cdc6247562e6d93
+FileChecksum: MD5: e5a81f3320686bce3627888ec2e1b5d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/producers/__init__.py
+SPDXID: SPDXRef-item6553377
+FileChecksum: SHA1: c564f26c28ac99c0f07a6907527b22661f0469da
+FileChecksum: SHA256: 9b691d7e2685b69133c97598f6f13ea7cdcf92cf4c435d6797c84b64072303b5
+FileChecksum: MD5: 7dcdbb1df4eb20e711191cf38ba235d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/partitions/__init__.py
+SPDXID: SPDXRef-item6553379
+FileChecksum: SHA1: b722ca6f9b83a1eaecf81cb8ffdb3261846ca17d
+FileChecksum: SHA256: 884199c8c6d7f3efa8a3cac2fa36ec263e91d00aa9c5ea6e4399d704e8584ebf
+FileChecksum: MD5: 4fc1c4f4b96830e51be2f3b56a1dc59f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/versions/__init__.py
+SPDXID: SPDXRef-item6553381
+FileChecksum: SHA1: c7cac2c1216d1f0418bcd1f437d8ef7a36d12993
+FileChecksum: SHA256: aaa3ae9793bc62c9a1296dbe246d6c1295e4756e6ed07e25e66cc5b3d0f0f84c
+FileChecksum: MD5: 543a385d9f47a3057f2c6c3a4afd3ddd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/py.typed
+SPDXID: SPDXRef-item6553382
+FileChecksum: SHA1: 56993467da397ca887b9dac0ab9f0a23faace3e0
+FileChecksum: SHA256: 404e8f6684e7b3ec413e8bbb0c3d2100000717e7d301827836525145945a152c
+FileChecksum: MD5: b62bf4bb8c578de42ce838affc12db2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/fingerprints/__init__.py
+SPDXID: SPDXRef-item6553384
+FileChecksum: SHA1: e388ffb8d52ddb0c00d35f7084d185d0fc95ce0c
+FileChecksum: SHA256: 398fb16fcf50cb630a811b51c62602a51a7ca63035013ee2bbe4bd4a0978f234
+FileChecksum: MD5: 41a517249a48542dfcf929285ad834bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/artifacts/__init__.py
+SPDXID: SPDXRef-item6553386
+FileChecksum: SHA1: 19605c0ddab694a99b484bc49524a71f1d04302a
+FileChecksum: SHA256: e5d9eb2d4375ac5548c9510210582fa3ae7e87f812f7a312468296e707872c4b
+FileChecksum: MD5: fcc4c7fb715d2fb2dcbcac5734a28988
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/executors/local.py
+SPDXID: SPDXRef-item6553388
+FileChecksum: SHA1: daec41258e02e710dd0c8f60e86edc1d9a757c92
+FileChecksum: SHA256: 40faf5f0214f87612d5caddc831840109742aabdbc8dab13d4e1ddcccd0bca0d
+FileChecksum: MD5: 50d4f4b62530ea668e3e7c237696ab65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/executors/__init__.py
+SPDXID: SPDXRef-item6553389
+FileChecksum: SHA1: 67bfccecc21081b2265cedc6e7adb3cec108d9e5
+FileChecksum: SHA256: 6ea30d23a718455378a9eafcb0844778a4cd4503e7f147ca17e3440a465452e8
+FileChecksum: MD5: dbec523b5a5541c66a4ebc64f467b504
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/thresholds/__init__.py
+SPDXID: SPDXRef-item6553391
+FileChecksum: SHA1: 0476fe16167ee8852c015b05d7707aea5617c2df
+FileChecksum: SHA256: a5696dec0a934b9abc8d65fd23b820dba6333b0dc6eef8763b137d46bbe0b6be
+FileChecksum: MD5: 4fce69509500f9704f598cea815f7ff3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/__init__.py
+SPDXID: SPDXRef-item6553392
+FileChecksum: SHA1: 5233d84dd5352bdf5b31ea6d73ad448e27c198a8
+FileChecksum: SHA256: 0b6310768990cb6ef90c5cfc1d08e06dccfc116a2b04988649345aab10e4d0fe
+FileChecksum: MD5: c1ddbcee3d3cbe3fc77d53ee5749f395
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/backends/memory.py
+SPDXID: SPDXRef-item6553394
+FileChecksum: SHA1: b3e790ee31481e2287a3e820672d8463071db63b
+FileChecksum: SHA256: fbeab3a7171678cd759ba3b978d04c004232712850d4de949911c7f0802bee28
+FileChecksum: MD5: b72431d2d5213d8cc48d78db5cfca40c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/backends/__init__.py
+SPDXID: SPDXRef-item6553395
+FileChecksum: SHA1: da1365b3dc92e36bb3e3b5dccd243bcca0ef8926
+FileChecksum: SHA256: a07355f6867793adb0929700f61e582071e60bcf4bf6260d200d4387233991a2
+FileChecksum: MD5: 4c9ef3a014b81e4d8b9be038355b519f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/views/python.py
+SPDXID: SPDXRef-item6553397
+FileChecksum: SHA1: 87dc3445c38e84c8ed8a5e338074d92262c7a57e
+FileChecksum: SHA256: 02a39784973e8ee14a4aadfbff4c351d7f0f10d6c6426ed2a0ac571de17f181c
+FileChecksum: MD5: 599db482abb6a09cd9862b9f1dae5a39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/views/__init__.py
+SPDXID: SPDXRef-item6553398
+FileChecksum: SHA1: 9a81696fc61e09a89cd816c1052f6ea28da5e392
+FileChecksum: SHA256: 05bac9d4997094343a831c1e17c5e6a03770b76f8948093b7548a6774ef94055
+FileChecksum: MD5: 441e8d56a331af0059650a7ab3cfd240
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/storage/_internal.py
+SPDXID: SPDXRef-item6553400
+FileChecksum: SHA1: 6af9493a3457a88a8a6fdde71e3152d0877db093
+FileChecksum: SHA256: b27872a5880a19f20780ade2e4d296ba1973480a9989d850419b3a689bce8add
+FileChecksum: MD5: 93113a492a7c99ef04f06fef0d146ed4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/storage/google/cloud/storage.py
+SPDXID: SPDXRef-item6553403
+FileChecksum: SHA1: 01bee20d77281aa7f80416f5dc62b246c2730eda
+FileChecksum: SHA256: b4c3a80ef16f0ebe9174975265207ee91f518b23714e5f9aabd0cf2130eddf6d
+FileChecksum: MD5: 085eba46989e2b5200310d6769463cf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/storage/local.py
+SPDXID: SPDXRef-item6553404
+FileChecksum: SHA1: e6d627c45240a2e94892e2de6b5c16c7d0a94260
+FileChecksum: SHA256: 8ac968df9eb61c5bf73264525b57a07e64ad581d6a7b188617318f8bcb73f8c9
+FileChecksum: MD5: e5319b89d045ed8e9b0cef7191a685d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/storage/__init__.py
+SPDXID: SPDXRef-item6553405
+FileChecksum: SHA1: c74e6b98de899de778328407c10e1e097e3a6e75
+FileChecksum: SHA256: 790dabde60900c165773fcb5ecc0460b9482c8ba91d7564af7d6eab4f9141931
+FileChecksum: MD5: 638642449ca3d2920d8d5e1b3850b098
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/storage/literal.py
+SPDXID: SPDXRef-item6553406
+FileChecksum: SHA1: 77553d7f73daa1761b142b33edbe76f99b98786a
+FileChecksum: SHA256: 803f69892960d382361df92742e12a9a273e0a07624a8f4c693a1577e24b3e40
+FileChecksum: MD5: 4108c58f52477b547799a8ad54ca296b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/statistics/__init__.py
+SPDXID: SPDXRef-item6553408
+FileChecksum: SHA1: 99a53cd763c484eb6c9d5cb2e3eeb001f4ac2859
+FileChecksum: SHA256: 89a7ed08cd97349b5343ae6b3f47770f9429cad0a16084c6b5a34385cbd52eff
+FileChecksum: MD5: eef0b18e1759dd69e24a04b50f38a6f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/annotations/__init__.py
+SPDXID: SPDXRef-item6553410
+FileChecksum: SHA1: 0f77aa462c2a113a8d5fbe51dea82e0d5cf9ac6b
+FileChecksum: SHA256: c0f79d7b457d58259147d831e903e63955e015ea557c547d7f4172c619c73531
+FileChecksum: MD5: 9efbeddf0716bf08a29f0b2b85b9c0b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/io/pickle_gcsfile_python.py
+SPDXID: SPDXRef-item6553412
+FileChecksum: SHA1: 63ac121567d3c541cfef212511c133b4440f8f20
+FileChecksum: SHA256: 69fc78f322707e8e28038a4216366f2898b023ccf2fb6831da98f187bbd6e2d8
+FileChecksum: MD5: 237059490dc52934407574f98b2575f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/io/json_localfile_python.py
+SPDXID: SPDXRef-item6553413
+FileChecksum: SHA1: df071e5ea0779e45803c16a827d09cf6a2ff426a
+FileChecksum: SHA256: eb82120e40cd8a14172c60c615e35c2a63e1148e6f254849a3824bce06bf1381
+FileChecksum: MD5: b4bd38d61a7535d54dd052c9c923887b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/io/json_gcsfile_python.py
+SPDXID: SPDXRef-item6553414
+FileChecksum: SHA1: 7e27f3fb0dab81593a565764c70120b9f628c67b
+FileChecksum: SHA256: 914cda3b97bf331a98ba5a81f982b8a930506c43e1efc0d3b03e868491baba29
+FileChecksum: MD5: e64908fc8c73e736195e2512f59efd85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/io/pickle_localfile_python.py
+SPDXID: SPDXRef-item6553415
+FileChecksum: SHA1: ebd87684b030641995d9edcce7b1004abc0b24a9
+FileChecksum: SHA256: 1d67a4a0354e74523d24c97be49a17585929d99f32918b4a5f093c4c97cdade3
+FileChecksum: MD5: 4097acd91276fb32876a3f629edcf4c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/io/json_stringliteral_python.py
+SPDXID: SPDXRef-item6553416
+FileChecksum: SHA1: 673305c1bcfe1dfa120386037496edb2eb776288
+FileChecksum: SHA256: f518fad25d53fd616cae9e4fa5668c2ed9bc5c3392180ccddb188497f3e409d0
+FileChecksum: MD5: 6b48a5481eadfa494e5ce1cab1a768f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/io/__init__.py
+SPDXID: SPDXRef-item6553417
+FileChecksum: SHA1: bc2609016a2801b3f1da2bd6f031a3cb6f6924bb
+FileChecksum: SHA256: a6c2407e8f5bffc5a1922becf5248f82b41c5e72be36be7d5ce9676aca4df450
+FileChecksum: MD5: 810df0ae59643822d0c9121fb132b6fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/internal/patches.py
+SPDXID: SPDXRef-item6553419
+FileChecksum: SHA1: a9c06dd0778f7b797be1771916cbfb6d313d5e86
+FileChecksum: SHA256: 0f65924a054238f6b7cc2a1ed2b4d98ffffeb49a2b17d86f312bef8386f6207b
+FileChecksum: MD5: c1d05a2c373a11fd30dddeb8a0fe44d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/internal/type_hints.py
+SPDXID: SPDXRef-item6553420
+FileChecksum: SHA1: fba57e21d577b51e10edd3f34a5ea78d542dd7d3
+FileChecksum: SHA256: 5fc19be4b68cbbfb1004433084aeda30f26a6d1494d59f45969e94cd43fec246
+FileChecksum: MD5: 2f146ff4a5da6f58d8c97768e68dc92b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/internal/vendored/setuptools.py
+SPDXID: SPDXRef-item6553422
+FileChecksum: SHA1: 6efce6a830c2c93bb884621ee839ab6f76b1ee6a
+FileChecksum: SHA256: b2d4714188e3f07d25fed7fc5b44bb228f6e0238696e8a5b6838d424190c59e8
+FileChecksum: MD5: e8c1c797a92f52313dcc39341b70bd59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/internal/__init__.py
+SPDXID: SPDXRef-item6553423
+FileChecksum: SHA1: 583ccefd608e3ab0050d9b1e4ae42a776974c938
+FileChecksum: SHA256: d3405c70ac262deddc524b499f5ee6bfbcdc53e42fcfa5cbb3d6caf3d2503387
+FileChecksum: MD5: 04aa6058345478b286af13744b4aa5a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/internal/models.py
+SPDXID: SPDXRef-item6553424
+FileChecksum: SHA1: 8af08c36108fcc76e54981b5ce244a95fa3e7e11
+FileChecksum: SHA256: a4d7a6c7979b40d2147a8a5cdd4440cc0a16f28c613ab039ef5d73c5ffb10625
+FileChecksum: MD5: 97931840b6cf16ecb78c7050029419eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/internal/dispatch.py
+SPDXID: SPDXRef-item6553425
+FileChecksum: SHA1: b78aaeff25b9401e5ff0294367780b44a2abfc51
+FileChecksum: SHA256: d0c7ac359ba83e8fddd337b29229adb0f163cb333b0a3e2a7311a9e2e74bd772
+FileChecksum: MD5: f576a63335b6da7dbe11648478b3b0f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/src/arti/internal/utils.py
+SPDXID: SPDXRef-item6553426
+FileChecksum: SHA1: e37d6027a643ad695d95e45cbbab4bf228a29713
+FileChecksum: SHA256: 92d5de4c4f9cc68fd55bd893119e0c52d37df2407283682ab50d2ca98d5351cf
+FileChecksum: MD5: 8f2f09fb355150538969a5dc87525905
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.github/dco.yml
+SPDXID: SPDXRef-item6553428
+FileChecksum: SHA1: 4e55336d7fb057adc321255d32674bb7665f4535
+FileChecksum: SHA256: 985f4b062b8fee2b63dc14e4c7cb01f3ba24021f8cbdba305df1e87e332dc148
+FileChecksum: MD5: 15a0cc8887462d6e3db798fe1a2e5f09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item6553430
+FileChecksum: SHA1: 39bd050be9829704eb9e5ea523da3ce9e0f4aa45
+FileChecksum: SHA256: 690dfbec90e2b6861d0074b0938e5c68d1a82b13d4874452878a929d9dc69336
+FileChecksum: MD5: 7279d0309c103dc373d7e2359b0af2c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item6553431
+FileChecksum: SHA1: ab7488656095c8cd13bde21968669ea3a1989509
+FileChecksum: SHA256: 6af6c437384afd29147a89c852ee41460c40fa203148ce3c1730f1ca9c1b3ffb
+FileChecksum: MD5: fcbb82779535ddcbef77e208d08e11fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+SPDXID: SPDXRef-item6553433
+FileChecksum: SHA1: 9fe26a7167231a9e8686897d1cf6b20b29752004
+FileChecksum: SHA256: 9141349b30672f279e6be63a7af13bd0a00a8ed6b353b2ebc1a69fd2321d056b
+FileChecksum: MD5: 64d088b1638d182b7e139ae41af9dc0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.github/workflows/ci.yaml
+SPDXID: SPDXRef-item6553435
+FileChecksum: SHA1: eb3c70a4d0f1d44d6cba2829986e710351ff3f5b
+FileChecksum: SHA256: c3fd6a63c39a8158db928e427f9198f1791e58806fc7230df97efb2091ba31f5
+FileChecksum: MD5: 2139c3c0a2e77582085a2c4de8bf0293
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.github/workflows/codeql-analysis.yaml
+SPDXID: SPDXRef-item6553436
+FileChecksum: SHA1: 97ec8addc103ac1afbc29aa40b4c29027975fefc
+FileChecksum: SHA256: 3cc4b899d52356371e3bf25a39da3098987355fceb5375c1ef2883e54a78b99b
+FileChecksum: MD5: de33de7c7dfe94cec1ab0e3b7b676ec2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.github/workflows/weekly-analysis.yaml
+SPDXID: SPDXRef-item6553437
+FileChecksum: SHA1: ef60ab880637e5f66af1e399a5b08aeeea098f28
+FileChecksum: SHA256: 9827fb7a7884188a20ce297f0888898193b430dce7b9e9aba9cc5cdd5bbdbfd5
+FileChecksum: MD5: 10cc77e75a61943a58ba1336ba6b012d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.github/dependabot.yaml
+SPDXID: SPDXRef-item6553438
+FileChecksum: SHA1: b3a86c30183a2b0f5983843959d80c1642eccc3a
+FileChecksum: SHA256: f843563f4d437f8796300464b6700ccb1e621b666a02404c5a97e4ce1beae252
+FileChecksum: MD5: b3de276f54aaa6c9a08405da9c4d9d74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.wt/.gitignore
+SPDXID: SPDXRef-item6553440
+FileChecksum: SHA1: 886e6d00ac28a586434ae1b6320c0bb185e3ddfc
+FileChecksum: SHA256: 240a3e0d37d2e86b614063f5347eb02d4f99ca6c254de6b82871ff8d95532a7d
+FileChecksum: MD5: 4954fe3f439337e5535185debf8fb3dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.gitignore
+SPDXID: SPDXRef-item6553441
+FileChecksum: SHA1: 504ec8f510922594a9212eeb0145e49ef83d14a0
+FileChecksum: SHA256: f217c3fffa3034ec5c0f7dea4d9433e40d8dadf56fccdd08018b0a72844808a8
+FileChecksum: MD5: 3203f1dc433d63e14cdca9ce7606cd05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/SUPPORT.md
+SPDXID: SPDXRef-item6553442
+FileChecksum: SHA1: b18920d1f71065d5668a2f137b42f6a84065db49
+FileChecksum: SHA256: 6dc0382c0668a39ff8b6cec6158e058dcf9d21528d86868a09fabd5f80570e0b
+FileChecksum: MD5: b336901b5e78a4e1cff727d187316dd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.gitattributes
+SPDXID: SPDXRef-item6553443
+FileChecksum: SHA1: b4e20e3f9a174a2170dc223d3e72a6c1815297d0
+FileChecksum: SHA256: eeff10ee340de30075570533426c9aba6aaf747f8acbf4b9f411321ce4b6ce98
+FileChecksum: MD5: a29317ed12a5cc007af564fdf44a3151
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/Brewfile
+SPDXID: SPDXRef-item6553444
+FileChecksum: SHA1: d3fb8e6d82349103bc4bcd3da5eba490b45df159
+FileChecksum: SHA256: 3ec52c7ba4921173b0da82086b73826057932e2e314abd1972ec972318c804e6
+FileChecksum: MD5: 271763e88751883a17e27926ee827591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/poetry.lock
+SPDXID: SPDXRef-item6553445
+FileChecksum: SHA1: a3554c8fb71eb2e57f10c3a7a2a6b84ddc67ce0e
+FileChecksum: SHA256: 2f231c53fdc838cd2d9b501301c2b271b6901d0eaa46441db0092332f3ea0ee2
+FileChecksum: MD5: be5dfa8dc48b7388a2e7d252808e2c3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/stubs/parse.pyi
+SPDXID: SPDXRef-item6553447
+FileChecksum: SHA1: c519521abe9a219a294fcc6cd026eb0df100402d
+FileChecksum: SHA256: 16a9e8de19d5f64ce88fc1cd3667ad6e8a19815080d74fe5c617c4761fd2c27e
+FileChecksum: MD5: 622d8bff071f41e665f84e15f52c468b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/stubs/box.pyi
+SPDXID: SPDXRef-item6553448
+FileChecksum: SHA1: 510c66d1e926a7cc07b171c96231860cc365aefc
+FileChecksum: SHA256: 95ee909bc982ba67dc458e9286509458a7a48106b19b4eb75d9a8b1854682fb9
+FileChecksum: MD5: e3ac0670f347c48d8166c51fec8867eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tsc/meetings/README.md
+SPDXID: SPDXRef-item6553454
+FileChecksum: SHA1: 6f11b5950858f3f6ed99b7b1b0570751bb6f9f3d
+FileChecksum: SHA256: 594b1c9dd3e91669df1ccb9ba49b2e82bcb0e5f058a57923868db0679f0bb634
+FileChecksum: MD5: 2cc7417fdde65262d0ea80f8437057ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/tsc/README.md
+SPDXID: SPDXRef-item6553455
+FileChecksum: SHA1: 19863734fc2aa1732a7ff165733d9705bf7340b7
+FileChecksum: SHA256: cd1247926dccfc377bed8b1f7f1747b601bae87de4de9960b1dde45c86fe8c9f
+FileChecksum: MD5: 6adcebfbf609892792fa783315d5c6b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/README.md
+SPDXID: SPDXRef-item6553456
+FileChecksum: SHA1: 45bf08081db94dfedad77e6a4b1ebdcfdd358324
+FileChecksum: SHA256: 7ffe22f76a78c4a867b036c6555ec856175fd04a36bb4decc774242274dc49fb
+FileChecksum: MD5: b64f03ab6e34a7295106ec693f8ee71c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/SECURITY.md
+SPDXID: SPDXRef-item6553457
+FileChecksum: SHA1: 19ddb606544d1535676066a53206b1447196ef75
+FileChecksum: SHA256: 8c65463fcb1d3ad9423f97a2a9b0f73f30caa8f7dfe0adddd68a38b630dd9624
+FileChecksum: MD5: da6424469c05d527c62aae575d94c4c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: artigraph-2023-12-15.zip/artigraph/.pre-commit-config.yaml
+SPDXID: SPDXRef-item6553458
+FileChecksum: SHA1: cd12faac361da53b02bb42ea49f495eee7f3d875
+FileChecksum: SHA256: 7a01aa9c8ef78a7ef86e3f7fb5555eda1499765f62e274549a4883d21c693b32
+FileChecksum: MD5: 9ce365aaa5d3b3bd82bd2e457cd85a8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
