@@ -1,0 +1,3184 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_OpenDataology-2023-12-15.zip_1702989125.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-12-19T12:32:06Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: OpenDataology-2023-12-15.zip
+PackageFileName: OpenDataology-2023-12-15.zip
+SPDXID: SPDXRef-upload1131
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: c0295563c41be953e1a968f8c92359cce0e1b002
+PackageChecksum: SHA1: 882d12366f9d4218bd4a94193c2f1d061296b200
+PackageChecksum: SHA256: 8e08426eb54ed79c9213e136f58e55a859294e72e2675d0203dcf8eabe4cc320
+PackageChecksum: MD5: 55616faf4e8f2d2bb5e0164d1accf0aa
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1131
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Template/dataSetFormat.vue
+SPDXID: SPDXRef-item6568571
+FileChecksum: SHA1: 512c36a4cd42f83c590dfae5e44c1fb24a31595e
+FileChecksum: SHA256: b93f9dc3e5620e18c4098d98f266fe3306498154b1056c513bb2bbeecfaa6094
+FileChecksum: MD5: 317b27796762c4090e0b661dec7a6da0
+LicenseConcluded: CC0-1.0
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/package.json
+SPDXID: SPDXRef-item6568500
+FileChecksum: SHA1: bded3687be15f368f448ece4bb3e96fcb9707289
+FileChecksum: SHA256: 7450a82ade52f4e645d533437259f7167d81d1add24bfa200c56df444c6e2be9
+FileChecksum: MD5: 459232bc59cf8adf6f66aa6e73a5d05b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/TECH_CHARTER.md
+SPDXID: SPDXRef-item6568671
+FileChecksum: SHA1: 385caa733f7a4b6e23b6f274c5bec0f5aad269f6
+FileChecksum: SHA256: cde1c7898900bb55465a1a026bd0ccf30277d988ef308cfe3368c151ad798b90
+FileChecksum: MD5: 6fa3bf4b43220e4de12e3c0b5b527ae5
+LicenseConcluded: CC-BY-4.0 AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright**. Collaborators acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. b.	**Contributions**. Except as describe </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/README.md
+SPDXID: SPDXRef-item6568690
+FileChecksum: SHA1: 505467adb97d32026c4b1a855dbedd8e69002081
+FileChecksum: SHA256: 189dc6ced4d0b0e9692e8ee49b9fa2ef02cacd175838c747a184e62b776058cb
+FileChecksum: MD5: 79201ac2d3f45989e9d33495253590ce
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/LICENSE
+SPDXID: SPDXRef-item6568656
+FileChecksum: SHA1: 422ebb0e99a985b6041fa4d1fbeb317b7abe76c4
+FileChecksum: SHA256: 4ebf57d13a176b6144b34cdcc89c22c724a8b69e2793a25451536441657d7070
+FileChecksum: MD5: b97bc65d0c1c122f63c428bf3b3f1394
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+copyright. More considerations for licensors : wiki.creativecommons.org/Considerations\_for\_licensors
+copyright–then that use is not regulated by
+copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including
+copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More considerations for the public : wiki.creativecommons.org
+Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
+copyright and/or similar
+copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section
+Copyright Treaty adopted on December 20, 1996, and/or similar international agreements. e. Exceptions and Limitations means fair use, fair dealing, and/or
+copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world. k. You means the individual or entity
+copyright notice; iii. a notice that refers to this Public License; iv. a notice that refers to the disclaimer of warranties; v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically. b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates: 1. a </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/GOVERNANCE.md
+SPDXID: SPDXRef-item6568655
+FileChecksum: SHA1: 9de6ec513a9073b062aafc81f0a0592265f5c247
+FileChecksum: SHA256: 9604a6af53232f17a424ab891314223b3f41f72acc28076ec29c0759c253ff21
+FileChecksum: MD5: 764d4414200ce99348b0c95236f8d272
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the OpenDataology project. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/CONTRIBUTING.md
+SPDXID: SPDXRef-item6568659
+FileChecksum: SHA1: c7ba151cab9b0c4bdd7524312a9821d9f05bfed4
+FileChecksum: SHA256: f4fb658d1badcc8ca315c6273cc7c523b81f25aa9fb035ba77a2e13dafb6b9ed
+FileChecksum: MD5: 86d6cb2d02b0c816aebb9924fe913e0b
+LicenseConcluded: CC-BY-4.0 AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the OpenDataology project. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/tsc/CHARTER.md
+SPDXID: SPDXRef-item6568688
+FileChecksum: SHA1: fb0bb0bf548b210c872d6dee46f2c2d3d1b0b809
+FileChecksum: SHA256: df2ba1f35d1fad53ddbaa7e2cb3b9beb24920d7957eddea21793a800b80d74ef
+FileChecksum: MD5: d3697028828a451e0a0c13c381a88a71
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright in all new contributions shall be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. b.** Except as described in Section 7.c., all code contributions to the Project are </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item6568654
+FileChecksum: SHA1: fe8cfb2a0a4e173e196d7f633b975bce79f93c26
+FileChecksum: SHA256: 820e0827bbfc93013473a1f1464308cf2cf850eb2a793baa97cbfd20a32e607b
+FileChecksum: MD5: a4e88a39a71c26a9f433713e7f042d74
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the OpenDataology project. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item6568507
+FileChecksum: SHA1: 975f9c6e8bff2d6b30320bae7e526bb3bb79a1fc
+FileChecksum: SHA256: dcec8b5be6d2c516a490635bf557c3416a11f4175e5f087cec6b97386837c5e8
+FileChecksum: MD5: 56e34abed8ecb1a8fb6b665d4acabfda
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the OpenDataology project. -->
+Copyright Contributors to the OpenDataology project. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/WHAT_IS_DCO.md
+SPDXID: SPDXRef-item6568657
+FileChecksum: SHA1: f197d14bdb35ad45fb80158892da9b1c90b1afbb
+FileChecksum: SHA256: 4a71348283817ec6ee4a3cf99c6376e47c59228f1377f51797229ff2a52949be
+FileChecksum: MD5: c967a2006f92f89516377cdeb5300d8d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the OpenDataology project. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/.postcssrc.js
+SPDXID: SPDXRef-item6568623
+FileChecksum: SHA1: a232e818d40d04bee8ee660e5ad3b84e78d2e4e6
+FileChecksum: SHA256: fcf938ea0c665305e323efcfd906da7945d74f5baf2d7295e133c49e78c06f1e
+FileChecksum: MD5: 6bc58778960c4adb033e3a583b44d658
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/LICENSE
+SPDXID: SPDXRef-item6568511
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/LICENSE
+SPDXID: SPDXRef-item6568314
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/LICENSE
+SPDXID: SPDXRef-item6568699
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/LICENSE
+SPDXID: SPDXRef-item6568354
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/LICENSE
+SPDXID: SPDXRef-item6568376
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/LICENSE
+SPDXID: SPDXRef-item6568467
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/LICENSE
+SPDXID: SPDXRef-item6568560
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/README.md
+SPDXID: SPDXRef-item6568721
+FileChecksum: SHA1: 8cb4aa3711ebcdc0867b58d3276458560055be01
+FileChecksum: SHA256: b36fd13136862d045c30d73a5b736bb48ee38cd4015f1030ba37499dc533bf77
+FileChecksum: MD5: 23d4a5130af3ee17a1fba996084dfbef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright information efficiently. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/config/api.env.js
+SPDXID: SPDXRef-item6568638
+FileChecksum: SHA1: 5235b3d6734e0954de77b08e739a6c0a5f1afe02
+FileChecksum: SHA256: 6da01969d5d9e690ad8e63f14e85a92cfb032f5cccac2ef8eda696fc822d3ccb
+FileChecksum: MD5: 9a9dbffa84d24228bb64c6ee10b99a56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/config/api.env.ts
+SPDXID: SPDXRef-item6568490
+FileChecksum: SHA1: 909b7406957e339abd1bf78caded29b5cf4a6be9
+FileChecksum: SHA256: 045608b01f659b82f23b00a9e8ec1ac1160f5d917c6f56e578ed32bea42992ed
+FileChecksum: MD5: f4d078b19cd5a20144975c1ddca53318
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/config/api.js
+SPDXID: SPDXRef-item6568648
+FileChecksum: SHA1: 91f96bee8f41fbba05d4820c2c153b94e6cbdc15
+FileChecksum: SHA256: 62d115a9df09ffd5d51d1c92c2da7845a96ede33af106fbdb873c9566c14b706
+FileChecksum: MD5: f4aac44daeb21010e49c9de5b91d16df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/config/api_aibom_generator.js
+SPDXID: SPDXRef-item6568646
+FileChecksum: SHA1: 56ab31d8e21e582faf6d0884acce91e5aac25820
+FileChecksum: SHA256: a0f1288d63a586d8159ef805846995eb59fc3c6cda697bf91523674d17154b61
+FileChecksum: MD5: 3281d43a64c0d3fd585e1e078f2bcb5c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/webnotice-scanner/controllers/basic.go
+SPDXID: SPDXRef-item6568712
+FileChecksum: SHA1: 7390bb34168d5d4111e2e495fd63006666d54a62
+FileChecksum: SHA256: 15ec821e51d89f1279acd74b0417494c9e84697ec57b7d6305ae904bf3825a0d
+FileChecksum: MD5: c23e5ecf221eeb1144e8f30a99eae9d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/controllers/basic.go
+SPDXID: SPDXRef-item6568531
+FileChecksum: SHA1: 13de5b92d097f09b1f0915d85c286248f6a45a7f
+FileChecksum: SHA256: 870d09d197c597f221a0f56a1cf2df986c3423501ca68fb0f4b5066e19848e50
+FileChecksum: MD5: c81d0a07e1caf17d433828e9622635a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/build/build.js
+SPDXID: SPDXRef-item6568557
+FileChecksum: SHA1: e68c9be9d2325eab416f6ed19ecfff2f1dabdb0d
+FileChecksum: SHA256: fa8fc72b253c64d62ed7f09f27aca361e1ee151f726633772d73e6bbf2251505
+FileChecksum: MD5: 454d1df1b24c1cb52186eff27199d60d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/utils/bus.ts
+SPDXID: SPDXRef-item6568474
+FileChecksum: SHA1: ba22ff63b53703c9ae7b2c61b615a82febd23d23
+FileChecksum: SHA256: 0fb9e61e6afdd37a84085b66a48b49653fb80a3e93e1aba18e1d3213957ed665
+FileChecksum: MD5: 3033910059f6c66db5ca0585bfb28fff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/build/check-versions.js
+SPDXID: SPDXRef-item6568550
+FileChecksum: SHA1: b2aeca010233f56d1e260da6d45b7cd15857f7b7
+FileChecksum: SHA256: 27fc4ca2798cfb1401c6567f9839086af0f88001d4deb79dc64531b2620f3c41
+FileChecksum: MD5: ecb871240032fcd1d3101c5b397c820a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/components.d.ts
+SPDXID: SPDXRef-item6568471
+FileChecksum: SHA1: 653b6ac877596b85aedf8eafba53f911b254c557
+FileChecksum: SHA256: 7efadbeec6f9c86a3c0e087d98891f6e79abf35661a137a22dcd132a41f0b223
+FileChecksum: MD5: 37ee471f48ad98043c58295a60900d4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/config/config.d.ts
+SPDXID: SPDXRef-item6568491
+FileChecksum: SHA1: a7e821788ba05eac1871284137174fadf5e8e025
+FileChecksum: SHA256: 3849927d10fb802d742b6c2de928f580ea99da8942acbef10aefe574fdb08e7d
+FileChecksum: MD5: 63fc3ff80c9cf4b6e2ce957ae1a3790d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/config/config.go
+SPDXID: SPDXRef-item6568537
+FileChecksum: SHA1: bfc363b6322c9017c3c81c866667a6c932a1232c
+FileChecksum: SHA256: 906d5d91f17333ef9b5defc94f5d739c3268d450d8ff81b81c0b387bd2807861
+FileChecksum: MD5: 774fa0a6df9bba8cf0f82b1b3f2d6aed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/webnotice-scanner/config/config.go
+SPDXID: SPDXRef-item6568717
+FileChecksum: SHA1: 49b07f30f8e4ea44548c2df9a055f3febd63a586
+FileChecksum: SHA256: a5034b3e9b4357312d77a68cb19a9092ffd060f861a34cf4efe1d8f52d1c6b9f
+FileChecksum: MD5: 9a3ae93e439f2870d730100eef05ae58
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/database/connect.go
+SPDXID: SPDXRef-item6568527
+FileChecksum: SHA1: 5dbdc6c701ceb46e9d39728f93854baa4a592c6f
+FileChecksum: SHA256: b93d66eef3026bfd4c9b7df1fa047fcff32d95578caac6f65323f0597b98eea8
+FileChecksum: MD5: bd323db20be921671e36dbc4f1c5bfcf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/webnotice-scanner/database/connect.go
+SPDXID: SPDXRef-item6568709
+FileChecksum: SHA1: e66fa4ca1ea23f747a82a35e7f01b63ff4a0329c
+FileChecksum: SHA256: 77326d174b133c4ff43ae09462293627b84d91e53f07d70373367c80c1cf28f7
+FileChecksum: MD5: 3020981f4a57850bde40061e85c4bda9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/models/datalicense.go
+SPDXID: SPDXRef-item6568519
+FileChecksum: SHA1: 6046586adba0d17105363efab231579254f4175d
+FileChecksum: SHA256: 63f55d2c18d9a6683f32aa536fc1701faaa5654db54593370c246d82820d1631
+FileChecksum: MD5: 9c801c7a9f1964c7b301252931b16858
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/services/datalicense.go
+SPDXID: SPDXRef-item6568525
+FileChecksum: SHA1: 4570d392531d5f5b91d42c7757fe0649e7a70447
+FileChecksum: SHA256: 6e5071073f92d1059681e788735bf586db60d71ee6f1fa7bb9190000469ca94f
+FileChecksum: MD5: 8bfc353781df50c1ae51c2be870d86de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/controllers/datalicense.go
+SPDXID: SPDXRef-item6568532
+FileChecksum: SHA1: 72d135bae88d6b8a1e18a9948182b2ec7693debc
+FileChecksum: SHA256: c39d87dfb0c8dfefde5fa2721325079024f4399f6c9e910321939ebcd84fe136
+FileChecksum: MD5: 18e4fa6f03cc53e7bf7f1160f7020ffe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/controllers/dataset.go
+SPDXID: SPDXRef-item6568529
+FileChecksum: SHA1: 4fd266a5460241953ae0d7d80f00c046e6efbf40
+FileChecksum: SHA256: b5bf53068bbd05c9e4ba883fb093a56d125353ee4917bd1d117ff6686d62ba8b
+FileChecksum: MD5: eca6274070a7788455f8e7fcde3c7b4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/services/dataset.go
+SPDXID: SPDXRef-item6568523
+FileChecksum: SHA1: 89ba2aa9b1208da044ad5c07d7ee527ad51aaba1
+FileChecksum: SHA256: a42659f60dde9ec0173fa695c420e0d09d2718fcc883daa8281ecd4948648b6a
+FileChecksum: MD5: cf50a2a9e220b76dc9b163713af6aa4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/models/datasets.go
+SPDXID: SPDXRef-item6568518
+FileChecksum: SHA1: ba1d126c04efea71feda6e265710e7ae4f97ee85
+FileChecksum: SHA256: ee0d5a91e196d3593b8a2e8cff9f0b3683956240ac356603957a0687f2fb06f8
+FileChecksum: MD5: f09847dbe16ec4e59bb48ed2f7014831
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/config/dev.env.js
+SPDXID: SPDXRef-item6568647
+FileChecksum: SHA1: 5a00a70cef5a8357f9712c2416d4cc665e5c29ca
+FileChecksum: SHA256: e8d6a25ba07ba4633e4cee125237686451f664dc70efc7dea76246d1f7cf9bf7
+FileChecksum: MD5: f1b16d7cb396159f5a1dc4dfa6fa3dac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/pulgins/elementUI.js
+SPDXID: SPDXRef-item6568566
+FileChecksum: SHA1: 521bec05e3f63b5f4c56288833004ffad86c7bb8
+FileChecksum: SHA256: 5b4c8805a155af57004b8ff716d04dd91aaf3710707a87fb46ed751e686d0a76
+FileChecksum: MD5: 81ef478a576767b6eef3bda023b32f1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/env.d.ts
+SPDXID: SPDXRef-item6568470
+FileChecksum: SHA1: cf27b48d43203bf3d84f260d5f40d099f1e07203
+FileChecksum: SHA256: 8f4a96fbc85745b252ba3a328f736c3b01e072d1f61e00c992a0447dfd7ce5c4
+FileChecksum: MD5: 8c7221deeece3cba078af74d2b413126
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/config/http.env.js
+SPDXID: SPDXRef-item6568642
+FileChecksum: SHA1: 4b458ccffd52e241ce28990c8df551c7cea2b0c1
+FileChecksum: SHA256: 69ca6a84b97b7c0fd76012f0733f152897831380d27a7fa404af5dd318654a9f
+FileChecksum: MD5: be959ecd285e3e1d247a84551a5ed416
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/config/https.env.example.ts
+SPDXID: SPDXRef-item6568489
+FileChecksum: SHA1: 8d21929a06c78e474f15c7716c77456ece552ebc
+FileChecksum: SHA256: fb7f720666be3a6159fbed694d8389e409cacfdbd3d4c48a8630607c6d311ff0
+FileChecksum: MD5: f687ff17d7327ea7c1c74beb5be96ed2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/config/index.js
+SPDXID: SPDXRef-item6568639
+FileChecksum: SHA1: e0fa66fcaf64b2c6171a748a9a38783f336f108f
+FileChecksum: SHA256: 8a243af0dede83409c36b49cd566b1328d07af5541f18adf707f4ea1f751d0d5
+FileChecksum: MD5: 3b3ff6f965c8a41ebf208d03d3172e83
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/router/index.js
+SPDXID: SPDXRef-item6568622
+FileChecksum: SHA1: 535e65b9619bc71d44997f083b8b85f5c16f41e0
+FileChecksum: SHA256: be54b52430167601562333e0e2d3d038610e54953770f8974f027ea8f9e97fc7
+FileChecksum: MD5: e652b922eda0a385b6e65dbc5597b6f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/assets/js/instance.js
+SPDXID: SPDXRef-item6568620
+FileChecksum: SHA1: 2f82a2573f1a23332cd299d85e1d97c55710e846
+FileChecksum: SHA256: 2acfb61103dfdda21868bf1f668327f8621c6222f33c432edada802802a78658
+FileChecksum: MD5: 578d8392d3f535474fbc158e2c1a0327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/webnotice-scanner/main.go
+SPDXID: SPDXRef-item6568718
+FileChecksum: SHA1: d256351c5b4948f2d98e8e595ab89f457c5024d0
+FileChecksum: SHA256: 807634538260b2305ef13ff697d90e87aa9fee9ee6a5859a180a5e22152f4fe8
+FileChecksum: MD5: 9216dec4947913f9ceac8d06b07a1b3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/main.go
+SPDXID: SPDXRef-item6568538
+FileChecksum: SHA1: 66e8d49810ce596aab85c388babb412ed496236c
+FileChecksum: SHA256: 9e630c59d1c4dc8cc4793b8a924174e650fb379fb9d10b43cbcda84b7bcac215
+FileChecksum: MD5: 27ea8abe4e09219de3c750cd3700da37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/main.js
+SPDXID: SPDXRef-item6568563
+FileChecksum: SHA1: 306f719501a6aca913f1e714a9903b8fac06cd18
+FileChecksum: SHA256: 69c5efc4335da4dc21b01dad181b7a1e494cafa00ec3024d71c81876d94ae8af
+FileChecksum: MD5: 49a7d00f576cf61ae5c975f35f5b73d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/main.ts
+SPDXID: SPDXRef-item6568475
+FileChecksum: SHA1: 2f0efe03959cb98786650af58a4f5506bf5a698c
+FileChecksum: SHA256: a7495d540a40e711e23d462d43b76d72ef6d421621e398c6de9e65db40dd2832
+FileChecksum: MD5: 6f5fe24d8c0eceb1d477eb3b5203cbf2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/routes/middleware.go
+SPDXID: SPDXRef-item6568534
+FileChecksum: SHA1: c3afe497d2e0978c2aab2e99d5d0bdbbebeb7c98
+FileChecksum: SHA256: f00cc1ee21541eebf0023c7f9f3906fc18189ac7f76ea9651e9ac51356605b43
+FileChecksum: MD5: 6ed34e76097b15ebcac6698d9e850c91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/webnotice-scanner/routes/middleware.go
+SPDXID: SPDXRef-item6568714
+FileChecksum: SHA1: 73b0963f668117d6d716b8e92774edf37cf41c94
+FileChecksum: SHA256: 236b6e11754ff510d48d354d5ceb8864e3bfdb4f995f91f276c68df3d1d0cedb
+FileChecksum: MD5: 0f14dd3533a8d4d2eddc58905291c691
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/models/model.go
+SPDXID: SPDXRef-item6568521
+FileChecksum: SHA1: c794c1d7f029c12c64b20724c5f7b89da69fb7cb
+FileChecksum: SHA256: 6c7d2abe081aba738ef93521ebedb883700659c0c480efda31af78baa533a8f4
+FileChecksum: MD5: 4498e958ff01bda1c9e9a003cba5b5eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/utils/pagination.go
+SPDXID: SPDXRef-item6568514
+FileChecksum: SHA1: dceb996de38864f52d05b1d905529e36647d838c
+FileChecksum: SHA256: eb78f8fb332ce3f37197ce9024a1889b11e67b3eb1e428532cbc5eb6f5a46b75
+FileChecksum: MD5: 99c8894aef876fe266072a2792f90458
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/config/prod.env.js
+SPDXID: SPDXRef-item6568641
+FileChecksum: SHA1: 417869f66fb88a15de7a808daa5a898fef4be1f2
+FileChecksum: SHA256: cf2a738f1d2b71c331bb717cd733d7ee220487984cd9326eaa7dd263b5c3ad59
+FileChecksum: MD5: 7d272a0b0213c75042532c5632655d98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/routes/router.go
+SPDXID: SPDXRef-item6568535
+FileChecksum: SHA1: 186b98496f899849ff8dfeaaf6c6ef55272ee2e1
+FileChecksum: SHA256: 82488ad88538cc662f4ad20e084f685a28179014bcc434644829105ba3d506c5
+FileChecksum: MD5: 3a5ddf5de9668cc2237b1978765ecd26
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/webnotice-scanner/routes/router.go
+SPDXID: SPDXRef-item6568715
+FileChecksum: SHA1: 3ef3b42d642e78e319432f95d856b98f3889627f
+FileChecksum: SHA256: 69545cb79342c4e1a2325a8acf4f794e9fad346f556f070a70c3a9fe65cf9df1
+FileChecksum: MD5: 292f0da7ebb0cd7503e7b6eac95238cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved.
+copyright", basic.GetCopyright) </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/webnotice-scanner/controllers/scraper.go
+SPDXID: SPDXRef-item6568711
+FileChecksum: SHA1: 2b46c5af46c0987576f1a8e70215b054fbdd53f7
+FileChecksum: SHA256: 6206351a37926bc27b7271d664535a366e3c5da52dc77ea082f3b4a7672af860
+FileChecksum: MD5: 5b89acbf70f326ab4060f0f32abd0172
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved.
+Copyright(c *gin.Context) { url := c.GetString("Url")
+CopyrightService(c, url) a.JsonSuccess(c, http.StatusOK, res) </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/webnotice-scanner/models/scraper.go
+SPDXID: SPDXRef-item6568705
+FileChecksum: SHA1: 2b3969c40d1a9851e1c28c894bd2bb6c319db07e
+FileChecksum: SHA256: 768e33a3bdda17f42de625a16e96adc6a1586639d24680f80bcc29e29f2fd6e3
+FileChecksum: MD5: c25601f0479fc36f307c14a4fe0b34d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved.
+Copyright struct { Id int `gorm:"type:int;primary_key;autoIncrement" json:"id"` License_name string `gorm:"type:TEXT" json:"license_name,omitempty"` Licensor string `gorm:"type:TEXT" json:"licensor,omitempty"` License_content string `gorm:"type:TEXT" json:"license_conte
+Copyright(url string) (copyright *Copyright, err error) { content, err := fetch(url) if err != nil { return nil, err
+copyright keywords
+Copyright", "©", "版权"}
+copyright = &Copyright{ License_content: content[index:],
+copyright, nil
+copyright information found") return </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/webnotice-scanner/services/scraper.go
+SPDXID: SPDXRef-item6568707
+FileChecksum: SHA1: 3386d1778630f86cee83d43e3a54a16f699c28cf
+FileChecksum: SHA256: d36125f864fe1305709ac2417d98c6b01c85bcc0054ad6021f030a28f30108d2
+FileChecksum: MD5: 3e7d296a3c575645d51fbc3bf2a62b73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved.
+CopyrightService(c *gin.Context, url string) (h gin.H) { user, err := models.GetCopyright(url) if err != nil { if err.Error() == "Url is invalid!" { c.JSON(http.StatusOK, gin.H{"err": "Url is invalid!"}) else { c.JSON(http.StatusOK, gin.H{"err": "DB Error"}) </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/utils/token.go
+SPDXID: SPDXRef-item6568515
+FileChecksum: SHA1: 71c0c6e9b1d921feb88b7f7d877f4f383afabd32
+FileChecksum: SHA256: bcd1b6b2a9a138cd6e929cab986ed52dc498150badddc374acd8b06cdbe025bd
+FileChecksum: MD5: 31cd0f03dad71d9ed8428998b368eaed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/services/user.go
+SPDXID: SPDXRef-item6568524
+FileChecksum: SHA1: 868eb093cc5aeb971e7f7f5892622a892c39ac69
+FileChecksum: SHA256: d6985c3dcf0cbd3b6c7dcde4b2668617ac414b53a101a966e5899de3597cfb81
+FileChecksum: MD5: 408f341d49a4197220e75dd1e3103383
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/controllers/user.go
+SPDXID: SPDXRef-item6568530
+FileChecksum: SHA1: fa410e9f1b62ef14418c0f32a38abd305b1e90b1
+FileChecksum: SHA256: fe92af109629ee1c788363abed24d9162b3342e0afc9497a292ab386e3aed8bd
+FileChecksum: MD5: 74c19c2040bd0a0cba2768f043e038d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/models/user.go
+SPDXID: SPDXRef-item6568517
+FileChecksum: SHA1: e0c94c896e13f1538bebde459fa3189eb1a7ee1c
+FileChecksum: SHA256: 326735588bb859b1e49ea02dc301dcbb558b865b2f978bb52b5401e67d6dae0e
+FileChecksum: MD5: a8d9588bd80713406683e7268a34626e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/build/utils.js
+SPDXID: SPDXRef-item6568553
+FileChecksum: SHA1: fc0ebc6828ac952774a6e62251375da3909065e2
+FileChecksum: SHA256: 8c7cfd4d1b999e781b1ea05f60619b73623eb6d7f772dc69d30e9983bc447df6
+FileChecksum: MD5: a3053b8c0c5d0b2c24b3913f347d16aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/vite.config.ts
+SPDXID: SPDXRef-item6568497
+FileChecksum: SHA1: 61ced95a284f784a093a9d3e82a48a50bbd1cf78
+FileChecksum: SHA256: dd7c2035345018f6e64c265fd7f764fc03826d684c84a87913c7ffaa0a53040a
+FileChecksum: MD5: 6bbeb6360bf5c49fc0d47da934d8d2d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/build/vue-loader.conf.js
+SPDXID: SPDXRef-item6568555
+FileChecksum: SHA1: a76d34cf4f5d8a983eb8ecdd2c54d2a9faf3d341
+FileChecksum: SHA256: 31e877382caf623428a13ae48620ee10d552c022a09f7e484c5bd6a00bb3d060
+FileChecksum: MD5: 0c2323a1c7a74e157aa6b7237ef01cd1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/build/webpack.base.conf.js
+SPDXID: SPDXRef-item6568554
+FileChecksum: SHA1: f77e9009d622ecb21d1b65b18df2c1ee7d988eb9
+FileChecksum: SHA256: d25f81ec13782d6ea1980e2980be7b7d65982f3e8760c24f0c4af492120cde93
+FileChecksum: MD5: 8339a83d8534bfb679cc530b36ebd371
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/build/webpack.dev.conf.js
+SPDXID: SPDXRef-item6568551
+FileChecksum: SHA1: a2f08edea4d8be18a8b018c5920c2adeb38e6fce
+FileChecksum: SHA256: 161132368de1c803f3429cc310d027589dc60225149b7cfe3e81c50620f8475e
+FileChecksum: MD5: 58161f5db2d611173847b7ed96dc5258
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/build/webpack.prod.conf.js
+SPDXID: SPDXRef-item6568552
+FileChecksum: SHA1: b6fce7bdab076f29475986e481e287a081ef495a
+FileChecksum: SHA256: 1984549dac07f2b06a03fb9c31138b51c4380842c26b24bb6aba4e585593e70a
+FileChecksum: MD5: 31149066212d1b5d80025232286a4429
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 The OpenDataology Authors All rights reserved. </text>
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/util/namespace.py
+SPDXID: SPDXRef-item6568317
+FileChecksum: SHA1: 7d55d7e81697b0abadc031fa1b68c032094d8470
+FileChecksum: SHA256: 2cf0dcdbab06ef8356d3384e7ae0f0f77a6c6f4456e2f8eba2ac578a6c5365c2
+FileChecksum: MD5: 1474a0fdb61bdf9730b41c85eae633fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/util/__init__.py
+SPDXID: SPDXRef-item6568318
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/conf/db_conf_demo.py
+SPDXID: SPDXRef-item6568320
+FileChecksum: SHA1: 6055fa659a8ff8adc7548f1566c9ee8a8f74aeec
+FileChecksum: SHA256: 3ecf5e08662ecee338d0fa5b2d101902309fc3a8efadcd8e164ba9f1108939fa
+FileChecksum: MD5: 93963a7c9313a5d49ca09dc38fbd71a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/conf/__init__.py
+SPDXID: SPDXRef-item6568321
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/controller/__init__.py
+SPDXID: SPDXRef-item6568323
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/controller/dataset_review.py
+SPDXID: SPDXRef-item6568324
+FileChecksum: SHA1: 0dc4802da0516386314bc8c8695ca3a124a3bd69
+FileChecksum: SHA256: 83a59ef5586a9f54b94f72eb94bfe5dba35b0d02ba8dd4280c4ded95bfd67a2c
+FileChecksum: MD5: d40404d005d9a79fd98375314031119e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/model/db_models.py
+SPDXID: SPDXRef-item6568326
+FileChecksum: SHA1: d935ef4be7d347e2700f44400ba5079fd3ea148f
+FileChecksum: SHA256: b93d8c88c0d193298970eadfa5bbda47d5e4abb7f9663ba99842d8ed54ff3cf4
+FileChecksum: MD5: 96f65bb9dda4e5954a3b84b397a03462
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/model/__init__.py
+SPDXID: SPDXRef-item6568327
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/__init__.py
+SPDXID: SPDXRef-item6568328
+FileChecksum: SHA1: 002cfa9a9fedc85f9e929c200077838c324b6445
+FileChecksum: SHA256: 6748495e8f2d0a4ceea4ef094e164a4cce6cd46d9c4a0b48a3522f223ae7cc3b
+FileChecksum: MD5: 18719f4eba0b2cb025268f473dc2af9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/data_transform_object/license.py
+SPDXID: SPDXRef-item6568330
+FileChecksum: SHA1: 585d22cd9abac872fcc4adf3bb061e6613407086
+FileChecksum: SHA256: e994b8f685012ebb5fa477026a3910857f59c7bad37e1c4f3f14160884900d35
+FileChecksum: MD5: 4c9448d6f1dd3736b541c9c02e5f8edf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/data_transform_object/__init__.py
+SPDXID: SPDXRef-item6568331
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/data_transform_object/user.py
+SPDXID: SPDXRef-item6568332
+FileChecksum: SHA1: f4fb4dc1b8d2c5b9b112324d6df82fd7c94e1ea4
+FileChecksum: SHA256: 26b7fabdc1874e4a704c58ad50686331725366b9779faeee6f514ed7888857c5
+FileChecksum: MD5: e2e53cfc6ef9df02ce9066f1e1f690c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/data_transform_object/admin.py
+SPDXID: SPDXRef-item6568333
+FileChecksum: SHA1: a2a7db54b00ecddde8afa7c0bb5d3ed9e18d92dc
+FileChecksum: SHA256: d1e73d14fa320ecbcab9021da708066260a55005fed92f47ef56b81f7311ff0e
+FileChecksum: MD5: f80d308c88edea37855dc96727513cb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/data_transform_object/dataset.py
+SPDXID: SPDXRef-item6568334
+FileChecksum: SHA1: a58215e929d3fb1e7e0bb454ec2a9a96b9de86a3
+FileChecksum: SHA256: 5b908d08182eb9ccd84775984ababb911d30749350bcd8fc56e4da110c88b304
+FileChecksum: MD5: 1580d048497ed90d084f786963e082c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Non-commercial
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/api.py
+SPDXID: SPDXRef-item6568335
+FileChecksum: SHA1: bd779ed1106bd4a16ada355699317670dcfe38c5
+FileChecksum: SHA256: 3895b04a59f046d03365fd2a6fdb185600cfda583ca1903f2d80c38730ad86cb
+FileChecksum: MD5: a6bef794f422db9f0f541f285754b69a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/main/service/dataset_review.py
+SPDXID: SPDXRef-item6568337
+FileChecksum: SHA1: e77711511abd69b4e399df48e55656988a862efb
+FileChecksum: SHA256: 8d3219ff2bc5ca741622785f5e1c2d63989e45b3375a00f9742f11908b6462a9
+FileChecksum: MD5: 48ebb833c876df1871bb5ea47a2c4555
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Non-commercial
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/k8s/deployment.yaml
+SPDXID: SPDXRef-item6568339
+FileChecksum: SHA1: d1af17afe067713f1962a47955f2384ffbdf2bda
+FileChecksum: SHA256: e9d3d5a1a7a2f2cf878091dfc48814aaae9c93b760185fb78acba7063fea15d6
+FileChecksum: MD5: 3bd8930dfbd025a399a4a41caacb2dcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/k8s/service.yaml
+SPDXID: SPDXRef-item6568340
+FileChecksum: SHA1: 2410bd32b66893caa3d6ee5b1a24e57d1c4db74d
+FileChecksum: SHA256: 81ecf0af68b7c79f91055b8bef95757591e106d984e4cf1fc7ce20e32f612a07
+FileChecksum: MD5: fc81e265d8b88171e1567e2972090aa5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/app.py
+SPDXID: SPDXRef-item6568341
+FileChecksum: SHA1: b3932325c05deaec20ce7e3b5612d8d4ee06e415
+FileChecksum: SHA256: e9c4858854965f16382039012b8733f2aed663722806747f71e86fa9082cedd8
+FileChecksum: MD5: d4dba3f277034bcd1c613a1d16670f3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/.gitignore
+SPDXID: SPDXRef-item6568342
+FileChecksum: SHA1: bc806bb2d3a4a8d5f216902f7e0df7634e65ef5c
+FileChecksum: SHA256: e4fcdc129ab75031890d7c9f39d48c28ae02e981b639d26b495fc68e94d18887
+FileChecksum: MD5: 9f8b663730b98d3ed0542bb215766fd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/requirements.txt
+SPDXID: SPDXRef-item6568343
+FileChecksum: SHA1: 8df157d8a73aec1a611e590bdcad742557ddd54b
+FileChecksum: SHA256: b105e56f964d07576dcb261fd766de02a76df28efb772d49be5679ca807206d6
+FileChecksum: MD5: 1a109bcac464f4b056b33ad7287dfdb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/readme_src/API-Document.png
+SPDXID: SPDXRef-item6568345
+FileChecksum: SHA1: 0a6c7ed1bbabb645ee199ee9c91f63f70e30956f
+FileChecksum: SHA256: fe905c1f0ae28db9bfab3512ee4cd9e84c7175d8ec9d1ca5e8229fb92e9bafc3
+FileChecksum: MD5: 29df05aff8db3bc151065d25fc3b0439
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/readme_src/Database.png
+SPDXID: SPDXRef-item6568346
+FileChecksum: SHA1: cb9fb5ff101d8f135df81a002b442bec16919e68
+FileChecksum: SHA256: 6004ad407edd6262f8af5a22f95058b16ea2e8f39a8836f89d0feb524992fb78
+FileChecksum: MD5: 039d72b9eff484c2eb173c14a112be57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/readme_src/werkzeug_vlab.png
+SPDXID: SPDXRef-item6568347
+FileChecksum: SHA1: 0a7a93938415f2bc23c22d83db40eaf12f49e6e7
+FileChecksum: SHA256: f58ffd42a0855fe48f6840a0ac2a1f19638fe1e7a32cb50824bb93fa759d4048
+FileChecksum: MD5: fe036aeeee1f4505f1aca50f49e58481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/readme_src/hierarchical-architecture.png
+SPDXID: SPDXRef-item6568348
+FileChecksum: SHA1: 280e76d17e5495a5a416c40e903abd7acaa197ff
+FileChecksum: SHA256: b6806e463883e762f63ef12b9521c22d0264912ade743544867960df4bd599ae
+FileChecksum: MD5: 9c7f4637c72152bc6b7d725a1c24db9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/readme_src/werkzeug1.png
+SPDXID: SPDXRef-item6568349
+FileChecksum: SHA1: 139a3f0908a97eda649bcdc0bbe27079836437f5
+FileChecksum: SHA256: dac928cb682827799f6413f4dd7c2d4a90eb619521bc14cc1620e3b9920a1bba
+FileChecksum: MD5: 0e846bac5fa64cdbdc0a5fc4c5a70e5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/readme_src/werkzeug2.png
+SPDXID: SPDXRef-item6568350
+FileChecksum: SHA1: 1006f4f7f8bb6852cd0f951e197498195ae8fb51
+FileChecksum: SHA256: b92c778b6f89af13a38d267ef6d8ede11c3bd01cf1714c5a0ac42919d933801d
+FileChecksum: MD5: 2a577dd11d79ee6317259ed198d50420
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/Dockerfile
+SPDXID: SPDXRef-item6568351
+FileChecksum: SHA1: 62a36a5a69e8d51f8cb87146660d3a3a3a7a7570
+FileChecksum: SHA256: 6d208e1c39714c9911602ea2fe22bbbe09408b34069b96808d475ab085afb2ac
+FileChecksum: MD5: cb8d720b6f623e8784c96026a7997f9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/dataset-reviewer/README.md
+SPDXID: SPDXRef-item6568352
+FileChecksum: SHA1: 6bd1892291093199505523b1076a72c249eeaae4
+FileChecksum: SHA256: d8ba23a0ccdb79c46c8fc698af7b028738bcebe21c3bdd4dcd3b25c0953b6e9b
+FileChecksum: MD5: 1f7562b92cc0a4e78ab0b66325a39551
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/fintune_data_example/finetune_law_data.json
+SPDXID: SPDXRef-item6568356
+FileChecksum: SHA1: 28197f5f60e36fe3140ccfbbc322001335b2d054
+FileChecksum: SHA256: 34ad01f79addf9c926183b64c3b31de257ed1157bd4ad710106c8c80245801de
+FileChecksum: MD5: 4fe9ea6b19b6e5278df46989482b4013
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/scripts/merge.sh
+SPDXID: SPDXRef-item6568358
+FileChecksum: SHA1: 0aad9c1ca92da9b279d9fdb402d169e33c6f4714
+FileChecksum: SHA256: 3eab2519921d27993522a8efe2f50517ba063f04a2149135b8f8d101c17a747a
+FileChecksum: MD5: 6eaf93df26a4cdd1abfd0e37b47ee4f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/scripts/finetune.sh
+SPDXID: SPDXRef-item6568359
+FileChecksum: SHA1: 4a61bbb8eda1402835d44937ae07d26b0719a05e
+FileChecksum: SHA256: b5fb2676b499ae5dc2139b1ed3b18d021837b44d9165463d053c66bc6f729b3c
+FileChecksum: MD5: 94ba477169d419072b918680521fd41b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/scripts/README.md
+SPDXID: SPDXRef-item6568360
+FileChecksum: SHA1: 0f3e4413d3bedcf227a3745eaa1b9b187f58af82
+FileChecksum: SHA256: dda819182109faab4ae2c9c449898453eafd9dfe2a4a71c057b1195c9dd1f559
+FileChecksum: MD5: da6f45fde94fecd79b0ed07a733d8bdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/scripts/webui.sh
+SPDXID: SPDXRef-item6568361
+FileChecksum: SHA1: ba5c06ce5d57b1af565484740aae3ed009cbb552
+FileChecksum: SHA256: d8b8f57f02f2e5c0bbb9e4753eb7742c7199c73e424edca65a4ab55e4a4f9b98
+FileChecksum: MD5: 00fad8784492a4ae086ac658493a5139
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/prompt templates/license_master_v4.json
+SPDXID: SPDXRef-item6568363
+FileChecksum: SHA1: 85971be1a4e3eeb6949fdc366d3d4a877d7be363
+FileChecksum: SHA256: 3a98773147ed52382dfc9103e298cbd1da6fc3affe25c29355f86470e7e72642
+FileChecksum: MD5: 41fce1bcd9c9e14fcbab8d2af594d46c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/prompt templates/license_master.json
+SPDXID: SPDXRef-item6568364
+FileChecksum: SHA1: 07169b815dd0ab92d7ff080d86303f7bd45c90a4
+FileChecksum: SHA256: 3e68b8f086fc816d4e6e796817bd4c8c29a5e084eaa7c2ce450c380503825fc5
+FileChecksum: MD5: 9411e2a5c24820ba57c2f70538fe43ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/prompt templates/license_master_v2.json
+SPDXID: SPDXRef-item6568365
+FileChecksum: SHA1: 4658b4e14bbdf6968e64ba8b48b0f5d2697029ef
+FileChecksum: SHA256: eea50c886a8429158241115831ba06bd69b9c728cdc728b777053b5160e91b4f
+FileChecksum: MD5: 7826d86f436a09514f48862e34890ed9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/prompt templates/license_master_v3.json
+SPDXID: SPDXRef-item6568366
+FileChecksum: SHA1: a145215e8fad48e2754122ac133d5a076685c76e
+FileChecksum: SHA256: 53ab7ee0c60b9cd98cdf9e9fbd2f8df8c4342c6ddc763be8a91a3b46bce32e36
+FileChecksum: MD5: 6f9f9ed655fd258d4c9e9566f2190368
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/README.md
+SPDXID: SPDXRef-item6568367
+FileChecksum: SHA1: 526a59ef572128e8f24bdfd8fc442e8fc98b828b
+FileChecksum: SHA256: e59ec19f9c9fb9b6a8cb004b8f085513271e3d43d238fa46869ea8ba43fdad1b
+FileChecksum: MD5: 20ce75e43139da98b48f1265e054de00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/doc/20231011 LicenseFramework.pdf/20231011 LicenseFramework
+SPDXID: SPDXRef-item6568371
+FileChecksum: SHA1: e60e0fdede2dc879987197bf1455ed9edea874d7
+FileChecksum: SHA256: 84d8f2854e9db6516698c0bb1c4870001e8b8ac30a185b5982f05e38e8d79a55
+FileChecksum: MD5: 2fae883a3bb224d04cb1392859fe57d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/doc/README.md
+SPDXID: SPDXRef-item6568372
+FileChecksum: SHA1: 9b57349270cd80eb9e1d3acd75f945de4fb25124
+FileChecksum: SHA256: b93e1671746d741e2aa24eddc58eacf6ae2b896be847ee66241380cfc033ce3a
+FileChecksum: MD5: ac3b6595fb7d51a49b196d6a7b41d433
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/LicenseGPT/assets/Instruction Finetune Training.png
+SPDXID: SPDXRef-item6568374
+FileChecksum: SHA1: afe4c804d0fa962bdb79845e12b19641ffcc143a
+FileChecksum: SHA256: a12ab5af9e3df9af06bb176e37b77dfd629a78aaa7ef468aac1ba3209ac07b28
+FileChecksum: MD5: 9a55fcdfe0d8154fbbe6dd6da283e172
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetcompliancereviewer/build/sampbuild
+SPDXID: SPDXRef-item6568379
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetcompliancereviewer/docs/sampdoc
+SPDXID: SPDXRef-item6568381
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetcompliancereviewer/src/sampsrc
+SPDXID: SPDXRef-item6568383
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetcompliancereviewer/res/sampres
+SPDXID: SPDXRef-item6568385
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetcompliancereviewer/examples/samp
+SPDXID: SPDXRef-item6568387
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetcompliancereviewer/test/samptest
+SPDXID: SPDXRef-item6568389
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetcompliancereviewer/dep/sampdep
+SPDXID: SPDXRef-item6568391
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetcompliancereviewer/.config/sampconfig
+SPDXID: SPDXRef-item6568393
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/messagenotifier/build/sampbuild
+SPDXID: SPDXRef-item6568396
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/messagenotifier/docs/sampdoc
+SPDXID: SPDXRef-item6568398
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/messagenotifier/src/sampsrc
+SPDXID: SPDXRef-item6568400
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/messagenotifier/res/sampres
+SPDXID: SPDXRef-item6568402
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/messagenotifier/examples/samp
+SPDXID: SPDXRef-item6568404
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/messagenotifier/test/samptest
+SPDXID: SPDXRef-item6568406
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/messagenotifier/dep/sampdep
+SPDXID: SPDXRef-item6568408
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/messagenotifier/.config/sampconfig
+SPDXID: SPDXRef-item6568410
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/SPDXlicensesynchronizer/build/sampbuild
+SPDXID: SPDXRef-item6568413
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/SPDXlicensesynchronizer/docs/sampdoc
+SPDXID: SPDXRef-item6568415
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/SPDXlicensesynchronizer/src/sampsrc
+SPDXID: SPDXRef-item6568417
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/SPDXlicensesynchronizer/res/sampres
+SPDXID: SPDXRef-item6568419
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/SPDXlicensesynchronizer/examples/samp
+SPDXID: SPDXRef-item6568421
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/SPDXlicensesynchronizer/test/samptest
+SPDXID: SPDXRef-item6568423
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/SPDXlicensesynchronizer/dep/sampdep
+SPDXID: SPDXRef-item6568425
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/SPDXlicensesynchronizer/.config/sampconfig
+SPDXID: SPDXRef-item6568427
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetlicenseuploader/build/sampbuild
+SPDXID: SPDXRef-item6568430
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetlicenseuploader/docs/sampdocs
+SPDXID: SPDXRef-item6568432
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetlicenseuploader/src/testsrc
+SPDXID: SPDXRef-item6568434
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetlicenseuploader/res/sampres
+SPDXID: SPDXRef-item6568436
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetlicenseuploader/examples/samp
+SPDXID: SPDXRef-item6568438
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetlicenseuploader/test/samptest
+SPDXID: SPDXRef-item6568440
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetlicenseuploader/dep/sampdep
+SPDXID: SPDXRef-item6568442
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetlicenseuploader/.config/sampconfig
+SPDXID: SPDXRef-item6568444
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetmetadatauploader/build/sampbuild
+SPDXID: SPDXRef-item6568447
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetmetadatauploader/docs/sampdoc
+SPDXID: SPDXRef-item6568449
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetmetadatauploader/src/sampsrc
+SPDXID: SPDXRef-item6568451
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetmetadatauploader/res/sampres
+SPDXID: SPDXRef-item6568453
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetmetadatauploader/examples/samp
+SPDXID: SPDXRef-item6568455
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetmetadatauploader/test/samptest
+SPDXID: SPDXRef-item6568457
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetmetadatauploader/dep/sampdep
+SPDXID: SPDXRef-item6568459
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/tools/datasetmetadatauploader/.config/sampconfig
+SPDXID: SPDXRef-item6568461
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/docs/guides.md
+SPDXID: SPDXRef-item6568464
+FileChecksum: SHA1: ef8f9d3949940589912ecf9ca4058278f6ddea44
+FileChecksum: SHA256: b8b80228030ec0c5db45efad01a94efb4189b03e747ae95ae4d62901ee02c339
+FileChecksum: MD5: a03c0dcbd6797f87f4da10ae17c86754
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/.nginx/nginx.conf
+SPDXID: SPDXRef-item6568466
+FileChecksum: SHA1: 31ddf39b0e6a3a3b768320ec08d2eb49b21172a2
+FileChecksum: SHA256: 85994aefa0c03136c66c7070a7ff463c518679e584b07787008b27243d347034
+FileChecksum: MD5: f9c80e0282e0e6ea614322a0453fe286
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/tsconfig.json
+SPDXID: SPDXRef-item6568468
+FileChecksum: SHA1: 9ef51228e420940711ee6d79635341be66c0807d
+FileChecksum: SHA256: 7b044d696ba7039c4f5ec609608dc6a6ba384a81eea51e6bb8bad0a079de00b4
+FileChecksum: MD5: 8ed9d7846f4041e8fb841f692be3a50b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/App.vue
+SPDXID: SPDXRef-item6568472
+FileChecksum: SHA1: eacd9094c8a1369457e2dc76592e993de301949d
+FileChecksum: SHA256: aba94af0799f068454de3fe1d62fea7557434ffa40a7f9c9419293790fb5f824
+FileChecksum: MD5: 68c6fff0f8f56f8652b94c17ef5722c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/components/HomePage.vue
+SPDXID: SPDXRef-item6568477
+FileChecksum: SHA1: 4495597a9f3a1987693e6799d562acef3c7b6363
+FileChecksum: SHA256: 35786da6da867cd86c91bb2fc4f5b058e3d1cc4666feda88e23d685245b470b1
+FileChecksum: MD5: 2eb09e911afb6785e90e316fe8545e01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/components/layouts/BaseSide.vue
+SPDXID: SPDXRef-item6568479
+FileChecksum: SHA1: b10a51943b2987a34502bab7c3c2232869b4cd3d
+FileChecksum: SHA256: e832e1d940e89da1038b464ccfe59e0d27cc0fefa5a3c604e248841d0966264c
+FileChecksum: MD5: a5273c12123adec9f948348077b4f2e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/components/layouts/Content.vue
+SPDXID: SPDXRef-item6568480
+FileChecksum: SHA1: 5d71ca22041460022127834473f580f1c3acd0c1
+FileChecksum: SHA256: fb9914b5f36d3dd45f1eead94c65a3812020eca7e15a061a959145a9b7e685ae
+FileChecksum: MD5: 50444242b17224f13ea881edbf70c4cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/components/layouts/BaseHeader.vue
+SPDXID: SPDXRef-item6568481
+FileChecksum: SHA1: 66e5d8c71aac47ea31ac64d9fc96d940d7edc9e0
+FileChecksum: SHA256: f4c4eb0a23a04f41ee80f6ceb5893eab5329f1d6952f18f1e50e6dc70b9324d2
+FileChecksum: MD5: f9cd7fb8e31c6b2fe15528f002a9f556
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/styles/index.scss
+SPDXID: SPDXRef-item6568483
+FileChecksum: SHA1: bab9305d8a689b56ba1996d9b611c94518f4e76f
+FileChecksum: SHA256: 0edb56c891c9091e34008c8b031fea358e21021c8ab1168dfcc94d5ae551f7d4
+FileChecksum: MD5: 05b299deb437b2d9a8a9645ee053c6c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/styles/element/index.scss
+SPDXID: SPDXRef-item6568485
+FileChecksum: SHA1: c1627d251442054992bd2354941b894f10fd28c3
+FileChecksum: SHA256: 060077198aa4bc893fa3fc6fb4706c0904f75efd95f7014faf07fe4e5343f424
+FileChecksum: MD5: d51a11a824c4d97fca680ab5650c8d71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/src/assets/logo.png
+SPDXID: SPDXRef-item6568487
+FileChecksum: SHA1: 03a3216795c03dcc57560ab896d5f168ac254255
+FileChecksum: SHA256: 14e7cf56b28d3a2d9391c6cf0e0f2c89260df4713c9a52e5d9efe9f8205a14fc
+FileChecksum: MD5: 5bc6b00c90277945a47e64fcdf8347ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/k8s/deployment.yaml
+SPDXID: SPDXRef-item6568493
+FileChecksum: SHA1: 95c5df66979d0dc5279c3432afaf1858461ce38a
+FileChecksum: SHA256: 3afdc8d51efd2a215714125d47da0e87c81a0c1689ba14277def35a1e00c6879
+FileChecksum: MD5: 054851b6988a678ff9a614c6ce9dd961
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/k8s/configMap.yaml
+SPDXID: SPDXRef-item6568494
+FileChecksum: SHA1: 883dae8e30b14068bc5548fabd4d68d4eb156ceb
+FileChecksum: SHA256: 6373694955975500b82c14809822a063455e8485f81f48fff8869e294fbe038d
+FileChecksum: MD5: 52a6269ee6db5104b459d397c1ea4776
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/k8s/service.yaml
+SPDXID: SPDXRef-item6568495
+FileChecksum: SHA1: 8216cf2a9ed685fb121076bfd0d5ae148b9f358e
+FileChecksum: SHA256: 3aa1b347307190de37a01384346a21b9cf2ee13db3cd6c1d158c6bf064408e3d
+FileChecksum: MD5: 92c938f3cb79a4571218abcd89ae024c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/.gitignore
+SPDXID: SPDXRef-item6568496
+FileChecksum: SHA1: 5e70a3147eb8a43fef74e8d7bd4b8613c529b06d
+FileChecksum: SHA256: 2f12530dc7c0db2af05eaf059c6605104666dd97bc9e2dbea2c7b08927c87ed0
+FileChecksum: MD5: efd72383609320864636f6ef297790a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/Dockerfile
+SPDXID: SPDXRef-item6568498
+FileChecksum: SHA1: 105a7ff3a983636054eff83af4968bae9eb39035
+FileChecksum: SHA256: 1ec11c1f6997c181bb9de86a64f4e16f4509b064233c89e1dcf67a87e0b21236
+FileChecksum: MD5: db4524adb5d810a8955ea594695af546
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/README.md
+SPDXID: SPDXRef-item6568499
+FileChecksum: SHA1: 53596a908bbe424a4f188a574276d8740c25aa3a
+FileChecksum: SHA256: 2695e668c8a3340291fcde5a32428bde930a37e31864e0853d29ce20948ae301
+FileChecksum: MD5: 83da6405b8ffc1c7f6c192b3f2e40ec1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Non-commercial
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/public/CNAME
+SPDXID: SPDXRef-item6568502
+FileChecksum: SHA1: f7d80bdabd1cf459a069f98bd07318dda2acf128
+FileChecksum: SHA256: efded0427e15443134329aa6288db47812bed1e7a256d9a17956c03fba6aec7c
+FileChecksum: MD5: 96dc3e980d9ddf9e875d4a29c3c9a0f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/public/favicon.svg
+SPDXID: SPDXRef-item6568503
+FileChecksum: SHA1: 647b5cbc894877ab8a7e37c8fdcb6d4c773939dc
+FileChecksum: SHA256: 14a55fbf36d4157945b9312abebe07e2942d4f1e2752a39551e943ee390f5831
+FileChecksum: MD5: 410ee9a014069c9c304528413fc0d9bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/public/element-plus-logo-small.svg
+SPDXID: SPDXRef-item6568504
+FileChecksum: SHA1: c7c8893c5ca07d1dfcbe67d2c97727b0f1d50463
+FileChecksum: SHA256: 906a88407a73ecacf70169ccb229aadb61da96631a87ce8edd35cc7f18ebf1cd
+FileChecksum: MD5: 27dc8351aff2262dce3efbe74d2e1cf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/license-generator/index.html
+SPDXID: SPDXRef-item6568505
+FileChecksum: SHA1: a4ec2a1af08e4fb1b5fe9d558b69a4adcd9f279d
+FileChecksum: SHA256: 781843f81de55b761d9cdfa21ce64a44ec2620d417e0875ad044ee60d5c36cfc
+FileChecksum: MD5: 5e9f9a9d7b66e44a43f3c57a9a1690a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/docs/images/structure.png
+SPDXID: SPDXRef-item6568510
+FileChecksum: SHA1: 838e101087da91e215df87c6864d2d56e41da2d5
+FileChecksum: SHA256: 8fe21f77fbd17a1ec4c86092ea62a5e0edd752457efbc6cb5aad91db0db91082
+FileChecksum: MD5: 6501e1f5db875dd95791c45194316682
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/src/models/condition.go
+SPDXID: SPDXRef-item6568520
+FileChecksum: SHA1: 41c2199012228f989026cc7c972929281bbfab0a
+FileChecksum: SHA256: 938aafda8fcf4ffa766fb5dbeda0fd7e9312ad32d8d1a6601cc2ee39868270d5
+FileChecksum: MD5: 644cb63cf3a4fbc0e970d973ca6565f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/k8s/configMap - template.yaml
+SPDXID: SPDXRef-item6568540
+FileChecksum: SHA1: 183117b61e37e03d16cec4f66c0849b982c21c15
+FileChecksum: SHA256: 1a7485f67d7c9cc523547e4da11b1df6e11b5e8c2ec90b280590ef1fb778af96
+FileChecksum: MD5: bf55a4b2f7fd105d199b7ff367f42ef3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/k8s/deployment.yaml
+SPDXID: SPDXRef-item6568541
+FileChecksum: SHA1: 3c925cece376ffd58cbe5285c33b08ac287a33e6
+FileChecksum: SHA256: 52a8ce4248a376afc32a5090829af10852941c369a52df711d7b65321172be31
+FileChecksum: MD5: 46c8f6522d2baae3e7a089cf578a1d5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/k8s/service.yaml
+SPDXID: SPDXRef-item6568542
+FileChecksum: SHA1: b9945571b721d0e1e6a70451d89155ac679d6635
+FileChecksum: SHA256: 8d6bba8c5ce86b9829c3f24a6abb6960c8ef3acce985fc61b9dd60d313a425a0
+FileChecksum: MD5: c8dd3c362977cc704db28eb4cab3573f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/.gitignore
+SPDXID: SPDXRef-item6568543
+FileChecksum: SHA1: c80becbeccedbd08662f5ccdb496e64260c10976
+FileChecksum: SHA256: 5aebc637e2466d277de0cba628e171d370fc577ab6687a5f59811271037065c1
+FileChecksum: MD5: 5bb5a0be1f160e87ba62331663cfd610
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/go.mod
+SPDXID: SPDXRef-item6568544
+FileChecksum: SHA1: 5929b3ebaee7ec5d0261df4b60750b33330a3c43
+FileChecksum: SHA256: f81699c706ca76116e91eb881d3c43fd22710a7d6a7f99e44ae9de075cc0d260
+FileChecksum: MD5: f806b3449e4cc09e25f9f2e81e4b8014
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/Dockerfile
+SPDXID: SPDXRef-item6568545
+FileChecksum: SHA1: 72d00c83ca8f6b41774d8e79bb211c9e9441d7a2
+FileChecksum: SHA256: 5b64360e14587bfb12da8c2ecbecd60afcca3d2303f9132c86e2fa63b3d1b363
+FileChecksum: MD5: 463a8060cf01a6757f50f1131378a4e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/README.md
+SPDXID: SPDXRef-item6568546
+FileChecksum: SHA1: fc769e7d3165083250a32cdc5b4801315429aa74
+FileChecksum: SHA256: 52dde44a16d1886c4a4cd442c2a25c939dc49584887ba5ecb33d73acb2696d93
+FileChecksum: MD5: 7472440a564d6b8c30b2bdf0767e2537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/metadata-api/go.sum
+SPDXID: SPDXRef-item6568547
+FileChecksum: SHA1: 66257bcd18557d831aa5d7a406b6ba93c3e87233
+FileChecksum: SHA256: 52ea0a831f48b9fb456ac4d809d6f9a2ae1f814d25fc72d5288ef76f96ad7065
+FileChecksum: MD5: 6ee3b2efc21eab921600ef2a15eabd4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/build/logo.png
+SPDXID: SPDXRef-item6568556
+FileChecksum: SHA1: 1a6ace377133f14a2b2cd7c48f10369a6bc54b2e
+FileChecksum: SHA256: 03d6d6da2545d3b3402855b8e721b779abaa87d113e69d9329ea6ea6325a83ce
+FileChecksum: MD5: 82b9c7a5a3f405032b1db71a25f67021
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/.nginx/nginx.conf
+SPDXID: SPDXRef-item6568559
+FileChecksum: SHA1: 31ddf39b0e6a3a3b768320ec08d2eb49b21172a2
+FileChecksum: SHA256: 85994aefa0c03136c66c7070a7ff463c518679e584b07787008b27243d347034
+FileChecksum: MD5: f9c80e0282e0e6ea614322a0453fe286
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/package-lock.json
+SPDXID: SPDXRef-item6568561
+FileChecksum: SHA1: d6bb7f8856d2935d1c5cdc359dfaaef034027524
+FileChecksum: SHA256: 0291a0082cb685c54fa5f1207ade06fa6294d99c82485790d8f6c9a689af5914
+FileChecksum: MD5: 727b9035bd16c351ff448db72b630e13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/App.vue
+SPDXID: SPDXRef-item6568564
+FileChecksum: SHA1: 1d853dd907bde03f3451dd224622d4dfb74257f3
+FileChecksum: SHA256: 3e9423dc8079439de8df7dcc59f527cbce251df0bfb8a9408598667909164d87
+FileChecksum: MD5: e663d1ec209eaa12c7e3d3f6cfefe69e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Skill/uploadLicense.vue
+SPDXID: SPDXRef-item6568569
+FileChecksum: SHA1: 7f3fe897d8c91c9494e04c8e42b431cba0786b62
+FileChecksum: SHA256: b3f22998406884027ee06536f4dbf8079db3f372ff6607712c226a04bb8041a9
+FileChecksum: MD5: 5aed93c26d41c69a9e2ffeae8761d039
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Template/dataSetSymbol.vue
+SPDXID: SPDXRef-item6568572
+FileChecksum: SHA1: 95547a0570620104e044967e45ccc3c77a89b1f6
+FileChecksum: SHA256: 193ebafbad608e57a4a96ff22e9a8d02e7ede0328b1fc73b41971fd4715f98cd
+FileChecksum: MD5: 3db0809e8c024bcdd72b5198dc4b19fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Inspect/inspectedDataSet.vue
+SPDXID: SPDXRef-item6568574
+FileChecksum: SHA1: a61af3d6e757fcf0b20b3dbc6e9cd550bc830470
+FileChecksum: SHA256: 0e8af11d05a4414b7c23ed8d5663d4c6b50990edb6ebaa6cf4ddb6e451ccc468
+FileChecksum: MD5: 442af46ba8b033557d371c79b540994c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Inspect/inspectDataSet.vue
+SPDXID: SPDXRef-item6568575
+FileChecksum: SHA1: 9b1d9dad815cb0694cab4359978aa211e71f5624
+FileChecksum: SHA256: 96d07633e4b8f78c309145edac501e4489333448ebd3f3328f2ad65de4803e50
+FileChecksum: MD5: d9259510207ba18cfe0e11be441eeff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Non-commercial
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Search/searchLicense.vue
+SPDXID: SPDXRef-item6568577
+FileChecksum: SHA1: a03ef481d6e3e8ace4563c5fae655248b4b9c7de
+FileChecksum: SHA256: 7b921d572c7cb64ece7e074a222faeb99280e307c6697341e4ce35c11d48d329
+FileChecksum: MD5: bb062cb3644af7559c35ba3604726a27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Search/searchDataset.vue
+SPDXID: SPDXRef-item6568578
+FileChecksum: SHA1: 94517d9ae1cee23f452b4a5b379fb744f3020db0
+FileChecksum: SHA256: a5b5ee0f4503697371792debbaf7c7fc62b2cd8dc8057887b9255bc654365419
+FileChecksum: MD5: 0e12dff4d55b62a679d6f4abedf015f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Search/searchLicenseInfo.vue
+SPDXID: SPDXRef-item6568579
+FileChecksum: SHA1: 4672c54dee978b2a50b4a729a21ebf8b6e3f44ab
+FileChecksum: SHA256: 6dfc667bd06adc23292f7f9455ee02c021496bffd888924b27e53fbb4cffc039
+FileChecksum: MD5: a08f988c4905a8df92f748b823e712da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Search/searchTypeDataSourceTermsofUse.vue
+SPDXID: SPDXRef-item6568580
+FileChecksum: SHA1: 6d30386a31219f5b7a2484e6175bd5e0988fc511
+FileChecksum: SHA256: 3c8e784273d504fb72bc2c1e7f4c6bab1f3d7226ec3881d4ebbd6de87d6317be
+FileChecksum: MD5: 611d6e166f29e2d574614541c1210313
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Search/searchTypeDataSpecificLicense.vue
+SPDXID: SPDXRef-item6568581
+FileChecksum: SHA1: 97c7dba370ba3a101303e2a3ccab68fa89047359
+FileChecksum: SHA256: 293a0f323c1cf02acff54f8b7b96363fc9cabbf83bcd90084c8f13d0cb860b70
+FileChecksum: MD5: 355e75015bf29c67a1e046b00d0a5f5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Search/searchDatasetInfo.vue
+SPDXID: SPDXRef-item6568582
+FileChecksum: SHA1: 40424d5566a47aa8fcd96e7cc403b78bb2c6ff7e
+FileChecksum: SHA256: 32364ab284c3612a02c9f535e89a03dcbef1679381bbd32f88a5c624b3cc6787
+FileChecksum: MD5: 74a83a99be241ad95d18b1be7d463f19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Search/searchTypeLicense.vue
+SPDXID: SPDXRef-item6568583
+FileChecksum: SHA1: bda28c0740ebffaba67c4124797bbbe8048f6d6f
+FileChecksum: SHA256: b0fb9ab66e1b9609475fac10b577dc04b4ed0876246e95d0d62c496bfe9e43f8
+FileChecksum: MD5: cff7ac16d1b355c8fa04ea2565022ba3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Login/loginPage.vue
+SPDXID: SPDXRef-item6568585
+FileChecksum: SHA1: bcc103d52c99fbdbfa200564462f464fbce2ee1f
+FileChecksum: SHA256: 9e317d2cf843eddf32dae97c67dba4adc1d43e957c2c83e9c542d1bc853769ef
+FileChecksum: MD5: 7b1c33667ddca82fc862cffd190b9d4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Login/registerPage.vue
+SPDXID: SPDXRef-item6568586
+FileChecksum: SHA1: 33050f124b8537dcfba6c6d73fa9c4287d88f5a1
+FileChecksum: SHA256: cb6be16240cca14e93b1ce9bad4dfd50e8aa0ec9e9d35af6188b587c3791c89d
+FileChecksum: MD5: cf7296bf163e6d88e9cd5fbc575820ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Review/reviewUpload.vue
+SPDXID: SPDXRef-item6568588
+FileChecksum: SHA1: edd2f302ef1d8540dfa2271cea9f66af5b36535f
+FileChecksum: SHA256: cc40635cb7716740c8c2b5df2e68a4ab27a382d5a640ded68da7a9a03aa64239
+FileChecksum: MD5: 8bb5f61de9e995210753611cc7cdbf65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Review/reviewedDataSet.vue
+SPDXID: SPDXRef-item6568589
+FileChecksum: SHA1: 30caf52d6ece0fdef18b8ef9ed3f9870a1403e63
+FileChecksum: SHA256: 942d9d5b008c32577baec0f7d57132160cfffa318aabf39973dfbcf1238c5815
+FileChecksum: MD5: b65e3ec112f7999c2b181dfa3259f286
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Review/apendingAIBOM.vue
+SPDXID: SPDXRef-item6568590
+FileChecksum: SHA1: 28080e8a929952861565df04e8da3660bb257f89
+FileChecksum: SHA256: eb50b36e0ad7ed25dc8c2a79f93d9baa0ec0359aa26cdac2aaacfc653a83eb5a
+FileChecksum: MD5: acb62d989bf090e00e204d181515b4e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Review/reviewUploadByFile.vue
+SPDXID: SPDXRef-item6568591
+FileChecksum: SHA1: b36168b2d14ea53318eae74eab3532d84730056c
+FileChecksum: SHA256: 02b09a119ee1cc9e6f95adb8dd5d55ebf5321d1c82089b8c84285a9a84f92585
+FileChecksum: MD5: 555ce86ca9444d599ef9817f1c7800ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/components/Export/Export.vue
+SPDXID: SPDXRef-item6568593
+FileChecksum: SHA1: 3f71c9cf9e3e994baae61123167f130e67232db1
+FileChecksum: SHA256: 8220b9f7fc840deacde09b44e511cdb7bbb48b1740892f6410d930815ba58be0
+FileChecksum: MD5: 2bfac5c4bb0aa89b90bbebb8ab3ca899
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/views/typeDataSpecificLicense.vue
+SPDXID: SPDXRef-item6568595
+FileChecksum: SHA1: 0fe91f1ebcf53495450adb58ee3578e864c7ccc9
+FileChecksum: SHA256: 6b2f6830edb1768a6c87c4dc8f39601d45868de258687b959127c56b1b3bc84f
+FileChecksum: MD5: eb607ffcd53fcb793d95fe87cfda228e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/views/typeDataSourceTermsofUse.vue
+SPDXID: SPDXRef-item6568596
+FileChecksum: SHA1: 2f8a74f84d17f3c84c7ac1bf57d6521a51adb04c
+FileChecksum: SHA256: 6060462a2714f17d75826a746d3a942226fe2c7232a629892f1ae284f242e0b9
+FileChecksum: MD5: d874696fd335b790bccc8f752d24f1e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/views/inspectDataSetAll.vue
+SPDXID: SPDXRef-item6568597
+FileChecksum: SHA1: 33e860b23374e3ea9bc25488fc136f7f8220a9a4
+FileChecksum: SHA256: 4b76b5a23373bbded766d8301edb1603a6274fa5f9aec4543c5abdc41c24dd42
+FileChecksum: MD5: 6f483f76a24964091699a3fa21860c5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/views/dataSetInfo.vue
+SPDXID: SPDXRef-item6568598
+FileChecksum: SHA1: f70391b09d5bf73538840de8423eefdaf810a0b6
+FileChecksum: SHA256: 1c25cde3b9b14eb27d8a9ef068ebe5a293babaafc4aabc7986a866a9078e807a
+FileChecksum: MD5: 206804b3c84af6d37c97822bbabc1ec8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/views/typeLicense.vue
+SPDXID: SPDXRef-item6568599
+FileChecksum: SHA1: b44683c15e697f49e4752644506df20fa3d246db
+FileChecksum: SHA256: c33cdc5c7a78aebd62c6347d7b166375aa09060ac9543c65612e11e4765f114b
+FileChecksum: MD5: bcb81686fc8ca2b4a16014fa0d8a4328
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/views/licenseAll.vue
+SPDXID: SPDXRef-item6568600
+FileChecksum: SHA1: a0da371df8402963aadf7c87df546890a95c1f16
+FileChecksum: SHA256: d3c061cda4415d97c9a0e3b0717c6793818eb7d3813a3b9e50748bd97b6d00a7
+FileChecksum: MD5: f0c25722186f344204b987f597e9e639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/views/review.vue
+SPDXID: SPDXRef-item6568601
+FileChecksum: SHA1: 7c76c005348d4ab143ab914f4c95f62a6f9e078a
+FileChecksum: SHA256: b911b900e408c98973b55a072afb04483499c6521383db59b0692d73ba612e03
+FileChecksum: MD5: 353e5840ab4acb88d370688b2133d1ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/views/licenseInfo.vue
+SPDXID: SPDXRef-item6568602
+FileChecksum: SHA1: fe6369d2bdc2070abb950286b62a76e874ac2d53
+FileChecksum: SHA256: 3c40d49b4765e8038b2086e54cc827dbe5b810af039c9f2e407f4a38ff617da8
+FileChecksum: MD5: 0a2cb267ea53730267984fe1772620dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/views/dataSetAll.vue
+SPDXID: SPDXRef-item6568603
+FileChecksum: SHA1: 7dcc31cc3445d7c980ac97255e08bd784c05621d
+FileChecksum: SHA256: 2f182c6853f29e2be4e36f311fa54f7010e2bd4c268afeba56a4ff598e65a3a0
+FileChecksum: MD5: 3611f0b80bf83353b2f2eaa2fa16801e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/assets/images/logo.png
+SPDXID: SPDXRef-item6568606
+FileChecksum: SHA1: bb51ba8dea5a903d40739a5325fecf57604ecf87
+FileChecksum: SHA256: 970ddc51d44dff965fbd0e212ddee256533d9b28f77384e7f020260ef90b0afa
+FileChecksum: MD5: 3b8f2177a5554ff7bcf3487b99e5f333
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/assets/images/uploadTip.png
+SPDXID: SPDXRef-item6568607
+FileChecksum: SHA1: 06ceeeb9ea33e72ae9d2731236c1780d24a37f91
+FileChecksum: SHA256: 7a65c0fd0180509b0eeaca990b592f991f63d839213280199dd1bac4b8935914
+FileChecksum: MD5: 48820d78875123f92442d7e017f702d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/assets/images/upldTip.png
+SPDXID: SPDXRef-item6568608
+FileChecksum: SHA1: 731c224c1603d50d5fb25c9ae34d584a8872d171
+FileChecksum: SHA256: d64f8f741ede82ef8c385a76269e09e087c86f31a67c2dd01827a75459114b03
+FileChecksum: MD5: 34ba0d6f5b093b63d5a65bc36f994423
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/assets/styles/licenseInfo.css
+SPDXID: SPDXRef-item6568610
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/assets/styles/styles.css
+SPDXID: SPDXRef-item6568611
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/assets/icons/3.1.png
+SPDXID: SPDXRef-item6568613
+FileChecksum: SHA1: 9dfaaa5dff82cd01a9847177abd2b4f661278c24
+FileChecksum: SHA256: b66876d989fc51bc3fc440516b4f660ef7764d232f88be3cf744477b7f7ee9aa
+FileChecksum: MD5: cee4933307c1577d85c4037e810ea70b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/assets/icons/5.1.png
+SPDXID: SPDXRef-item6568614
+FileChecksum: SHA1: 568408ee477c1ec54e08951313a85d868a25fc8a
+FileChecksum: SHA256: f02c755cc5e067b0597d2ebad94e3d5c12b5b700d54e077fed79897f595e4154
+FileChecksum: MD5: 0059eff0b36d44931bafb77375c6ea2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/assets/icons/4.1.png
+SPDXID: SPDXRef-item6568615
+FileChecksum: SHA1: b3aee6bb4b3f1e525c34a88d755b23f40ae4ea47
+FileChecksum: SHA256: f419d6b461c233bb41d1b8139ebf056fab03dbef7626883d29559421233da15b
+FileChecksum: MD5: 407cae242bc7afc047d770fe624c5474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/assets/icons/2.1.png
+SPDXID: SPDXRef-item6568616
+FileChecksum: SHA1: 967da75f159d441c5b602ed9ae82379e9cac283b
+FileChecksum: SHA256: 504f4e607fad9d50fca54876c7f0f9951d0c2b3afcee8f8d0564670dcc2b9e66
+FileChecksum: MD5: 69b115f3e11701e3eea864b073b7bac7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/assets/icons/1.1.png
+SPDXID: SPDXRef-item6568617
+FileChecksum: SHA1: 11fa39806c419e5955a9078e48597be84ccc64a6
+FileChecksum: SHA256: 725b852edde51979b91653df64a5c98611cef15cf9376bb78c7de024723808c0
+FileChecksum: MD5: e29282328e3eb9bf15ad4c6042d941dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/src/assets/favicon.ico
+SPDXID: SPDXRef-item6568618
+FileChecksum: SHA1: 9566a02d9d66bbeaea16df206ea4d9add214826f
+FileChecksum: SHA256: 2681561eb24e7435fea1acf26f3af95e4efc9f7d451587b58bef62f030f337e9
+FileChecksum: MD5: f2d2896c488493e18c1b112cdd9bb1d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/k8s/configMap - template.yaml
+SPDXID: SPDXRef-item6568625
+FileChecksum: SHA1: c9c87ba08ae531a9c588ca92bd3e80b2860d0074
+FileChecksum: SHA256: c3a4bbc3a2919632ce993243e755f310d0d722b0d0efa5a588ef370e37ccac33
+FileChecksum: MD5: 695d2b2277bad83e13929573c4e59e7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/k8s/deployment.yaml
+SPDXID: SPDXRef-item6568626
+FileChecksum: SHA1: a5f07e47c75836e0574ec3cd0deb360b413ee13b
+FileChecksum: SHA256: 270d2f653336bdd1e5c02312be2239e5ee8808b74a7757995ad29afc053cedb8
+FileChecksum: MD5: 9b54dcb0a4c9bbbd3b186881bdd35c8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/k8s/configMap.yaml
+SPDXID: SPDXRef-item6568627
+FileChecksum: SHA1: 883dae8e30b14068bc5548fabd4d68d4eb156ceb
+FileChecksum: SHA256: 6373694955975500b82c14809822a063455e8485f81f48fff8869e294fbe038d
+FileChecksum: MD5: 52a6269ee6db5104b459d397c1ea4776
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/k8s/service.yaml
+SPDXID: SPDXRef-item6568628
+FileChecksum: SHA1: d2263ab25835b6716ea7689f590ba2e16eba4544
+FileChecksum: SHA256: 864126fa213dd5627519858d2bfeb581369a98c3b536cb7cb35ee89012c8f293
+FileChecksum: MD5: 7c483672b00d05b4e677d515ea33184b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/.gitignore
+SPDXID: SPDXRef-item6568629
+FileChecksum: SHA1: 78c5a3945aeb5ff3a37c77db41a5d5bb2d2d98ab
+FileChecksum: SHA256: 7c0317024e821fd5f2719775d7906ea6473a8c45544060a9a7469dbb0eb2aa90
+FileChecksum: MD5: d85e2b6ff529fe95729b15d2ed00f2d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/jsconfig.json
+SPDXID: SPDXRef-item6568630
+FileChecksum: SHA1: 6e8248159f66bd4d3c8878510180af2cf6a0c640
+FileChecksum: SHA256: 0be1c8f3cfcff12221c449579425fa4246a2e24458a831870f412cd0a145ba66
+FileChecksum: MD5: c90dbf3af9da439a11d42418c0bf6cf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/.editorconfig
+SPDXID: SPDXRef-item6568631
+FileChecksum: SHA1: da6d022b8f4d9c961e2f8f80677e92af8de0db4d
+FileChecksum: SHA256: f000102bd4c1a767896b393391d11934a6c1deba7d610c6d36c6686514d7222a
+FileChecksum: MD5: 7436e2f800f81511a47adedf393b5582
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/Dockerfile
+SPDXID: SPDXRef-item6568632
+FileChecksum: SHA1: 34df271c4aa4162f40235392f20b3e04bf46f7cc
+FileChecksum: SHA256: ca9bd562655b4ed5c87a73086213c9cd3f56b13eec325230eb98181a1cbcd6d9
+FileChecksum: MD5: cb9e4c88703ddca9d09b7563b58f4f5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/README.md
+SPDXID: SPDXRef-item6568633
+FileChecksum: SHA1: d384e37af9932e15d47ba66eee78098507011fd1
+FileChecksum: SHA256: 05ac6474c309dfa5c46f8647f302a672d7dc5b27d3a016b128231e3f0d16e56b
+FileChecksum: MD5: 9e73e9e65b63a9bd2efd8b489210ea86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/package.json
+SPDXID: SPDXRef-item6568634
+FileChecksum: SHA1: 95bab5285eedf20819e5ce30331cf4d684d54897
+FileChecksum: SHA256: 4c58f9f38ec2e9c25430e44eb243618825b5ae6b6420a4644393eef66aee6335
+FileChecksum: MD5: 7ebf3d865631264078dfbb4994bc4fe8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/static/.gitkeep
+SPDXID: SPDXRef-item6568636
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/config/review.env_demo.js
+SPDXID: SPDXRef-item6568640
+FileChecksum: SHA1: e4f3333763ccd26068961c0470ce567e9ea6a217
+FileChecksum: SHA256: 7e9c971389d26002f48289bd6c90f98aee4473dcd4783f595485344e1243976e
+FileChecksum: MD5: a38ca085de98d8918c50240a02a2aeec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/config/review.env.js
+SPDXID: SPDXRef-item6568643
+FileChecksum: SHA1: becfc01d504e1451ae2394df99dc9a5f2f515971
+FileChecksum: SHA256: 292f19e0da97189b1828d93ac08f9741a10d7c16a133292bc0fce4cd47ab8c5f
+FileChecksum: MD5: cf54db245689db4258ef82fbd13eeeea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/config/aibom_generator.env.js
+SPDXID: SPDXRef-item6568644
+FileChecksum: SHA1: 7a4d3689637c1108e8d419e138f93fee666ad19c
+FileChecksum: SHA256: 43e84a0e657735e0558c636b6b420050c341cb06928ef1e9206fa0317970290e
+FileChecksum: MD5: ba6f345630c602227b667fbc4e251d75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/config/https.env.js
+SPDXID: SPDXRef-item6568645
+FileChecksum: SHA1: 37b44fcd81d597853d5e058e74d7c964c5d1f5e6
+FileChecksum: SHA256: 09efc59576237860150a7291bc77352b103b7d21a5675da249dda1404c43323b
+FileChecksum: MD5: c2664a29a234d4c91f5442e8ad447df0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/.babelrc
+SPDXID: SPDXRef-item6568649
+FileChecksum: SHA1: 3805281dce44fa99d590fad58d3722fada726c09
+FileChecksum: SHA256: ba1b2c1b17f6796c85c9f316bfc8d7bbd87333f19d4dc5747508b27b24b410bd
+FileChecksum: MD5: 905af8e5c1525d245d712e6741ce4206
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/portal-frontend/index.html
+SPDXID: SPDXRef-item6568650
+FileChecksum: SHA1: 988c52973773cebc06b95364cc206a4457048bea
+FileChecksum: SHA256: c793d46eecccd55c4b9f697b280e447337241b51005241e11528f104a195fcb3
+FileChecksum: MD5: aae5a045a2ea49690e2ef3dce41d8597
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/tests/README.md
+SPDXID: SPDXRef-item6568653
+FileChecksum: SHA1: 6929306a5b8226232184a6f6d05617018c886788
+FileChecksum: SHA256: 0abeee008cc6e177d5e269a49b2194f1a766d74924ab959834ebf40894b2077a
+FileChecksum: MD5: c873dd24aca9e7a0fc53ee877e670082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/INSTRUCTIONS.md
+SPDXID: SPDXRef-item6568658
+FileChecksum: SHA1: 4bf1691f28610aaa8812f353488869307c931a5a
+FileChecksum: SHA256: daffda47c90670b34a1424c147d4a2cd65eda7aa98174f9bed1ee4fb34dc9721
+FileChecksum: MD5: c4d329b2546ba037e3a7a8bdce7a123e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item6568662
+FileChecksum: SHA1: f6867a2f0417fe89a0f2008730ee19dd38422021
+FileChecksum: SHA256: 1f48c52f209a971b8e7eae4120144d28fcf8ee38a7778a7b4d8cf1ab356617d2
+FileChecksum: MD5: 174545e1d9daff8020525fdd1e020411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item6568663
+FileChecksum: SHA1: 83d211c67c12e8c1f6e9f796cfd0cecbf5160e15
+FileChecksum: SHA256: 0c8d64f29fb4536513653bf8c97da30f3340e2041b91c8952db1515d6b23a7b3
+FileChecksum: MD5: e468801d29e6b66b0d496136e22e8b34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/.github/ISSUE_TEMPLATE/meeting.md
+SPDXID: SPDXRef-item6568664
+FileChecksum: SHA1: f926bb1b29b57e65db831afca25b5529f81f6e01
+FileChecksum: SHA256: 82c1511e233799e1525e83d404b073ee19c486565e8a2aceec8e340cf8ec5ff6
+FileChecksum: MD5: 4acaf7d540c14f7f894a3b5c3b4255b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+SPDXID: SPDXRef-item6568666
+FileChecksum: SHA1: a8fdc0f69520a4fe3ed8e605f41e96d2c95359dc
+FileChecksum: SHA256: a54e6fcd9e710621594cff1d90de818c05c7eb6bdefb3db019e9b354a4954ef2
+FileChecksum: MD5: 1ce582a704498623bd09e22533a06a61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/.github/workflows/send_agenda.yml
+SPDXID: SPDXRef-item6568668
+FileChecksum: SHA1: e3e56c4521e960501ebfc635a99cf44f6a53dac8
+FileChecksum: SHA256: 883674c10ad97d0dd21d1a2fb9d9a5f7ea0cb21a04594454f88a13f62d493516
+FileChecksum: MD5: 27b58816b0bb2f7ca4fe6d685c8c734b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/.github/workflows/repolinter.yml
+SPDXID: SPDXRef-item6568669
+FileChecksum: SHA1: 860839db283e31323c3f5bdf741b91552038bda8
+FileChecksum: SHA256: c7299160d3108dffba2d0980e0a1bf7d2b282099301119997bcd4818bb18c1d7
+FileChecksum: MD5: fd869318e954031451a786110519eb53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/.github/workflows/create_agenda.yml
+SPDXID: SPDXRef-item6568670
+FileChecksum: SHA1: da62b9e35aa2e4a51d62c5bfd36e1871826390fe
+FileChecksum: SHA256: 5f45669f4c6069328c712c6c48586415b8fcd1ac4b3db4741d0117cf885417e1
+FileChecksum: MD5: f8f172fff27784cc08bb5e8e5ea23375
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/.gitignore
+SPDXID: SPDXRef-item6568672
+FileChecksum: SHA1: b644bd363cea73dc51b3c242a0a6196673e6cb6f
+FileChecksum: SHA256: b28e9745d1bec0cba4ab2abcbcfec63fe5b0ce6b1ed6b89dd97f458f582d2e5a
+FileChecksum: MD5: 7282dbd7066c4696f3f51cc7c139f91a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/Paper_license_compliance.pdf/Paper_license_compliance
+SPDXID: SPDXRef-item6568675
+FileChecksum: SHA1: 1ad54bcc4d98d463b4f6a51c522934d0eefb0a3e
+FileChecksum: SHA256: 459ce1bc4439c1210484dc3baade1a35255b4ee6f4a12ae9903845dc3b8865b0
+FileChecksum: MD5: d35a5864a4c2fa1b1c37340afb590c1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+LicenseInfoInFile: LicenseRef-fossology-CCPL
+LicenseInfoInFile: LicenseRef-fossology-Personal-classroom-1
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/CHANGELOG.md
+SPDXID: SPDXRef-item6568676
+FileChecksum: SHA1: 2513ddcf08eaefc8f38d0a0c039f3aeeb69948ac
+FileChecksum: SHA256: c3b214015411eabab1cebd1ed827ec3699cc7c61bf9ed9e8821708c58bf62253
+FileChecksum: MD5: 0161c1aeaa72f21f2a2005c1006e161b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/SUPPORT.md
+SPDXID: SPDXRef-item6568677
+FileChecksum: SHA1: af2dd193a2c62a0caf840ab936598d33d058436d
+FileChecksum: SHA256: 9210243f01eed07911daae23e2143f9cd3e8a69cc19c1083349e5ec179ec4312
+FileChecksum: MD5: c0eb483a7e389ac86b1fcd6591200bcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/THIRD_PARTY.md
+SPDXID: SPDXRef-item6568678
+FileChecksum: SHA1: 64bb5699daff711e09020adbcbd53df0c7f16c0d
+FileChecksum: SHA256: 97be59fd8b10c94f2f4769d124c271a02cc1707348135fd5f2dc6fdf7baecc2b
+FileChecksum: MD5: 142eb46f967c26babda800a3ab57ff0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/tsc/meetings/OpenDataology meeting minutes 2022-11-01.md
+SPDXID: SPDXRef-item6568681
+FileChecksum: SHA1: 35239d296ed4faa660e36541b786de0d4bf018a0
+FileChecksum: SHA256: 6047d2c1f9d585a1e2a590a314b2ac0d9158d74a1e9bb96c58dcd7862b91469b
+FileChecksum: MD5: bfd8f04c1a62ece33bd36a3cbdb2ff13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/tsc/meetings/OpenDataology meeting minutes 2022-09-20.md
+SPDXID: SPDXRef-item6568682
+FileChecksum: SHA1: 6fb0c35c30334706486d8b9f120d714ebb41824a
+FileChecksum: SHA256: e8a463b37969c5e4c412925a24726143ec862ed4dae9a7a922ac721a5f8243cf
+FileChecksum: MD5: 2cb1dfc5d2985b69075adc6b9ec7a783
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/tsc/meetings/OpenDataology meeting minutes 2022-08-22.md
+SPDXID: SPDXRef-item6568683
+FileChecksum: SHA1: 2cb4863f4f33f957d5be5a15027a8d7231c568d7
+FileChecksum: SHA256: ae3d514805e0ab855e75e47fa57f9216ca09ed1d690e3594783d286736393c99
+FileChecksum: MD5: 57aacae29216adafdcd58da43a4c2b60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/tsc/meetings/OpenDataology meeting minutes 2022-08-16.md
+SPDXID: SPDXRef-item6568684
+FileChecksum: SHA1: 66c1f50a2f3923f5ff487d20d6cf55528766ef04
+FileChecksum: SHA256: 137ae0b61df15d6ac013aa8c5460d6cce687b8942f61002d811434bd0d4dfe84
+FileChecksum: MD5: e288287b8b0a335118f0c162b6beec6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/tsc/meetings/OpenDataology meeting minutes 2023-03-07.md
+SPDXID: SPDXRef-item6568685
+FileChecksum: SHA1: c585f8d8bdfcc01a04cddd33f84623513fed89d8
+FileChecksum: SHA256: a1c2f7c29d7e1cba72863952f94565166184f2e2124fab888e5540e57d373e9c
+FileChecksum: MD5: 34eda410be19a275640d26c0171e0e03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/tsc/meetings/README.md
+SPDXID: SPDXRef-item6568686
+FileChecksum: SHA1: d3c9866705a2186697c20fba5234a99e056820c8
+FileChecksum: SHA256: dd2e6e54733225fb7804544386b33deb91f6b6a9a448c8f56f677ffb95d6388e
+FileChecksum: MD5: e24081ad023f14586688de6ed75c18ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/tsc/meetings/OpenDataology meeting minutes 2022-10-18.md
+SPDXID: SPDXRef-item6568687
+FileChecksum: SHA1: 13ead740a08aa6399b535caaab0a5057c097ef2e
+FileChecksum: SHA256: 869a3e6af7548614bca2283afff3e32dbb7ebd5962a4d14577268cddef934904
+FileChecksum: MD5: 00c4aed19974a6d081f2fc1a1e17fe53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/tsc/README.md
+SPDXID: SPDXRef-item6568689
+FileChecksum: SHA1: 4aded6993ba5e0ed9699e59ac6b4e1d3ad2c5bb5
+FileChecksum: SHA256: 02a9cdaf8556403fff16b1e247e0ba5109dbcbfa1540aae7742d9488f66598be
+FileChecksum: MD5: 771a6aa3fafc7574e64adf5ced978574
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/CONTRIBUTORS.md
+SPDXID: SPDXRef-item6568691
+FileChecksum: SHA1: b0cecd06c7e6fbcb7e86f86884018bd1e953352e
+FileChecksum: SHA256: 39af737461cc3fb88c7380a31a9f0634f34f4af06b7b045f01b0547a29d3a692
+FileChecksum: MD5: 13cafce77239bdb4dbdf0f334020053e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/SECURITY.md
+SPDXID: SPDXRef-item6568692
+FileChecksum: SHA1: fa533283215d0ba141a7a28ac0d4fdc8089e3f0b
+FileChecksum: SHA256: ba9643955bfcb04524a6fe5a8c2929b54abc2e67bb3480ce806e742d506e4dc9
+FileChecksum: MD5: b1060e70aaff0e2baed6fc1d91ebe9b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/assets/logo.svg
+SPDXID: SPDXRef-item6568694
+FileChecksum: SHA1: 32f6a5da4688da90a480bac27a4d7d1c1c49a89b
+FileChecksum: SHA256: 5c87dbaed869419c17d3aa1b81e35324ab5f9daa9f674ed0a10278c85e9de4f7
+FileChecksum: MD5: a7f388070310204370e65d112195b61a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/assets/logo.psd
+SPDXID: SPDXRef-item6568695
+FileChecksum: SHA1: a3837d757002afa7b80c8590ef120fff12cea12e
+FileChecksum: SHA256: f961fcf57ecdfdf62d40e6c6a118644412d5f61332f9155d42bcc0ee2a6488f6
+FileChecksum: MD5: 264259c9cdef52e719a8378c9eed6a65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/MAINTAINERS.csv
+SPDXID: SPDXRef-item6568696
+FileChecksum: SHA1: 8cf673a5f17006f6d7b39a8dcc3dc0966a7f1509
+FileChecksum: SHA256: a5a401132d16540bc3f379645e469df003bb6a52618d38b26c31c3e2915c33aa
+FileChecksum: MD5: 2f51e2f76bf9d8212fc0613f39bf5cd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/OpenDataology/COMMITTERS.csv
+SPDXID: SPDXRef-item6568697
+FileChecksum: SHA1: 1e7aae2bb75c81ffe76c82cc35993d81768fa17b
+FileChecksum: SHA256: a0e9168814832849c0a55c2ce4217b4be6b2c9a251be5f52a67d988f196bb0ae
+FileChecksum: MD5: 08780a2a8d681c5ff117e43eb52e1260
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/.github/workflows/go.yml
+SPDXID: SPDXRef-item6568702
+FileChecksum: SHA1: 29c6037c0f1e767c4925173c0dc9daf789b15acf
+FileChecksum: SHA256: d0d1e1173c67871a45db936bce1f793158ba906864cc96cce14f38fe92856561
+FileChecksum: MD5: 8b07aeb653268147a4c73ccd4ad7be48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/.gitignore
+SPDXID: SPDXRef-item6568719
+FileChecksum: SHA1: 660ac48d8d23ce39b14731f38de5fd66509ef8bb
+FileChecksum: SHA256: f5abd3525f5d81bfd987c1cc1c14437f2412201461904ffb1bab4e61e7ebdfb3
+FileChecksum: MD5: 59b9ead79e758112c4fed21e0a3965f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/go.mod
+SPDXID: SPDXRef-item6568720
+FileChecksum: SHA1: 76fab3acd4d63a130937ac7e332071469b070788
+FileChecksum: SHA256: cc2528c6e6e237d42e900c32aad5340ecf3b76970ec1fe92b3b3ad1433138828
+FileChecksum: MD5: b1d6eca11c8480099e1b4be1d460355a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenDataology-2023-12-15.zip/webnotice-toolbox/go.sum
+SPDXID: SPDXRef-item6568722
+FileChecksum: SHA1: 53f6d5c97d3172d0d62d680e0db040d579bde07f
+FileChecksum: SHA256: ee702030afd1c6ed0fe73c6e0a721e78f413324cabd642682a27f6ad0ff6c22b
+FileChecksum: MD5: f51e9e12cee3df3d1735cac4f135f6df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-CCPL
+LicenseName: CCPL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Non-commercial
+LicenseName: Non-commercial
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-fossology-Personal-classroom-1
+LicenseName: Personal or classroom use 1
+ExtractedText: <text> Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for profit or commercial advantage and that copies
+bear this notice and the full citation on the first page. To copy otherwise, to
+republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. </text>
+
