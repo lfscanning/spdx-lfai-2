@@ -1,0 +1,1377 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_1chipML-2023-12-15.zip_1702989079.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-12-19T12:31:19Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: 1chipML-2023-12-15.zip
+PackageFileName: 1chipML-2023-12-15.zip
+SPDXID: SPDXRef-upload1127
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: af6dcbf369c45ff7646b3bf4c4094d4f6f1d9129
+PackageChecksum: SHA1: 9a2ac1cee32e53e98943205960033745d0928893
+PackageChecksum: SHA256: ceb4f262faa29a6208d260184fdcae334cf67bc8a7b884d91f34ca8837fd64b5
+PackageChecksum: MD5: 6b6cbaa49cded890f5b8de2c6a3b4bce
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1127
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/LICENSE
+SPDXID: SPDXRef-item6553553
+FileChecksum: SHA1: 2b8b815229aa8a61e483fb4ba0588b8b6c491890
+FileChecksum: SHA256: cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30
+FileChecksum: MD5: 3b83ef96387f14655fc854ddc3c6bd57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/1chipml.h
+SPDXID: SPDXRef-item6553583
+FileChecksum: SHA1: 866a21992a5857a78e5cc5aa554d3790d28db035
+FileChecksum: SHA256: 355ed1e308f9448deb976b69d1def02810651a06a9414aa50165d4c58985708c
+FileChecksum: MD5: 8709c39d5b748babf86132d3e2c5f0a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/doc/1chipML_manual.tex
+SPDXID: SPDXRef-item6553607
+FileChecksum: SHA1: 20c40ed963326538592fe33b0dd3c5db7e32ac4a
+FileChecksum: SHA256: 7a1d36af61228ffd37ab4228294df67607ec1c419b154f1043841a5360c856bb
+FileChecksum: MD5: a104495533743a8cfa1256bb9119e33a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/doc/1chipML_manual.pdf/1chipML_manual
+SPDXID: SPDXRef-item6553610
+FileChecksum: SHA1: 4562e929d9e4535a0bac6d4c2019b0961ad1ac44
+FileChecksum: SHA256: d0dd216fa6c906514b34d5ab27295f9f4472769fcfd2089a46b12e02f5b1f866
+FileChecksum: MD5: 049e455802d95c904adc617ac462477d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form
+copyright, attribution notices from the Source excluding those notices that do not the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed t </text>
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_gradient_descent.c
+SPDXID: SPDXRef-item6553464
+FileChecksum: SHA1: 485c71f4181d381477dd35cdc2eaa7ac6261c45a
+FileChecksum: SHA256: 2c433ef42f6d235f69623e74862af13ab6f32fa5c27964e138fcced66e9aed15
+FileChecksum: MD5: 28c330d67a8847b3bcc6cf32e6b11673
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_stats.c
+SPDXID: SPDXRef-item6553465
+FileChecksum: SHA1: eecdb45d3547f3ad5a015b2ce70dbcc0a39a00fe
+FileChecksum: SHA256: 59ff471092b0558aa565dba883412b75c68feebb7a43222c2c608b00dd9e8b41
+FileChecksum: MD5: caf5546b4353c4fd6cc790f219e46e1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_lanczos.c
+SPDXID: SPDXRef-item6553466
+FileChecksum: SHA1: b862106737bc30df243e4091c232fbb4da7d749a
+FileChecksum: SHA256: 6ebe53cea54b0b5b6668e30f862ec54fc15a1d6898a334b70681911c23f60730
+FileChecksum: MD5: 61c67a25c94e72d522453016fbd005f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_FFT.c
+SPDXID: SPDXRef-item6553467
+FileChecksum: SHA1: eb367059dea5c47b2e8c0bfa428cbd160c4a711c
+FileChecksum: SHA256: b3dea985a19a4b3182328f14649310aea142c1bb9f23837f1663661696e4da7d
+FileChecksum: MD5: fd5e4365c4e262eb1759b62fc6b50147
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_fast_sincos.c
+SPDXID: SPDXRef-item6553468
+FileChecksum: SHA1: 61cc6d912f00f4af95abaf33d567053bcd7ac24e
+FileChecksum: SHA256: 8016b960eb8286341618f9561d6ea5eea1f112c057e085f9404fd9debf6efdd7
+FileChecksum: MD5: b6efffb5d409fc7a651df07f3671c661
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_DFT.c
+SPDXID: SPDXRef-item6553469
+FileChecksum: SHA1: f3a9b416ee274ddb9e9216431f7a57c8617bfcb5
+FileChecksum: SHA256: 951a872c7981050639e1c64b876ffa4921417f29d7dd5dcf7ed75b8f3247f5e9
+FileChecksum: MD5: 6ba4e5f1289590d9e19b64fe8cbc4f79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_linear_congruential_random_generator.c
+SPDXID: SPDXRef-item6553470
+FileChecksum: SHA1: f0bbb474b363753406d9396fa17220d9d368ff00
+FileChecksum: SHA256: 47c96466620bfcac95cc0c208ee6c17637d33227586d69459705331c63c8ce70
+FileChecksum: MD5: 23a67030d5018aa3c2ad521802be33db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_lu_decomposition.c
+SPDXID: SPDXRef-item6553471
+FileChecksum: SHA1: bda3a8f5dbd1a7474c27a4c2ff80b8700725411c
+FileChecksum: SHA256: e21c962bd3da1bb298a939a627b0de567d7de834faeb43bf559f9cae0f89f96a
+FileChecksum: MD5: 507d7e595fe44034841e1ac6052714dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_jacobi.c
+SPDXID: SPDXRef-item6553472
+FileChecksum: SHA1: dc6f824faaf23f749eb6c5bf66a3edbee6084b57
+FileChecksum: SHA256: 3a8d12d4f2a64f3eb9e53bec1eba4dc0ef3feb1544b24f144cab9739b43f5e9f
+FileChecksum: MD5: 3f06152e57efe2ac690fdc7b6043467a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_finite_difference.c
+SPDXID: SPDXRef-item6553473
+FileChecksum: SHA1: d1ca1e003379278a76cba42835bd58db1a5a12b8
+FileChecksum: SHA256: 64a5d0f4365a5670ff1b729758b4f7bf7e33783d7183cca1cddcdfd22b050a9b
+FileChecksum: MD5: 86afcb4d940f4e407f28c90fc6601af1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_genetic.c
+SPDXID: SPDXRef-item6553474
+FileChecksum: SHA1: 36df3fcd6cdaa015def36b463baf91556465be36
+FileChecksum: SHA256: d9516009355fb6dd4090abcd67d77f862de332a91638b8588e05db7b6cb53414
+FileChecksum: MD5: b5abc9819f0d4b778e62793257779582
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_monte_carlo.c
+SPDXID: SPDXRef-item6553475
+FileChecksum: SHA1: 8ae9f435a1a69594757458a95567e6cd70fa0a5c
+FileChecksum: SHA256: 19694cc47688d119db028f087221cca3512d74f8ba59ec387707c2c67480b615
+FileChecksum: MD5: 09798596684a50ab2ccf81db487a364b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_gauss_elimination.c
+SPDXID: SPDXRef-item6553476
+FileChecksum: SHA1: 2c7319f1b13452829476555056619b19765c6cbc
+FileChecksum: SHA256: a4ecd3ad35adbc78eacdd3d973022ffafa9202d63b88fb605e6d3e187a5d229c
+FileChecksum: MD5: 1c18fc18d0eeae1559e5626c008a2c87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/tests/test_poly_interpolation.c
+SPDXID: SPDXRef-item6553477
+FileChecksum: SHA1: b461632070832396255e9c4ee569a2735eb476c1
+FileChecksum: SHA256: cc02dfe900672459fcde9885f42222f316440789211534d3c2659516ef34f990
+FileChecksum: MD5: 025df0d9e35c360503e0e528994b6c2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item6553478
+FileChecksum: SHA1: c311d39c821f8daa94417d2d0b0286d1fd555223
+FileChecksum: SHA256: 68fef1f5f7fba9abfbd328021abed544a225a947f747762fb0e8ae4dce0bce34
+FileChecksum: MD5: 89ed9d024530b4b9e25207e8a8ffb085
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/pca_compression/compress.py
+SPDXID: SPDXRef-item6553481
+FileChecksum: SHA1: 9514d1a75d1f380425c5d7391d44242e7a63fef6
+FileChecksum: SHA256: bd4a445a3f6e057869f4f9753965d367cc1c2bcfa4aeb182cbe86caa2e4ed8c9
+FileChecksum: MD5: 56703624f45362e3d335e680bef0a8f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/pca_compression/seven_max.bmp
+SPDXID: SPDXRef-item6553482
+FileChecksum: SHA1: 8abb71d1d44dd847acad32616a5372121d7431cf
+FileChecksum: SHA256: 002950123ae975219cd0b884e356a14b3573373d498d4794f2e649b2d78365f9
+FileChecksum: MD5: 0b504a48de4a3a860d131e0ea5fc9341
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/pca_compression/seven_8.bmp
+SPDXID: SPDXRef-item6553483
+FileChecksum: SHA1: 3356bb06441bed1b648c7618588321dc16c120d4
+FileChecksum: SHA256: aba183b4fa4db10b419bdee0f3a6b7efd838dadd337f5bb04d065bbfe9ae7d24
+FileChecksum: MD5: c4f5e7a5604f0015ec744d3c82b60bd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/pca_compression/pca_compression.ino
+SPDXID: SPDXRef-item6553484
+FileChecksum: SHA1: 430fe2f5d28ec53202fc16651b8c2c0cbe252dee
+FileChecksum: SHA256: 3d4080104bf69258aaca708b8f41ad0406adeb568825e54937e28b44d2695d65
+FileChecksum: MD5: 21753f76fc7bd264073cb73deb111d0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/pca_compression/README.md
+SPDXID: SPDXRef-item6553485
+FileChecksum: SHA1: 3f5a3df8509afc47c81ebc37d1c068fbfe84b6a7
+FileChecksum: SHA256: 28d05003ecea2a25ce3edd959f9d1db84758fb5e729fe692c5ab9cf713e46ba2
+FileChecksum: MD5: 7cdd2419eacc6b32f6b1ff9d8e32179e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/pca_compression/PCA_compression_result.png
+SPDXID: SPDXRef-item6553486
+FileChecksum: SHA1: 415ca074dfc5bdde382b3e2b6d0778cad23304c5
+FileChecksum: SHA256: b2d7389ce8c01949ecafcc226cbfc5e6a95abfa3943c39c0072ce761ecdf9fec
+FileChecksum: MD5: cc50c90f3a09fc405ac10932788e1ddf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/mc_shortest_path/arduino_mc_shortest_path/arduino_mc_shortest_path.ino
+SPDXID: SPDXRef-item6553489
+FileChecksum: SHA1: fb867bf109be4ca85f4dfd98027b284d01f87098
+FileChecksum: SHA256: 441af40bf63bfb812cd98c645fe57659520ba1abc29f493c873f2b544db917a6
+FileChecksum: MD5: db13a8af971f23130346d07647b95ef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/mc_shortest_path/arduino_mc_shortest_path/mc_shortest_path.py
+SPDXID: SPDXRef-item6553490
+FileChecksum: SHA1: 04eb7c069f05fa491d107cb9c0e184d8604b9ff8
+FileChecksum: SHA256: 62aa47091cb6e88e3642c2dbe5c05720ab7518a53867843e66b6651e2d6971ab
+FileChecksum: MD5: 887ef0245765b4995feb34d4a657f45f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/mc_shortest_path/README.md
+SPDXID: SPDXRef-item6553491
+FileChecksum: SHA1: 04ce0878b67f9af5930fea66eb22aa199b8882ea
+FileChecksum: SHA256: b406a1c329c8d2d9fa810e5bd0b511e66387f8b6b2a66a04b4571eda2c0e281a
+FileChecksum: MD5: 738935fb63f1bbc056facead19e8dd22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/fast_sincos/fast_sincos_performance/fast_sincos_performance.ino
+SPDXID: SPDXRef-item6553494
+FileChecksum: SHA1: 23b7310183fbf9f5d8f0a64aa8945d59911bbc9d
+FileChecksum: SHA256: 0cf34560cd28f2ebaaace2eca5aff29962bb3ca292c9f17c6c3758d47fd527ca
+FileChecksum: MD5: 34483d62952b1edfe2f2d9d66010d300
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/fast_sincos/TrigStats.md
+SPDXID: SPDXRef-item6553495
+FileChecksum: SHA1: b0dcf320334f2d2c248c12b6c5e0d16e7e62ab7a
+FileChecksum: SHA256: 559664c13b20451b533d174fe18f85f12b8179dd603e4dff5f7bae64af66d3ef
+FileChecksum: MD5: bbd29de89a7225c3ff820d590f6861f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/fast_sincos/fast_sincos_accuracy/fast_sincos_accuracy.ino
+SPDXID: SPDXRef-item6553497
+FileChecksum: SHA1: 4586f438f577a0940ea7fc36a78a51a9fb64697c
+FileChecksum: SHA256: 5ae008faff9a6ce66e45857771196218d253265c6dff2bcaac86f77907525bec
+FileChecksum: MD5: abde8f16bd0f76a53a2946f0767d6dde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/fast_sincos/README.md
+SPDXID: SPDXRef-item6553498
+FileChecksum: SHA1: 181799cb206450efa7bc9c3bc4e1b1c81b7d30f6
+FileChecksum: SHA256: 44543e6f899f7159124db235e0aaef5eff8dbbc98ec2e18ebf62f82c430f9c80
+FileChecksum: MD5: 9be56a0a0d34200d89d2ee1528a38dd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/utils/serial_port.c
+SPDXID: SPDXRef-item6553500
+FileChecksum: SHA1: 133deba2ab14d9e284ee18df1a1a577ef55a82aa
+FileChecksum: SHA256: 98d9262b9a75f0552ea5944896e3bfca0a8b476aecb61cbb67bb8405e4d09134
+FileChecksum: MD5: f259c9b87d9740f9860f4b58968a4325
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/utils/bitmap.c
+SPDXID: SPDXRef-item6553501
+FileChecksum: SHA1: 3f01aa58bd01b6d5b4387db96d1703a0baf3dc42
+FileChecksum: SHA256: a5a60e73f77314207a7600d4f372c540afbd63936797fbb56ae91500df964ec2
+FileChecksum: MD5: 191d736117651e35cf5bc301a04bac46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/utils/bitmap.h
+SPDXID: SPDXRef-item6553502
+FileChecksum: SHA1: 28b14dc64bca4578f9070374a62d1a81f6907b0c
+FileChecksum: SHA256: 8bdde748bea272ca6bf3d2c9cd06fd8b8e733a81b3149d9d5895e0f20b514d5b
+FileChecksum: MD5: 7a82b3d1c2fb8b85494f682bda1e3e61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/utils/serial_port.h
+SPDXID: SPDXRef-item6553503
+FileChecksum: SHA1: 25e602a165490a52925d7d31ea94169b15dbd80c
+FileChecksum: SHA256: c462aaea3734adb27f57ac1565c4ed144b65df817cef1cb951e8570420ed0da4
+FileChecksum: MD5: 1820a7ba53a48eae02be386c39a64905
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/utils/arduino_serial_port.hpp
+SPDXID: SPDXRef-item6553504
+FileChecksum: SHA1: e526819ee4a81dd165139db32df57961fe829735
+FileChecksum: SHA256: 4bb71a261d7289d7a4479e2f25f6b69f80539ccade15853b76ed94dbf2ae9534
+FileChecksum: MD5: e7018755ffada7c037f9c7e60e778a55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/utils/arduino_serial_port.cpp
+SPDXID: SPDXRef-item6553505
+FileChecksum: SHA1: 3c2b0bc735f7d44dc5f504dab7b13c979e7ee597
+FileChecksum: SHA256: e83cc8959b4ab0dfb2aa30c5d59a7dfa2a3850bdf15a9291bbfbc80f2948314d
+FileChecksum: MD5: c8be911a9c24c81557ee34bd74f9baf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/utils/serial_port.py
+SPDXID: SPDXRef-item6553506
+FileChecksum: SHA1: 6312e876da1d856495103a7d2c7f55a3fb12aaf1
+FileChecksum: SHA256: 17978ddc5961b14266991d859a608b7cae863bda4d54e9d3ab89bc7e6aa0273d
+FileChecksum: MD5: 74f875b504d5679e9350ccae5b6b082a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/large_scale_recommender/large_scale_recommender.py
+SPDXID: SPDXRef-item6553508
+FileChecksum: SHA1: 38a93f97b82f351ade9172f1f2a7a35c3ce8bc57
+FileChecksum: SHA256: a037320e32cd3e3b57c54501a2c270d76083f970523b3a34b998bfcfc9a9cc36
+FileChecksum: MD5: 405651b614ea63a3bcf66e504d9986d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/large_scale_recommender/large_scale_recommender/large_scale_recommender.ino
+SPDXID: SPDXRef-item6553510
+FileChecksum: SHA1: d1e7693be33cc48daf040ec5ef7b28549ba0198a
+FileChecksum: SHA256: c10e555b1ba79c5ce8206d76d030bebc25c4175e738bf67d1d24442cb7ee3457
+FileChecksum: MD5: 57c1c29fc2f071bae459a1493fcf5838
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/large_scale_recommender/README.md
+SPDXID: SPDXRef-item6553511
+FileChecksum: SHA1: cab9e6e81d174b495f7bc6de2f5feb5d708d7b91
+FileChecksum: SHA256: d963bce3d174843c381b00b159ab7fdab34cf1f865fc6729d9b114f9260bab26
+FileChecksum: MD5: 6ef2e398767db22523c1a4171d90255a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/clustering/clustering.ino
+SPDXID: SPDXRef-item6553513
+FileChecksum: SHA1: 2d18e663ad4df4747326609c0d517a4f3b3ab98a
+FileChecksum: SHA256: 2328b53bae67f77426e6ce5a0edc4511623838f8ccea3fa79dae7d1bde81daa4
+FileChecksum: MD5: e54015e4bd4cbb6bb2531fc7cb339197
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/clustering/clustering.py
+SPDXID: SPDXRef-item6553514
+FileChecksum: SHA1: edc76246a80a8cbff198b77dd7085e271162dff1
+FileChecksum: SHA256: 874b2d81a349f57f4d0970e77c91f4a2a5b5aab8d081f262d97bb95f8478ddbc
+FileChecksum: MD5: cf267f58b4644bf553681e7c729bef7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/clustering/requirements.txt
+SPDXID: SPDXRef-item6553515
+FileChecksum: SHA1: 76c105f8957a9090978c2358cfce73fa3d2d3b3b
+FileChecksum: SHA256: 243e1d6f80f774bce5bf26d3b58a76d50d4c4f15dbd66aa1aa7fe7028fd9a177
+FileChecksum: MD5: e392af58764f7bc69430406dc2533970
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/clustering/README.md
+SPDXID: SPDXRef-item6553516
+FileChecksum: SHA1: 1791ae5cefb36aedb72c6f27fd663192ee47f97c
+FileChecksum: SHA256: e5f46b5a838d9705419037b109e20351d80a06a3756abfb2c5cb80f61dccfa18
+FileChecksum: MD5: 190461415e7a2f65b090f2d174a9ab34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/mnist/network_weights.h
+SPDXID: SPDXRef-item6553518
+FileChecksum: SHA1: 4a19c0bb80a8e2d8ecb5840f4497e390758175de
+FileChecksum: SHA256: f596829a6e82813d9e5a0be26b3ec1607ec89c76f301dceac62183b3c4be8c36
+FileChecksum: MD5: d6d4eef41b2b6f56b70653ee8f8017d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/mnist/mcu_ann.c
+SPDXID: SPDXRef-item6553519
+FileChecksum: SHA1: 7f182c90f93eb406505a1af380ae49a2729d79b2
+FileChecksum: SHA256: 784f8de3058666a180325608c7f915398877c06ecacfd7872bb63c73929f0d77
+FileChecksum: MD5: e96ae04fe09cf3e0f4878e98488dacdb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/mnist/network_weights.h.template
+SPDXID: SPDXRef-item6553520
+FileChecksum: SHA1: 45355972ea07cb9bd3038f53c0f995cf1fe8d5db
+FileChecksum: SHA256: 41735da47d5a900c7603489cb2d8fe6153715f00a204d4cdc4169f846f86a907
+FileChecksum: MD5: ea3feca901d8dc3cc950f712c83affe8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/mnist/network_weights_example.h
+SPDXID: SPDXRef-item6553521
+FileChecksum: SHA1: 88f20e722708a9d90e1e8696f7e895638e279e73
+FileChecksum: SHA256: 0d862b20311732ab81d62b99eee401faebf7727a02468123094be42d54825088
+FileChecksum: MD5: 7b982f65666cd221227d95ecc5e213cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/mnist/mnist_model.ipynb
+SPDXID: SPDXRef-item6553522
+FileChecksum: SHA1: 39dd25692d9c55b5ac563e6601898a0007dd55fd
+FileChecksum: SHA256: 06f91f004ad6bf5a0d0ef675dcc314bda307835b4835bda44949aa9218d06e53
+FileChecksum: MD5: a5c212ef2f02414526d2e89b37fe1e1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/mnist/mcu_ann.h
+SPDXID: SPDXRef-item6553523
+FileChecksum: SHA1: e7be70605eb4b2bf5f176e99cbd9c8f4d394d7dd
+FileChecksum: SHA256: 64b730d7529f92ab18f9915816dbccea759272cd0d4bfe3288bb84232cf431d4
+FileChecksum: MD5: a0e67f3e20de57fc88fda3c00f853920
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/genetic_curve_fitting/genetic_curve_fitting.py
+SPDXID: SPDXRef-item6553525
+FileChecksum: SHA1: 4d9cde6ef34b3c31a9649c7cba25e7e52469edae
+FileChecksum: SHA256: 2eae51a9a8a9004619fe32581139875bdd72e1811e2ff7bfdf7ba5409291780a
+FileChecksum: MD5: 528a44f6b62f15d64198d9947c58c762
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/genetic_curve_fitting/csv_generator.py
+SPDXID: SPDXRef-item6553526
+FileChecksum: SHA1: 7e4a0691aed30cfa6b43f66df449520181ee92c9
+FileChecksum: SHA256: 420d8abd17b42ea2888b95211a0ce74a6e631255ed09bbc2b8f6d8b027c65d0f
+FileChecksum: MD5: 9982a58780de823eec2803111f6a4e41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/genetic_curve_fitting/data.csv
+SPDXID: SPDXRef-item6553527
+FileChecksum: SHA1: a74f6c7905076243ac879290b972129ae86c2f02
+FileChecksum: SHA256: db60aac50ff9180f6ed3b9c6f5a4877f93a61d7a538d9dff459f2185180b76fc
+FileChecksum: MD5: 936ec6efbc71bdf413a1e5525c6b498c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/genetic_curve_fitting/README.md
+SPDXID: SPDXRef-item6553528
+FileChecksum: SHA1: 7066b24e80fd3943420f1852814262c18e1c5599
+FileChecksum: SHA256: 14d4660469e45f05aec11958283a5c8be26f9c5a7db943bc0cad88677bd1c961
+FileChecksum: MD5: 0fee8e8ce683ecf8a211e9b5e45b8ae4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/genetic_curve_fitting/genetic_curve_fitting.ino
+SPDXID: SPDXRef-item6553529
+FileChecksum: SHA1: 288e510db714b62cf1bf82e0c25656cd0f342476
+FileChecksum: SHA256: 9f2079169917b847251aa362449bb5813472e48331efe84ca7eaf096e77a5077
+FileChecksum: MD5: 693b7ed9d35a2bcb53766ef185ae3742
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/FFT_image_processing/Makefile
+SPDXID: SPDXRef-item6553531
+FileChecksum: SHA1: 44ec6e4c839a53200b171d02a77437e8ea4ad8c8
+FileChecksum: SHA256: 7acd82517b9445e76a81fbfafd42dc0fcf1d2669a059c8ec449eca3896d1a685
+FileChecksum: MD5: 349935f172ffe45aad1d79276731b710
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/FFT_image_processing/arduino_image_processing/arduino_image_processing.ino
+SPDXID: SPDXRef-item6553533
+FileChecksum: SHA1: 49388fdfa023113d90a9c59b788c6538653de38f
+FileChecksum: SHA256: a166a24b84348f656dcff214d0625061602f025019b3d1c3c2a1d0fd2fe88108
+FileChecksum: MD5: 13a39f0d0b61b99ffc2da0b1697b290b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/FFT_image_processing/README.md
+SPDXID: SPDXRef-item6553534
+FileChecksum: SHA1: d1b713fbf08f2a18f59c7297f9ee5eab18cc178b
+FileChecksum: SHA256: 71ba1badbfc97daf8c8ebc6acc346b8deb75d28341c126b77a97e7a2b1262c6e
+FileChecksum: MD5: 72cca2495d3a75bfbd8590d1e82a573c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/FFT_image_processing/1chipML_color32.bmp
+SPDXID: SPDXRef-item6553535
+FileChecksum: SHA1: 876e7cefe8ec9df757af666e4f335d7da4e01720
+FileChecksum: SHA256: a6ae31fbe942e9ed71b06099ba2e237add29758cd52fdccc91dad74d454d9b02
+FileChecksum: MD5: 85ab71dc019074a5062342223c5ae15d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/FFT_image_processing/image_processing.c
+SPDXID: SPDXRef-item6553536
+FileChecksum: SHA1: 2ba02fcacd41ef97713d22869dc67dda3048e94e
+FileChecksum: SHA256: feaa6b7fbd6e62b57e64e2bf5c61f8a8dfa65f458e2d72f4fb2f476429c637a8
+FileChecksum: MD5: d3b5d9d3eb18f70b81ed53a791076b10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/gradient_descent_anomaly_detection/data/Linear.csv
+SPDXID: SPDXRef-item6553539
+FileChecksum: SHA1: 344c7a9aea6b9867fb7c6e3f08d9e15a30c94391
+FileChecksum: SHA256: d194a7c6ea42c67ec27f38048dc05aa8018ca36cdd14388b59afbf5ca659f425
+FileChecksum: MD5: 1b4c21f8b40afce1dc4676a18d13df13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/gradient_descent_anomaly_detection/data/Cubic.csv
+SPDXID: SPDXRef-item6553540
+FileChecksum: SHA1: 7956f4aca3e2f21467ac6018c2e01e5aae6c9a75
+FileChecksum: SHA256: 91bddb46410faaabc6fe57216b59a35a7e56fff39508b6437d780f51d8c5f442
+FileChecksum: MD5: 6cba3c16086800e0e87ab7e825f0605b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/gradient_descent_anomaly_detection/anomaly_detection.py
+SPDXID: SPDXRef-item6553541
+FileChecksum: SHA1: d9388339fade4424102039b6d0687929eef24281
+FileChecksum: SHA256: ea8e915b41b77e3731657bc5beb58c69feb7aa1233ae80679bc68cf458226c5f
+FileChecksum: MD5: 112b1460e457d3ee5ad18541f2ea2201
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/gradient_descent_anomaly_detection/README.md
+SPDXID: SPDXRef-item6553542
+FileChecksum: SHA1: 67896463f7358f8bddada3f4df50115a18e0f462
+FileChecksum: SHA256: d7b2628af9ab1a8853261f7c384c0a24cc591aa5400b8fac4b9de71748548218
+FileChecksum: MD5: ff040c3862fa47a7ab71d88b314f6091
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/gradient_descent_anomaly_detection/gradient_descent/gradient_descent.ino
+SPDXID: SPDXRef-item6553544
+FileChecksum: SHA1: e6db4ce2a22d3df3a13492550a1ecaf89153afec
+FileChecksum: SHA256: 4d31e6212db1f0c99dbb8915305e5739898b41094d4090e9fb3b50b5a63f5223
+FileChecksum: MD5: 64d7e1f56e7e0d619029b9e381604605
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/pca_lanczos/pca/pca.ino
+SPDXID: SPDXRef-item6553547
+FileChecksum: SHA1: 71f405e512cf67a2f2d8fdecdc6e668485a030b1
+FileChecksum: SHA256: 5678e2ad8fb288d0cbbac17eb0527046733c64168a6f2fc00957bbd883607a14
+FileChecksum: MD5: 5305bf087dcba6582dd9aabf95803751
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/pca_lanczos/pca.py
+SPDXID: SPDXRef-item6553548
+FileChecksum: SHA1: 4eb75087f03748339008b9fddf8ac1c895ddfede
+FileChecksum: SHA256: 3a8e1d9ba1767cebefcdf750c922b6cbd11e2e58211026de1370f90e82234085
+FileChecksum: MD5: 85a1b0d65dec10418fad320bf7bdec48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/pca_lanczos/dataset.csv
+SPDXID: SPDXRef-item6553549
+FileChecksum: SHA1: 23ab9b91fec0ae8ab479831ed2d16e6794c1ce2b
+FileChecksum: SHA256: fddb73a7af4abcec8c2131dbc51deb5a1a53ee46907b0093da45c15433f526f2
+FileChecksum: MD5: 22ff7916168fbfce14dc911d14c0bb34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/prototype/pca_lanczos/README.md
+SPDXID: SPDXRef-item6553550
+FileChecksum: SHA1: 168bc7f2298d6fa92ae672cf1367db0cc644637f
+FileChecksum: SHA256: 35197abb4b7b41f596091f5f9a95e4f551b2e608ab2c70b0c8f389d10da45858
+FileChecksum: MD5: 5bf44ccb88ab928fa91362f63198572e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/GOVERNANCE.md
+SPDXID: SPDXRef-item6553551
+FileChecksum: SHA1: a0457ed2f3050a1af4a6f574543191ec652da267
+FileChecksum: SHA256: 7074ad24b6d19767511470b465e1be8a0fe37df61bcfbee2b5772be9093d7855
+FileChecksum: MD5: 732d950584698bc0f3d7f9e10d322d06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/Makefile
+SPDXID: SPDXRef-item6553552
+FileChecksum: SHA1: d106bb1e3af26859fe39bb638f8f71b87b7cf516
+FileChecksum: SHA256: c326eba4e9a1d90dab9787e3e205dad78ea8a40c0a5d265afa185ba27441caf2
+FileChecksum: MD5: e3af04e32facc4a1d744febc10b66f09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/RELEASES.md
+SPDXID: SPDXRef-item6553554
+FileChecksum: SHA1: 179eecc44107486767dde4478809d2f652ef2c7e
+FileChecksum: SHA256: 668b1f65da9a4fc2a94db32137f1626613e4528cb9c8db0ed31f7254a03d9996
+FileChecksum: MD5: 660ea2826e9b4d40d5342c175d26cfc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/CONTRIBUTING.md
+SPDXID: SPDXRef-item6553555
+FileChecksum: SHA1: 430c99477627920c183cd2210420f0dfc8967ae9
+FileChecksum: SHA256: 83de750e5ebff4b6e83f8f4a62d0149cddb66678cc7b928f51342463fe68f975
+FileChecksum: MD5: e584d576a726a0dea146e9d85c3f8717
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/mc_stratified_sampling.c
+SPDXID: SPDXRef-item6553557
+FileChecksum: SHA1: 55c236e50e86f550fbd61359c143afd85b94f921
+FileChecksum: SHA256: 032bbad06c4cc45de3431bde9184cbb5f2c2315245a25b6318b43b6bb5b8dd69
+FileChecksum: MD5: 4058438a5f147347b398c0d5b5a73671
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/FFT.c
+SPDXID: SPDXRef-item6553558
+FileChecksum: SHA1: 0dede03569b42fcca2becf2c9a8f099cf8e65bda
+FileChecksum: SHA256: ea9475146389189a6bf903c049cfb44851db6a240f4b3177dfcec05b8ee3c314
+FileChecksum: MD5: 9f8ebf99e72ed85e4558a8ed2fd4446e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/matrix.c
+SPDXID: SPDXRef-item6553559
+FileChecksum: SHA1: ee8b1cdc033d6a0a421c770d2929970efd34e26f
+FileChecksum: SHA256: daed85dc59f24e8ef1fe441e254c227d47c13cb48465b3150cf5dfe21e8f7fe7
+FileChecksum: MD5: bf32f29d8c808d91f77ccaffc3384b81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/utils.h
+SPDXID: SPDXRef-item6553560
+FileChecksum: SHA1: 68947d64ad0ee2197371235cb6dc181f1ae8518e
+FileChecksum: SHA256: fa7559f5cd56c0ebfd92421ef94f2f53db952ed0fb4bf68c12aa8b3143de2069
+FileChecksum: MD5: 48cf11636f6ceeab57a1ea9bdad26c33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/genetic.c
+SPDXID: SPDXRef-item6553561
+FileChecksum: SHA1: 15fbb26339271a7daf3019a0bdee7a307f616153
+FileChecksum: SHA256: d3bb0dd353ed5bb60202d2ee04ed993772c23570d86328f74e6bf38fa55967ef
+FileChecksum: MD5: 8018b6671a518f49681c5605be21d721
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/gradient_descent.h
+SPDXID: SPDXRef-item6553562
+FileChecksum: SHA1: 4744778cb8accf098f86d6ca581b5e7a9fa4782c
+FileChecksum: SHA256: b93ca179377c6b47e1074e81d2d8160786d98284e3cfb8a724d9d02484d9d031
+FileChecksum: MD5: 0de4145324bf4ad0e3e3d3a4dd52550e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/lu_decomposition.h
+SPDXID: SPDXRef-item6553563
+FileChecksum: SHA1: c12bd619063f546daa9704d8a01a7dafdca94043
+FileChecksum: SHA256: 4cfd31e10554e5996c5e912965bb84b0886f899d1c2771ecd6d2d67eaa143445
+FileChecksum: MD5: f390738f608ec0c96aadd25bdb7bbd9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/poly_interpolation.c
+SPDXID: SPDXRef-item6553564
+FileChecksum: SHA1: 35d7bf8eee639135ec65928a156d7d0911f95abf
+FileChecksum: SHA256: 5f053cdc42e0a0b7154721e36caca35b345886574100c18736fa6cef419debca
+FileChecksum: MD5: fb3376147d2cc305811abcd013000f5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/gauss_elimination.c
+SPDXID: SPDXRef-item6553565
+FileChecksum: SHA1: 0958229e9a7c8f52899e152984a9b60211e45c63
+FileChecksum: SHA256: 0c14d20dcdf6973e4a5b11b8d90502bbacf88badd643bc7d00f91c9348b018f5
+FileChecksum: MD5: 63d9b86857ce73e914f4276b6364bb12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/jacobi.h
+SPDXID: SPDXRef-item6553566
+FileChecksum: SHA1: fa70403d30b0adcd70afdb928079d5fa493d4767
+FileChecksum: SHA256: 6e53bf31f08c8db13abab35ab82869e8bf597bee784b5bdd32f84fdb919e3cff
+FileChecksum: MD5: c2c8786adb3f061c52e44f4f004f2983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/finite_difference.h
+SPDXID: SPDXRef-item6553567
+FileChecksum: SHA1: 9a8b493f802dd11dc728ee511e3bcd4c0d9acada
+FileChecksum: SHA256: 07d50cf19098809bbac690b860f63e05fce76faf517a161d212a82711894c704
+FileChecksum: MD5: 3cd7c97112166ba133c8d3318beb0084
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/gradient_descent.c
+SPDXID: SPDXRef-item6553568
+FileChecksum: SHA1: 82bce3a4b32a7048b88c5774a92ee48a02b50ada
+FileChecksum: SHA256: 596867d44ebae96a1b8e1c3f56c1830921fc5dedc782ce9876f23699364297f1
+FileChecksum: MD5: 38770df722169fc2c0c0527bca7da1c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/lanczos.c
+SPDXID: SPDXRef-item6553569
+FileChecksum: SHA1: ccac5a7cfd29ec8fec349be5eac3c17dc0a6d624
+FileChecksum: SHA256: 1342afc6814cfe65460edee343ccdac1a55006fd0f036bf4da465df6e84737e6
+FileChecksum: MD5: 859a8afddfba0847cd34fb7003f23e86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/fast_sincos.c
+SPDXID: SPDXRef-item6553570
+FileChecksum: SHA1: 8ed60b6697a0b92b906078c09c00173ca1b7ce65
+FileChecksum: SHA256: 16311cfbef6695e3b9a56225a9b12710943f22f904019e1c42f5885d7aa0f557
+FileChecksum: MD5: a9b742d33be61f2acd7917429c1853a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/monte_carlo.c
+SPDXID: SPDXRef-item6553571
+FileChecksum: SHA1: 61e275bad935ea6e609952606a82c50c66daef21
+FileChecksum: SHA256: 3a300fc5853aecd42b6a0d2696d6d67207c31b6ddff9cbdf4fcff266ee7f0320
+FileChecksum: MD5: b2e82b84481207d4ac5182999f944a4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/FFT.h
+SPDXID: SPDXRef-item6553572
+FileChecksum: SHA1: fc014d48937c4eefa7f222f06cdc97c578449ae1
+FileChecksum: SHA256: cf9a126a099d04cf4fa9915b5bb17a3c83418fec5840853be2a5158db740429c
+FileChecksum: MD5: fb37c44f792a58e45536c51780ed8c8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/monte_carlo.h
+SPDXID: SPDXRef-item6553573
+FileChecksum: SHA1: 502a3ab5fd59a02fdeacb4fafd4bad896671f824
+FileChecksum: SHA256: 5ff885156bff72486722b6893fd30f7143732b72c3733e440dd5b8fdf4bab511
+FileChecksum: MD5: d84ccbe2a87f9685a2ce8383973542d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/fast_sincos.h
+SPDXID: SPDXRef-item6553574
+FileChecksum: SHA1: 56b57b45d66e5da57e432c8e9801509b978f6115
+FileChecksum: SHA256: 341dd1b251822c5f27cef2f843c19a6a2a73b6b378b4976366dc3337f28b6276
+FileChecksum: MD5: ec42c83edf716ed42d7f22841f6e8b67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/linear_congruential_random_generator.h
+SPDXID: SPDXRef-item6553575
+FileChecksum: SHA1: 8938dcb7e3e4f510779fe286ab4e40a92cea8f56
+FileChecksum: SHA256: 7099f004fedee9d9de1aac6fe412f72e90128ae08431b648b514b2e32c500e9c
+FileChecksum: MD5: 529bc6cdca926b3b55610458dc8ab1e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/jacobi.c
+SPDXID: SPDXRef-item6553576
+FileChecksum: SHA1: 06d5902e1ad824c9ff3aa3bd6512f8b782af73fe
+FileChecksum: SHA256: 5f425ab6ff5418e6c0e324022636d5151e83bb7b0313ac9da1e486b63e6ee6f6
+FileChecksum: MD5: bc196b9dd6fcede32baed0789037d69d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/linear_congruential_random_generator.c
+SPDXID: SPDXRef-item6553577
+FileChecksum: SHA1: 4b87aeb5f5b93248a9af14ae96f06569fd23fb89
+FileChecksum: SHA256: 4e72b849493d5a3a8cd48497af12f9a5d391997ec1c500befbc96f15cd7fd83e
+FileChecksum: MD5: 58cb006b2907026c7ee7c0e1d4f4b7d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/DFT.h
+SPDXID: SPDXRef-item6553578
+FileChecksum: SHA1: cc3b249e17213d5d9c84aba970d4a25c7c5f3eee
+FileChecksum: SHA256: 2f51b32c8cdd7e97f3b43459c82e8b6272babe73b9aee7596f08b120cae5175c
+FileChecksum: MD5: 03555bb6e51d1a0ec9b868581ea57e3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/stats.c
+SPDXID: SPDXRef-item6553579
+FileChecksum: SHA1: 0e4f7456a3adbe47d4e617abafc779dc5b70e3a5
+FileChecksum: SHA256: 0bc62081f6fb6f682e71f19a0189da937a128c89581fd2fe8bac59dcbbb713d8
+FileChecksum: MD5: fbed6993bd1644e98583f98725682cb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/DFT.c
+SPDXID: SPDXRef-item6553580
+FileChecksum: SHA1: 608da7110d7fcb7e21aa01400b99f05d4d8e016f
+FileChecksum: SHA256: ed7042cab5c9c008de00c2107f084365bea14fd48be9079e5140925034bef0be
+FileChecksum: MD5: 961d07b5696080a4f08da6e9bb86ee6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/mc_integration.c
+SPDXID: SPDXRef-item6553581
+FileChecksum: SHA1: c1f9a7973cdf0f8ab131673ffb7811a1419963a4
+FileChecksum: SHA256: b7bf20bf97e846288e83040d874d6aeb32e6658b802d6ecf7ff8beda2786c9c0
+FileChecksum: MD5: adf41e227166aa450bdc1eef5b96f468
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/matrix.h
+SPDXID: SPDXRef-item6553582
+FileChecksum: SHA1: 95c984671499b9b6e262aa8456b90fc8eca2a5b8
+FileChecksum: SHA256: e3ec7d6c160713ca6258ab20ed46bc5c26dea9316fa7f8b671ddd2ca428a98fe
+FileChecksum: MD5: 757c3e08a0380fd79afde1aee2ea4b5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/mc_std.c
+SPDXID: SPDXRef-item6553584
+FileChecksum: SHA1: 7f292be9c5b9855ae1007d9ebe54595fd48ac11f
+FileChecksum: SHA256: 8f67487c58372eb41b6db0e0e51737fdc1b3b2269e66604b34d5cfd1c4240bc8
+FileChecksum: MD5: df83d2ee15753fa8f307634e4fee3bf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/genetic.h
+SPDXID: SPDXRef-item6553585
+FileChecksum: SHA1: 2004b39da458034ca06b5b5eb72b663b1a9e6208
+FileChecksum: SHA256: b0317e22227940af7b4a4edf6afc1703b6a4031e197f99eb8a808907d433f03f
+FileChecksum: MD5: 27c232a9c58c9e25310d00addaf5b9f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/poly_interpolation.h
+SPDXID: SPDXRef-item6553586
+FileChecksum: SHA1: e2ce77217e0c5117aaae7808c18b79e4b027f599
+FileChecksum: SHA256: 00bda05b9ba1400347ed791351c6c72fac400016b06d5a4442c22b6fceb78285
+FileChecksum: MD5: 895b740e96f245c90941ba8e41432fb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/lanczos.h
+SPDXID: SPDXRef-item6553587
+FileChecksum: SHA1: ee992e53b92e6558a21d32ff393ee278e8be9a1e
+FileChecksum: SHA256: 54e00dfe822ab946a4d875ffdc8bf4a045244c19616514bbbb82bf3ba5d45369
+FileChecksum: MD5: 0a518883685dd6e7c9b96f3b72b9879d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/stats.h
+SPDXID: SPDXRef-item6553588
+FileChecksum: SHA1: c64593653dc41dab1fa4d54236d7f6f9fc769d20
+FileChecksum: SHA256: 3ead6a0baa72b3bafb87966397d11156e08a84bd4f25b0e4449aae852a02e6d9
+FileChecksum: MD5: 91a0cdd63c11e429600f2718b8d65672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/lu_decomposition.c
+SPDXID: SPDXRef-item6553589
+FileChecksum: SHA1: 3209e69143197a41b6def5d1c6cbbbf0d0ee7b2d
+FileChecksum: SHA256: f98345696f94f28d5e179f41cce2dd5b285fef782811088ae5c02db38d1d09aa
+FileChecksum: MD5: dd904f7279a979dd72e3f85aac51336f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/gauss_elimination.h
+SPDXID: SPDXRef-item6553590
+FileChecksum: SHA1: e3d5d9e3b8e21f795e0b9eb824d8d553afd7c38f
+FileChecksum: SHA256: 48acac5f21e5b4bbc3eb5f5d50c523a39df70496d83b7096dc2c159fc5679657
+FileChecksum: MD5: 7e827db6199515ba4d07ca0d100cd073
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/src/finite_difference.c
+SPDXID: SPDXRef-item6553591
+FileChecksum: SHA1: ed1fe9c39001f62f4253cd46bc48139d7d476b8f
+FileChecksum: SHA256: 87d218efbb81daf23cb6b45c4e4cc037fa918dab1e97468070ab8db10ecafb85
+FileChecksum: MD5: 7d6e287cc9576da15635f21c8e2564bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/.github/workflows/LatexPipeline.tar/LatexPipeline/compile-latex.yml
+SPDXID: SPDXRef-item6553598
+FileChecksum: SHA1: a76d4c4f5e7308d708c0375746a034a795236037
+FileChecksum: SHA256: 0905a5ecb1dd41fbafd0d6e2d28ff36d347391567f70b2d9db881bbae2619968
+FileChecksum: MD5: dd91cb77aeb5153218e897aa2c94d63d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/.github/workflows/README.md
+SPDXID: SPDXRef-item6553599
+FileChecksum: SHA1: 62a59aafff0b448441a324f7fd6901952c141df3
+FileChecksum: SHA256: a89bd7c9ba4e6b57408618836cecdf6ec956338a5c0cfa36b8003e55798c4f97
+FileChecksum: MD5: 21bc39fe16bde726d268fb5075b79d1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/.github/workflows/make.yml
+SPDXID: SPDXRef-item6553600
+FileChecksum: SHA1: 5fed3809fbd0df5eb1564063c41cde03aa13a251
+FileChecksum: SHA256: 6159f0acf3f2a6227fd964b5646c09fbd01aac5a4b48d25b1ee290f133f0d3a9
+FileChecksum: MD5: b2c8e84ee86893be27c6a64a28913fad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/.gitignore
+SPDXID: SPDXRef-item6553601
+FileChecksum: SHA1: a80c3cb3d9000b06006becf74c935465658da66f
+FileChecksum: SHA256: be10ef7ce214a15dc45fdfcd715fb140ebac9ffb7784015b0038b49d2c20fc9f
+FileChecksum: MD5: 606923c7d394558554f768d2fe88da2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/SUPPORT.md
+SPDXID: SPDXRef-item6553602
+FileChecksum: SHA1: 19493903ee95700050ed83bfa13fde2a0eb29ed5
+FileChecksum: SHA256: 8b6f14e65bc6726b27e78ed23588ceb285bfe8c307616c6f32fd09c98ecc6ee1
+FileChecksum: MD5: 4f2c9eb8c5f7585304622880acbd9929
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/.clang-format
+SPDXID: SPDXRef-item6553603
+FileChecksum: SHA1: 77f566bcfd023709b350a1c08b10159005f41aff
+FileChecksum: SHA256: 7c37dfa2b7bd40a510fa50e92586ea7480b5241962cf51c7965b0659092959f2
+FileChecksum: MD5: d72cdfbf220e9e3ee9a79c168f80b6b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/README.md
+SPDXID: SPDXRef-item6553604
+FileChecksum: SHA1: af9f8a4a905167547a50f24e08bd430355025610
+FileChecksum: SHA256: 3c1031471839cfd4b1f71b4d33f26bb6963d5d1fba697c334c0a2c75e4fe9eb1
+FileChecksum: MD5: 3eb8b2775df61e34ca232ef35b4f2a0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/SECURITY.md
+SPDXID: SPDXRef-item6553605
+FileChecksum: SHA1: dff02b8fd4bc9b4339616ab370343c16e55ad215
+FileChecksum: SHA256: 29ea65b81a2fc3ea2464a9b1d52a84604cc49eb98bcd8e1fef545c6039508b64
+FileChecksum: MD5: 788b23265d473d301ee040bf15b68bf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/doc/1chipML_logo.eps
+SPDXID: SPDXRef-item6553611
+FileChecksum: SHA1: 97f1974c915f4c002ffe7773b90cb30b8f323511
+FileChecksum: SHA256: 28a17b0b4f8e6b1f8ca052fcfa2a42b4f287a20abd9a887d1aaec90b5b32a8e9
+FileChecksum: MD5: 084d4d44a34afff2eb0f6dabc75eae41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: 1chipML-2023-12-15.zip/1chipML/MAINTAINERS.md
+SPDXID: SPDXRef-item6553612
+FileChecksum: SHA1: bc0d60de31600252c15c827b5ffce2a5e62f503f
+FileChecksum: SHA256: 53694bcea018a092b92b5a0b422badd1b095322afa27d816abd93f63f38bf1a3
+FileChecksum: MD5: 752a38069866f1347bba562582b063ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
