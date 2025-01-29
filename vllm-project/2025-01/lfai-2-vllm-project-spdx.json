@@ -1,0 +1,1820 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T17:56:54Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD (version unspecified)",
+            "licenseId": "LicenseRef-BSD-version-unspecified-"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "GPL-2.0",
+            "licenseId": "LicenseRef-GPL-2.0"
+        }
+    ],
+    "name": "/tmp/tmpm7na3s05/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpm7na3s05/code-0d817b61-d67e-4619-b411-251543b84c68",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-2626f125ee5352db",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "buildkite-ci/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "c899dbba20c17c0012f84422f34b64ee32689a17"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-c33ef27425752d2c",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: bundler"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "vllm-blog-source/Gemfile.lock",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "4577c6ac65d828f8f2ba8a9311c81d64875b9b82"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-592fee2b43a6b0c8",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: addressable@2.8.7"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Addressable is an alternative implementation to the URI implementation that is\npart of Ruby's standard library. It is flexible, offers heuristic parsing, and\nadditionally provides extensive support for IRIs and URI templates.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/addressable@2.8.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sporkmonger/addressable",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "addressable",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Bob Aman",
+            "versionInfo": "2.8.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a382f572a60719dc",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: bigdecimal@3.1.8"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "This library provides arbitrary-precision decimal floating-point number class.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/bigdecimal@3.1.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/bigdecimal",
+            "licenseConcluded": "Ruby OR BSD-2-Clause",
+            "licenseDeclared": "Ruby OR BSD-2-Clause",
+            "name": "bigdecimal",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "3.1.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-db909214d417dade",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Composable command line interface toolkit",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/click@8.1.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "click",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: buildkite-ci/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "8.1.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9b39fc994aaabeba",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: colorator@1.1.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Colorize your text in the terminal.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/colorator@1.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/octopress/colorator",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "colorator",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Octopress",
+            "versionInfo": "1.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-269096cdaa72f8a8",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: concurrent-ruby@1.3.3"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Modern concurrency tools including agents, futures, promises, thread pools, actors, supervisors, and more.\nInspired by Erlang, Clojure, Go, JavaScript, actors, and classic concurrency patterns.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/concurrent-ruby@1.3.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.concurrent-ruby.com",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "concurrent-ruby",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: ruby-concurrency",
+            "versionInfo": "1.3.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-57b4db1834c2f891",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: em-websocket@0.5.3"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "EventMachine based WebSocket server",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/em-websocket@0.5.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/igrigorik/em-websocket",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "em-websocket",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Ilya Grigorik",
+            "versionInfo": "0.5.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a858305351c81bfb",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: eventmachine@1.2.7"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "EventMachine implements a fast, single-threaded engine for arbitrary network\ncommunications. It's extremely easy to use in Ruby. EventMachine wraps all\ninteractions with IP sockets, allowing programs to concentrate on the\nimplementation of network protocols. It can be used to create both network\nservers and clients. To create a server or client, a Ruby program only needs\nto specify the IP address and port, and provide a Module that implements the\ncommunications protocol. Implementations of several standard network protocols\nare provided with the package, primarily to serve as examples. The real goal\nof EventMachine is to enable programs to easily interface with other programs\nusing TCP/IP, especially if custom protocols are required.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/eventmachine@1.2.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://rubyeventmachine.com",
+            "licenseConcluded": "Ruby OR GPL-2.0-only",
+            "licenseDeclared": "Ruby OR GPL-2.0-only",
+            "name": "eventmachine",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: eventmachine",
+            "versionInfo": "1.2.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c37288966fcf9842",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: ffi@1.17.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Ruby FFI library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/ffi@1.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ffi/ffi/wiki",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "ffi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: ffi",
+            "versionInfo": "1.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-569c64a30490bf98",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: forwardable-extended@2.6.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Forwardable with hash, and instance variable extensions.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/forwardable-extended@2.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/envygeeks/forwardable-extended",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "forwardable-extended",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Jordon Bedwell",
+            "versionInfo": "2.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9b2318128a83d95b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: google-protobuf@4.27.2"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Protocol Buffers are Google's data interchange format.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/google-protobuf@4.27.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://developers.google.com/protocol-buffers",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "google-protobuf",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Protocol Buffers",
+            "versionInfo": "4.27.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5849cc3359b3693a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: http_parser.rb@0.8.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Ruby bindings to https://github.com/joyent/http-parser and https://github.com/http-parser/http-parser.java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/http_parser.rb@0.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tmm1/http_parser.rb",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "http_parser.rb",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Aman Karmani",
+            "versionInfo": "0.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c6e8d995c91d56af",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: i18n@1.14.5"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "New wave Internationalization support for Ruby.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/i18n@1.14.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby-i18n/i18n",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "i18n",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: ruby-i18n",
+            "versionInfo": "1.14.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: jekyll@4.3.3"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Jekyll is a simple, blog aware, static site generator.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll@4.3.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jekyllrb.com",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "4.3.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6f7479e6d77a45a3",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: jekyll-feed@0.17.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "A Jekyll plugin to generate an Atom feed of your Jekyll posts",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-feed@0.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-feed",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-feed",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "0.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6354f97c1b125001",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: jekyll-sass-converter@3.0.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "A basic Sass converter for Jekyll.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-sass-converter@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-sass-converter",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-sass-converter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dbe6756d25c385b5",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: jekyll-seo-tag@2.8.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-seo-tag@2.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-seo-tag",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-seo-tag",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "2.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-41b982a93f69b08b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: jekyll-watch@2.2.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Rebuild your Jekyll site when a file changes with the `--watch` switch.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-watch@2.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-watch",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-watch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "2.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f33b630c60d27a68",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: kramdown@2.4.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "kramdown is yet-another-markdown-parser but fast, pure Ruby,\nusing a strict syntax definition and supporting several common extensions.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/kramdown@2.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://kramdown.gettalong.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "kramdown",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Thomas Leitner",
+            "versionInfo": "2.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3bf103693493b72",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: kramdown-parser-gfm@1.1.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "kramdown-parser-gfm provides a kramdown parser for the GFM dialect of Markdown",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/kramdown-parser-gfm@1.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/kramdown/parser-gfm",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "kramdown-parser-gfm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: kramdown",
+            "versionInfo": "1.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9d28599b82be2f5b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: liquid@4.0.4"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "A secure, non-evaling end user template engine with aesthetic markup.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/liquid@4.0.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.liquidmarkup.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "liquid",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Shopify",
+            "versionInfo": "4.0.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bab8d5f4823994fd",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: listen@3.9.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "The Listen gem listens to file modifications and notifies you about the changes. Works everywhere!",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/listen@3.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/guard/listen",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "listen",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Guard",
+            "versionInfo": "3.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-be1389ad38f50d55",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: mercenary@0.4.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Lightweight and flexible library for writing command-line apps in Ruby.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/mercenary@0.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/mercenary",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mercenary",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "0.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c149eca92f649f23",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: minima@3.0.0.dev"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "A beautiful, minimal theme for Jekyll.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/minima@3.0.0.dev",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/minima",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "minima",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "3.0.0.dev"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-397e280c81926e8b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: pathutil@0.16.2"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Like Pathname but a little less insane.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/pathutil@0.16.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/envygeeks/pathutil",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pathutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Jordon Bedwell",
+            "versionInfo": "0.16.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b14ab9d17e474ca4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: public_suffix@6.0.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "PublicSuffix can parse and decompose a domain name into top level domain, domain and subdomains.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/public_suffix@6.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://simonecarletti.com/code/publicsuffix-ruby",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "public_suffix",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Simone Carletti",
+            "versionInfo": "6.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-11a8ae75c1e0c9",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Data validation using Python type hints",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pydantic@2.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pydantic/pydantic",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pydantic",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: buildkite-ci/requirements.txt",
+            "supplier": "Organization: Pydantic",
+            "versionInfo": "2.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dc129da414fc8324",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: rake@13.2.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Rake is a Make-like program implemented in Ruby. Tasks and dependencies are\nspecified in standard Ruby syntax.\nRake has the following features:\n  * Rakefiles (rake's version of Makefiles) are completely defined in standard Ruby syntax.\n    No XML files to edit. No quirky Makefile syntax to worry about (is that a tab or a space?)\n  * Users can specify tasks with prerequisites.\n  * Rake supports rule patterns to synthesize implicit tasks.\n  * Flexible FileLists that act like arrays but know about manipulating file names and paths.\n  * Supports parallel execution of tasks.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/rake@13.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/rake",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "rake",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "13.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-58eaeac4b0e1e4e7",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: rb-fsevent@0.11.2"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "FSEvents API with Signals catching (without RubyCocoa)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/rb-fsevent@0.11.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://rubygems.org/gems/rb-fsevent",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "rb-fsevent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Guard",
+            "versionInfo": "0.11.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b1879d4a7687887d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: rb-inotify@0.11.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "A Ruby wrapper for Linux inotify, using FFI",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/rb-inotify@0.11.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/guard/rb-inotify",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "rb-inotify",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Guard",
+            "versionInfo": "0.11.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-407b5181ad338d21",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: rexml@3.3.2"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "An XML toolkit for Ruby",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/rexml@3.3.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/rexml",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "rexml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "3.3.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-125a82735f2879a4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: rouge@4.3.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Rouge aims to a be a simple, easy-to-extend drop-in replacement for pygments.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/rouge@4.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://rouge.jneen.net/",
+            "licenseConcluded": "MIT OR BSD-2-Clause",
+            "licenseDeclared": "MIT OR BSD-2-Clause",
+            "name": "rouge",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: rouge-ruby",
+            "versionInfo": "4.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-eac57cd1873ad64d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: safe_yaml@1.0.5"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Parse YAML safely",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/safe_yaml@1.0.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/dtao/safe_yaml",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "safe_yaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Dan Tao",
+            "versionInfo": "1.0.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-65ce16286eda7056",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: sass-embedded@1.77.8"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "A Ruby library that will communicate with Embedded Dart Sass using the Embedded Sass protocol.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/sass-embedded@1.77.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sass-contrib/sass-embedded-host-ruby",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "sass-embedded",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Sass Contrib",
+            "versionInfo": "1.77.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b8e3274e1a7a253a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: strscan@3.1.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Provides lexical scanning operations on a String.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/strscan@3.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/strscan",
+            "licenseConcluded": "Ruby OR BSD-2-Clause",
+            "licenseDeclared": "Ruby OR BSD-2-Clause",
+            "name": "strscan",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "3.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fde3ab0a846204f8",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: terminal-table@3.0.2"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "Simple, feature rich ascii table generation library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/terminal-table@3.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tj/terminal-table",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "terminal-table",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: TJ Holowaychuk",
+            "versionInfo": "3.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-243cfc10d0a7ef14",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: unicode-display_width@2.5.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "[Unicode 16.0.0] Determines the monospace display width of a string using EastAsianWidth.txt, Unicode general category, Emoji specification, and other data.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/unicode-display_width@2.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/janlelis/unicode-display_width",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "unicode-display_width",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: Jan Lelis",
+            "versionInfo": "2.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b69a27cd2531efd8",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: webrick@1.8.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: bundler"
+                }
+            ],
+            "description": "WEBrick is an HTTP server toolkit that can be configured as an HTTPS server, a proxy server, and a virtual-host server.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/webrick@1.8.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/webrick",
+            "licenseConcluded": "Ruby OR BSD-2-Clause",
+            "licenseDeclared": "Ruby OR BSD-2-Clause",
+            "name": "webrick",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vllm-blog-source/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "1.8.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-7e301f7538164ead",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:54Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND (BSD-3-Clause OR MIT) AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfai-2.vllm-project",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-vllm-project-buildkite-ci",
+            "comment": "This package was added to the Trivy analysis for the buildkite-ci by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/vllm-project/buildkite-ci/archive/c899dbba20c17c0012f84422f34b64ee32689a17.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/vllm-project/buildkite-ci@c899dbba20c17c0012f84422f34b64ee32689a17",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND (BSD-3-Clause OR MIT) AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "buildkite-ci",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "c899dbba20c17c0012f84422f34b64ee32689a17"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-vllm-project-dashboard",
+            "comment": "This package was added to the Trivy analysis for the dashboard by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/vllm-project/dashboard/archive/9d6e04aaf2f04a621df667f7e802c63bd87efb39.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/vllm-project/dashboard@9d6e04aaf2f04a621df667f7e802c63bd87efb39",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND (BSD-3-Clause OR MIT) AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "dashboard",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "9d6e04aaf2f04a621df667f7e802c63bd87efb39"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-vllm-project-flash-attention",
+            "comment": "This package was added to the Trivy analysis for the flash-attention by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/vllm-project/flash-attention/archive/96266b1111111f3d11aabefaf3bacbab6a89d03c.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/vllm-project/flash-attention@96266b1111111f3d11aabefaf3bacbab6a89d03c",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND (BSD-3-Clause OR MIT) AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "flash-attention",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "96266b1111111f3d11aabefaf3bacbab6a89d03c"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-vllm-project-llm-compressor",
+            "comment": "This package was added to the Trivy analysis for the llm-compressor by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/vllm-project/llm-compressor/archive/120ac57a315b3f4da064fd85b48937e5b5ba6b60.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/vllm-project/llm-compressor@120ac57a315b3f4da064fd85b48937e5b5ba6b60",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND (BSD-3-Clause OR MIT) AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "llm-compressor",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "120ac57a315b3f4da064fd85b48937e5b5ba6b60"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-vllm-project-vllm",
+            "comment": "This package was added to the Trivy analysis for the vllm by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/vllm-project/vllm/archive/12664ddda522b3a22c5b71eca9b2c907e3a687b3.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/vllm-project/vllm@12664ddda522b3a22c5b71eca9b2c907e3a687b3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND (BSD-3-Clause OR MIT) AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "vllm",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "12664ddda522b3a22c5b71eca9b2c907e3a687b3"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-vllm-project-vllm-blog-source",
+            "comment": "This package was added to the Trivy analysis for the vllm-blog-source by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/vllm-project/vllm-blog-source/archive/4577c6ac65d828f8f2ba8a9311c81d64875b9b82.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/vllm-project/vllm-blog-source@4577c6ac65d828f8f2ba8a9311c81d64875b9b82",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND (BSD-3-Clause OR MIT) AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "vllm-blog-source",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "4577c6ac65d828f8f2ba8a9311c81d64875b9b82"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-vllm-project-vllm-nccl",
+            "comment": "This package was added to the Trivy analysis for the vllm-nccl by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/vllm-project/vllm-nccl/archive/7bd6f94268858602b42632a010ac44b014ffe4f7.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/vllm-project/vllm-nccl@7bd6f94268858602b42632a010ac44b014ffe4f7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND (BSD-3-Clause OR MIT) AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "vllm-nccl",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "7bd6f94268858602b42632a010ac44b014ffe4f7"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-vllm-project-vllm-project.github.io",
+            "comment": "This package was added to the Trivy analysis for the vllm-project.github.io by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/vllm-project/vllm-project.github.io/archive/3b4f437feadc42a10ce8527f4239bbfe1a7e0d46.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/vllm-project/vllm-project.github.io@3b4f437feadc42a10ce8527f4239bbfe1a7e0d46",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND (BSD-3-Clause OR MIT) AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "vllm-project.github.io",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "3b4f437feadc42a10ce8527f4239bbfe1a7e0d46"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-vllm-project-vllm-allocator-adaptor",
+            "comment": "This package was added to the Trivy analysis for the vllm_allocator_adaptor by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/vllm-project/vllm_allocator_adaptor/archive/21aea196eab3889147a407b42e66c0a00daab0e2.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/vllm-project/vllm_allocator_adaptor@21aea196eab3889147a407b42e66c0a00daab0e2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND (BSD-3-Clause OR MIT) AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "vllm_allocator_adaptor",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "21aea196eab3889147a407b42e66c0a00daab0e2"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-2626f125ee5352db",
+            "relatedSpdxElement": "SPDXRef-Package-11a8ae75c1e0c9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2626f125ee5352db",
+            "relatedSpdxElement": "SPDXRef-Package-db909214d417dade",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c33ef27425752d2c",
+            "relatedSpdxElement": "SPDXRef-Package-c149eca92f649f23",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-7e301f7538164ead",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-vllm-project-buildkite-ci",
+            "relatedSpdxElement": "SPDXRef-Application-2626f125ee5352db",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-vllm-project-vllm-blog-source",
+            "relatedSpdxElement": "SPDXRef-Application-c33ef27425752d2c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-397e280c81926e8b",
+            "relatedSpdxElement": "SPDXRef-Package-569c64a30490bf98",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3bf103693493b72",
+            "relatedSpdxElement": "SPDXRef-Package-f33b630c60d27a68",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-407b5181ad338d21",
+            "relatedSpdxElement": "SPDXRef-Package-b8e3274e1a7a253a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-41b982a93f69b08b",
+            "relatedSpdxElement": "SPDXRef-Package-bab8d5f4823994fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-57b4db1834c2f891",
+            "relatedSpdxElement": "SPDXRef-Package-5849cc3359b3693a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-57b4db1834c2f891",
+            "relatedSpdxElement": "SPDXRef-Package-a858305351c81bfb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-592fee2b43a6b0c8",
+            "relatedSpdxElement": "SPDXRef-Package-b14ab9d17e474ca4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6354f97c1b125001",
+            "relatedSpdxElement": "SPDXRef-Package-65ce16286eda7056",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-65ce16286eda7056",
+            "relatedSpdxElement": "SPDXRef-Package-9b2318128a83d95b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6f7479e6d77a45a3",
+            "relatedSpdxElement": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-125a82735f2879a4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-397e280c81926e8b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-3bf103693493b72",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-41b982a93f69b08b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-57b4db1834c2f891",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-592fee2b43a6b0c8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-6354f97c1b125001",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-9b39fc994aaabeba",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-9d28599b82be2f5b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-b69a27cd2531efd8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-be1389ad38f50d55",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-c6e8d995c91d56af",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-eac57cd1873ad64d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-f33b630c60d27a68",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relatedSpdxElement": "SPDXRef-Package-fde3ab0a846204f8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9b2318128a83d95b",
+            "relatedSpdxElement": "SPDXRef-Package-a382f572a60719dc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9b2318128a83d95b",
+            "relatedSpdxElement": "SPDXRef-Package-dc129da414fc8324",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1879d4a7687887d",
+            "relatedSpdxElement": "SPDXRef-Package-c37288966fcf9842",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-bab8d5f4823994fd",
+            "relatedSpdxElement": "SPDXRef-Package-58eaeac4b0e1e4e7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-bab8d5f4823994fd",
+            "relatedSpdxElement": "SPDXRef-Package-b1879d4a7687887d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c149eca92f649f23",
+            "relatedSpdxElement": "SPDXRef-Package-6f7479e6d77a45a3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c149eca92f649f23",
+            "relatedSpdxElement": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c149eca92f649f23",
+            "relatedSpdxElement": "SPDXRef-Package-dbe6756d25c385b5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c6e8d995c91d56af",
+            "relatedSpdxElement": "SPDXRef-Package-269096cdaa72f8a8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dbe6756d25c385b5",
+            "relatedSpdxElement": "SPDXRef-Package-8983ba1aceb0cb3f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f33b630c60d27a68",
+            "relatedSpdxElement": "SPDXRef-Package-407b5181ad338d21",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fde3ab0a846204f8",
+            "relatedSpdxElement": "SPDXRef-Package-243cfc10d0a7ef14",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7e301f7538164ead",
+            "relatedSpdxElement": "SPDXRef-lfai-2-vllm-project-buildkite-ci",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7e301f7538164ead",
+            "relatedSpdxElement": "SPDXRef-lfai-2-vllm-project-dashboard",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7e301f7538164ead",
+            "relatedSpdxElement": "SPDXRef-lfai-2-vllm-project-flash-attention",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7e301f7538164ead",
+            "relatedSpdxElement": "SPDXRef-lfai-2-vllm-project-llm-compressor",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7e301f7538164ead",
+            "relatedSpdxElement": "SPDXRef-lfai-2-vllm-project-vllm",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7e301f7538164ead",
+            "relatedSpdxElement": "SPDXRef-lfai-2-vllm-project-vllm-blog-source",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7e301f7538164ead",
+            "relatedSpdxElement": "SPDXRef-lfai-2-vllm-project-vllm-nccl",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7e301f7538164ead",
+            "relatedSpdxElement": "SPDXRef-lfai-2-vllm-project-vllm-project.github.io",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7e301f7538164ead",
+            "relatedSpdxElement": "SPDXRef-lfai-2-vllm-project-vllm-allocator-adaptor",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
