@@ -1,0 +1,4521 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T17:23:43Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Intel Proprietary",
+            "licenseId": "LicenseRef-Intel-Proprietary"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Other",
+            "licenseId": "LicenseRef-Other"
+        }
+    ],
+    "name": "/tmp/tmpee_erppn/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpee_erppn/code-79341960-8c4e-4ac0-98b3-fd7fb841f905",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-1f3dfb6b89ac77b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl-contrib/openfl_contrib_tutorials/ml_to_fl/central/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "c762e885d40b813b48ad0415f99072bbf712df4f"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-fb6e54821980d01c",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl-contrib/openfl_contrib_tutorials/ml_to_fl/federated/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "c762e885d40b813b48ad0415f99072bbf712df4f"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-b0530a5eb12da32",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl-contrib/openfl_contrib_workspace/torch_cnn_mnist_custom_weighted_average/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "c762e885d40b813b48ad0415f99072bbf712df4f"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-d13ce6dc82fb2dfc",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl-contrib/openfl_contrib_workspace/torch_cnn_mnist_skc_compression/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "c762e885d40b813b48ad0415f99072bbf712df4f"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-9fa7f828fc426f16",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/Flax_CNN_CIFAR/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-b2cbc2ddc09d762",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/HPU/PyTorch_TinyImageNet/envoy/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-41770124bc2f241a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_DogsCats_ViT/workspace/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-a28279e4863f6f82",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Histology/envoy/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-25541adb6bea206e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Histology_FedCurv/envoy/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-d49399af5805162f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Market_Re-ID/envoy/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-3ec4954a9cef3464",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Market_Re-ID/workspace/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-c2f8e57d91fe441e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_TinyImageNet/envoy/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-d6970795658745a6",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_TinyImageNet/workspace/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-2bbf5961df8b5ce5",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_TinyImageNet_XPU/envoy/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-502280a689348a2a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_TinyImageNet_XPU/workspace/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-df0ee7eab98831e7",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/Tensorflow_Word_Prediction/workspace/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-d0c0ea82a379a2f3",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/jax_linear_regression/envoy/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-c764c686dfc21124",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/numpy_linear_regression/envoy/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-62edf883c9ea9dd4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/deprecated/interactive_api/numpy_linear_regression/workspace/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-4041fc9694efada4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/experimental/workflow/FederatedRuntime/301_MNIST_Watermaking/Bangalore/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-9cf79f266cf4539c",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-tutorials/experimental/workflow/FederatedRuntime/301_MNIST_Watermaking/Chandler/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-a36ed1bf03639986",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/101_torch_cnn_mnist/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-ac82e55da76f7fb7",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/102_aggregator_validation/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-f00983869e8a1732",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/301_torch_cnn_mnist_watermarking/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-940ab1b8d7ed014f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/501_pytorch_tinyimagenet_transfer_learning/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-4d15bb435977c8eb",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/vertical_fl/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-1d07d5bd37373f8d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/vertical_fl_two_party/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-3b94848fc96ef66b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/gandlf_seg_test/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-727b3588b6efd868",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/keras_2dunet/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-15a0144fb5362f2c",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/keras_cnn_mnist/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-40ff29e2c666b347",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/keras_nlp/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-b4cbf73aa3b85ece",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/torch_cnn_histology/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-d60b63febc812088",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/torch_cnn_histology_fedcurv/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-47e5fe44b56fc296",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/torch_cnn_mnist/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-213f9c3a169a3887",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/torch_cnn_mnist_eden_compression/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-a50bfdb76318e9d3",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/torch_cnn_mnist_fed_eval/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-d87bc5609584e20d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/torch_cnn_mnist_straggler_check/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-e53545f95ee52185",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/openfl-workspace/torch_unet_kvasir/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-ade9e77689bf64fa",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_internalloop/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-a27ec8652a34593e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_private_attributes/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-8474a3f66ac978c6",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_private_attributes_initialization_with_both_options/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-355b61b5b689e336",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_private_attributes_initialization_without_callable/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-8960297f4aa0e0f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_reference/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-3c9682c722212433",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_reference_with_include_exclude/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-c5d1849e82254d77",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_validate_particpant_names/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-202f59e72740a459",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python Imaging Library (Fork)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pillow@10.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://python-pillow.github.io",
+            "licenseConcluded": "MIT-CMU",
+            "licenseDeclared": "MIT-CMU",
+            "name": "Pillow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/HPU/PyTorch_TinyImageNet/envoy/requirements.txt",
+            "supplier": "Organization: Pillow",
+            "versionInfo": "10.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6c9c598574ea68a9",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python Imaging Library (Fork)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pillow@10.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://python-pillow.github.io",
+            "licenseConcluded": "MIT-CMU",
+            "licenseDeclared": "MIT-CMU",
+            "name": "Pillow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_TinyImageNet_XPU/envoy/requirements.txt",
+            "supplier": "Organization: Pillow",
+            "versionInfo": "10.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-af1c79d8fe640632",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python Imaging Library (Fork)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pillow@10.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://python-pillow.github.io",
+            "licenseConcluded": "MIT-CMU",
+            "licenseDeclared": "MIT-CMU",
+            "name": "Pillow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Histology_FedCurv/envoy/requirements.txt",
+            "supplier": "Organization: Pillow",
+            "versionInfo": "10.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-afa7973285cfcb6",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python Imaging Library (Fork)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pillow@10.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://python-pillow.github.io",
+            "licenseConcluded": "MIT-CMU",
+            "licenseDeclared": "MIT-CMU",
+            "name": "Pillow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Histology/envoy/requirements.txt",
+            "supplier": "Organization: Pillow",
+            "versionInfo": "10.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bb249dd1443681eb",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python Imaging Library (Fork)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pillow@10.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://python-pillow.github.io",
+            "licenseConcluded": "MIT-CMU",
+            "licenseDeclared": "MIT-CMU",
+            "name": "Pillow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Market_Re-ID/envoy/requirements.txt",
+            "supplier": "Organization: Pillow",
+            "versionInfo": "10.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ca1349802d77209e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python Imaging Library (Fork)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pillow@10.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://python-pillow.github.io",
+            "licenseConcluded": "MIT-CMU",
+            "licenseDeclared": "MIT-CMU",
+            "name": "Pillow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_TinyImageNet/envoy/requirements.txt",
+            "supplier": "Organization: Pillow",
+            "versionInfo": "10.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1bfb39be4fb4745",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "serialize all of Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/dill@0.3.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/uqfoundation/dill",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "dill",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/vertical_fl/requirements.txt",
+            "supplier": "Organization: The UQ Foundation",
+            "versionInfo": "0.3.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a4c02e195c2cc3e3",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "serialize all of Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/dill@0.3.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/uqfoundation/dill",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "dill",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/vertical_fl_two_party/requirements.txt",
+            "supplier": "Organization: The UQ Foundation",
+            "versionInfo": "0.3.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cb6886dfcec6f66d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Google Drive Public File/Folder Downloader",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/gdown@3.13.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/wkentaro/gdown",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "gdown",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Market_Re-ID/envoy/requirements.txt",
+            "supplier": "Organization: Kentaro Wada",
+            "versionInfo": "3.13.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b38000a544ecc63f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Differentiate, compile, and transform Numpy code.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jax@0.3.13",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jax-ml/jax",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "jax",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/jax_linear_regression/envoy/requirements.txt",
+            "supplier": "Organization: Google",
+            "versionInfo": "0.3.13"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2cb74179b1eba168",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "XLA library for JAX",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jaxlib@0.3.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jax-ml/jax",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "jaxlib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/jax_linear_regression/envoy/requirements.txt",
+            "supplier": "Organization: Google",
+            "versionInfo": "0.3.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-20e0dfebc7d36737",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Multi-backend Keras",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/keras@3.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://keras.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "keras",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/keras_cnn_mnist/requirements.txt",
+            "supplier": "Organization: Keras",
+            "versionInfo": "3.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-444e9f2a01dd4088",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Multi-backend Keras",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/keras@3.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://keras.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "keras",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/keras_nlp/requirements.txt",
+            "supplier": "Organization: Keras",
+            "versionInfo": "3.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6737b86e082bb2ab",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Multi-backend Keras",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/keras@3.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://keras.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "keras",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/keras_2dunet/requirements.txt",
+            "supplier": "Organization: Keras",
+            "versionInfo": "3.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7ec923ef7bc9e6de",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Linformer implementation in Pytorch",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/linformer@0.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/lucidrains/linformer",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "linformer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_DogsCats_ViT/workspace/requirements.txt",
+            "supplier": "Organization: Phil Wang",
+            "versionInfo": "0.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5898362bc229ee42",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Metaflow: More Data Science, Less Engineering",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/metaflow@2.7.15",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "metaflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/vertical_fl_two_party/requirements.txt",
+            "supplier": "Organization: Netflix, Inc.",
+            "versionInfo": "2.7.15"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9eb1c3ecec88ce79",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Metaflow: More Data Science, Less Engineering",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/metaflow@2.7.15",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "metaflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/vertical_fl/requirements.txt",
+            "supplier": "Organization: Netflix, Inc.",
+            "versionInfo": "2.7.15"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2e3bd0a7734df986",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@1.22.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Histology_FedCurv/envoy/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "1.22.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e2217396b4e238b6",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@1.22.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Histology/envoy/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "1.22.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fac728487d725127",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@1.22.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/Tensorflow_Word_Prediction/workspace/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "1.22.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-169faf69a35a1fb9",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Open Neural Network Exchange",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/onnx@1.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://onnx.ai/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "onnx",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/gandlf_seg_test/requirements.txt",
+            "supplier": "Organization: Open Neural Network Exchange",
+            "versionInfo": "1.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1b4f8faca67c2a48",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Federated Learning for the Edge",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openfl@1.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/securefederatedai/openfl",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "openfl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/numpy_linear_regression/envoy/requirements.txt",
+            "supplier": "Organization: securefederatedai",
+            "versionInfo": "1.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-900ab723a44bea87",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Federated Learning for the Edge",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openfl@1.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/securefederatedai/openfl",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "openfl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/numpy_linear_regression/workspace/requirements.txt",
+            "supplier": "Organization: securefederatedai",
+            "versionInfo": "1.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dbc11649e5792908",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Federated Learning for the Edge",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openfl@1.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/securefederatedai/openfl",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "openfl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/jax_linear_regression/envoy/requirements.txt",
+            "supplier": "Organization: securefederatedai",
+            "versionInfo": "1.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e3f5b5e6cb502f1d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Make your Python code clearer and more reliable by declaring Parameters.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/param@1.13.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://param.holoviz.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "param",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/301_torch_cnn_mnist_watermarking/requirements.txt",
+            "supplier": "Organization: HoloViz",
+            "versionInfo": "1.13.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1b6741fcc1a95648",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Ray provides a simple, universal API for building distributed applications.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ray@2.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ray-project/ray",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "ray",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/vertical_fl_two_party/requirements.txt",
+            "supplier": "Organization: ray-project",
+            "versionInfo": "2.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b2cc0d16d191cdd",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Ray provides a simple, universal API for building distributed applications.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ray@2.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ray-project/ray",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "ray",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/vertical_fl/requirements.txt",
+            "supplier": "Organization: ray-project",
+            "versionInfo": "2.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bbe423f28be56685",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Image processing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scikit-image@0.24.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "scikit-image",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_unet_kvasir/requirements.txt",
+            "supplier": "Organization: Image Processing Toolbox for SciPy",
+            "versionInfo": "0.24.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-aa866ca7fee8884d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "TensorFlow is an open source machine learning framework for everyone.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tensorflow@2.13",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.tensorflow.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tensorflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/Flax_CNN_CIFAR/requirements.txt",
+            "supplier": "Organization: tensorflow",
+            "versionInfo": "2.13"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-afa1fb443ab784bf",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "TensorFlow is an open source machine learning framework for everyone.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tensorflow@2.18.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.tensorflow.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tensorflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/keras_cnn_mnist/requirements.txt",
+            "supplier": "Organization: tensorflow",
+            "versionInfo": "2.18.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bea3fd8f8c5c0281",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "TensorFlow is an open source machine learning framework for everyone.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tensorflow@2.18.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.tensorflow.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tensorflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/keras_2dunet/requirements.txt",
+            "supplier": "Organization: tensorflow",
+            "versionInfo": "2.18.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c9d860a9f527078e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "TensorFlow is an open source machine learning framework for everyone.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tensorflow@2.13",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.tensorflow.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tensorflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/Tensorflow_Word_Prediction/workspace/requirements.txt",
+            "supplier": "Organization: tensorflow",
+            "versionInfo": "2.13"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d0398510adf4b397",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "TensorFlow is an open source machine learning framework for everyone.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tensorflow@2.18.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.tensorflow.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tensorflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/keras_nlp/requirements.txt",
+            "supplier": "Organization: tensorflow",
+            "versionInfo": "2.18.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1d1aa64b86ae0079",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "tensorflow/datasets is a library of datasets ready to use with TensorFlow.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tensorflow-datasets@4.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tensorflow/datasets",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tensorflow-datasets",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/Flax_CNN_CIFAR/requirements.txt",
+            "supplier": "Organization: tensorflow",
+            "versionInfo": "4.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1a400771da929990",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/experimental/workflow/FederatedRuntime/301_MNIST_Watermaking/Bangalore/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1e5a373d556631d7",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/101_torch_cnn_mnist/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-21c15d89aa4f0dca",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_cnn_mnist/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-21d4f552f94b81cb",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/501_pytorch_tinyimagenet_transfer_learning/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-22c620f8f9d10360",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_cnn_histology_fedcurv/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2b9e775eec49f371",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_private_attributes_initialization_with_both_options/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2eca65cac31b36",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_private_attributes/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-37dbadec548f1f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_private_attributes_initialization_without_callable/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3ceea1e8f4a8b77e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl-contrib/openfl_contrib_workspace/torch_cnn_mnist_skc_compression/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-46d2c62af7fcf82a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/102_aggregator_validation/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-493f2b6fbb34c68f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl-contrib/openfl_contrib_tutorials/ml_to_fl/federated/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-536f1554034b19d0",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_internalloop/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-735dd998a72ecb37",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/301_torch_cnn_mnist_watermarking/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7bcb9cf70179b89c",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_TinyImageNet_XPU/workspace/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7e672d5d0e659eff",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/experimental/workflow/FederatedRuntime/301_MNIST_Watermaking/Chandler/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-967cfa70a784cf67",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_reference_with_include_exclude/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-96acfc3fd8f3716b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl-contrib/openfl_contrib_workspace/torch_cnn_mnist_custom_weighted_average/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9b23afe908b3010d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_cnn_mnist_straggler_check/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9db69861cb5b6790",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl-contrib/openfl_contrib_tutorials/ml_to_fl/central/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a3cea80d52f1387d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_cnn_mnist_fed_eval/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-aecb4800e90d1128",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_cnn_mnist_eden_compression/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b5265de201928855",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_DogsCats_ViT/workspace/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b621ee0455dd42cc",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_reference/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b74937dec2dd8120",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_validate_particpant_names/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c5dc78320faffb7",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_cnn_histology/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d27cf6cfa30a51e9",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_TinyImageNet/workspace/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d65ebceb74e4747f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Market_Re-ID/workspace/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fcd187cde5a55d3c",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytorch.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_unet_kvasir/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1084d3722d09b47b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/102_aggregator_validation/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-109bcde7b7522cd8",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_TinyImageNet_XPU/workspace/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-160bd1c1cefcb014",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_private_attributes_initialization_without_callable/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-22aa103a5e84512d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl-contrib/openfl_contrib_tutorials/ml_to_fl/central/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2c20721c7f268dc5",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_cnn_histology_fedcurv/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2f706a4014b6e8f1",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_cnn_histology/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3d453f5cc9d1245",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_reference/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-411e78d7dee8ddb4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_internalloop/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-484b2aa657e7f3e1",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_private_attributes/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4c37b46d6aa6990f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Market_Re-ID/workspace/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4e772705002d74ac",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/501_pytorch_tinyimagenet_transfer_learning/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4f14d862e4459227",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/101_torch_cnn_mnist/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-54ebf6a6b021300a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_DogsCats_ViT/workspace/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-625440a37b577be6",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_cnn_mnist_eden_compression/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6bb40c480e7a9d55",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/experimental/workflow/FederatedRuntime/301_MNIST_Watermaking/Chandler/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-75f0f0af6e2a587d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_validate_particpant_names/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7f6772c2a9b67e88",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_unet_kvasir/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-82be78c7de26fcd8",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl-contrib/openfl_contrib_workspace/torch_cnn_mnist_skc_compression/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8d4271f095cd57d2",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_cnn_mnist_fed_eval/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9948b72e30424362",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_cnn_mnist/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a062df5aa8bc08f3",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/torch_cnn_mnist_straggler_check/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bb0dab6f5d3df462",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_reference_with_include_exclude/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c9ec01ba9ae8397e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-workspace/experimental/workflow/AggregatorBasedWorkflow/301_torch_cnn_mnist_watermarking/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e02e633a936757cb",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_TinyImageNet/workspace/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e0e28fd068e9c4dc",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl-contrib/openfl_contrib_tutorials/ml_to_fl/federated/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ea1261e4df2aa8fa",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl-contrib/openfl_contrib_workspace/torch_cnn_mnist_custom_weighted_average/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f1341e228c65a05a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/tests/github/experimental/workflow/AggregatorBasedWorkflow/testcase_private_attributes_initialization_with_both_options/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fd39963f12b13738",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "image and video datasets and models for torch deep learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torchvision@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytorch/vision",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "torchvision",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/experimental/workflow/FederatedRuntime/301_MNIST_Watermaking/Bangalore/requirements.txt",
+            "supplier": "Organization: pytorch",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3a511a2a580aa6e1",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Fast, Extensible Progress Meter",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tqdm@4.66.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MPL-2.0 OR MIT",
+            "licenseDeclared": "MPL-2.0 OR MIT",
+            "name": "tqdm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Histology_FedCurv/envoy/requirements.txt",
+            "supplier": "NOASSERTION",
+            "versionInfo": "4.66.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a26d09d55278ad90",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Fast, Extensible Progress Meter",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tqdm@4.66.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MPL-2.0 OR MIT",
+            "licenseDeclared": "MPL-2.0 OR MIT",
+            "name": "tqdm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_Histology/envoy/requirements.txt",
+            "supplier": "NOASSERTION",
+            "versionInfo": "4.66.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cb159224e059f243",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Vision Transformer (ViT) - Pytorch",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/vit-pytorch@0.40.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/lucidrains/vit-pytorch",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "vit-pytorch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openfl/openfl-tutorials/deprecated/interactive_api/PyTorch_DogsCats_ViT/workspace/requirements.txt",
+            "supplier": "Organization: Phil Wang",
+            "versionInfo": "0.40.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-13b20bfb86e9910b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:23:43Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND LicenseRef-Intel-Proprietary AND (Apache-2.0 OR BSD-3-Clause) AND (Apache-2.0 AND MIT)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfai-2.securefederatedai",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "comment": "This package was added to the Trivy analysis for the openfl by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/securefederatedai/openfl/archive/dfe9512c59a1faa940adb9d51df0069f5cc8787c.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/securefederatedai/openfl@dfe9512c59a1faa940adb9d51df0069f5cc8787c",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND LicenseRef-Intel-Proprietary AND (Apache-2.0 OR BSD-3-Clause) AND (Apache-2.0 AND MIT)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "openfl",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dfe9512c59a1faa940adb9d51df0069f5cc8787c"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-securefederatedai-openfl-contrib",
+            "comment": "This package was added to the Trivy analysis for the openfl-contrib by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/securefederatedai/openfl-contrib/archive/c762e885d40b813b48ad0415f99072bbf712df4f.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/securefederatedai/openfl-contrib@c762e885d40b813b48ad0415f99072bbf712df4f",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND LicenseRef-Intel-Proprietary AND (Apache-2.0 OR BSD-3-Clause) AND (Apache-2.0 AND MIT)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "openfl-contrib",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "c762e885d40b813b48ad0415f99072bbf712df4f"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-15a0144fb5362f2c",
+            "relatedSpdxElement": "SPDXRef-Package-20e0dfebc7d36737",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-15a0144fb5362f2c",
+            "relatedSpdxElement": "SPDXRef-Package-afa1fb443ab784bf",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1d07d5bd37373f8d",
+            "relatedSpdxElement": "SPDXRef-Package-1b6741fcc1a95648",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1d07d5bd37373f8d",
+            "relatedSpdxElement": "SPDXRef-Package-5898362bc229ee42",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1d07d5bd37373f8d",
+            "relatedSpdxElement": "SPDXRef-Package-a4c02e195c2cc3e3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1f3dfb6b89ac77b",
+            "relatedSpdxElement": "SPDXRef-Package-22aa103a5e84512d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1f3dfb6b89ac77b",
+            "relatedSpdxElement": "SPDXRef-Package-9db69861cb5b6790",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-213f9c3a169a3887",
+            "relatedSpdxElement": "SPDXRef-Package-625440a37b577be6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-213f9c3a169a3887",
+            "relatedSpdxElement": "SPDXRef-Package-aecb4800e90d1128",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-25541adb6bea206e",
+            "relatedSpdxElement": "SPDXRef-Package-2e3bd0a7734df986",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-25541adb6bea206e",
+            "relatedSpdxElement": "SPDXRef-Package-3a511a2a580aa6e1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-25541adb6bea206e",
+            "relatedSpdxElement": "SPDXRef-Package-af1c79d8fe640632",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2bbf5961df8b5ce5",
+            "relatedSpdxElement": "SPDXRef-Package-6c9c598574ea68a9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-355b61b5b689e336",
+            "relatedSpdxElement": "SPDXRef-Package-160bd1c1cefcb014",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-355b61b5b689e336",
+            "relatedSpdxElement": "SPDXRef-Package-37dbadec548f1f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-3b94848fc96ef66b",
+            "relatedSpdxElement": "SPDXRef-Package-169faf69a35a1fb9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-3c9682c722212433",
+            "relatedSpdxElement": "SPDXRef-Package-967cfa70a784cf67",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-3c9682c722212433",
+            "relatedSpdxElement": "SPDXRef-Package-bb0dab6f5d3df462",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-3ec4954a9cef3464",
+            "relatedSpdxElement": "SPDXRef-Package-4c37b46d6aa6990f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-3ec4954a9cef3464",
+            "relatedSpdxElement": "SPDXRef-Package-d65ebceb74e4747f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4041fc9694efada4",
+            "relatedSpdxElement": "SPDXRef-Package-1a400771da929990",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4041fc9694efada4",
+            "relatedSpdxElement": "SPDXRef-Package-fd39963f12b13738",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-40ff29e2c666b347",
+            "relatedSpdxElement": "SPDXRef-Package-444e9f2a01dd4088",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-40ff29e2c666b347",
+            "relatedSpdxElement": "SPDXRef-Package-d0398510adf4b397",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-41770124bc2f241a",
+            "relatedSpdxElement": "SPDXRef-Package-54ebf6a6b021300a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-41770124bc2f241a",
+            "relatedSpdxElement": "SPDXRef-Package-7ec923ef7bc9e6de",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-41770124bc2f241a",
+            "relatedSpdxElement": "SPDXRef-Package-b5265de201928855",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-41770124bc2f241a",
+            "relatedSpdxElement": "SPDXRef-Package-cb159224e059f243",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-47e5fe44b56fc296",
+            "relatedSpdxElement": "SPDXRef-Package-21c15d89aa4f0dca",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-47e5fe44b56fc296",
+            "relatedSpdxElement": "SPDXRef-Package-9948b72e30424362",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4d15bb435977c8eb",
+            "relatedSpdxElement": "SPDXRef-Package-1bfb39be4fb4745",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4d15bb435977c8eb",
+            "relatedSpdxElement": "SPDXRef-Package-9eb1c3ecec88ce79",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4d15bb435977c8eb",
+            "relatedSpdxElement": "SPDXRef-Package-b2cc0d16d191cdd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-502280a689348a2a",
+            "relatedSpdxElement": "SPDXRef-Package-109bcde7b7522cd8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-502280a689348a2a",
+            "relatedSpdxElement": "SPDXRef-Package-7bcb9cf70179b89c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-62edf883c9ea9dd4",
+            "relatedSpdxElement": "SPDXRef-Package-900ab723a44bea87",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-727b3588b6efd868",
+            "relatedSpdxElement": "SPDXRef-Package-6737b86e082bb2ab",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-727b3588b6efd868",
+            "relatedSpdxElement": "SPDXRef-Package-bea3fd8f8c5c0281",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8474a3f66ac978c6",
+            "relatedSpdxElement": "SPDXRef-Package-2b9e775eec49f371",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8474a3f66ac978c6",
+            "relatedSpdxElement": "SPDXRef-Package-f1341e228c65a05a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8960297f4aa0e0f",
+            "relatedSpdxElement": "SPDXRef-Package-3d453f5cc9d1245",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8960297f4aa0e0f",
+            "relatedSpdxElement": "SPDXRef-Package-b621ee0455dd42cc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-940ab1b8d7ed014f",
+            "relatedSpdxElement": "SPDXRef-Package-21d4f552f94b81cb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-940ab1b8d7ed014f",
+            "relatedSpdxElement": "SPDXRef-Package-4e772705002d74ac",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9cf79f266cf4539c",
+            "relatedSpdxElement": "SPDXRef-Package-6bb40c480e7a9d55",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9cf79f266cf4539c",
+            "relatedSpdxElement": "SPDXRef-Package-7e672d5d0e659eff",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9fa7f828fc426f16",
+            "relatedSpdxElement": "SPDXRef-Package-1d1aa64b86ae0079",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9fa7f828fc426f16",
+            "relatedSpdxElement": "SPDXRef-Package-aa866ca7fee8884d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a27ec8652a34593e",
+            "relatedSpdxElement": "SPDXRef-Package-2eca65cac31b36",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a27ec8652a34593e",
+            "relatedSpdxElement": "SPDXRef-Package-484b2aa657e7f3e1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a28279e4863f6f82",
+            "relatedSpdxElement": "SPDXRef-Package-a26d09d55278ad90",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a28279e4863f6f82",
+            "relatedSpdxElement": "SPDXRef-Package-afa7973285cfcb6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a28279e4863f6f82",
+            "relatedSpdxElement": "SPDXRef-Package-e2217396b4e238b6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a36ed1bf03639986",
+            "relatedSpdxElement": "SPDXRef-Package-1e5a373d556631d7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a36ed1bf03639986",
+            "relatedSpdxElement": "SPDXRef-Package-4f14d862e4459227",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a50bfdb76318e9d3",
+            "relatedSpdxElement": "SPDXRef-Package-8d4271f095cd57d2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a50bfdb76318e9d3",
+            "relatedSpdxElement": "SPDXRef-Package-a3cea80d52f1387d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac82e55da76f7fb7",
+            "relatedSpdxElement": "SPDXRef-Package-1084d3722d09b47b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac82e55da76f7fb7",
+            "relatedSpdxElement": "SPDXRef-Package-46d2c62af7fcf82a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ade9e77689bf64fa",
+            "relatedSpdxElement": "SPDXRef-Package-411e78d7dee8ddb4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ade9e77689bf64fa",
+            "relatedSpdxElement": "SPDXRef-Package-536f1554034b19d0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-b0530a5eb12da32",
+            "relatedSpdxElement": "SPDXRef-Package-96acfc3fd8f3716b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-b0530a5eb12da32",
+            "relatedSpdxElement": "SPDXRef-Package-ea1261e4df2aa8fa",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-b2cbc2ddc09d762",
+            "relatedSpdxElement": "SPDXRef-Package-202f59e72740a459",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-b4cbf73aa3b85ece",
+            "relatedSpdxElement": "SPDXRef-Package-2f706a4014b6e8f1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-b4cbf73aa3b85ece",
+            "relatedSpdxElement": "SPDXRef-Package-c5dc78320faffb7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c2f8e57d91fe441e",
+            "relatedSpdxElement": "SPDXRef-Package-ca1349802d77209e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5d1849e82254d77",
+            "relatedSpdxElement": "SPDXRef-Package-75f0f0af6e2a587d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5d1849e82254d77",
+            "relatedSpdxElement": "SPDXRef-Package-b74937dec2dd8120",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c764c686dfc21124",
+            "relatedSpdxElement": "SPDXRef-Package-1b4f8faca67c2a48",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d0c0ea82a379a2f3",
+            "relatedSpdxElement": "SPDXRef-Package-2cb74179b1eba168",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d0c0ea82a379a2f3",
+            "relatedSpdxElement": "SPDXRef-Package-b38000a544ecc63f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d0c0ea82a379a2f3",
+            "relatedSpdxElement": "SPDXRef-Package-dbc11649e5792908",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d13ce6dc82fb2dfc",
+            "relatedSpdxElement": "SPDXRef-Package-3ceea1e8f4a8b77e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d13ce6dc82fb2dfc",
+            "relatedSpdxElement": "SPDXRef-Package-82be78c7de26fcd8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d49399af5805162f",
+            "relatedSpdxElement": "SPDXRef-Package-bb249dd1443681eb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d49399af5805162f",
+            "relatedSpdxElement": "SPDXRef-Package-cb6886dfcec6f66d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d60b63febc812088",
+            "relatedSpdxElement": "SPDXRef-Package-22c620f8f9d10360",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d60b63febc812088",
+            "relatedSpdxElement": "SPDXRef-Package-2c20721c7f268dc5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d6970795658745a6",
+            "relatedSpdxElement": "SPDXRef-Package-d27cf6cfa30a51e9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d6970795658745a6",
+            "relatedSpdxElement": "SPDXRef-Package-e02e633a936757cb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d87bc5609584e20d",
+            "relatedSpdxElement": "SPDXRef-Package-9b23afe908b3010d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d87bc5609584e20d",
+            "relatedSpdxElement": "SPDXRef-Package-a062df5aa8bc08f3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-df0ee7eab98831e7",
+            "relatedSpdxElement": "SPDXRef-Package-c9d860a9f527078e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-df0ee7eab98831e7",
+            "relatedSpdxElement": "SPDXRef-Package-fac728487d725127",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e53545f95ee52185",
+            "relatedSpdxElement": "SPDXRef-Package-7f6772c2a9b67e88",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e53545f95ee52185",
+            "relatedSpdxElement": "SPDXRef-Package-bbe423f28be56685",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e53545f95ee52185",
+            "relatedSpdxElement": "SPDXRef-Package-fcd187cde5a55d3c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f00983869e8a1732",
+            "relatedSpdxElement": "SPDXRef-Package-735dd998a72ecb37",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f00983869e8a1732",
+            "relatedSpdxElement": "SPDXRef-Package-c9ec01ba9ae8397e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f00983869e8a1732",
+            "relatedSpdxElement": "SPDXRef-Package-e3f5b5e6cb502f1d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fb6e54821980d01c",
+            "relatedSpdxElement": "SPDXRef-Package-493f2b6fbb34c68f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fb6e54821980d01c",
+            "relatedSpdxElement": "SPDXRef-Package-e0e28fd068e9c4dc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-13b20bfb86e9910b",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-15a0144fb5362f2c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-1d07d5bd37373f8d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl-contrib",
+            "relatedSpdxElement": "SPDXRef-Application-1f3dfb6b89ac77b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-213f9c3a169a3887",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-25541adb6bea206e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-2bbf5961df8b5ce5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-355b61b5b689e336",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-3b94848fc96ef66b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-3c9682c722212433",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-3ec4954a9cef3464",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-4041fc9694efada4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-40ff29e2c666b347",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-41770124bc2f241a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-47e5fe44b56fc296",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-4d15bb435977c8eb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-502280a689348a2a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-62edf883c9ea9dd4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-727b3588b6efd868",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-8474a3f66ac978c6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-8960297f4aa0e0f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-940ab1b8d7ed014f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-9cf79f266cf4539c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-9fa7f828fc426f16",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-a27ec8652a34593e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-a28279e4863f6f82",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-a36ed1bf03639986",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-a50bfdb76318e9d3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-ac82e55da76f7fb7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-ade9e77689bf64fa",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl-contrib",
+            "relatedSpdxElement": "SPDXRef-Application-b0530a5eb12da32",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-b2cbc2ddc09d762",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-b4cbf73aa3b85ece",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-c2f8e57d91fe441e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-c5d1849e82254d77",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-c764c686dfc21124",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-d0c0ea82a379a2f3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl-contrib",
+            "relatedSpdxElement": "SPDXRef-Application-d13ce6dc82fb2dfc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-d49399af5805162f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-d60b63febc812088",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-d6970795658745a6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-d87bc5609584e20d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-df0ee7eab98831e7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-e53545f95ee52185",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relatedSpdxElement": "SPDXRef-Application-f00983869e8a1732",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-securefederatedai-openfl-contrib",
+            "relatedSpdxElement": "SPDXRef-Application-fb6e54821980d01c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-13b20bfb86e9910b",
+            "relatedSpdxElement": "SPDXRef-lfai-2-securefederatedai-openfl",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-13b20bfb86e9910b",
+            "relatedSpdxElement": "SPDXRef-lfai-2-securefederatedai-openfl-contrib",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
