@@ -1,0 +1,2381 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_Open-Voice-Trustmark-2025-01-10.zip_1737622685.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-23T08:58:06Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: Open-Voice-Trustmark-2025-01-10.zip
+PackageFileName: Open-Voice-Trustmark-2025-01-10.zip
+SPDXID: SPDXRef-upload1762
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: e889ff1acceb37f2ede49cf235c73c759395cfb7
+PackageChecksum: SHA1: 07016c1a9107f71d33ffcf5a8a0cf07a9418f356
+PackageChecksum: SHA256: db28d22a124ac655b284349acc7b6cca90e484c6c06a2f29315b9c838b25b62e
+PackageChecksum: MD5: a8d71ad0591ef6f4eeba5257222389b6
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1762
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/dist/assets/index-C2B2sc7g.css
+SPDXID: SPDXRef-item10402655
+FileChecksum: SHA1: afe793a07ae8323984a156da3f13c74ece9ca17c
+FileChecksum: SHA256: 656457bad98914b0c4fd45082fe69393d5790a8bb79ee71ee3fc48943e37f05b
+FileChecksum: MD5: 773f09a271d8b3d0a7a0cd2195e9e075
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2024 The Bootstrap Authors Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE) root,[data-bs-theme=light]{--bs-blue: #0151ff;--bs-indigo: #6610f2;--bs-purple: #6f42c1;--bs-pink: #d63384;--bs-red: #ee4a4a;--bs-orange: #f3b98b;--bs-yellow: #ffc107;--bs-green: </text>
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/dist/assets/index-CC6MwJQW.js
+SPDXID: SPDXRef-item10402658
+FileChecksum: SHA1: 39ac523cab3e60e498fbc0a2dc56d26fa0e39bda
+FileChecksum: SHA256: 54658ee4b312a246252290c205f50687aeeae369b536f22122b3a561b3b47238
+FileChecksum: MD5: 1a139fd048b9ac5bfe0da8d784d647b2
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) Remix Software Inc.
+Copyright (c) Remix Software Inc.
+Copyright (c) Remix Software Inc.
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) 2018 Jed Watson. Licensed under the MIT License (MIT), see http://jedwatson.github.io/classnames function(e){(function(){var t={}.hasOwnProperty;function n(){for(var s="",i=0;i<arguments.length;i++){var a=arguments[i];a&&(s=o(s,r(a)))}return s}function r(s){if(typeof s=="string"||
+Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+Copyright 2014 jQuery Foundation and other contributors Released under the MIT license. http://jquery.org/license
+Copyright (c) 2015 Jed Watson.
+Copyright 2013-2015, Facebook, Inc. All rights reserved.
+Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+copyright,children:p.jsxs(ve,{size:"small",children:["©",new Date().getFullYear()," Open Voice Network"]})})]})})},YN="_content_w0xam_3",JN={content:YN},Ec=({children:e})=>p.jsxs(p.Fragment,{children:[p.jsx(wc,{}),p.jsx(Cn,{className:JN.content,children:e}),p.jsx(QN,{})]}),GN="_authLayout_szcfo_3",
+Copyright 2006, 2015 Klaus Hartl & Fagner Brack Released under the MIT license </text>
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/package-lock.json
+SPDXID: SPDXRef-item10402528
+FileChecksum: SHA1: 0ac787c76a42e3eb81f5876321afa11d6da27966
+FileChecksum: SHA256: d5a89046a4d0ff252f34064a36a2e368fa93ee26031e8244849da54f9aba0808
+FileChecksum: MD5: 1bfff9d14c374e02923c1b8964be7459
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/AccountVerification.tsx
+SPDXID: SPDXRef-item10402568
+FileChecksum: SHA1: 362f0089408146d62127c2a660120503069d2bbe
+FileChecksum: SHA256: da1d783917178cba38ceeb3395915832a04cb94882b5ea60dafcc6463349c2e7
+FileChecksum: MD5: fbd680227d0c8a820ac4e6eb332fb4ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/App.module.scss
+SPDXID: SPDXRef-item10402610
+FileChecksum: SHA1: bff95d77ccd38b617a31bf8b8efee683f69e750d
+FileChecksum: SHA256: f7096fb07fe51ed00a8602375ab4bca01f3bb802579c48e8e671f32cda3d52af
+FileChecksum: MD5: ba3eedb76f290442c6b8f1fe48168aa6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/App.tsx
+SPDXID: SPDXRef-item10402611
+FileChecksum: SHA1: e0bd5598550f87166313f07417da4ac122483f5d
+FileChecksum: SHA256: 0c60dc9e9b99b5efbbce015d558be405d0f4340d3c862f86f7ee0e323adccb9e
+FileChecksum: MD5: f934e9eb355e945d42335b87bac1baa7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/AuthFooter.module.scss
+SPDXID: SPDXRef-item10402575
+FileChecksum: SHA1: 07b0523e5c5d4685b3dd8ac1f5f90d5e0c999beb
+FileChecksum: SHA256: e0b37c909b8af391b9e11f75328c188c0f7ea8f2c395ad7e3dff315bbada8569
+FileChecksum: MD5: 3de4dbca4adaafd4defc4e3626dfcac0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/AuthFooter.tsx
+SPDXID: SPDXRef-item10402573
+FileChecksum: SHA1: ca52865e4f36364248ccb7f7dc75892251a74268
+FileChecksum: SHA256: 729c3fa25d331f7206432e73c328bc75b38a7672ab83014ccbb05d4c318e978b
+FileChecksum: MD5: 1d0b71f80db0c99038a1d27433a035d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/AuthLayout.module.scss
+SPDXID: SPDXRef-item10402571
+FileChecksum: SHA1: 4d4de8029951f8b11df63316fa5f2ddc3d0a302e
+FileChecksum: SHA256: 645180e187e17cb26dfc347c082ecd9909067070d316e6814f80ef84498b8f67
+FileChecksum: MD5: f4031c03c77645d4af2d0102c0fa6467
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/AuthLayout.tsx
+SPDXID: SPDXRef-item10402569
+FileChecksum: SHA1: 9843017d258d9464fefa454889122cbb432f2ced
+FileChecksum: SHA256: da3e8adfa127663ca1592cbe436cd355d58a0395b6f93a26f86dc055364cdefa
+FileChecksum: MD5: 77391984a04e376929c0ce54c48d9a18
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/Button.module.scss
+SPDXID: SPDXRef-item10402609
+FileChecksum: SHA1: f52db5adf467afd5a7652f1b1c328470f809cb6d
+FileChecksum: SHA256: 0ff25b57f4c233dd21d7b66f87a30165067b998d2d829bd2e013073efdf4f956
+FileChecksum: MD5: d7a95091b7370b93749bbf4baa7b927b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/Button.tsx
+SPDXID: SPDXRef-item10402600
+FileChecksum: SHA1: 9a196211ad2cb06e32d06f03ea2c5034b3b4a91b
+FileChecksum: SHA256: 151151467c0a224c2d835e8abd1afe440e92802df8d14f1b1bc8ec7fdc037258
+FileChecksum: MD5: af812892f23803baee776350cf6abc04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/ChangePassword.tsx
+SPDXID: SPDXRef-item10402570
+FileChecksum: SHA1: 495ae9492b9e204e60000098720d3ddbece64336
+FileChecksum: SHA256: 96e17e7c1bab4084c9ae8ef6d8915e59f35f7ddf775fbe0ad2050e83bbd5da04
+FileChecksum: MD5: 06ce593dc9f73bca777da5b824e3de1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/ConfirmPassword.tsx
+SPDXID: SPDXRef-item10402567
+FileChecksum: SHA1: ee7c503afb2d519fe40b3a41c74dc33650c7dc1f
+FileChecksum: SHA256: f0fbbb33625742535ca2f64172246edeaa3896c2519002e15046f8f1cc166d83
+FileChecksum: MD5: c17e7b8018a5d9ecb343d7005c8f1e07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/info/CookieMessage.module.scss
+SPDXID: SPDXRef-item10402586
+FileChecksum: SHA1: 41f8320c4f7ab93acccc243a1a1ca9a62050bfd9
+FileChecksum: SHA256: d6c744daf159aa1f2fc61bf4d5b5a37776afe93bf524d7f0ada76450ac60ab2c
+FileChecksum: MD5: 95ad270382cecba429637348f59a46d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/info/CookieMessage.tsx
+SPDXID: SPDXRef-item10402584
+FileChecksum: SHA1: 87e2d7709bafed1d844811dc94724e962f5dfad0
+FileChecksum: SHA256: e08fa0a188adfe7c4b3b77ab3752d0ef6922ffe59d472261b62bc230c133f163
+FileChecksum: MD5: 131334cf4a1fc802b94f5be7939eee7b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/CreateQuestionnaireModal.tsx
+SPDXID: SPDXRef-item10402543
+FileChecksum: SHA1: 1b250acbec86cbfe32b001e7585ba08433fc1919
+FileChecksum: SHA256: 2db636cfe81e675e5589739872d3a1f13b67295263b5a082da39d64eb7605049
+FileChecksum: MD5: 25092d655c753bd09e41f227f1417381
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/DeleteQuestionnaireModal.tsx
+SPDXID: SPDXRef-item10402542
+FileChecksum: SHA1: 30c367e54f290c75d6c157dcd55b75dd98bd4a3a
+FileChecksum: SHA256: 2ad6de01be08f9c5be512b8b4e2187ef7257ae9e15637633f1417d202213eba4
+FileChecksum: MD5: 033d34a19235b070a755f739f6bffe96
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/Footer.module.scss
+SPDXID: SPDXRef-item10402622
+FileChecksum: SHA1: 81d2b6a2e38695ef2897c71edf170ac03e470258
+FileChecksum: SHA256: 2fa84aeeaa221302f78cf817338af496b1283720ae074e3ac20e8744967959f7
+FileChecksum: MD5: 5470330e47b94e551b5e7af3c78ee1a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright { </text>
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/Footer.tsx
+SPDXID: SPDXRef-item10402616
+FileChecksum: SHA1: 515586e80abe3f90479e2b607e090b70f736a447
+FileChecksum: SHA256: 037d77b2e4dd89962fce1b25771fb388cd4622bec361f4facff79962d1c1b485
+FileChecksum: MD5: b014e52402fce7789529dfb7913fe794
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright}> </text>
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/Forms.module.scss
+SPDXID: SPDXRef-item10402579
+FileChecksum: SHA1: b57f362a08daea5d7799c9740f92485d32061592
+FileChecksum: SHA256: 81cc95adf8b7a6688019f48334312a4b33cd08e2b8a77bce3d01649e239a11fd
+FileChecksum: MD5: 9c843740a6cc76fb4f4564844def0b50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/Home.module.scss
+SPDXID: SPDXRef-item10402539
+FileChecksum: SHA1: 4551799912f5e690645fb00c9ab5e162e2b550c8
+FileChecksum: SHA256: 655d87685cf0f5eede143213af5cee2daf862d52adddb7592dc35c584b2da8a4
+FileChecksum: MD5: 714878526f0102c8d0e29c389432eff7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/Home.tsx
+SPDXID: SPDXRef-item10402554
+FileChecksum: SHA1: dc462bd98ee8732849edcaf5325139d464499b2d
+FileChecksum: SHA256: 4f125dd3cd9b4df7347933d72ebcacb6a151958a80f3023c5c8b344412020b89
+FileChecksum: MD5: bd2227352935cd93a1e7500617dbe5ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/Intro.module.scss
+SPDXID: SPDXRef-item10402557
+FileChecksum: SHA1: 82257677b34647c71362d9ac8679d0b30833f6dc
+FileChecksum: SHA256: 3e0e8ba60fc5131762adb343e892ebc6f09a8c1e2734ffb1fbac398fff8d87a7
+FileChecksum: MD5: 56a181349cd4bd8a351c4acddc7dae41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/Intro.tsx
+SPDXID: SPDXRef-item10402562
+FileChecksum: SHA1: 60b863a79e5b8b96143039e88950748d64395807
+FileChecksum: SHA256: 23eb0bb1e6b26ed6f6a06b86e0935f8e94f0e973b8bcc91edb1af648e5ac8847
+FileChecksum: MD5: d3647f77b36ed6ecf6dfa6138aa67d29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/LICENSE.txt
+SPDXID: SPDXRef-item10402698
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/LICENSE.txt
+SPDXID: SPDXRef-item10402666
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/Layout.module.scss
+SPDXID: SPDXRef-item10402621
+FileChecksum: SHA1: d0f23d34a55f7e77f337dd2c370c4dcf5f54ac2d
+FileChecksum: SHA256: b2211574b5dbf97b0ed733bba36ad866bc40ad6112573f84b961ede9c119233b
+FileChecksum: MD5: dcfd12dde5581d64c844e49511843ce0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/Layout.tsx
+SPDXID: SPDXRef-item10402617
+FileChecksum: SHA1: 91e82e927b5ffab64f88a9a9e621e7408afaed62
+FileChecksum: SHA256: 1385e11b32625f18d5e5e04b43d085e94dcac3a9d5ee6e9257a6ee181ef89d70
+FileChecksum: MD5: 56441942f5989cf1c6e0d773bd2bc399
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/Loader.module.scss
+SPDXID: SPDXRef-item10402598
+FileChecksum: SHA1: 6cb1170699a955bca704d901881966777cd85410
+FileChecksum: SHA256: dc8ba283d4c9724d865eae982f3d19867e446a12f41c80c682a69656298a6610
+FileChecksum: MD5: 298126972cafa89f85d3e28b5ceb158e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/Loader.tsx
+SPDXID: SPDXRef-item10402596
+FileChecksum: SHA1: fbf5c3cd65fc0f43fabbfb6d506d18edcd5330e0
+FileChecksum: SHA256: e1faccf3d110d56e04d61114526786bb38c58ac28949be04e2d6eb2bb5e5c470
+FileChecksum: MD5: 13dd5e34ad7d248396baf94e3804b494
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/Loading.module.scss
+SPDXID: SPDXRef-item10402599
+FileChecksum: SHA1: c309bc9a672db776a0755d9b83ecc74bb7496b22
+FileChecksum: SHA256: eb9cacc4f9c285167f7f00930f02e5db946bdd0009fda6f8ce7b122bd40c8c5f
+FileChecksum: MD5: 09619d88ca6477cb2a2e871eaca14d29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/Loading.tsx
+SPDXID: SPDXRef-item10402603
+FileChecksum: SHA1: e56f1428191b5ab1c1b60da625f1fee81970d1a6
+FileChecksum: SHA256: 1d4b68b5464e50d102520f322f5e5ec5f59ebe4bbdc03479d2d80c2f7db1df9b
+FileChecksum: MD5: 8a3a541a1a330642d044b86b7fae790d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/LoadingRing.module.scss
+SPDXID: SPDXRef-item10402606
+FileChecksum: SHA1: 3d420afe3776d5490d6e4b88abafb0151e3b88aa
+FileChecksum: SHA256: d39290cc0d2d1e9c4a74c9c9297469b01595ada24bd75a752e3d97a8ff9f466a
+FileChecksum: MD5: 83eac615c7e0673e037e1b00f419f538
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/LoadingRing.tsx
+SPDXID: SPDXRef-item10402607
+FileChecksum: SHA1: 6721cf6e557d1235c29378f7ad36d8356d11198c
+FileChecksum: SHA256: e62094e7488f9c46ea888ab76e3ab5077be17d137d153c09313b5aff7f3a47dc
+FileChecksum: MD5: 4f2d28f8403dba3a9f2f9123688c4b93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/Login.tsx
+SPDXID: SPDXRef-item10402572
+FileChecksum: SHA1: 3f94c27d3386df20a000f31b97da0f49bc769679
+FileChecksum: SHA256: 24d2d758d02eaec6a38625e8bab2c0b48b956de6726a2368c40e5d80592ca17a
+FileChecksum: MD5: 80b81ace060aa99f416196d29b7486e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/LoginForm.tsx
+SPDXID: SPDXRef-item10402580
+FileChecksum: SHA1: 48d5d035020d249cb40286de305e3a786b359180
+FileChecksum: SHA256: c48ed69bf8898006423334b617dbc88abd6fa83f3710e39eb58e97979c776064
+FileChecksum: MD5: 6b6d2697d6e45a7cfec8395e4f66865c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/Logo.module.scss
+SPDXID: SPDXRef-item10402620
+FileChecksum: SHA1: a21cb568acb37f9f39970f8fa28a05cbc8c88f4c
+FileChecksum: SHA256: d22e63031984d4e26239210f0d9e4d382078659dd3b12e82e97a4f90499f5399
+FileChecksum: MD5: 5056983231ec31d320c2064c76e99399
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/Logo.tsx
+SPDXID: SPDXRef-item10402615
+FileChecksum: SHA1: 95b8aa191b7a3f5c5a61f9afc0742246f4358c7c
+FileChecksum: SHA256: 4d874c2a6544fb9179b4d431a83f9249aee5af13c35f9d16c7d78cadfceea063
+FileChecksum: MD5: 0cf4ab54416433b4a6c08eb76d10311d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/Logout.tsx
+SPDXID: SPDXRef-item10402574
+FileChecksum: SHA1: e34a91e658ebc785414b54618d68bba446d694c6
+FileChecksum: SHA256: ef19e66358291368d0165166f2da4eaa9cea7fb12d676899186020f518aae2d5
+FileChecksum: MD5: ca4c4dbd0c2d18f2b651595902acf18b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/Modal.module.scss
+SPDXID: SPDXRef-item10402601
+FileChecksum: SHA1: 24b57974056a697fe55b3308b5107b07fbe81497
+FileChecksum: SHA256: 09d0841b598117ab595c36b4a456692d982d41e7b1bb9b093a0078ba1bb7d236
+FileChecksum: MD5: 185c88d3d1b94676e48a27d3417fc204
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/Modal.tsx
+SPDXID: SPDXRef-item10402595
+FileChecksum: SHA1: bff4a4019a3a2775e384508c9ed5460da6962d4a
+FileChecksum: SHA256: 879f95416884b557555821f89d38813a5444214bfce2f3a51f8b058c09e25cb3
+FileChecksum: MD5: 5d9460513dfcdab5331661409cab5114
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/Navbar.module.scss
+SPDXID: SPDXRef-item10402537
+FileChecksum: SHA1: 9b46fe732ec65fc99d24049723b728dc03ed928b
+FileChecksum: SHA256: d2921594a0da0e2d06b2793ceb049c6a10c8574667bb00cf4171e4bd8eda5d8b
+FileChecksum: MD5: a59b259a52b0bcc7b028612fc59cb11e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/Navbar.module.scss
+SPDXID: SPDXRef-item10402614
+FileChecksum: SHA1: 9409195f15e25a13f91ddf0f5dfec88011bf1dec
+FileChecksum: SHA256: 4de441290ac9715eb1e2cb1eb107823b5386eaad2c9a732115a59ef22c540a0b
+FileChecksum: MD5: 084e9cd2a31f4cef42ea9639b352f857
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/Navbar.tsx
+SPDXID: SPDXRef-item10402561
+FileChecksum: SHA1: e944f53c1de5c057ee8456d3726e22aaae0eff5d
+FileChecksum: SHA256: cfad9be17598c672154e5ff40a0d750d1d5d54ec84d66f51ee0e46e106dd37bd
+FileChecksum: MD5: 31118a3ba807d215cbc3a42d42cde0cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/Navbar.tsx
+SPDXID: SPDXRef-item10402624
+FileChecksum: SHA1: 59334bf5ea43474fb249cb3f713e97a54e368bf0
+FileChecksum: SHA256: 9b9c7b39a1281ed1ff88116c5c065d87fcd259a6be61454bb967d73ec0582f47
+FileChecksum: MD5: 0393c5a0e51ca8458967655d310d5ede
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/Page.module.scss
+SPDXID: SPDXRef-item10402623
+FileChecksum: SHA1: 0a13f6bff54a9c567dbdca37690ccf7e5359cb18
+FileChecksum: SHA256: 6b172a305f2494c303e66e299d2d2e6364e467b6174c35e952619d4c79545b1c
+FileChecksum: MD5: 9ea7c873f82f26e50588ae5cbf91ece3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/Page.tsx
+SPDXID: SPDXRef-item10402613
+FileChecksum: SHA1: b75faca0e38b3f8d42c2774b7cba5ab50e44356c
+FileChecksum: SHA256: 0d9ee7110405a9b3d00b34072dcb98cf3452ca397ca3293a78db71c16d7ea0d6
+FileChecksum: MD5: 744b0937e297609f552736b14984ac69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/info/PageInfo.tsx
+SPDXID: SPDXRef-item10402583
+FileChecksum: SHA1: 7ab5adbac8cadc0fa65e7fcc0103b17c21a0cd17
+FileChecksum: SHA256: 5520b423a676559bedd160293fe77a447d24e6106f93124982f95bfa56999d89
+FileChecksum: MD5: 1db4643b9207ebddf3d2920782c57516
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/ProgressBar.module.scss
+SPDXID: SPDXRef-item10402597
+FileChecksum: SHA1: 941672fb1e090c562b5baff4f7f720ab822c44ba
+FileChecksum: SHA256: 297f84474eb9cfac68a8dae2edfbd5495bcd6504cc9cc4aa781630e3061d2b14
+FileChecksum: MD5: fc9e556b5a941d546cc131acc9f56577
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/ProgressBar.tsx
+SPDXID: SPDXRef-item10402604
+FileChecksum: SHA1: 4b4df0d874d5d6d2985856ed2202dbbfcd0f7725
+FileChecksum: SHA256: 7b05d1f0dd3a704999a6a048c5a5ffe23d18cdc44a3b7aa58b650dadce1ab298
+FileChecksum: MD5: b277f756f91bcbad7aa461d15eeb1de2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/Question.module.scss
+SPDXID: SPDXRef-item10402535
+FileChecksum: SHA1: e92a1f6e71cff854431388c9f35127c879ca9118
+FileChecksum: SHA256: 48dcb378d12b700f16a02c9617da2de510737a7061d7ff18f7f478c5e1ac3567
+FileChecksum: MD5: 27602711ad341504962fd55cc399b342
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/Question.tsx
+SPDXID: SPDXRef-item10402541
+FileChecksum: SHA1: 66f7cd7b65f16141036a96b34a0181543e43a2d1
+FileChecksum: SHA256: 336b7b05ddf4f2a5e6ffaa11007e8686a818fdd159375cebbf1c9f9c18f68594
+FileChecksum: MD5: 5170bc375f46e16ab34e94ce09d67f3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/QuestionLayout.module.scss
+SPDXID: SPDXRef-item10402536
+FileChecksum: SHA1: 37c4be191b00a2052b95157dccb0408ce9ca4b67
+FileChecksum: SHA256: 68012caa5b13e9f5511ac631c679c69d591926f51c13616360f76f899974616b
+FileChecksum: MD5: 74df7fa62a15ac21081dda86f3d52bc6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/QuestionLayout.tsx
+SPDXID: SPDXRef-item10402556
+FileChecksum: SHA1: 8efb87c2079cd9978087d1fdaeb2ab9ccd8a8281
+FileChecksum: SHA256: 85fafbb263d8463833eb553050e8696d3e117f796758542c90184bfbd615540d
+FileChecksum: MD5: 059989855b01051e63562da281ee7013
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/QuestionOptions.module.scss
+SPDXID: SPDXRef-item10402540
+FileChecksum: SHA1: 5a8b35a6de4dd04b935889c84a84f8018ac15ba6
+FileChecksum: SHA256: 5b4d8001b70896e5375faa18a129bdc08af09ab40f88bea887ca5f1b9831dcd1
+FileChecksum: MD5: c60179d145f74be476e4904d30a77496
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/QuestionOptions.tsx
+SPDXID: SPDXRef-item10402559
+FileChecksum: SHA1: 8ea90d8204de8a8188e2bb50ee4afe768ad7a918
+FileChecksum: SHA256: 579493745f93522add538b9a07fe4424adf06a8c1b6f5cf3160e8d1b81774f14
+FileChecksum: MD5: 5a68e5f6a87d02423b69c8f1528b3194
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/QuestionProgressBar.tsx
+SPDXID: SPDXRef-item10402551
+FileChecksum: SHA1: 22a856e264dd6023e0dc0d7d21871afbfe96666d
+FileChecksum: SHA256: 38bd7722cb4f21930521c354eccd5213d44643e5f58bee72c524a40448a62b54
+FileChecksum: MD5: 6ce22b439281d3786c0393b33921271b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/QuestionnaireList.module.scss
+SPDXID: SPDXRef-item10402548
+FileChecksum: SHA1: f392c48e57de09a554b90543b9ac82241d46da25
+FileChecksum: SHA256: aa2742d9de5a13ed1a5b05888669850612137a2be893bca089d1355e95603d4a
+FileChecksum: MD5: ced59dc785efb96965920b8fe99ac7a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/QuestionnaireList.tsx
+SPDXID: SPDXRef-item10402560
+FileChecksum: SHA1: cb1234b8c554b0da3b6b19768ea02eb73117a953
+FileChecksum: SHA256: b79929a5d6ea7226be428ca1c8b40d0c89bb7169b07d6650dd9ebf11f281b18e
+FileChecksum: MD5: ea1edc2d5cbdb65dede78c3a855eb378
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/Register.tsx
+SPDXID: SPDXRef-item10402576
+FileChecksum: SHA1: 5eeb30b2dd898c64e66997b6d9a3d6dd6e3ee7bd
+FileChecksum: SHA256: d5aae79f88e021c7e0a3dc7d7430fc470e8b8271f6fd7655516631151b1411d6
+FileChecksum: MD5: a17e8ce1c0ae4ee2683c6b4ad86fbc5d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/RegisterForm.tsx
+SPDXID: SPDXRef-item10402581
+FileChecksum: SHA1: 2f19f24e42c50c7e43d256f006c974ac1b56f82f
+FileChecksum: SHA256: a653ae970f931bc28e56e6b5f1fd30bda13dcfaed8c0f1c6f02541bb442d8ee0
+FileChecksum: MD5: ea2100aca44978ec420e217754454df6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/ResendEmail.tsx
+SPDXID: SPDXRef-item10402577
+FileChecksum: SHA1: 1025aa3eac339f4a574598010869f25ca660ea9b
+FileChecksum: SHA256: 3b0dd3459665505603a68f1f1d6a08635a458b6356dc1c44a0a5652dcee53976
+FileChecksum: MD5: c55da73a1ffa79ca7cb6c001ebb4fdc9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/auth/ResetPassword.tsx
+SPDXID: SPDXRef-item10402578
+FileChecksum: SHA1: 8ffb00d374aa33bfb010f8c4b778c79cabab0b6e
+FileChecksum: SHA256: e4e3f049103aa28fcd9a410aa14cc37365cc14f81b5ccdbcad0653b4b4e549dd
+FileChecksum: MD5: d2333000e6704e5d0abb6ef7422fb14b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/Results.module.scss
+SPDXID: SPDXRef-item10402545
+FileChecksum: SHA1: d1af4b1566bc9f6592acf8defffc349235ed3d5a
+FileChecksum: SHA256: b6190876d04d1e8ec4b08fa3af99a1ef5b072c4f76fe67374e7c75715b8cfbc0
+FileChecksum: MD5: 51ab3c51caa48cc59538b24bfa038d5f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/Results.tsx
+SPDXID: SPDXRef-item10402546
+FileChecksum: SHA1: 9564bb22163440aebf3ddcc233804edabe99aaab
+FileChecksum: SHA256: a9b9fb69182a4804fd015a43d344ac267d6dc2e99c51aedb61c733c5d0e09ce7
+FileChecksum: MD5: 6e467ed2ee8f445039f76f667041a6aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/RingProgress.module.scss
+SPDXID: SPDXRef-item10402608
+FileChecksum: SHA1: 752425f25f4b4abdcc97c95b79a356df8cf0da77
+FileChecksum: SHA256: 69bc83f758aa0c09ea66cb872c46dff710ba05d85aa64861f2b3e82229093a78
+FileChecksum: MD5: 8cc66ad21c4256dcf7d7e46bdaf24ab0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/RingProgress.tsx
+SPDXID: SPDXRef-item10402602
+FileChecksum: SHA1: b0e5c1667562014828960b187bd413a8647b4cd3
+FileChecksum: SHA256: b4907ea82a16c9025b96b3428d6803e31b713e0a58677ab8c8a2ed731d74801e
+FileChecksum: MD5: 7fcb6914ce1a5a1c3dbf1617941b3f5f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/SectionHeading.module.scss
+SPDXID: SPDXRef-item10402565
+FileChecksum: SHA1: e70e85da3815c92811b791318f7d18d77e7cfc99
+FileChecksum: SHA256: 48087b532021f4464f890972d4de0ebf9058357fe4b107dd35aeac7c7bf0f835
+FileChecksum: MD5: 69fa8ef80c7ea3f83b72432b613857d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/SectionHeading.tsx
+SPDXID: SPDXRef-item10402555
+FileChecksum: SHA1: fba4ee2a2ea270f5a27837ccdc637ab01824e213
+FileChecksum: SHA256: e9a60de87e5ccfe40778941528667f2628c4b51d908770fb249ab08de29a9faa
+FileChecksum: MD5: 4e942f739756af84b74db9586df129f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/SectionNavigation.module.scss
+SPDXID: SPDXRef-item10402563
+FileChecksum: SHA1: 4350de32e7ed0c90c2908c1d83527372fe01d856
+FileChecksum: SHA256: ceb9608b014993e160f4e58a9cf78ac87d0aee3950e20a423306763dab9ba3d7
+FileChecksum: MD5: 7b8202256b9683f2a18852fae91c1b51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/SectionNavigation.tsx
+SPDXID: SPDXRef-item10402550
+FileChecksum: SHA1: fd28ab03385dd5c5284e1bbb1b03ea9fcc441baa
+FileChecksum: SHA256: f2d7a599e23b52a6c5991e5ab846fc3b414394901850368b742142690f48cd1c
+FileChecksum: MD5: b0eb7639972d5c0115aab7252c3b1937
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/Text.module.scss
+SPDXID: SPDXRef-item10402605
+FileChecksum: SHA1: 748bf0c46ef7665d41954c2a92bc4511fa6cf59f
+FileChecksum: SHA256: 94416e01968abc9a673684287fa485fefacf9263bb1f48326ea448ca67f6ba7a
+FileChecksum: MD5: e125053835626065e9351a938e920795
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/components/Text.tsx
+SPDXID: SPDXRef-item10402594
+FileChecksum: SHA1: de13de58a9898e2d503cba46767d5b53265147fa
+FileChecksum: SHA256: 856b9e2bda4216d1ec64789cc881d4a3ab0486586bf3b0cbe81cf75bf60c005f
+FileChecksum: MD5: 78f3cefb7fdb08be4874f447e4901b20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/TopBar.module.scss
+SPDXID: SPDXRef-item10402625
+FileChecksum: SHA1: 0327bfed62f1df41755f955b3a5ad476c2e6bca6
+FileChecksum: SHA256: fe2120d30183e1d5700a2a70bbd759e307804e555067826a3046317e77f431d4
+FileChecksum: MD5: 3668023381f2b4a7fb286d5fe852dd6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/TopBar.tsx
+SPDXID: SPDXRef-item10402619
+FileChecksum: SHA1: daa5907b56338d44e92abcd403935d311dc7e146
+FileChecksum: SHA256: a9e418557c33a8a6bcb8470d533d4ecd479bd7f4a2b62ca4d3ebbbef22b5fd73
+FileChecksum: MD5: d59dc8beba325ee4d4d4891576098e60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/layout/TrustMarkLogo.tsx
+SPDXID: SPDXRef-item10402618
+FileChecksum: SHA1: 8c6bd5f6ad22ebb9e33c6d8e3bca54486c61005c
+FileChecksum: SHA256: 49cd2196315ad7680eebebf10e9a0b06ab26529d7bd33167d2f78abc0d01f680
+FileChecksum: MD5: ac862f638fe8220c7b7c1108d8337b67
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/styles/_colors.scss
+SPDXID: SPDXRef-item10402640
+FileChecksum: SHA1: 79f4394e36c8b596c4a1ec1a71a13041b70bbc63
+FileChecksum: SHA256: b30f9fe6be7cb12dc907223780fa0524ced06d24516f93deaf06cd7568a3d794
+FileChecksum: MD5: 1b9658b455bb95efcc16fcd67839bb54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/styles/_custom.scss
+SPDXID: SPDXRef-item10402644
+FileChecksum: SHA1: a3adb5bb7220620b00894bf230a0743936103614
+FileChecksum: SHA256: 3b645dadc9b47fa62cc68ea0a2d510111194515aa18c8eef26086aad8c2bcc57
+FileChecksum: MD5: 2d65ee975e0a80e9bcc3e9c552bca3ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/styles/_functions.scss
+SPDXID: SPDXRef-item10402639
+FileChecksum: SHA1: 5878b126902c24caac1fcc6b381cdb70d5df6b0d
+FileChecksum: SHA256: 23df4c7508e08e47e855d70d3528f74df45300c540b8a77a5d168d75bef71184
+FileChecksum: MD5: c77811091b0496997b304263ff69de02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/styles/_measures.scss
+SPDXID: SPDXRef-item10402642
+FileChecksum: SHA1: f7312119b4b718e4c96d0b9134d9e5b42455bac6
+FileChecksum: SHA256: 471c38a27c21d254a4272abd1769afce630b4e6bd6df023c62d085e6ed5e1ca4
+FileChecksum: MD5: 4da07dee7b9a7db849fda77f11cd3492
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/styles/_text.scss
+SPDXID: SPDXRef-item10402641
+FileChecksum: SHA1: 556f86a2a70897e99ea0678eb87fbf007589aeb5
+FileChecksum: SHA256: 473b73b7af9b1cb7f633409746e7448d49b84f9df50b8e33d96c12eaa666c7c1
+FileChecksum: MD5: 9ed2acaabfef9e0c6025b7c13ac2eea3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/accounts/adapters.py
+SPDXID: SPDXRef-item10402712
+FileChecksum: SHA1: d47552a532d2c91ca2e8cd97b565d0406a76d3f9
+FileChecksum: SHA256: 4874bc9058f905806f5272b9f289e9bd7f632b8546456bac0862c7f0ba75d5ac
+FileChecksum: MD5: 57659a5453155f7d7b0ea257306f11b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/accounts/admin.py
+SPDXID: SPDXRef-item10402711
+FileChecksum: SHA1: 3ed194da867a8d53ccdba3218274f0a663e8b7a7
+FileChecksum: SHA256: acf846c0fc94e2e858d81ecd6d9e3fbda7695431c9909677b7a82e150f3484f5
+FileChecksum: MD5: 0b011c2e319ee2a74b58af5fbe23b69c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/admin.py
+SPDXID: SPDXRef-item10402751
+FileChecksum: SHA1: 8db5c44f78e7a00ad6bd0630bef07d6d42aa46e5
+FileChecksum: SHA256: e1fee9e63b0c06f2bbf8c50f5d62894910c0e578d1f55af6cf9e0f0c8262b200
+FileChecksum: MD5: 03a7562f76f70971b8dce4c43076dfeb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/admin.py
+SPDXID: SPDXRef-item10402735
+FileChecksum: SHA1: 6debde70c809328ddda6313ca8c2445fdc675767
+FileChecksum: SHA256: aec9f5ff6aa8a5605b21a439e8446269dddfb7abb3920be2b8652aba98341922
+FileChecksum: MD5: a8aecb268a38a348e8036f291f377f2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/api.ts
+SPDXID: SPDXRef-item10402549
+FileChecksum: SHA1: d3dabb456436bd233d43e01389f6522c2a1b93cc
+FileChecksum: SHA256: 95a6f36b003f5a383d60c49f6330c5377c2a5b72e6af1abdbafb320c6f26fc31
+FileChecksum: MD5: 9b7cb260573991a9769cbd2321bfc1a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/apps.py
+SPDXID: SPDXRef-item10402740
+FileChecksum: SHA1: 2c5fa675a31a3dc5cdff98c1901f7ee47e173d77
+FileChecksum: SHA256: 695c822df8631c07d30eef9168ceac132f20a7615a307f94e4a3f36628c171a4
+FileChecksum: MD5: b7d32eb3013c930a31bc419907f1e848
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/accounts/apps.py
+SPDXID: SPDXRef-item10402701
+FileChecksum: SHA1: ff4cfad1b50c954bb14e3b6736eacaa1ca7a2785
+FileChecksum: SHA256: d90cc8eb5cb65e1131ff4809b66b1b06f0db3814932ea7547db02f341929f64d
+FileChecksum: MD5: 9c45871b19430d2f12f6e4b3f9315953
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/apps.py
+SPDXID: SPDXRef-item10402717
+FileChecksum: SHA1: 9d8cc611a6811c9d67e88dfd6151e758125dbfc2
+FileChecksum: SHA256: 3d958bf6927c66650e43a87e755a737bf430df96d46f973e815c0d6e2cdccdb2
+FileChecksum: MD5: dcf124f9b6df0bda0f1ad595aa9aec69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/satool/asgi.py
+SPDXID: SPDXRef-item10402680
+FileChecksum: SHA1: 5e69daf404d3a2d4e370d3c96e3ac5ead52e42e6
+FileChecksum: SHA256: 0a6270264ab6c4582455fc2abb8ca17d51f798fd5bf63c9b09d55ab89a02282d
+FileChecksum: MD5: 08b66c744dd2745a68a1534651933071
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/satool/settings/common.py
+SPDXID: SPDXRef-item10402682
+FileChecksum: SHA1: 18c1eaa976285d4d642de1fd8549edc2e9d8e544
+FileChecksum: SHA256: dfb2ce2651bfe3214905a078100c913ce3bb93dfc4f8e9e7c6f86ab2a6ca5ed7
+FileChecksum: MD5: b592e454349dc943bbc8efc371e956c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/decs.d.ts
+SPDXID: SPDXRef-item10402648
+FileChecksum: SHA1: ba3503754f7f384efd56167204211d89e3e3dfc2
+FileChecksum: SHA256: 711298f9b64b48582cab0a19f075e3334fbfc8211d158b08744d87a3e1b9c99e
+FileChecksum: MD5: cad99ffa7bbf800c19ca112f2d1c0f7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/satool/settings/development.py
+SPDXID: SPDXRef-item10402683
+FileChecksum: SHA1: c5049e7c6a10131fc4139237a4f5f818346020e4
+FileChecksum: SHA256: 810d1dfc16d3c5a4a6a8f5a5d43a5d908a53cb1d306c31622436830f0fa6d779
+FileChecksum: MD5: 043c45d6a9898c500b25f006c9e7f453
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/api/http-common.ts
+SPDXID: SPDXRef-item10402628
+FileChecksum: SHA1: f23285961cc94a0cdc2736abfb35d77a97c7f367
+FileChecksum: SHA256: c2f4a9d0ed96ca2d6ee87ff101e3d34d91fb759d57053247f247e8933f097f3d
+FileChecksum: MD5: dc1278706fa2c68571ec98c579213eca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/i18n.ts
+SPDXID: SPDXRef-item10402592
+FileChecksum: SHA1: da84502002c53f63baa498b0f1d64e6a5427c7f1
+FileChecksum: SHA256: d527c4ce8f859e2f622836033f4d29dd5b18b45e3e84ce93ab6ba1016906590d
+FileChecksum: MD5: 2af4f89f9f42276cf684d133b724eb72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/styles/index.scss
+SPDXID: SPDXRef-item10402643
+FileChecksum: SHA1: a695674cddbdf8c1d4f3c71421c739a69eb5be09
+FileChecksum: SHA256: 241c998329288a231f4b1ff5e4f8aa45a98063072ec7c71321f7a87e7b3b2ecc
+FileChecksum: MD5: e492d47d8f38a8c309d1ec9a4404e2b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/index.tsx
+SPDXID: SPDXRef-item10402626
+FileChecksum: SHA1: 2efdf4e040e5844ad18ed8cd7eca6faa9de3cb7f
+FileChecksum: SHA256: c9854d2744f7f2588fc3bd68764c234e6bf82b972369540d41ee5e62dd2c6c14
+FileChecksum: MD5: e74394d6694f5172190545aada7e075c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/manage.py
+SPDXID: SPDXRef-item10402694
+FileChecksum: SHA1: 0bf939f132e6f03e5e59e33ab08b7a42448ad277
+FileChecksum: SHA256: ea90c40c5ba373c65002c0e7d1cd85938dc8fa5a79a039631f35b69ac47e28e9
+FileChecksum: MD5: 68967e98a4cd4e713ee0ef10534caa47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/satool/middleware.py
+SPDXID: SPDXRef-item10402686
+FileChecksum: SHA1: 3d092b0ac0ce160b5f8bdf16aa2b987862478470
+FileChecksum: SHA256: d9ea3300d5950495a755f11fb7057400c2fb6de0ab8a0ab9a3172e08a861d5a9
+FileChecksum: MD5: 5aa02f934ad80477a02d351f1013e839
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/models.py
+SPDXID: SPDXRef-item10402734
+FileChecksum: SHA1: 2b2cd1a324c29192485d702f063ff4f5bc08dab3
+FileChecksum: SHA256: 24b84e09673f480c996d909cb0c030e1185d6b29ae2eac3d9541200e69e97917
+FileChecksum: MD5: 45ab26d2c5b3933b7173c7c4cf6a3ac6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/accounts/models.py
+SPDXID: SPDXRef-item10402710
+FileChecksum: SHA1: f6f659fc71ba165705a45e2de4b716dc6528599a
+FileChecksum: SHA256: e20a834a922b9b9cf29a2715a56f6df04b7c92b14b9b11814b5deac3d3b4a971
+FileChecksum: MD5: 97d1a50df6d5eb665b5274d99a0bbe37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/models.py
+SPDXID: SPDXRef-item10402750
+FileChecksum: SHA1: 17b698393a0fd6ac36ea9585e7f00941393a32e4
+FileChecksum: SHA256: 9cf5bd4c1c7439941a3ec98bedb85de0b664cf5d3273a00ea42d0a009d56c82b
+FileChecksum: MD5: 0041ef6a707abd299faab8b325657e15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/satool/settings/production.py
+SPDXID: SPDXRef-item10402684
+FileChecksum: SHA1: 4419b79fa9b61e325185097f40ca7b36b48ee38f
+FileChecksum: SHA256: bec8e3dfb360f5264e415c0252f898794f3d4030ae37b16a1fe8cadf63b54657
+FileChecksum: MD5: 59a4ef392b4d27647bf4ba331c2da9b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/questions.ts
+SPDXID: SPDXRef-item10402544
+FileChecksum: SHA1: ed1593b9e0721d9f219148acb0821d3c1fb357a0
+FileChecksum: SHA256: 1a5c531b97a7c30bef3cbf30e3779d431edfec870f38117e70afe96000b1fb07
+FileChecksum: MD5: 11aa90fa80a2b4c187b5fafd82ec3b87
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/accounts/serializers.py
+SPDXID: SPDXRef-item10402707
+FileChecksum: SHA1: 89476ff3bd2463aec7f09f4ed06a2b54a9979078
+FileChecksum: SHA256: 3f3eaa25af050a7fafe0cb530905fecd6b497861b6df1af220f8d89e6e04c3f5
+FileChecksum: MD5: 76cfed0ad4f5767c9ec1396ea3987c80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/serializers.py
+SPDXID: SPDXRef-item10402731
+FileChecksum: SHA1: a958b084b67bee60e7edd1a7674fbabebacad4d7
+FileChecksum: SHA256: a67f9a9cc4da14d29cd6ac555640616ec64e75cc448e8ee59e6e1d3d100a02c8
+FileChecksum: MD5: 0284e9c1b9556a06e403c1e506366f0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/.vscode/settings.json
+SPDXID: SPDXRef-item10402661
+FileChecksum: SHA1: a147855f229b36ad9e2317fd939ec7be2aac2de5
+FileChecksum: SHA256: b8471e4f3725f4ca3d931f593a4fecf90cc766bee5d672b6f5786d08cf7a340e
+FileChecksum: MD5: 2889c0659dbe5f83d854b47e4bd28279
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/store/store.ts
+SPDXID: SPDXRef-item10402646
+FileChecksum: SHA1: dfe455edd306fae850b1546f3ffdd6519b8f0802
+FileChecksum: SHA256: 520ef0514c66f3cc1e546b7502939a9404fbacb6876161135354b3013563c261
+FileChecksum: MD5: 17b4747f47826759ab57b7056c6786b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/tests.py
+SPDXID: SPDXRef-item10402738
+FileChecksum: SHA1: c95f0597ff1633cc1f73b3c588ea2fd6e0b23c41
+FileChecksum: SHA256: 76be830873b7b8b6ea0c37a30a549578f049ae374b15dc8908f90826344289ca
+FileChecksum: MD5: aa57a224ccb22148fcd99a4a77ea3cd1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/accounts/tests.py
+SPDXID: SPDXRef-item10402700
+FileChecksum: SHA1: c95f0597ff1633cc1f73b3c588ea2fd6e0b23c41
+FileChecksum: SHA256: 76be830873b7b8b6ea0c37a30a549578f049ae374b15dc8908f90826344289ca
+FileChecksum: MD5: aa57a224ccb22148fcd99a4a77ea3cd1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/tests.py
+SPDXID: SPDXRef-item10402715
+FileChecksum: SHA1: c95f0597ff1633cc1f73b3c588ea2fd6e0b23c41
+FileChecksum: SHA256: 76be830873b7b8b6ea0c37a30a549578f049ae374b15dc8908f90826344289ca
+FileChecksum: MD5: aa57a224ccb22148fcd99a4a77ea3cd1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/translation.py
+SPDXID: SPDXRef-item10402716
+FileChecksum: SHA1: 24a83a6514152874e67214b171a02c429420ef35
+FileChecksum: SHA256: 0eae4b4bd76e6b5050af80a724ee5f88916259cf666dae8e0563319f25c61df9
+FileChecksum: MD5: 13c7e3855b3492ee3707e447a1d500c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/translation.py
+SPDXID: SPDXRef-item10402739
+FileChecksum: SHA1: bffdee4bde5f4de01c48a64c37866506d5fbda75
+FileChecksum: SHA256: d06235cb23dd5e861f43e185ecb768e89c2477fee6ad46839725079d54a086cb
+FileChecksum: MD5: af3a5a287b627da57e0ab27442aebd35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/urls.py
+SPDXID: SPDXRef-item10402741
+FileChecksum: SHA1: 47b1c8d623ad52b74a4238a615cb644a74a56ebe
+FileChecksum: SHA256: 5e5f941bf177f8e32d09c4538d9c72447103918251953dbc44c083f1c1b0a695
+FileChecksum: MD5: 75d914b47e3339be63a8da80e7a86ea6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/accounts/urls.py
+SPDXID: SPDXRef-item10402702
+FileChecksum: SHA1: 86889e4639bb548acbaa74529ccb80835e3fa38f
+FileChecksum: SHA256: e39a2189edd755763e52e4be7ac6268f783c771cc9024ef7b5995d75c2802120
+FileChecksum: MD5: ecd0352e224b02c044907c639ee4c021
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/urls.py
+SPDXID: SPDXRef-item10402718
+FileChecksum: SHA1: ecbc7a89d56153808b5df7af4aeb5bb5b625bbf4
+FileChecksum: SHA256: bf4ca12822c20ddd63d9fb586bf578b52459077456f2ec32eec3d6536cbe3873
+FileChecksum: MD5: 17f8b137d22647cef2ce65106cc4814f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/satool/urls.py
+SPDXID: SPDXRef-item10402685
+FileChecksum: SHA1: de7b982b9eb65948b72c64fb4a75fcbd59910b42
+FileChecksum: SHA256: ad593cb7a8c228527436948983315082c56061500840f88320f828b917448e5d
+FileChecksum: MD5: beb28f312deb8df9c8ef42fc55a04844
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/urls.ts
+SPDXID: SPDXRef-item10402547
+FileChecksum: SHA1: 9261acc82dca1ac742b8a8b37dd9914064838ff9
+FileChecksum: SHA256: 1253cb34900ab0fe278a92153079438a68f549310e1e918c2d58b47a4dac2c42
+FileChecksum: MD5: 7fcd1cfec74b4e4735b6a2303dde35a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/useQuestion.ts
+SPDXID: SPDXRef-item10402564
+FileChecksum: SHA1: 785133c65300ba85c9ec867a9e9c7cd62dcdc0fe
+FileChecksum: SHA256: 82ee198bbedeaac37e46b7733a23e563785f428cbf33be0f0fcd035ca4001644
+FileChecksum: MD5: 3d8df124928ad2f97564f8a5eb4f06ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/useQuestionnaire.ts
+SPDXID: SPDXRef-item10402552
+FileChecksum: SHA1: ff840703b775c3831b3824c0afc81cbacd0790c2
+FileChecksum: SHA256: 0fd780b74327a2a1c4c8fbdaf4f59ad7499786640d8cbaa42cce30fab9af833b
+FileChecksum: MD5: 4c08d3d57326c8bde2b223bfc07d60ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/useResults.ts
+SPDXID: SPDXRef-item10402538
+FileChecksum: SHA1: 1c1d81c4a3eba605b9635729ed4ec51f48fa9989
+FileChecksum: SHA256: 0313dbd3a8ddb8ce53aa8482b0d709833b9e3c12186ee1fdbbf90c2e5755405e
+FileChecksum: MD5: 9196da642249d614f049c4fec46f7aea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/useSectionQuestions.ts
+SPDXID: SPDXRef-item10402558
+FileChecksum: SHA1: c639ed186b7f08ab778c09c0fc8a6aec489c4911
+FileChecksum: SHA256: 955b232ba1dd778d6df1a964f771b12a1f45e364c2e82f9c4c64ea1893b0c74f
+FileChecksum: MD5: 8a2c7567e67f9988d87e0e6116682af2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/questions/useSections.ts
+SPDXID: SPDXRef-item10402553
+FileChecksum: SHA1: 136160acd27ae1c3e7753274139937e1322c68e3
+FileChecksum: SHA256: 6f7451b909d1e93e2c36a5bcb1c3b16ab22fa68a0b2415027291d750fb48886a
+FileChecksum: MD5: 8f5e50b497698a9e4b5d18038a3861cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/views.py
+SPDXID: SPDXRef-item10402733
+FileChecksum: SHA1: 5b53c9da9e612ad85cf93a975cdffbe5afd566ea
+FileChecksum: SHA256: bf4f437b2c36b21e4d066ee32c72c3b20592bc9436b7e1d67c2c1fd0f6daaf64
+FileChecksum: MD5: 262102074fd397ce7121e62b2cfe9359
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/views.py
+SPDXID: SPDXRef-item10402749
+FileChecksum: SHA1: ebfe05cf215728e6c808e2926eddd2016cf68ed8
+FileChecksum: SHA256: c91ffbc3295e5bd004e5df18da6fc51e6a51d55b9cac0dbb5337404b6c9ea577
+FileChecksum: MD5: d201fc470b8ea02ab3843dd98cb3904a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/accounts/views.py
+SPDXID: SPDXRef-item10402709
+FileChecksum: SHA1: 59437da44fd4d21aff6e24ccee570fcca4008709
+FileChecksum: SHA256: e5501c5b2958dbb8352f9b4903cd7151f82b8680010a49c826c9f449183848eb
+FileChecksum: MD5: 38d48e1fe1f5bf26485c049eaee09bc3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/satool/wsgi.py
+SPDXID: SPDXRef-item10402691
+FileChecksum: SHA1: 19ae2518b2b893aef57e0ee32f5b5e50d94979f2
+FileChecksum: SHA256: 52d8971052ba55479bbb8cc467c3864fed9750495412de4981e930144607c8c8
+FileChecksum: MD5: 4e6ad7d37fbf86e2d98d4d300377ce66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/.prettierignore
+SPDXID: SPDXRef-item10402527
+FileChecksum: SHA1: b06e83b9ee6e57ec9a8a1d24600bc195945c3760
+FileChecksum: SHA256: bdff43ed2c6e750d4128e0769f366698e8918cbe836a4e40ab077fc6446ae956
+FileChecksum: MD5: 42a8b7cf75ef42aa808192c1580b6c9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/CODE_OF_CONDUCT.txt
+SPDXID: SPDXRef-item10402529
+FileChecksum: SHA1: 656b1c77942a4a25e9ef3f655cce7b8e7c65c0d0
+FileChecksum: SHA256: 6ca065f70715bd1d5f69b392a8c6ef73d6b3a382345ad904a11fc5ee7afa1cb1
+FileChecksum: MD5: 53ea7a823208e51d504ee2ba6536afed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/CONTRIBUTING.md
+SPDXID: SPDXRef-item10402530
+FileChecksum: SHA1: 02db3500b08af4f7ddf1c1a233ead422361d805e
+FileChecksum: SHA256: a06458f86ac1fdd76a6296ffe7baaae5d635562f191f868e78ef10c616206a44
+FileChecksum: MD5: cf69428644f505e15c8cc8d906e0ad23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/tsconfig.json
+SPDXID: SPDXRef-item10402531
+FileChecksum: SHA1: 3adbdf14921e65d0a196929f0ea332895a792aa3
+FileChecksum: SHA256: d2fa639bdcb299c63687715f0e70bb290a3b383a4841f55fd580194373d46ef6
+FileChecksum: MD5: 6caab6ed77a3ee2711d2719a4fbd78a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/features/info/PageInfo.module.scss
+SPDXID: SPDXRef-item10402585
+FileChecksum: SHA1: 064b740c036da1f4425d670fc2040b3ce224b6fe
+FileChecksum: SHA256: 2f553f31a6e2647fe155a8e907ae98e789abc98e8dac70bcc7db6b4420277b60
+FileChecksum: MD5: cf629a347c53feb5bd4e4b10d436359f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/locale/es/translation.json
+SPDXID: SPDXRef-item10402589
+FileChecksum: SHA1: 5f36b2ea290645ee34d943220a14b54ee5ea5be5
+FileChecksum: SHA256: ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356
+FileChecksum: MD5: 8a80554c91d9fca8acb82f023de02f11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/locale/en/translation.json
+SPDXID: SPDXRef-item10402591
+FileChecksum: SHA1: 19e53b4c4d07d37fd6cd06e9b4a5d73dacac91c9
+FileChecksum: SHA256: 4a9646b89cc255bea3aa5f037ce15831dd7c5a1345264d687ecc7cdba80f45ef
+FileChecksum: MD5: 457d7267a53ff099be33f1264b7858d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/img/logo_tm.svg
+SPDXID: SPDXRef-item10402631
+FileChecksum: SHA1: ca012e5395b48e6e881a2da906fa3e5b394812c7
+FileChecksum: SHA256: f42610a255293b6f5ccb42dc62ce1e43fb502b2f8a6b00930932d9087320849d
+FileChecksum: MD5: fb1c7a3056b2197a6864d8a70fd01506
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/img/check.svg
+SPDXID: SPDXRef-item10402632
+FileChecksum: SHA1: ff776afc42b58af8f7dd01bbc02d39e9b80c703e
+FileChecksum: SHA256: c16ba239e6141b7b83df62f67c305f5000f4559a702ec60831ef5369c0b799ec
+FileChecksum: MD5: e165fb0937ac8e981629967e68d5b4aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/img/logo_white.svg
+SPDXID: SPDXRef-item10402633
+FileChecksum: SHA1: f4266ca747d1215d85d9f9c068cf1d2fbbd17609
+FileChecksum: SHA256: 8c8037c352098ab68e560682af5101c4006fc09052709ddd987697677a19e064
+FileChecksum: MD5: 70fef1a43ee73d8f7d4ef1b58566fb95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/img/logo_openvoice.svg
+SPDXID: SPDXRef-item10402634
+FileChecksum: SHA1: 584053df75fd915f8477fb94986ccea665125172
+FileChecksum: SHA256: 83274dc72b4dc3ac74384f8ce10d22e4232dd21ba6aa4dc1916b82585868f7a4
+FileChecksum: MD5: ca3655e600fb1a0f1c2dc45318d09c6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/img/logo.svg
+SPDXID: SPDXRef-item10402635
+FileChecksum: SHA1: cde30cec180beab79110f99a76edfd7676cc1d41
+FileChecksum: SHA256: 46e2644b75a9545a1811f30b10cdedda04cf741065da4818a09a35f17f1e11cc
+FileChecksum: MD5: cc52368936b23d69294f91fe1ef5e4f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/img/logo_openvoice_white.svg
+SPDXID: SPDXRef-item10402636
+FileChecksum: SHA1: 40cb7d5011514b0176ee8cd69b73fc0cad956c96
+FileChecksum: SHA256: 0ef315c335ab08b7da675882ea8b1bd079cec70360a3ed5d0900465c2c296e02
+FileChecksum: MD5: 4d396d9fd11daf6a270caa1ff138cb68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/assets/img/close.svg
+SPDXID: SPDXRef-item10402637
+FileChecksum: SHA1: 91e68eecfe1c78990dd5e52af3115d754529ec46
+FileChecksum: SHA256: 633810c61e5a0aea863ff7ae23636462c034dcc16fe18a8901428a0a525a0ef2
+FileChecksum: MD5: 6932d53efbe2c3eaccd92cfdb3e6dd18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/src/vite-env.d.ts
+SPDXID: SPDXRef-item10402647
+FileChecksum: SHA1: e2eac6bcc8767d416f859eb09486cc8709de95a5
+FileChecksum: SHA256: 65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5
+FileChecksum: MD5: 0352474ba2918efe13895edbc3780d94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/dist/manifest.json
+SPDXID: SPDXRef-item10402650
+FileChecksum: SHA1: 4bd2bfd556fa48f8849e403fca39f885373f562b
+FileChecksum: SHA256: e4fa22f85b79ebffd3709cf1d0ff7b104f02615ddba8eff55d4ec5d034436e65
+FileChecksum: MD5: 535a3320f1d0622670ce0a5e918e0cee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/dist/favicon.png
+SPDXID: SPDXRef-item10402651
+FileChecksum: SHA1: 1e24af7ef1f0871825b15cd5766d79aa765200ba
+FileChecksum: SHA256: 022939dcbf9be493d4518dae58bc1d8ef8e0e1c6b94dd9baea63c13ad5122af9
+FileChecksum: MD5: 60048d76874382d47c1dd54ae71d046b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/dist/robots.txt
+SPDXID: SPDXRef-item10402652
+FileChecksum: SHA1: 044ce68f83ee8543475fea16f6e3a73d28a1c6d5
+FileChecksum: SHA256: 90d24bc3bf698ac1e173739502298ccca72adf1f564fab05f484b8c48d1cadd2
+FileChecksum: MD5: fa1ded1ed7c11438a9b0385b1e112850
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/dist/assets/logo-DouSt8MI.svg
+SPDXID: SPDXRef-item10402654
+FileChecksum: SHA1: cde30cec180beab79110f99a76edfd7676cc1d41
+FileChecksum: SHA256: 46e2644b75a9545a1811f30b10cdedda04cf741065da4818a09a35f17f1e11cc
+FileChecksum: MD5: cc52368936b23d69294f91fe1ef5e4f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/dist/assets/logo_tm-B13gAOHu.svg
+SPDXID: SPDXRef-item10402656
+FileChecksum: SHA1: ca012e5395b48e6e881a2da906fa3e5b394812c7
+FileChecksum: SHA256: f42610a255293b6f5ccb42dc62ce1e43fb502b2f8a6b00930932d9087320849d
+FileChecksum: MD5: fb1c7a3056b2197a6864d8a70fd01506
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/dist/assets/logo_white-7Y_6lV0a.svg
+SPDXID: SPDXRef-item10402657
+FileChecksum: SHA1: f4266ca747d1215d85d9f9c068cf1d2fbbd17609
+FileChecksum: SHA256: 8c8037c352098ab68e560682af5101c4006fc09052709ddd987697677a19e064
+FileChecksum: MD5: 70fef1a43ee73d8f7d4ef1b58566fb95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/dist/index.html
+SPDXID: SPDXRef-item10402659
+FileChecksum: SHA1: 2171c37c33ee90b4ee6a429a6ea0631d99a880b0
+FileChecksum: SHA256: e0910f187dbbdb10eea58c96766dfc9497417dfeeb7048aac82f8389e333e9eb
+FileChecksum: MD5: 1905833e4071aa10385dd614147a171f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/tsconfig.node.json
+SPDXID: SPDXRef-item10402662
+FileChecksum: SHA1: 6b9d074f32422f8aed78dee58f4328f67557553c
+FileChecksum: SHA256: bb9fd8592a9e364641441219f10d84daae9ba2ca5cc85db798efad6913bb8257
+FileChecksum: MD5: df562a73dce2f53f022bc93ee20099c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/CODEOWNERS.txt
+SPDXID: SPDXRef-item10402663
+FileChecksum: SHA1: e2d87d5e72bd36f361c0dc3d9e35319b0cf26024
+FileChecksum: SHA256: b8e041a5796b1c321489523cd19c2deb6fd1b8ae65a0f362f13ae362e0198912
+FileChecksum: MD5: 7829ea96a8c467770e4a4f465baaff5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/.prettierrc.json
+SPDXID: SPDXRef-item10402664
+FileChecksum: SHA1: abc2072f5eaeec0da6431d1f3f69b18d6ba6e3b1
+FileChecksum: SHA256: 87499efafb2ad5bf18649ab7c6aa1e7e0d0adbbb05648afeded5646ea861b65b
+FileChecksum: MD5: dbd9766727eb5d8d3d6bcf26a60eeded
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/.gitignore
+SPDXID: SPDXRef-item10402665
+FileChecksum: SHA1: 4ed5f67102584810fffa278ec3228abf8fb0bba2
+FileChecksum: SHA256: d373417ea2a8844e3b7a1515aab123e90fbeb4b7225144d55d243d9f6f04f73a
+FileChecksum: MD5: 9b7df77628b96dee10d4c5e27e7695c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/vite.config.ts
+SPDXID: SPDXRef-item10402667
+FileChecksum: SHA1: c67c7ac6bd5d8d76ac0711ee8a08174658d167e4
+FileChecksum: SHA256: 903df86cc75d7824c6fe048977de86ec6d8cb93579d29ba2b68126474ff51f0f
+FileChecksum: MD5: b32dddfed0916329afbaea554281d872
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/README.md
+SPDXID: SPDXRef-item10402668
+FileChecksum: SHA1: a182f9c7051b48cdba2de5c901e6126fa2613aa9
+FileChecksum: SHA256: 72e0417cf06758a4edf9f6a356d338f71d6cc56ac57f521392d8b6945821794a
+FileChecksum: MD5: 78615f719d058a443c78c642c94406c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/package.json
+SPDXID: SPDXRef-item10402669
+FileChecksum: SHA1: f88399d15bf18424334d616a401ad3b3ba9411c0
+FileChecksum: SHA256: 9a24130f2845f17784b80de23d066bdf4fed3b60239cdd9d87b7df5f2676b98a
+FileChecksum: MD5: 6149645130d777b0ca0640a9f055d598
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/.npmrc
+SPDXID: SPDXRef-item10402670
+FileChecksum: SHA1: 38d77e5ef812625441868fc42138b7bbeb3d1dd5
+FileChecksum: SHA256: 7861df1325314529b77da157f031306671b849a539c3e18e340ed1bc109eac1e
+FileChecksum: MD5: d642e569733dda1b30296dd9c98943b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/public/manifest.json
+SPDXID: SPDXRef-item10402672
+FileChecksum: SHA1: 4bd2bfd556fa48f8849e403fca39f885373f562b
+FileChecksum: SHA256: e4fa22f85b79ebffd3709cf1d0ff7b104f02615ddba8eff55d4ec5d034436e65
+FileChecksum: MD5: 535a3320f1d0622670ce0a5e918e0cee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/public/favicon.png
+SPDXID: SPDXRef-item10402673
+FileChecksum: SHA1: 1e24af7ef1f0871825b15cd5766d79aa765200ba
+FileChecksum: SHA256: 022939dcbf9be493d4518dae58bc1d8ef8e0e1c6b94dd9baea63c13ad5122af9
+FileChecksum: MD5: 60048d76874382d47c1dd54ae71d046b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/public/robots.txt
+SPDXID: SPDXRef-item10402674
+FileChecksum: SHA1: 044ce68f83ee8543475fea16f6e3a73d28a1c6d5
+FileChecksum: SHA256: 90d24bc3bf698ac1e173739502298ccca72adf1f564fab05f484b8c48d1cadd2
+FileChecksum: MD5: fa1ded1ed7c11438a9b0385b1e112850
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/static.json
+SPDXID: SPDXRef-item10402675
+FileChecksum: SHA1: 6125ad8e2568b9d263edff69d6bc13afc67db004
+FileChecksum: SHA256: 55a222d092bdf5bd7f0e6f4415725e9823c479c7172c68cf61c1ad961bf35a34
+FileChecksum: MD5: 6631164d201c0fab8a966cef03b2ddd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-frontend/index.html
+SPDXID: SPDXRef-item10402676
+FileChecksum: SHA1: 98301de7e0136fd7622450ab57185ebce9b5603e
+FileChecksum: SHA256: fddd4dc837939674713d5b1d25fabcfb6eb59bece15ce016aa6155ec37afe8bc
+FileChecksum: MD5: acd2d69f21abc961fd9392d501cee62c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/.python-version
+SPDXID: SPDXRef-item10402678
+FileChecksum: SHA1: c1d404f10706d40f4217b57d522765f22fec3f43
+FileChecksum: SHA256: bfc2b0ad56af9e8c741a043a8e20aed4a4a1b6e7084f3f37634f2070030078d5
+FileChecksum: MD5: 6f8ed92408026a4f142989c8f170f77b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/satool/__init__.py
+SPDXID: SPDXRef-item10402687
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/satool/templates/satool/base_email.html
+SPDXID: SPDXRef-item10402690
+FileChecksum: SHA1: bdecbf42464fa587425625b1cda2f8a96b714ea2
+FileChecksum: SHA256: 62cac34e3d1421fb959a821848a861cafde8fca174fcfae6659aa35fa7962e01
+FileChecksum: MD5: c3c9d8da80a6c04ca417662760fb0ddb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/CODE_OF_CONDUCT.txt
+SPDXID: SPDXRef-item10402692
+FileChecksum: SHA1: 656b1c77942a4a25e9ef3f655cce7b8e7c65c0d0
+FileChecksum: SHA256: 6ca065f70715bd1d5f69b392a8c6ef73d6b3a382345ad904a11fc5ee7afa1cb1
+FileChecksum: MD5: 53ea7a823208e51d504ee2ba6536afed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/CONTRIBUTING.md
+SPDXID: SPDXRef-item10402693
+FileChecksum: SHA1: 02db3500b08af4f7ddf1c1a233ead422361d805e
+FileChecksum: SHA256: a06458f86ac1fdd76a6296ffe7baaae5d635562f191f868e78ef10c616206a44
+FileChecksum: MD5: cf69428644f505e15c8cc8d906e0ad23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/CODEOWNERS.txt
+SPDXID: SPDXRef-item10402695
+FileChecksum: SHA1: e2d87d5e72bd36f361c0dc3d9e35319b0cf26024
+FileChecksum: SHA256: b8e041a5796b1c321489523cd19c2deb6fd1b8ae65a0f362f13ae362e0198912
+FileChecksum: MD5: 7829ea96a8c467770e4a4f465baaff5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/.gitignore
+SPDXID: SPDXRef-item10402696
+FileChecksum: SHA1: f40d477da96ce1e90dcf69d098fa4e693a1f689c
+FileChecksum: SHA256: fd18782b32a22cbf64ae17b5c4d0bdafd497a76e5608580ab5f566f524e62893
+FileChecksum: MD5: fcb2205b6f5e056caadd9df6ed74695d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/Procfile
+SPDXID: SPDXRef-item10402697
+FileChecksum: SHA1: 545e189a75afdc2c68464b4713a33ac6a7d2633b
+FileChecksum: SHA256: 85a5501dd781c1d5bc371b5cd2342f649968c4dc6221fc67182cf6756427b99b
+FileChecksum: MD5: 6f5133fdc66a70a57b8199035b90d600
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/accounts/migrations/0002_user_terms_accepted.py
+SPDXID: SPDXRef-item10402704
+FileChecksum: SHA1: ebf0b09a277588cd499006149b5b8ed1642f7b64
+FileChecksum: SHA256: 27b42e2dd2bd15643ce2a9a30f1a24ef1b43a8041a005ae039443b01b9533d20
+FileChecksum: MD5: ad35a024fda077a65745e6df8f4b21e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/accounts/migrations/__init__.py
+SPDXID: SPDXRef-item10402705
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/accounts/migrations/0001_initial.py
+SPDXID: SPDXRef-item10402706
+FileChecksum: SHA1: da87807796fca9ae6129421328467c3fc27a79a9
+FileChecksum: SHA256: 7a0a6cae23392a686e6bd148ac2df477bf50b3b337c633487fc40004fa25a296
+FileChecksum: MD5: a864a93913601f9fe69237b3770ddf05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/accounts/__init__.py
+SPDXID: SPDXRef-item10402708
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/requirements.txt
+SPDXID: SPDXRef-item10402713
+FileChecksum: SHA1: 9be5c291357b7480c26a79acf4115d1a5a6137a2
+FileChecksum: SHA256: 4f318d53ff49332e7380b6e6c91d7f455c2f0cdb89f7e354a8db8fae6b0286ca
+FileChecksum: MD5: 33a174f7f2d1497366cf6e4a1cb6aad5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/migrations/0008_question_max_score.py
+SPDXID: SPDXRef-item10402720
+FileChecksum: SHA1: c7a63f7692b2702b59c4dfdc778623d302733c7c
+FileChecksum: SHA256: 671d10161c7f8bb8d2686d4b0c2d2f5703d9e7f585e85f08ac076e23611d3368
+FileChecksum: MD5: 14b42d521c52afc8a21342ed47039088
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/migrations/0009_alter_question_help_text_alter_question_help_text_en_and_more.py
+SPDXID: SPDXRef-item10402721
+FileChecksum: SHA1: 1762ed201d8318a451274d4a3ada81a2bc730781
+FileChecksum: SHA256: 3f223dd03e1edb6561d162cf52b6a0fcfc8d050bf4083e1d375f332b00607f89
+FileChecksum: MD5: 53dc3def2bc2c87d5ef79390d1e4eb19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/migrations/0002_remove_question_help_text_af_and_more.py
+SPDXID: SPDXRef-item10402722
+FileChecksum: SHA1: e019e5a1076c9a471d3c10ecc17f7020855ebb57
+FileChecksum: SHA256: 3954444c58d2371b1b1b7188b5987bb2657ad14ee73c436fda7d063b40209243
+FileChecksum: MD5: fe2184e5d42992452a57b43875ff283c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/migrations/0010_alter_question_help_text_alter_question_help_text_en_and_more.py
+SPDXID: SPDXRef-item10402723
+FileChecksum: SHA1: b312f1723d550765e0efe14eb11903771baebd7d
+FileChecksum: SHA256: a5363c1dd4308deb559d74de4eeeb151d1bc945b00f2ef83e097305c473ecb96
+FileChecksum: MD5: 06c7f552bac5b5bca648f84bc7093580
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/migrations/__init__.py
+SPDXID: SPDXRef-item10402724
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/migrations/0003_question_section.py
+SPDXID: SPDXRef-item10402725
+FileChecksum: SHA1: 328ce2bdc9ba81c0709f23b87f612270e0b95136
+FileChecksum: SHA256: 973d6ab63c9627b9a7ab7d6d54f9a810f7618edc964d326d8fc70492b4b5ecb0
+FileChecksum: MD5: 057f5fe51541766f9803f5dd7ddd9fe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/migrations/0005_section_order.py
+SPDXID: SPDXRef-item10402726
+FileChecksum: SHA1: 6367840fd718168f84f609319c793f07b7fc800a
+FileChecksum: SHA256: 7a40a2a762d6ef879a9a58b66d0acfab2b7a8bcb9adabcd72bdaad287f8449f2
+FileChecksum: MD5: b03da1cf59410882260881ea1160c465
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/migrations/0004_alter_question_section.py
+SPDXID: SPDXRef-item10402727
+FileChecksum: SHA1: 05fc899916326ee447a02b561bc473c14f0596dc
+FileChecksum: SHA256: 0815d66c509d544b0a2d15572c63fee8e79bb4971f76afbe0bd08a7fe1577918
+FileChecksum: MD5: 613dd18491a00a403638f3fbed1d5e5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/migrations/0001_initial.py
+SPDXID: SPDXRef-item10402728
+FileChecksum: SHA1: f1c5f80775beca37839a857328a753cb9b8d1e62
+FileChecksum: SHA256: 06625293dc92043a552423fe76507b95ab2002fd1e352ea2552b8015bec1bc3b
+FileChecksum: MD5: 9ac80090ba00c788cfbe837e78efb59d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/migrations/0006_alter_question_show_if_answer.py
+SPDXID: SPDXRef-item10402729
+FileChecksum: SHA1: 938ba532501ca9615fb36b18559a630bd6cf815b
+FileChecksum: SHA256: 1fc33c34b54a8cfec46374227db1766c8ac6f65842c1405e796ecb1d15952da3
+FileChecksum: MD5: 0b949b34d1d72d3eaa90bb9ce959eb7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/migrations/0007_alter_questionoption_next.py
+SPDXID: SPDXRef-item10402730
+FileChecksum: SHA1: b95f69e463b611947c4e8969d354525d6fb782fa
+FileChecksum: SHA256: ec52af1e9c184a14701a735ea13a227cf8eb8658fbeb25520858c352cf3ac8bf
+FileChecksum: MD5: 0d612c34f219a099ea554b32a007378b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/questionnaires/__init__.py
+SPDXID: SPDXRef-item10402732
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/Dockerfile
+SPDXID: SPDXRef-item10402736
+FileChecksum: SHA1: 5056d290f57ce33aa874a7ade9c51ea4019d2438
+FileChecksum: SHA256: 6493c46c4fb7938d081da4204e18a9dc699d56616534e3fa243827539ad24072
+FileChecksum: MD5: b8adb5f53c6fa083b55aa0d185102bf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/migrations/0002_contentsiteconfig.py
+SPDXID: SPDXRef-item10402743
+FileChecksum: SHA1: 058a447b6a048c233c710a1a77b4738c4401f7d1
+FileChecksum: SHA256: aa49d6c1dd64a891e979bbe37db7a828668256c7bb34eef4ef336ecbc4b64a53
+FileChecksum: MD5: 9ed80f396109173e9ce78b35fde4ac11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/migrations/0003_contentsiteconfig_home_en_contentsiteconfig_home_es_and_more.py
+SPDXID: SPDXRef-item10402744
+FileChecksum: SHA1: 2425bda3cb843d07d2cde2124d15bebced4e7830
+FileChecksum: SHA256: e2eab7975d286e90882c7d15a5d85dad2022e7c8bed49dfacb2de2b0b02eb13c
+FileChecksum: MD5: ed1230db0a825bb736eba3e8b7711418
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/migrations/0004_alter_contentsiteconfig_home_and_more.py
+SPDXID: SPDXRef-item10402745
+FileChecksum: SHA1: 93d86d05bb8debeb202d6440035aa5ae84eeb112
+FileChecksum: SHA256: 2f604fb53e2f0f1e2712e0212a4750671f27cea805dd965dfebb8bca835734b9
+FileChecksum: MD5: 0e63811e09f293606ecd1f646b0006c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/migrations/__init__.py
+SPDXID: SPDXRef-item10402746
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/migrations/0001_initial.py
+SPDXID: SPDXRef-item10402747
+FileChecksum: SHA1: 2697870d5f61db20dfb6adc87abb66edeeb80d66
+FileChecksum: SHA256: fd9e349ab35a359263ccd7574286c95c2e6e27f903fffa095b082c571aa1df9f
+FileChecksum: MD5: dd812c596e3692de60ad7daca757eff0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/siteconfig/__init__.py
+SPDXID: SPDXRef-item10402748
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/README.md
+SPDXID: SPDXRef-item10402752
+FileChecksum: SHA1: e2bc6e3fd917605ecfbbc061dda99948994c39e1
+FileChecksum: SHA256: cf538ffad476750719567e50f02d1de76787e8244c99bfc722243dc0d654dd46
+FileChecksum: MD5: b368b7e5f8f3b4642bf5e7d7e1c6545d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/docker-compose.yml
+SPDXID: SPDXRef-item10402753
+FileChecksum: SHA1: c82ef35aae6dd061cbee32f0b4eafe82924b76c4
+FileChecksum: SHA256: 7d4261cd1909d284fc3bd065a36993dd713b467c3d4c0815b83998cfec48ae29
+FileChecksum: MD5: 7db30c3742ab4ca9ae5b7644efc2e11d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/templates/base.html
+SPDXID: SPDXRef-item10402755
+FileChecksum: SHA1: 715efbe91eff0d06905d059855d6b582c959be62
+FileChecksum: SHA256: 65ef8bd4a69e479230b48a719f3aeab498d73951652079d93bde88d5cfa92ae3
+FileChecksum: MD5: dcdfc12f31af8764d9f2d2fb5a70a515
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/templates/users/base_user_form.html
+SPDXID: SPDXRef-item10402757
+FileChecksum: SHA1: 955aa66c698714883fb6aa79afbf1efa9e701a51
+FileChecksum: SHA256: 1114803a5947cc70e9616c799ffa1cc00f2678ce5f6577ea3f51d8871e2c7c24
+FileChecksum: MD5: 2fc964e78086edda767c88ace4d6fd8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/templates/users/base_user.html
+SPDXID: SPDXRef-item10402758
+FileChecksum: SHA1: 343d6dfc4653777d6721ef8cb18878e88b7fce42
+FileChecksum: SHA256: f4577214b8b7a9598c157030ce942d38784ad7296122622da17be4ed9f143b18
+FileChecksum: MD5: e3b01b8651c7c45affd2601e08d32e80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/templates/500.html
+SPDXID: SPDXRef-item10402759
+FileChecksum: SHA1: b11f23aaec3085442cd3c847e6df120b13ded73a
+FileChecksum: SHA256: ef6130410c6ca93ca586f2a45b49c05a02cae4f00a43f7cfa8eb89236900f648
+FileChecksum: MD5: 3ff09a4ca102a124c03f4f8761ed57e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/templates/base_app.html
+SPDXID: SPDXRef-item10402760
+FileChecksum: SHA1: 00b1c84bf01c5b3846a5782d21c2f0fb447225d8
+FileChecksum: SHA256: eaf22e518c463f039f61cbea66a8432caad9c2135e6fa63bef62346067666e99
+FileChecksum: MD5: f8e644eec149acbf672a36e83b125da9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/templates/footer.html
+SPDXID: SPDXRef-item10402761
+FileChecksum: SHA1: a36d91897302d6419e817c15564d25e4acffd939
+FileChecksum: SHA256: ca85f696eb1a696cbd618b7268dcf9e3b3b05a8faa20bf24069337f35a795691
+FileChecksum: MD5: aa13e10f2ec353e59b1d10ec740d07bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/templates/account/email/password_reset_key_subject.txt
+SPDXID: SPDXRef-item10402764
+FileChecksum: SHA1: ad4b38c3662157d390e6e3f653428494d99dbb8f
+FileChecksum: SHA256: 5d462969139d4d5cd426aa84b08479fbf13c9b2ca81ef021acab643a13172055
+FileChecksum: MD5: 91dde54b197ba494079d5129b2335b2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/templates/account/email/email_confirmation_signup_message.html
+SPDXID: SPDXRef-item10402765
+FileChecksum: SHA1: 02fe99843823cf683ea0f03e1c0aaadcd85dcf38
+FileChecksum: SHA256: 200a269256fa0ad20424025e1f84dd648b5673f5f3305d3fcc458d0fba86753a
+FileChecksum: MD5: b36cff7c082d2860a1ab912db2f31ffc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/templates/account/email/password_reset_key_message.html
+SPDXID: SPDXRef-item10402766
+FileChecksum: SHA1: f12189f8f35e99b562ba27e4b70b43abd5a48da4
+FileChecksum: SHA256: f080cdcff46bd83a6602ad56cd53affae1d0c40f4aef09f228b5a49699199f8b
+FileChecksum: MD5: 89f686218446c8e8abff06e9a12d2b41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/templates/account/email/email_confirmation_subject.txt
+SPDXID: SPDXRef-item10402767
+FileChecksum: SHA1: f0bf8eafa284432f798e946e4a83332fabad8efd
+FileChecksum: SHA256: 7d261ba14136072150ce39df2e577da4b46b78fb68a345632915003ff6bdf77f
+FileChecksum: MD5: bc93ad66909f440ebcca410d9c635902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/templates/top_bar.html
+SPDXID: SPDXRef-item10402768
+FileChecksum: SHA1: ec318ad41a64d4d69719742b1137dafcf8d752c2
+FileChecksum: SHA256: 09adf121b9af2b1fb598cf7176f1eefbc8932061bedd511adee838058aa9530d
+FileChecksum: MD5: 54a907634f791b446fb685f7cba3ad2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Open-Voice-Trustmark-2025-01-10.zip/satool-backend/templates/admin/base_site.html
+SPDXID: SPDXRef-item10402770
+FileChecksum: SHA1: 7c96dd8bae582097d6fcfb5a7f4c2779a3d264ee
+FileChecksum: SHA256: dbc4029022cd14e53962dc7d5a11aa838168bba699d9d8a3297d54a253ce1752
+FileChecksum: MD5: 9dae0605c1fbfc5ec72445f563342f4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
