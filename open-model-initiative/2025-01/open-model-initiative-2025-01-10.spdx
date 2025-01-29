@@ -1,0 +1,4084 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_open-model-initiative-2025-01-10.zip_1737623188.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-23T09:06:29Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: open-model-initiative-2025-01-10.zip
+PackageFileName: open-model-initiative-2025-01-10.zip
+SPDXID: SPDXRef-upload1769
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: a405becdca7b3ef516f7ab7ca4a17d471be283dc
+PackageChecksum: SHA1: 85f064477403e7235878aee8f12f39005aec06f3
+PackageChecksum: SHA256: 0a15640972e1031838dcf186df4bc470c34d9584586935a8435086dbf9ed3990
+PackageChecksum: MD5: 4a14e890922f40252490a73ffd869e11
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1769
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Site/Open Model Initiative Technical Charter.md
+SPDXID: SPDXRef-item10433111
+FileChecksum: SHA1: 032e95269e5d9d9627f8e26422c5d3aa38b71dee
+FileChecksum: SHA256: e553633e45c7142fba8ec2fa0abd56559af8170301143ca3509793c5b0d074f1
+FileChecksum: MD5: e73096bfcda9d62b760de69c60d7cb12
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. </text>
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/models/annotation/test_annotation_source_lifecycle.py
+SPDXID: SPDXRef-item10433242
+FileChecksum: SHA1: fa84c435ca452fb89fc867c8acf5884bf4e7c766
+FileChecksum: SHA256: 6a1aec72f0d289e8fa7b8ef68f97bd0b6bfd81c12ec4836535664d041725b149
+FileChecksum: MD5: 1fe0ccca97d05ea7ece27fc93c5ad986
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/datasets/dataset_readmes/README.md
+SPDXID: SPDXRef-item10433149
+FileChecksum: SHA1: f01ab4fa6577033a772750eb2896e70ce5d4421c
+FileChecksum: SHA256: da559c0009b4ae35672b516f273dc0ecaca00b7672e80cb1a7fe969874cd8568
+FileChecksum: MD5: 9955eb18ff6d0de995f0d995dc73aa9f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/+layout.server.ts
+SPDXID: SPDXRef-item10433327
+FileChecksum: SHA1: 59d3c50a684e75587130c3488ad6575910954393
+FileChecksum: SHA256: 7be416009685f135f599aadedc87aa1c702fc633c543a12a2f980170db910bc3
+FileChecksum: MD5: ab74dac573303f26ea852b9b19eafc5e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/feature-toggles/+page.server.ts
+SPDXID: SPDXRef-item10433364
+FileChecksum: SHA1: e9f2bdcf4f0bdac333b4fcf3cb37ee6e348c177b
+FileChecksum: SHA256: d5852ac9c90d1ad0f380bc2121618a46c1b67db5390ea99b1583e16953189b7a
+FileChecksum: MD5: 3c91c2d4ea2d949713e310b3455f8bb9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/moderation/+page.server.ts
+SPDXID: SPDXRef-item10433350
+FileChecksum: SHA1: 27cf239a276f6480d72d82ebc58505a98a437aa5
+FileChecksum: SHA256: c533e8cb64c1874194d37afb0f22b1eb6c0906f71bec4f74e7dae9817f1c00cd
+FileChecksum: MD5: ec8555496c4e36be2ef7b7112b664ff7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/teams/+page.server.ts
+SPDXID: SPDXRef-item10433354
+FileChecksum: SHA1: 34a6eaa337018ff4cde8a78df162782737faa9f6
+FileChecksum: SHA256: 91a0dce9daae021715a2ee17c60d07751ad53268c4b3cdca4a12098571e26e23
+FileChecksum: MD5: 421238ffb32d2655986b3107d6c37ad9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/users/[slug]/+page.server.ts
+SPDXID: SPDXRef-item10433341
+FileChecksum: SHA1: 607e763c68330a98fe44c53f7c853adc6037014c
+FileChecksum: SHA256: 7c976d7e86380217a524743752feb2b4701fa369947ba2e733902b8da9758e80
+FileChecksum: MD5: 7a080baae889445a261200ecb53b38d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/+page.server.ts
+SPDXID: SPDXRef-item10433328
+FileChecksum: SHA1: e7a917137dd362e7e919dfa2b4844e11724c9f5c
+FileChecksum: SHA256: c263370253525bb38c0cba73605573dd3476102242c197e9300508a3e436bf8d
+FileChecksum: MD5: fb898b51c7e59fda712b2d3294972d1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/dco/+page.server.ts
+SPDXID: SPDXRef-item10433324
+FileChecksum: SHA1: e59a0359c49765486eb726e1925aa3ae2a4585ba
+FileChecksum: SHA256: 2408db262f0f19ffb5b55101a1b2f88a4fac94e203cb4f4bae7751f46879d7b9
+FileChecksum: MD5: ac84ba3acc001d38f5e80d51af030822
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/signin/+page.server.ts
+SPDXID: SPDXRef-item10433309
+FileChecksum: SHA1: e6c34b5636e36ea8c4ef856c2cc7ed365325937e
+FileChecksum: SHA256: 3b735b10929ea4eb41c5e36f254b94fd300bbf788cb427ec7230a05a9a9df61e
+FileChecksum: MD5: 70b78d859f447d40e4bc65a13bd32a6f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/signout/+page.server.ts
+SPDXID: SPDXRef-item10433321
+FileChecksum: SHA1: 7dfdd0470eeab2a9118a60ce08d06889efa5f17c
+FileChecksum: SHA256: 4dc9c1482aed7fb639ab8096f35a30a3c0df7b3ee6ac93ab47412f4734e9e509
+FileChecksum: MD5: 69cef3e7f557b573a1d5b7e8fcee6384
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/users/+page.server.ts
+SPDXID: SPDXRef-item10433338
+FileChecksum: SHA1: 0543b0115406b9ceeafc9947a0026c5a1b0fdd31
+FileChecksum: SHA256: d7391d7d3c70108d63210fccf3e74d48c6f97657fb7ca3d5c653c207f9bcf675
+FileChecksum: MD5: c534a9700a92a1e4304bed4ca6a85916
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/feature-toggles/api/+server.ts
+SPDXID: SPDXRef-item10433368
+FileChecksum: SHA1: 91cbc9eda104afa900c0c3bdcdbb9d7a955e78c9
+FileChecksum: SHA256: 2fe3c2892a8fd49e42b0971e285a0b642541a56425913b940f807d155fff21bc
+FileChecksum: MD5: d0ca5c89832f7afe8b3d336ef0b55f06
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/dco/api/+server.ts
+SPDXID: SPDXRef-item10433326
+FileChecksum: SHA1: fd4f4ada5e92d82d0f936d38534a42ffcf96aa1a
+FileChecksum: SHA256: d3b53bc9fc0c8beb972a044257d4ff90180f58d2407d8dc255f10b0a256be2fc
+FileChecksum: MD5: 15a842b4cd017ff78fa76d57919d7191
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/users/api/toggleSuperUser/+server.ts
+SPDXID: SPDXRef-item10433346
+FileChecksum: SHA1: 305a0693bc7cf36eefbedfe06fb2cd28ec6991ea
+FileChecksum: SHA256: 051b2498347d517135c8b765b1e44258ae69ca6e0d6e86ebfa66690e0d20f5b2
+FileChecksum: MD5: c59ce1acbc56b79710c933500fa261f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/users/api/toggleActive/+server.ts
+SPDXID: SPDXRef-item10433344
+FileChecksum: SHA1: ae19c46113bc250a97daeba952bc575b131e89b4
+FileChecksum: SHA256: ac778bd78e69fc6b1ecf4c7553b0fc5619c6e4d5f374daeda7204418a7d90bbf
+FileChecksum: MD5: e0c99e0cc1aef062a11110805cf7096d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/teams/api/+server.ts
+SPDXID: SPDXRef-item10433356
+FileChecksum: SHA1: f9350183307bce21f54ada5320c26f0d24a1dfdf
+FileChecksum: SHA256: 943fbb837001c2bd00123e53e6490bc3f32db488dd3541a1ec079fe5b417c060
+FileChecksum: MD5: 44521f57603bcab2ee7d07e7e58c9d19
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/teams/api/removeUser/+server.ts
+SPDXID: SPDXRef-item10433358
+FileChecksum: SHA1: dcea5bffcb492f62c33f8dfb7def7fa486615026
+FileChecksum: SHA256: 260a11085206721d4207b3665ed57c85e79974331083cb89cc3d64dc6e463343
+FileChecksum: MD5: 3baee5d86fa2a561b7cca3984971543d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/teams/api/addUser/+server.ts
+SPDXID: SPDXRef-item10433360
+FileChecksum: SHA1: f03f9614366506e824ded397aa4c7d5537a77140
+FileChecksum: SHA256: e8c63eb6631d63f8423dab3a0b923918520447f205fff768c2e1eaca595f491b
+FileChecksum: MD5: 16cf68dbe846358a3550da1e36c2b646
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/feature-toggles/api/toggleFeature/+server.ts
+SPDXID: SPDXRef-item10433367
+FileChecksum: SHA1: e26a74ae331e6bdd6f9e5abe3cef3af49f06521b
+FileChecksum: SHA256: b4cca0fc98501a006f2a747b7644fa304034d8b0be8c1be3b04768a661559d73
+FileChecksum: MD5: 44f127e027ea44865a66a623d760da7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.pre-commit-config.yaml
+SPDXID: SPDXRef-item10433568
+FileChecksum: SHA1: fa251280f4cb5dc09cfaf8b8b73e9e45c7883f36
+FileChecksum: SHA256: fda1c6ad93a60b09cceef718b046e630214962b09c714e8ca58efbb4789bc865
+FileChecksum: MD5: 4b81e3d3e713269f12e4b43f454eaf18
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/0eb4fb67e01c_enable_pgvector_extension.py
+SPDXID: SPDXRef-item10433552
+FileChecksum: SHA1: 7060c5f61c828737fcf7005479d407e32b6bb032
+FileChecksum: SHA256: 64328c1e543e4de2557d117229902a7c66b307cc63960118933d2d88dfe8206b
+FileChecksum: MD5: cc6552ce572446fba150509301f9d528
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/128baa363b71_create_users_table.py
+SPDXID: SPDXRef-item10433547
+FileChecksum: SHA1: 3c645cdf376d3041e827635562103270a275b5d6
+FileChecksum: SHA256: 2d362e7845e22a28aff56c1ee1e0043456e91498f5b7d1497ae689484a0b73e7
+FileChecksum: MD5: 810a42514d123af7399641dd0fff6c00
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/1f34b3b4b87c_add_embedding_engine_type_and_change_.py
+SPDXID: SPDXRef-item10433557
+FileChecksum: SHA1: 26d97541a8b3096e1b335ee4875c5b30ef31d692
+FileChecksum: SHA256: a48e8e8fc009f10ef1bdb58bc0cac6c14212c40cacfd198b64a96cce125e0712
+FileChecksum: MD5: 83b018dcf395249e15be9fd675f20918
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/1fa445436f65_create_initial_tables.py
+SPDXID: SPDXRef-item10433545
+FileChecksum: SHA1: 309c7f4e82889ac37ccb645d1a75a418d3cf71ec
+FileChecksum: SHA256: 043c6dbf512cf7795036e69c48559e97c3174ded2248c2947cc882bf75371bdd
+FileChecksum: MD5: 3b4c5ebb7920e8f4e9d8ac44c77e2c9a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/266a32db1499_add_user_identity_provider.py
+SPDXID: SPDXRef-item10433542
+FileChecksum: SHA1: 6c6394c640b5ad5dccdefc630cdda09bf86eb5b7
+FileChecksum: SHA256: 46cbd89ad365b871214a52089a5ae9174990dc0ea695ffcaef10bf8648c444ac
+FileChecksum: MD5: b7382ec570277dfb3687693cfbabc33f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/282031c50195_refactor_schema_to_support_auth_js.py
+SPDXID: SPDXRef-item10433544
+FileChecksum: SHA1: 5f87835a41208862c7f6b049e3bdabd78eb25671
+FileChecksum: SHA256: e295431ceaf87f3d5d81cd8952bfeda731b35b1f1f78da8d51f6c8add348a268
+FileChecksum: MD5: d511898110ed54049d40bdbdcec6595a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/2f2d84a873f5_create_feature_toggles_table_and_insert_.py
+SPDXID: SPDXRef-item10433546
+FileChecksum: SHA1: 253c78fc5d6dfc2fa510a94d0c15c792127410b7
+FileChecksum: SHA256: 76863d2984e170f52daf42b9dab821b52d1671234537a05c6fa9d73d2c417f65
+FileChecksum: MD5: 2d5adf3d247842b73633f02b2bd87ede
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/31ba65eb76f9_make_team_names_unique.py
+SPDXID: SPDXRef-item10433539
+FileChecksum: SHA1: 9cc740734264a4992a11f52ae66abfee686b2534
+FileChecksum: SHA256: 1e484dcfc92fd803934d0d0abffa94383109d5ee30fb88fea15b39f98e8c2d92
+FileChecksum: MD5: 12f7e7bc66eb3926d84661937227990b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/3513a015e114_add_updated_at_fields_for_annotations.py
+SPDXID: SPDXRef-item10433558
+FileChecksum: SHA1: b1cd2cd9e1e1561041298b66e00c208342bfda0f
+FileChecksum: SHA256: 8303d605aa7e3e3f50f796380f9362933d049540546a5971769e43bb18b47fbe
+FileChecksum: MD5: 08eb5775d8c628e3b6b7c4d7ce1431d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/37d01b99209f_add_user_type_to_user.py
+SPDXID: SPDXRef-item10433554
+FileChecksum: SHA1: 07705d9545963855ae1a47f9e7e3a0d8b87f0e22
+FileChecksum: SHA256: 6191ccb8601af64c96541eabd93b6146b9595fc4d3b0d30fb5ae14bc43683401
+FileChecksum: MD5: 7ac35eb6d6b2f6a9606ce6e914dad5c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/3e141c1abc3f_add_annotations_and_embedding_models.py
+SPDXID: SPDXRef-item10433541
+FileChecksum: SHA1: 22eeec5f5df3d694d9f18d922661c1a622484b7a
+FileChecksum: SHA256: 0a5b3a03a7f1e356026b10cceb80caac21b08698ba5a7dc977495f8d711b55ff
+FileChecksum: MD5: 9ba5d1994ee4259ef8ced34579c19011
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/4f394aae9708_add_constraints_to_embeddings.py
+SPDXID: SPDXRef-item10433537
+FileChecksum: SHA1: 6ddcd1c89ffe38579380d3c2a001edf5894c25d1
+FileChecksum: SHA256: 2e08c22ae98f14a031c411453c43712c74fe18dad75ddf2f0760e027daacbedc
+FileChecksum: MD5: debafc2c9956d567c907064cc4d1fce1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/680d29fa9b6c_add_field_requirements_to_annotations.py
+SPDXID: SPDXRef-item10433555
+FileChecksum: SHA1: 3b6bc7b559423e7f2a70950d3335a4aab9461983
+FileChecksum: SHA256: dbeb2ce298297f6672fe2acab585ec6fc90c16d35c01d3cee4b9579d01641bac
+FileChecksum: MD5: b782eec22caf581c815b5d3517d524a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/6917b71d9140_merge_multiple_heads.py
+SPDXID: SPDXRef-item10433560
+FileChecksum: SHA1: 11dee67780772008c15f7fbb0478bd6ab00511a4
+FileChecksum: SHA256: 1c3a2d946d10640ddb440528d52b5c27ba20704413cde41935feb4b772a8e9ee
+FileChecksum: MD5: 4f5d4a7ae5bcab280cbc1d7c1fc68f69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/6f85df1a1521_add_team_user_relationship.py
+SPDXID: SPDXRef-item10433549
+FileChecksum: SHA1: 8f75eeeab8e510eb19cdaf19d4446d5e411288d1
+FileChecksum: SHA256: e4999fd65f08329fed529ce2b43f6b841c84f3b90bbdd514f3b6befaef632a02
+FileChecksum: MD5: ec37836f946fc74e06b4a1422118e07a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/703075477888_add_content_source.py
+SPDXID: SPDXRef-item10433538
+FileChecksum: SHA1: af53f32ae3b2833c84b3568079e20a2b6f6f89a8
+FileChecksum: SHA256: a99a96918acbdee648c04cc5c0b0e31093b53e324bf62cab00a1739e3b7733ed
+FileChecksum: MD5: d93a5b3e365d318d1f7b6356105b63a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/7f105df0e1ed_create_superuser.py
+SPDXID: SPDXRef-item10433559
+FileChecksum: SHA1: c3de5e943f3d0eb3854a387a1bca08777b5a0502
+FileChecksum: SHA256: bb2ff67c1c0357fc2da176e1aee0002dadd1fc8acf0758ea650aecdaabf565d3
+FileChecksum: MD5: 240ecabfe026679a9b4033cc60cb2b39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/agents/ImageCaptioner.py
+SPDXID: SPDXRef-item10433423
+FileChecksum: SHA1: d571481e672b48dea09d7186b490796ac07d9e94
+FileChecksum: SHA256: 245b549303ef2a4028dbb52e8bd9d6ec390c71b1a2c258d0288ba0fb39b1ca19
+FileChecksum: MD5: 8e5487b4327c6b55e32f4d65e2d2c526
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Model-Standards/LICENSE
+SPDXID: SPDXRef-item10433573
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/LICENSE
+SPDXID: SPDXRef-item10433115
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/LICENSE
+SPDXID: SPDXRef-item10433091
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Site/LICENSE
+SPDXID: SPDXRef-item10433110
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Model-Standards/README.md
+SPDXID: SPDXRef-item10433577
+FileChecksum: SHA1: 687538626291022c0927a5b66ccc8e2558e016a2
+FileChecksum: SHA256: 05ec66fbabf1a63ef35f68ddb9bd2472b66b9dfcff4cc0f5d614b6117d9b1a06
+FileChecksum: MD5: 15a30c8c544d6d995a22e05ea9974f4c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/README.md
+SPDXID: SPDXRef-item10433565
+FileChecksum: SHA1: 6f6b36e96020b93b0edd5323b708d1afb2e8d0ba
+FileChecksum: SHA256: 2870ee515955a918c33078c2574705cd9b9511560b43748b0223f7d343bd49e7
+FileChecksum: MD5: e0fc784ce4e5de222afa349c7f0c5ae4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/README.md
+SPDXID: SPDXRef-item10433106
+FileChecksum: SHA1: ef93f158283050ce5e1566ce4bfedf4aa18bc902
+FileChecksum: SHA256: c10877592a0b56216ea62bc959ad645033816bfb57855815e164219ffd76c039
+FileChecksum: MD5: b490fe9eb10eced8ac62a9c65a7073b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/outlines/StructuredCaption.py
+SPDXID: SPDXRef-item10433426
+FileChecksum: SHA1: d51cdb9443f32f27feac35d6f0292cafb6773e10
+FileChecksum: SHA256: b769ae921a01bbff862fbc8107067405c4b1ce30a10e0af72a29088fac9da659
+FileChecksum: MD5: 5c7d9555a02591df079a9bb3c560694f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/Taskfile.api.test.yml
+SPDXID: SPDXRef-item10433247
+FileChecksum: SHA1: beb6452abb61991ac96b4bb3b51d9c550d7859bd
+FileChecksum: SHA256: b5d1c5a516c92c9fe3e9c048c7cc3cfce2efb30260d93b2302b5c0c10b386d72
+FileChecksum: MD5: c7c9b3d65359cde45bdb60c62ae1e613
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/Taskfile.api.yml
+SPDXID: SPDXRef-item10433277
+FileChecksum: SHA1: 7c9c04e1713231bdeb73ee1450ad95aa3c609260
+FileChecksum: SHA256: 1ecda3610fcec161addb4abeda90afc57935bdc521cebe037fcdc4dc25dde299
+FileChecksum: MD5: a164031a48053ee1cd3dc2f6009c7c8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/Taskfile.caption.yml
+SPDXID: SPDXRef-item10433403
+FileChecksum: SHA1: f2502f823a9263647d2d2dceec784d296cb36307
+FileChecksum: SHA256: 0653bfa27d70d7dc734ac49d83f2a1b5f6f4054560b92d44e3855745a8b6ef79
+FileChecksum: MD5: df1fd3fed31475709c5b956d247bd1d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/Taskfile.yml
+SPDXID: SPDXRef-item10433386
+FileChecksum: SHA1: f3b6977c6fe326273e4f5a5cfc602e2142cc36bc
+FileChecksum: SHA256: 52941630dfb7c0856828f03ae3ecf941999bd79e586ec7ac43296bbace503d33
+FileChecksum: MD5: 44700bdf716e6f18d9ab1691091f1acb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/Taskfile.yml
+SPDXID: SPDXRef-item10433532
+FileChecksum: SHA1: b10cf7a68ceb036036f4def0f0559f9207cd845b
+FileChecksum: SHA256: d528d7441f31fefe24a335767e9cc905fc2a55c70747d7fb3aeb357b741e8838
+FileChecksum: MD5: ef564cae1483d2f0a81b05653037693c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/Taskfile.yml
+SPDXID: SPDXRef-item10433226
+FileChecksum: SHA1: bc42d522446b44dc0873fae0bd67586be4e35f9f
+FileChecksum: SHA256: 0120b4095bfb69cda0f5a7e21a0e7a42dcb1b28c1213767c50241363d38f784c
+FileChecksum: MD5: 0dd6e98ccfe5df50447b73f1ac689677
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/Taskfile.yml
+SPDXID: SPDXRef-item10433527
+FileChecksum: SHA1: 17022f539131320a6425139a141052a2e8896ceb
+FileChecksum: SHA256: 3454f469b5f0bfc7e8089f5c00c9695832541ab7bdc292444e8afb2d69cece32
+FileChecksum: MD5: 08ffc6e3adf83ea68f8fcd882b648e8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/Taskfile.yml
+SPDXID: SPDXRef-item10433456
+FileChecksum: SHA1: 1ee9a8c13bc6a9db069b93cdf01424a124331c4f
+FileChecksum: SHA256: c38fbfc5511eb98c327993e2fde3ca5447d47ab49967bac9b0cf95633f814bff
+FileChecksum: MD5: 3150267eb09c652819e05acc7a888e2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/models/__init__.py
+SPDXID: SPDXRef-item10433237
+FileChecksum: SHA1: 3580a79a4cdc61c283998f3c5ba7b3de82ac6499
+FileChecksum: SHA256: 928fe5191caa9586dad239529add084e8ca7e607df76adb3579411cd636587ca
+FileChecksum: MD5: e72a75e9af3ec5fb60e4e8221b72ceae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/endpoints/annotation/__init__.py
+SPDXID: SPDXRef-item10433266
+FileChecksum: SHA1: f0f37ffdd132e6599f20b42341c4777151dacb47
+FileChecksum: SHA256: 3e92888200880890aa59344fbdfad913c7724320a1e6a7892bb5f07514dff128
+FileChecksum: MD5: f229101a7e95fe7f046d568593cfd4c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/__init__.py
+SPDXID: SPDXRef-item10433268
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/odr_monitoring/formatters/__init__.py
+SPDXID: SPDXRef-item10433448
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/__init__.py
+SPDXID: SPDXRef-item10433251
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/odr_monitoring/handlers/__init__.py
+SPDXID: SPDXRef-item10433452
+FileChecksum: SHA1: 163d6aef4ef1e0d6a8cfaac64a51ce84165fab75
+FileChecksum: SHA256: 2f1cc16f4dfc268f939b7594fdccdad6e5c374d61b82db8eb7468223da86ba15
+FileChecksum: MD5: 4788a080a816953ee5714169c5e1eb68
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/odr_monitoring/__init__.py
+SPDXID: SPDXRef-item10433453
+FileChecksum: SHA1: 8ea44d9030ca7a531c30de9bdaf5d2dc731c01b4
+FileChecksum: SHA256: 117dc2819a4b90527e0dac3c40477a8d8de87d3d42baa7a7da3539fbbb168cfa
+FileChecksum: MD5: 599649a607cee65a283e85802964480d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/tests/__init__.py
+SPDXID: SPDXRef-item10433442
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/models/annotation/__init__.py
+SPDXID: SPDXRef-item10433243
+FileChecksum: SHA1: fb26e203555b51acf1f9d7ae0be4e99e64579c3d
+FileChecksum: SHA256: 369a4eb6491e66be47a4702730a7187c378c4a208d67938e92a07c601703eaf5
+FileChecksum: MD5: 5cc1c56528b1484b5d3f97495893f0e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/endpoints/__init__.py
+SPDXID: SPDXRef-item10433261
+FileChecksum: SHA1: 529249ae51779c25a5c4e77d2e638f59bab4742e
+FileChecksum: SHA256: 71f3974d9a49185b6f9cd9d6cc2d8d122b3f73855bf127de123fe6dd136473fc
+FileChecksum: MD5: db6ed779b90b6aad1dbfa5bc4ab11d16
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/__init__.py
+SPDXID: SPDXRef-item10433244
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/__init__.py
+SPDXID: SPDXRef-item10433424
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/server/__init__.py
+SPDXID: SPDXRef-item10433414
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/client/__init__.py
+SPDXID: SPDXRef-item10433408
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/__init__.py
+SPDXID: SPDXRef-item10433510
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/schemas/__init__.py
+SPDXID: SPDXRef-item10433507
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/schemas/__init__.py
+SPDXID: SPDXRef-item10433421
+FileChecksum: SHA1: 988810116458be95955c5b657bc01904bc27b170
+FileChecksum: SHA256: 7de8e074d08b1252f9bd5322196556d0de8431b62c745f973275223d6d74c5ba
+FileChecksum: MD5: 1e9845ea1cff0bcff4f784d2cfb35771
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/crud/annotation/__init__.py
+SPDXID: SPDXRef-item10433523
+FileChecksum: SHA1: 9fc5ea52d09de87165d3302b8b143fce35bfac42
+FileChecksum: SHA256: 3f6ce0e6a48ef6ccfe668af6ef13d0e50feb8eee55d620d9a4f6aecdf0e9f5f8
+FileChecksum: MD5: 50fcda025dc737793e3ffd7d65ea2b56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/models/__init__.py
+SPDXID: SPDXRef-item10433498
+FileChecksum: SHA1: b7ee5bb0d5e3dfa6ef92ed12177f836ad1cd9755
+FileChecksum: SHA256: b2756aa21606c2ff7cb3727c6359dcb5711af6da689fb19f24d04534de6b430b
+FileChecksum: MD5: f6125cc48facf515cc2ae156c3569499
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/crud/__init__.py
+SPDXID: SPDXRef-item10433518
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/a2a51ea2c819_create_sessions_table.py
+SPDXID: SPDXRef-item10433556
+FileChecksum: SHA1: a57afb4adf31c43c74f873a7d9bca8381df88622
+FileChecksum: SHA256: ad2d43e731ee2ad6df5f45394a287e0f4e0fa309013d4a412fb07583699a082d
+FileChecksum: MD5: 3c5952c572e88a59b88a2aeac20db1e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/a72b966658fb_add_dco_accepted_column_to_users_table.py
+SPDXID: SPDXRef-item10433543
+FileChecksum: SHA1: 1cd358b64df976d0bb4c2e7bdd5ac81e4986dc55
+FileChecksum: SHA256: 388256c4b2ae1ae02484f482d8de05cc297ab29e071cf0a659c15de170d77def
+FileChecksum: MD5: 7e8070d5ab3fb6a55a7ab03fcdff02fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/crud/annotation/annotation.py
+SPDXID: SPDXRef-item10433524
+FileChecksum: SHA1: 082bc9d566473181ccd195735718bcf5a98c155b
+FileChecksum: SHA256: f2981eb2b8b2a31b4dc444efee77d2c66bb4932c6ab88edcc7da89313227721a
+FileChecksum: MD5: c7d264ecc3dc635fd5b5cf337969e8ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/endpoints/annotation/annotation.py
+SPDXID: SPDXRef-item10433267
+FileChecksum: SHA1: aa36c934f9f93666d4da3b8e988685d5e4861e7b
+FileChecksum: SHA256: a26562463296a014ee899efd2b3a63638763ff34f91c4a74aa3a6832ce20b03a
+FileChecksum: MD5: bf6209ff4d8b92d6da28d53209ea3360
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/models/annotation.py
+SPDXID: SPDXRef-item10433499
+FileChecksum: SHA1: 6db02a93dfb3476d094d67b5c66bdb279808b1a4
+FileChecksum: SHA256: 00be9b93e42008154119d4e3ebbac262665a4553880f12111d1be1e64ef55077
+FileChecksum: MD5: 674e49ea51c1b601ce055896230574c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/schemas/annotation.py
+SPDXID: SPDXRef-item10433508
+FileChecksum: SHA1: 24616974f2c8f8c842cdd12962c72f04b4bf2688
+FileChecksum: SHA256: b6fd1f0b27c8b2eef383682f5d8f070e1af577c1dbd7b0c124ff2cb7fefe4c28
+FileChecksum: MD5: b732e83ddc8f05b20b6b84aed6057486
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/crud/annotation/annotation_rating.py
+SPDXID: SPDXRef-item10433522
+FileChecksum: SHA1: 657ddd97b413b2ec7a3ad171bd61a85e8f5fbf7c
+FileChecksum: SHA256: e38b8f7c54122b4227abb3cc175827fe03431b8ec576ee81c0f4c5a8059f1280
+FileChecksum: MD5: ee91534f6708c35465596f0567abf548
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/endpoints/annotation/annotation_rating.py
+SPDXID: SPDXRef-item10433265
+FileChecksum: SHA1: 8bd7c45013099be6c1b86fe9db62114f0f658a78
+FileChecksum: SHA256: cc25ec70558c0f7e0d52d08a4da3eb0a48f9335fb7ee6091b660cc3c38df9202
+FileChecksum: MD5: 9f08c31deda1711e951c471e61ab7d64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/crud/annotation/annotation_report.py
+SPDXID: SPDXRef-item10433525
+FileChecksum: SHA1: 71b319a55207199f7b12bd329b51fef8eaff8e3c
+FileChecksum: SHA256: 11c48310203704ed58fa13edb41869866fc0a2e619796042b27fb07919f8f144
+FileChecksum: MD5: 5517f12aa1a02336b3d0b95c4ea07635
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/crud/annotation/annotation_source.py
+SPDXID: SPDXRef-item10433521
+FileChecksum: SHA1: 18289dbd81da8386ad6eef6e49a990b2e9e69a2a
+FileChecksum: SHA256: ec8ce56572809b0c56933c3c4b72e259b323573e1bf0356a164989073bea287c
+FileChecksum: MD5: a7c81a95d673d38b19c534be10caefd9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/endpoints/annotation/annotation_source.py
+SPDXID: SPDXRef-item10433264
+FileChecksum: SHA1: 17ee9504ba5ae7a69df560e1b4fbde0e1e421172
+FileChecksum: SHA256: 88b2487f38051078f2a3fecb9b7d6df285f206d51a1d6a43125134ba1c3dbdce
+FileChecksum: MD5: 06064bd952a0aa8f9d3def94f0d7bba6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/app.d.ts
+SPDXID: SPDXRef-item10433285
+FileChecksum: SHA1: efe380e77ec45a8ef2e1d74065ee0c2b0053ceaf
+FileChecksum: SHA256: 1f98470fc00f8626cb71dbeb0da93d318efaa5ec11b41cc6f4da89eb442b7091
+FileChecksum: MD5: 731f3d3da9f7335a7b608dda17110594
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/app.html
+SPDXID: SPDXRef-item10433301
+FileChecksum: SHA1: 4f337c51d7f095f3f5d84093810a009a46a9c421
+FileChecksum: SHA256: 8c34928360d225f296418b39996a729a4a4371327857bdb307aa9cb344d855e6
+FileChecksum: MD5: 011388c5f460aa0296508f480d9c6df4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/server/app.py
+SPDXID: SPDXRef-item10433413
+FileChecksum: SHA1: 849e1dbdcf69ce5904267f8e79b342fe2e8f8caa
+FileChecksum: SHA256: 33a7cd76fdcd6162029453753cab1244d382ab8ca65457119f7cb199796cba47
+FileChecksum: MD5: 1a9c4b063d786904edf605959e1d2873
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/app.py
+SPDXID: SPDXRef-item10433249
+FileChecksum: SHA1: 6b21b496308599dda6eb24d263da8d7c6ed36adf
+FileChecksum: SHA256: acf11d00667097a91f2350b959277399f860c6bb5335fca2c48aa970456ed2e5
+FileChecksum: MD5: 2bb6e11e76f1e77c0823c6f0db7aacc0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/auth.ts
+SPDXID: SPDXRef-item10433371
+FileChecksum: SHA1: 2700b23f3103131b3d415e0ab2ea41f531542330
+FileChecksum: SHA256: 63e729afa27a3a611108c08e6a2aa9cef641c9a2e9099a8dde73ed18f0f0754e
+FileChecksum: MD5: 6036f998edae1a27885a2ad79da1bf33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/b27020226eaf_loosen_user_constraint_on_annotations.py
+SPDXID: SPDXRef-item10433548
+FileChecksum: SHA1: f2fec115e6ece2058ebcff1c26f75a615bbf51ab
+FileChecksum: SHA256: 288cb9ced8e274c844c84902278a16ba503abc564182945ad90f58f10cd00089
+FileChecksum: MD5: c42206673c032415697d0c3c59dfe2fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/models/base.py
+SPDXID: SPDXRef-item10433501
+FileChecksum: SHA1: 7b9c771b5c4c0bbca6f1c83dcbe7b6ebd2739efb
+FileChecksum: SHA256: 7cd30e6655178977e770ca35c8c9f90faa2aa003a1a0ba23e2ac7df5b6a3388f
+FileChecksum: MD5: 5d8675f375728ab0979441005cf9ee60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/base_integration_test.py
+SPDXID: SPDXRef-item10433232
+FileChecksum: SHA1: 05a8010cdc3dcb5898db67c83bd4b9fc9a6419c9
+FileChecksum: SHA256: 2a5d401bd5a56cc004337113958441ff4ff4d70cedde8039644c110eb6cff484
+FileChecksum: MD5: 601e01e975f69e43076faf48e88f1384
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/bef5de2052d7_remove_usertype.py
+SPDXID: SPDXRef-item10433561
+FileChecksum: SHA1: 2e2ddeabb580806af8338c11eaa96354dd693b55
+FileChecksum: SHA256: be3fbf6b3ade76cc29f92c39cca4e672228d9d3010ae79b9104993f2e0dad2e4
+FileChecksum: MD5: 9497ff0cf0aeeb084e4639d5ee3c58ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/calculate_all_embeddings.py
+SPDXID: SPDXRef-item10433150
+FileChecksum: SHA1: aa35222de465ea4d747816234db7427688b7459b
+FileChecksum: SHA256: 7f29fc482a56f9b2177e27970abb96b90bb99069175b8fa91959149fc3c833c0
+FileChecksum: MD5: 46cf262c22b24dad799a72f01e873c35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_data_instructions/godot_engine/camera_3d.gd
+SPDXID: SPDXRef-item10433121
+FileChecksum: SHA1: 9d4e77d0f491a0bded1d67526a8db14c2c9ec440
+FileChecksum: SHA256: f4ac3c273423aad3bd6801b1ca96ce2da09cbfb62bfa6537c01e1ad7b9001c4e
+FileChecksum: MD5: 869583e9af9a9f67dfea52ed7ae1a6b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/docker/caption.docker-compose.yml
+SPDXID: SPDXRef-item10433401
+FileChecksum: SHA1: d7d482acf3302a2f84abc520b3128b34049535d7
+FileChecksum: SHA256: 9bf06e71a2a97fc7a6ac3f605f7a04a5b8f750fd114835c1d156e84372310620
+FileChecksum: MD5: f0c89ad961e40d969a78734ed6531512
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/outlines/caption.py
+SPDXID: SPDXRef-item10433427
+FileChecksum: SHA1: 2f5b1876259991042b46d2a21308adea7ef6f40a
+FileChecksum: SHA256: 2006fc4c8a88030068212a15b3f1c9a83a9db2050f169652fafdd377d1ea21c7
+FileChecksum: MD5: 18ba9da5ec2083d1ebdbc9ecd8216d73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/schemas/caption.py
+SPDXID: SPDXRef-item10433420
+FileChecksum: SHA1: 4768a9f0aa1ba49c29b5af6efa9febd6490051b2
+FileChecksum: SHA256: 19709059583a4f5ec4457ea6c075b4243f8093303488c5c471d3e0633d20c744
+FileChecksum: MD5: 95d6de89a8777f61e3ae648cbdd4d90a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.github/workflows/check-spdx.yml
+SPDXID: SPDXRef-item10433183
+FileChecksum: SHA1: 91ea9477ab5906782c2428edd1d5a65ec271a2fd
+FileChecksum: SHA256: d45a988cf114e7141bcd7606bfb7397f2cb5c599dc5158ad7b86b6854afa82de
+FileChecksum: MD5: b6fe908408b172ae0559da29affca2c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/scripts/check_spdx.py
+SPDXID: SPDXRef-item10433222
+FileChecksum: SHA1: f4da0419520b8a1557ed0d31b1ecaa44bf5b77f5
+FileChecksum: SHA256: d7d4831d91da0bd8c9ad5608f6d6a212e06f0bbaab5dab5d2448be238a630da5
+FileChecksum: MD5: 1abe69e91b9e0fb09411862183710f34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/combine_json.py
+SPDXID: SPDXRef-item10433169
+FileChecksum: SHA1: de4be65b5e5a3a52b4256697dc3e933e3f657da1
+FileChecksum: SHA256: 251376b9bb29fba518a8794cfd1d262c70e49682337d7928f81867c81f295523
+FileChecksum: MD5: 6e8c8bd00655b7a0db8e5b81544a2544
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/odr_monitoring/config.py
+SPDXID: SPDXRef-item10433445
+FileChecksum: SHA1: 6945c2eb55058404be890137fb2bb5e911be2bdf
+FileChecksum: SHA256: ac8ae5c465dc37d0a24951079095ad99e4b72ea9e005b78cadb3089ae6a4fa73
+FileChecksum: MD5: 3c6cb6c9f55acb6ca050fbdef03f4254
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/config.py
+SPDXID: SPDXRef-item10433492
+FileChecksum: SHA1: d6dcb49fc0aef525563c07b9fd5e3e11ae1b4a33
+FileChecksum: SHA256: 8ea2ccbc7ec64d16d8a4231b447407bb4e62105390a14ea9be2942a868d2e00f
+FileChecksum: MD5: 03db0fb5d81a5f5f16946b92b2df9332
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/conftest.py
+SPDXID: SPDXRef-item10433486
+FileChecksum: SHA1: ab012d22cf0c93012508c08cfeef2e1b2242ebfd
+FileChecksum: SHA256: d751bad31965f7fa59711f3e55bc8ecc58956f63e4d4974d2f2ac3632be1cb29
+FileChecksum: MD5: ba6259e28f46f070e2a25be637e36707
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/odr_monitoring/handlers/console_handler.py
+SPDXID: SPDXRef-item10433450
+FileChecksum: SHA1: 9c3dc1f8b994d6bbe0e61dbf809569266815b8ee
+FileChecksum: SHA256: bab17e766166a8f79d3fc321150bc9e8961ffa2c1acb788fa629c8e8cc901f57
+FileChecksum: MD5: e1c6b629cb26782c3ee1cd3345c99eb7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/schemas/content.py
+SPDXID: SPDXRef-item10433506
+FileChecksum: SHA1: 986aa549bd4da5cd6262ea9a2ff2c04221166a5d
+FileChecksum: SHA256: a3a75a4ec7699119f72c0fc16591f51855d23c3a3fa7560ac2550c3d6018ff36
+FileChecksum: MD5: 1e4b7964e2c3152d527df2eb0323c1f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/models/content.py
+SPDXID: SPDXRef-item10433497
+FileChecksum: SHA1: b735bfb0e464f43add0aa93a5e23b2f5f13b092e
+FileChecksum: SHA256: e74eddcbdb71a0180a2b74c17e2f9591be5c30d12bab7ab470274e1b16424782
+FileChecksum: MD5: a280b2abc5c4d3d4d789e7afb3ec6542
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/crud/content.py
+SPDXID: SPDXRef-item10433517
+FileChecksum: SHA1: b91d4b5e50f03a42aba7cd075696077422ef067d
+FileChecksum: SHA256: d429ed6b638cf715f5dc0831a2c4572c0e48c794562ad577a9fe5ec76e19a4c5
+FileChecksum: MD5: b76f018fcd864758679872f44fc8b528
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/endpoints/content.py
+SPDXID: SPDXRef-item10433260
+FileChecksum: SHA1: e4973599a620058cb5a1199182950b02d2990d54
+FileChecksum: SHA256: 3f245a531dc1abd7bc8644d3c656f422ed5245290f368390743115c487670c16
+FileChecksum: MD5: 506da7ccb33a69982f3f851be812960e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/endpoints/content_event.py
+SPDXID: SPDXRef-item10433258
+FileChecksum: SHA1: 9b613a1c04876dbc856b304d6baecb0615ab81a0
+FileChecksum: SHA256: d6df1f2e894a41b12f80f723cd05e8ec9ae498c380eb5f69e96e48019ed1f672
+FileChecksum: MD5: 782e6ad568f88d4e7c64620779818b6c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/crud/content_event.py
+SPDXID: SPDXRef-item10433513
+FileChecksum: SHA1: 276c3c2b5aa1e3326761c3c39749cb2595065c1b
+FileChecksum: SHA256: 4dac19d1582c6732e704774654a55f27b3d03fd9e6a0a2a8ad2e4303ddc382a9
+FileChecksum: MD5: b4d0177d5d53492d96625d1ae5136052
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/crud/content_report.py
+SPDXID: SPDXRef-item10433516
+FileChecksum: SHA1: 2033e7f5629954a95a52a4421621421302237d22
+FileChecksum: SHA256: a785aad7367fe7700a714d970f67e6b4a30f97e4bbdab01ed403ddcc3af717c5
+FileChecksum: MD5: b2c8c7e45e25a18df5d010884592fd7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/schemas/content_report.py
+SPDXID: SPDXRef-item10433505
+FileChecksum: SHA1: 0d3509acbcb6390201e3cd1c2057729049627df8
+FileChecksum: SHA256: daa95ba5a67a5cfcbddd828261f4e8468bc76d97fae7bae5c4c20f3dd880733f
+FileChecksum: MD5: a58593cc91b51c3792b1686823516ef0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/crud/content_set.py
+SPDXID: SPDXRef-item10433515
+FileChecksum: SHA1: e60226c759e6915c02ce04a75913711e2827eddf
+FileChecksum: SHA256: c2e5915bc7d54f6d6e046e41a9ded9fe2d4ee9dc639c00a1fc2d168389a63000
+FileChecksum: MD5: 185ee04677d8b562841986494effc5ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/schemas/content_set.py
+SPDXID: SPDXRef-item10433504
+FileChecksum: SHA1: 89a1411a5aa7848dbe999c8d0030bee294d6d6df
+FileChecksum: SHA256: 2aaee311f0db8f53b1377eb914acdbdf11dc9b1b1e0b4637d7c48e84dac029c0
+FileChecksum: MD5: 4e18c8c330a00bf0f29d4210213a4afb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/count_tokens.py
+SPDXID: SPDXRef-item10433163
+FileChecksum: SHA1: 256e96a6fded9139f0fce0419a37427018ce318b
+FileChecksum: SHA256: a89bdc1115be0472b52431241f52590fa8e1dedb0979a816928db2d7b44189bf
+FileChecksum: MD5: 25ec664698eb653148a4ef92b38e27bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/d109dc6c5755_add_cascading_deletion_to_content_.py
+SPDXID: SPDXRef-item10433562
+FileChecksum: SHA1: 67dbe0f7ab1c9cd4e18f1659f4a3f1e93a44a6af
+FileChecksum: SHA256: b34274ab06fa97d06a5ba128dfc138dc6e290019ae2abdda724f7cdfa88954b7
+FileChecksum: MD5: 3c635660c5ad599ed7f8e8596eb22d23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/d712027f6e8b_add_content_relations.py
+SPDXID: SPDXRef-item10433550
+FileChecksum: SHA1: 8d27a8da49a6b616ca441e4c55014b5ef8db8ae2
+FileChecksum: SHA256: 73e9626eba6263cc91144d85f217bcd303b93727460f48b8733c0f2e5a650620
+FileChecksum: MD5: 219bb819fcdd479a74b338a0825e9f95
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/database.py
+SPDXID: SPDXRef-item10433509
+FileChecksum: SHA1: 9668db9ee170827242803e5dd7ff08aefcad8116
+FileChecksum: SHA256: a3999aaf256de04956fd37069648a940d4d3e1ebc4b9e5554f7113a18494b79c
+FileChecksum: MD5: b2d00c4dbbad9f3c266d408227d1712b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/dataset_utilities.py
+SPDXID: SPDXRef-item10433166
+FileChecksum: SHA1: c2da357bd2983bf94aff12502ed6c6c3d1cdb083
+FileChecksum: SHA256: d501eb991bdaab7ef3e940c32c275c492c9cb8fae41f7c0b5d3956c8edbe70fd
+FileChecksum: MD5: 7eba3b4a64c08366c38511af063dbee6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/ddb9c9a9ecce_add_content_and_contentauthor_tables.py
+SPDXID: SPDXRef-item10433540
+FileChecksum: SHA1: 329a22beadcd50c546a042a5d3a5d3a02b1f4510
+FileChecksum: SHA256: a0d6c85af2395b97e7732b59303ce9c23e55e1b500ccb2b3f4c6868662a84f59
+FileChecksum: MD5: fa8838059515f4ec24dd00280752f702
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/dependencies.py
+SPDXID: SPDXRef-item10433254
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.github/workflows/deploy.yml
+SPDXID: SPDXRef-item10433185
+FileChecksum: SHA1: cfdcb0da98ee38a0f2e97c1bc61fd62f5f309862
+FileChecksum: SHA256: db5b278f5d9e0a12e1e63606704017246d5b7c7348ebf6dbaf896feca9a4aba1
+FileChecksum: MD5: 6213c1b7109090a780ccdab8e2de740a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/docker-compose.yml
+SPDXID: SPDXRef-item10433566
+FileChecksum: SHA1: 6e0f383d79a4866e6ae180e2cf78cc1c783b0a93
+FileChecksum: SHA256: b43c3b8ec31507bdb680e78437d4ee66fb7e2e164182362bcad689b3fe8fa1c7
+FileChecksum: MD5: dcb2c0c627e3c59247d4b1a3fb990adf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/download_and_process_dataset.py
+SPDXID: SPDXRef-item10433151
+FileChecksum: SHA1: 094dfa1ede68204c7477d834a3d7daea80f3f132
+FileChecksum: SHA256: c8fb13cc068752e3943e4d5c6b4407f7aa0fe5bb03311f610103442cbb52ca11
+FileChecksum: MD5: 37797c892e5efe7388a9cf6e8288dca0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/e06f931c3c84_update_users_table_to_have_non_nullable_.py
+SPDXID: SPDXRef-item10433551
+FileChecksum: SHA1: 6ac23a710df4e86e6aec5f2f4711a929c2791e0d
+FileChecksum: SHA256: cb3f50916476d10246f51f3947bf4f866f8d299a57c1f5831672102f0a480344
+FileChecksum: MD5: dc93ad657e9cefb41cbfccce94d3159a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/versions/e5647515ed8d_add_team_and_user_team_tables.py
+SPDXID: SPDXRef-item10433553
+FileChecksum: SHA1: c7ce1e7e71160adb0cc17dfe78a6a95ccaa85b48
+FileChecksum: SHA256: bd575fa5310e910497ac92f761b3978e6c0b58e57c9ba3cbe0d7cb6a41edf841
+FileChecksum: MD5: 83df447dffba4291a5534f57ec660731
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/crud/embedding.py
+SPDXID: SPDXRef-item10433514
+FileChecksum: SHA1: 4e9b5171667008e9c0cfe79f0243811cc5b17c9f
+FileChecksum: SHA256: 66ae6fc0221d44f98b2ab3801ec07e4ee8d7e2709d8f5a28bb6aaf4838211f4e
+FileChecksum: MD5: b997c925ef1253b8c78b03dcb7d27294
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/models/embedding.py
+SPDXID: SPDXRef-item10433496
+FileChecksum: SHA1: 5a13b47b2f2ff18576250530f1e495b6375d5540
+FileChecksum: SHA256: 9e8531f0bf5bd228f51fc63077e2a70d82ec6289a216360e50877fa13fc24705
+FileChecksum: MD5: 2f29bfeb48d821795ed29e6cde674008
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/schemas/embedding.py
+SPDXID: SPDXRef-item10433503
+FileChecksum: SHA1: d8bd80c3046f36b9d06f4541ae280d688eefe9e8
+FileChecksum: SHA256: e3b8478639c507182d5d55d8dfad269640a306d98832629c239925afaa8db5b5
+FileChecksum: MD5: 4fa943440b171de819cd09546ae7fd30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/endpoints/embedding.py
+SPDXID: SPDXRef-item10433259
+FileChecksum: SHA1: 677b2ce40e65f8868b774f9586b080c9bf5802b9
+FileChecksum: SHA256: d7bc83d037874defc0925b721ded87d3ebe09098bd7687acee05b47156f84126
+FileChecksum: MD5: 0835a1282ddef5fc0b703b7afd99b948
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/endpoints-entrypoint.sh
+SPDXID: SPDXRef-item10433398
+FileChecksum: SHA1: 24c2fce68f42265d9217b669be7a598b75b72f07
+FileChecksum: SHA256: 46e7f97562c581ecff9aa5362431cda39847dca85ec39ad5bc64f037eb0e4421
+FileChecksum: MD5: f45d305663cd63657f737665d74ccc4e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/docker/entrypoint.sh
+SPDXID: SPDXRef-item10433376
+FileChecksum: SHA1: 2a224934a4f27740a28d651c40ee943e54e9efc8
+FileChecksum: SHA256: 1642f1207636cb139331a43af9f8e3d1644bf97e180f8b7638d21ffe9f46b5e7
+FileChecksum: MD5: bbf4b52ac732d7c29c63c518a75e7242
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/enums.py
+SPDXID: SPDXRef-item10433511
+FileChecksum: SHA1: f79408ac07e57c18df55892df5fd58dd8aceccf2
+FileChecksum: SHA256: 282d0f4f4ebabb4795020599be7834d1aa364613de2c434eaa8c788a6caa0133
+FileChecksum: MD5: f08cd0e5b1d616a91df75d3fa7dc2cc1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/env.py
+SPDXID: SPDXRef-item10433534
+FileChecksum: SHA1: 648b740b223f2f5b9038337baccbede71b30bb65
+FileChecksum: SHA256: 438f2c92aaabd939191fa987c24868c01c7b812fca6a553c8fb6b28fefda160e
+FileChecksum: MD5: 456f25b3ddbed35d3c58e770d3aaddc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/lib/server/env.ts
+SPDXID: SPDXRef-item10433288
+FileChecksum: SHA1: 7b9eda381a3a7b0c33da3b044b5c89401e7599bc
+FileChecksum: SHA256: d97a2434df5fceffb84016701bb19c694e1dfd7db83300a7bd238befe52e31c3
+FileChecksum: MD5: de8e7f953ad53a02531d2f7ab36349a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/eslint.config.js
+SPDXID: SPDXRef-item10433379
+FileChecksum: SHA1: c1bafbde971098c75122738d8fbf3cd43a147539
+FileChecksum: SHA256: f628dd4c8f64067b78d04e6b576e609bf6e952a0df35363168f524ef028ab955
+FileChecksum: MD5: 100bda02164f0d3ba7aafe02048b76db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/models/feature_toggle.py
+SPDXID: SPDXRef-item10433494
+FileChecksum: SHA1: 56f68896d925044a7995279958fc05fb8f8d1a97
+FileChecksum: SHA256: b3c04de821c09ed197a3520d6344c138e4185cfeb8919b7924c159971dad673c
+FileChecksum: MD5: 3e3005747d08b9a6e30ba42ed6eefe70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/odr_monitoring/handlers/file_handler.py
+SPDXID: SPDXRef-item10433451
+FileChecksum: SHA1: 6297041dbb132902e02e2ff6632b76ca6578c5eb
+FileChecksum: SHA256: b4cd892056b1ab1cf3c7a3b9fc9769b8a153a5e748c601d270c193fc2bb65db8
+FileChecksum: MD5: d67aa5f38293ee9e1932e70a674fe177
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.github/workflows/flake8.yml
+SPDXID: SPDXRef-item10433187
+FileChecksum: SHA1: d10a6ac955e195168266e0bdecb297404676f587
+FileChecksum: SHA256: b061c426721592e29c3bfea23aec006a810fd5f2ee800fa510988a32379507cb
+FileChecksum: MD5: db44975de5e0410653bcc3f437ea74e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/get_hf_features.py
+SPDXID: SPDXRef-item10433165
+FileChecksum: SHA1: 0329b737771712e9e221769d1ec84fd345e40dc4
+FileChecksum: SHA256: 7bc2cb89e94aa8ae0880b8078688ef24dc8a028d3a7b16ea5bffdf67d062094f
+FileChecksum: MD5: 4828c275aa3c6d5e9599ef4ef5c4f666
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/get_hf_mappings.py
+SPDXID: SPDXRef-item10433130
+FileChecksum: SHA1: dcb07954737fe05c63936db117f4f984679e169a
+FileChecksum: SHA256: f2fd2f123368bc46d9d13d7bb8857cfe3757904889dcad5d54a515b0fd66a2cb
+FileChecksum: MD5: 97cfb3a475faac655249290b6da2b747
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/models/get_model.py
+SPDXID: SPDXRef-item10433416
+FileChecksum: SHA1: 4868ef9d0645f2d0aa7b5f97dbedd5607fa9b4b5
+FileChecksum: SHA256: b41f31bcfcb32efd4d41989bb530fc9bd0d4f1a38d01d5f4f6cd92493f60e310
+FileChecksum: MD5: 1375ec4d5ac1250501610e28d1cb6dbd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/models/get_vision_model.py
+SPDXID: SPDXRef-item10433417
+FileChecksum: SHA1: 7e1d881f1c5e16de8c66a8da292c9a815245ab77
+FileChecksum: SHA256: cb272fae82bc24f768db02c1a3c8fa7f8fd86da6abe8ee5e6311c7a3e1ee199e
+FileChecksum: MD5: 9fd430ebbc1e2e2ff2120001e5b9068e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/hdr.bat
+SPDXID: SPDXRef-item10433217
+FileChecksum: SHA1: 224087d83b0ad0c9e977afd4c55a63797319059b
+FileChecksum: SHA256: 1391d095411f6fb229225ee3d5ad84fd9498bf864baa7cb751c0f37eb562821c
+FileChecksum: MD5: 9e425650165ab2c432c078d5bdff8474
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/hdr.py
+SPDXID: SPDXRef-item10433195
+FileChecksum: SHA1: e7a41cd0a37ff5e675afd7e0eaf7eb41041466ef
+FileChecksum: SHA256: 56b5bc61369d8df6aa12d54b04424b45838d64db2a589e91de9b5c04c16dbf97
+FileChecksum: MD5: b876ecd3babbdf79b45e5e50e68b823e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/hdr.sh
+SPDXID: SPDXRef-item10433216
+FileChecksum: SHA1: c5f2f7ecc49b7436c74946e38ac791872f06f6ae
+FileChecksum: SHA256: 711fddcc5582d61653a7473a39adb246e174b8830d5723ef2d1c3d964d7f8ae2
+FileChecksum: MD5: e96f719dc67e6630a9d8fc3614291a9d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/endpoints/health.py
+SPDXID: SPDXRef-item10433256
+FileChecksum: SHA1: b6344bf12c0c4130d9d60d8ca85eb117f3fd4093
+FileChecksum: SHA256: aa44f01a7a68a730a5117e8261959dd90068fb60a118a2b0cdf71c0da72e7f69
+FileChecksum: MD5: c927738eb3dd073be6df7ad93d00e1cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/hf_dataset_to_json.py
+SPDXID: SPDXRef-item10433172
+FileChecksum: SHA1: 1899a262fb404118486c71f9e623dec9ed765590
+FileChecksum: SHA256: 07998f9832074b93e7805c29bcae2906ea906a35f88920c1cce711e7a211d446
+FileChecksum: MD5: d034fcf8f10c264b6429b20ba2fd3958
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/hf_load_final_dataset.py
+SPDXID: SPDXRef-item10433173
+FileChecksum: SHA1: 92ff2f065ae27446b5191ef042800fa174ea20f8
+FileChecksum: SHA256: 61a75196bbdfb7ccc766de9f639c792775c10c6669e7f7901052a26523f40864
+FileChecksum: MD5: de62ebb136d3624aaf891463784d921d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/hooks.server.ts
+SPDXID: SPDXRef-item10433302
+FileChecksum: SHA1: 8013a59612702cceb05b34e731e32dbe1b782b2f
+FileChecksum: SHA256: 793b4844cb09dfdbec4abe0c0c8c3da100586a8aec7be7c108020da98d461ca5
+FileChecksum: MD5: afd320fc66f618c28586cbf5da9da744
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/endpoints/hugging_face.py
+SPDXID: SPDXRef-item10433262
+FileChecksum: SHA1: e03a7985cb081297134338b62619a275046ebdf1
+FileChecksum: SHA256: 09887778141088dd14fa746bdb878b7e32c1a1d86c321c9837bb20b9ec72e55b
+FileChecksum: MD5: 4399f4ce0c11081693d9828340cc5031
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/app/image.py
+SPDXID: SPDXRef-item10433212
+FileChecksum: SHA1: 0994e6d56eb782e97cd7d2d219aeca5e6ab3fe52
+FileChecksum: SHA256: 0581f5bbd1b308172a97213ff46ea29b6bc11c8f4f493249419452f441837801
+FileChecksum: MD5: f2abcbf90ced7fa4e0333fd0be9f4750
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/api/endpoints/image.py
+SPDXID: SPDXRef-item10433257
+FileChecksum: SHA1: f5861b372dbc21c1a3bee8f3ffdcda61e48b85d0
+FileChecksum: SHA256: 50f91b2bfa8636392c694b52d811874ce1e6331c48456babc1406213b27919fd
+FileChecksum: MD5: fa6c8ac04c48895192a54f331210f883
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/embeddings/image_embeddings.py
+SPDXID: SPDXRef-item10433162
+FileChecksum: SHA1: ec1c1b5bf1913cae2f5ac3f10bbf9f56b3aa3aab
+FileChecksum: SHA256: ac9d871726b6505040c4cf6ea819c30ec669e7c0dd9863a10ffcc89eaa89a5ec
+FileChecksum: MD5: 6b398d6fbc0bf65b8a691fc77a11f407
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/index.test.ts
+SPDXID: SPDXRef-item10433304
+FileChecksum: SHA1: 1935608df1f38ac6d4e3d51ad266ccf249d0d186
+FileChecksum: SHA256: f1df4d407636bb500c32eff3c8267d1c3d90b09e82f5a7d55980de035419803d
+FileChecksum: MD5: 61c17a8445e233be808209265198a9ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/lib/index.ts
+SPDXID: SPDXRef-item10433291
+FileChecksum: SHA1: 55488b4238701af54ded951f3cd2f10bfbdfbe1b
+FileChecksum: SHA256: 9f1f8b9cbb3c5e7d88e199f72cb7e2ce38d2c0cdc367734f6f970b3ce72925a4
+FileChecksum: MD5: 55fc50499a3df3b54ff700cae88ae754
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/logger.py
+SPDXID: SPDXRef-item10433252
+FileChecksum: SHA1: 507ede78086946979295cbb805297e8e57f49191
+FileChecksum: SHA256: c67329123d09bcd2ac1d890309d17006cd15f8f9466866421cc3f69375dc823e
+FileChecksum: MD5: ff0f68bf7fab4e6fb12d301d476fec12
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/app/logger.py
+SPDXID: SPDXRef-item10433214
+FileChecksum: SHA1: 160f467e7f7808677d767a961f80999fe2d219b3
+FileChecksum: SHA256: 2acd4055fc6c25a7fe187e8d9284bf162e62b76aa70f1335b2736d5adee0ff89
+FileChecksum: MD5: 4cc6813c874293e42770e173016acdae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/odr_monitoring/logger.py
+SPDXID: SPDXRef-item10433454
+FileChecksum: SHA1: 6f08fc222a7853e44e8cff83b4abd060ce75dac1
+FileChecksum: SHA256: 2961cca0c55a29cbf2e6e3e8d04b2c403fbe07bda29fa2b90a736e3555302496
+FileChecksum: MD5: e0194e25abb16a9de0b0dc11c3057f1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/utils/logger.py
+SPDXID: SPDXRef-item10433410
+FileChecksum: SHA1: ce09294b9dbed05344d59973ef8a29f2bdb9a32b
+FileChecksum: SHA256: 5bc01e2034b58e13bbe8d6ac6460ede8d26323bcd6529635502dab435753dc06
+FileChecksum: MD5: b77d343f11c2912447fda9008503e318
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/odr_api/main.py
+SPDXID: SPDXRef-item10433250
+FileChecksum: SHA1: f31dafaeac913624162778a2898a49f0386505ca
+FileChecksum: SHA256: b586b408b65fd0de9eae2decb5fd4612a27ab20a7b1620a8d677ed60d27cdf67
+FileChecksum: MD5: 1b4d2869bfa20691478f834f1dbe4bd3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/scripts/mass_add_spdx.py
+SPDXID: SPDXRef-item10433220
+FileChecksum: SHA1: b7cefb5c41bc5674f4d7e081a1d7f69c938d565c
+FileChecksum: SHA256: aedeb0a6c6ea1bec06d38e95cad0e4d951fb65a188f6a2681d291d97a8e85b7a
+FileChecksum: MD5: e0ddce0538df53cda279260b1b3f3888
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/utils/message_logger.py
+SPDXID: SPDXRef-item10433411
+FileChecksum: SHA1: 3b40a8f24b08a7ac458101662c2ad7031daae74f
+FileChecksum: SHA256: 6299ca4566aea702acad6ad0f780e8396ae85dd562b4a21dd314fad8dabd8f9c
+FileChecksum: MD5: 1dc8d9bf966881f5ecd9093bab83b438
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/new_process.py
+SPDXID: SPDXRef-item10433164
+FileChecksum: SHA1: 9476db71fbcbb0437efb025f13efce68c0939370
+FileChecksum: SHA256: d110ad5c95905219195d57c1651f120e526f94fa1100c971c985c8f4a42e45d8
+FileChecksum: MD5: e7eb6da15090a7e91c737a6e181ec614
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/omi-theme.ts
+SPDXID: SPDXRef-item10433378
+FileChecksum: SHA1: 6281466e1ca8ef9938905baaa3a152c6abd3c99e
+FileChecksum: SHA256: 6e1b98eff6a84d78b66bce5d5a1317e591af8dfc865bb654a4235a78eca1055a
+FileChecksum: MD5: 9e08ebb4daaf93b8516cd85789892114
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/lib/server/pg.ts
+SPDXID: SPDXRef-item10433289
+FileChecksum: SHA1: 28632d4b396ce5ba59aa7d7bc6e4a09d43ce3f8a
+FileChecksum: SHA256: e8cefe5b56ca0c57b94b8e2aa35a94744c2242ccdcfb5745c9f46e1529a06975
+FileChecksum: MD5: 7744b6c28c904ca17a277004df74e4eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/app/pipeline.py
+SPDXID: SPDXRef-item10433213
+FileChecksum: SHA1: 6b30afc8ae9ed8616b176f7514f2fd5f45e9a9d3
+FileChecksum: SHA256: 0f2a85aef115aff64b72ce40c8f51f72299038626fcbb87662c17b6a797f69ee
+FileChecksum: MD5: 501e8048f8e8e66200f0ef73f09ab929
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/playwright.config.ts
+SPDXID: SPDXRef-item10433396
+FileChecksum: SHA1: 532a29509496dd15a6168feee0b33bbf692b8ed8
+FileChecksum: SHA256: 1cccb6681ba1220c93cfb635fd5c8b2287aca7ec77fb57bf19309896165f8f90
+FileChecksum: MD5: 7eb2b36930cee9d18af6ace11d26e10a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.github/workflows/playwright.yml
+SPDXID: SPDXRef-item10433188
+FileChecksum: SHA1: 54e16a990cf87bb252a7a3ab8a242c1235de1ce7
+FileChecksum: SHA256: c3edcb2f5aa286c5ade97dc1de2cdd937ab24ee0097b46b2db5959876afe72c0
+FileChecksum: MD5: 956b40004e89d958bf826ab2310c63cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/process_annotations.py
+SPDXID: SPDXRef-item10433131
+FileChecksum: SHA1: 0d5cf9ffff35c913e98ecb6173953d03d49cb504
+FileChecksum: SHA256: c35139ea94e378039e47f701c4ece6c3d18e2b075dae83ded6fcbebfc5b5ce1b
+FileChecksum: MD5: 25a2d7f901ed24080503f3b83d8b43b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/old_process_reference/process_dataset.py
+SPDXID: SPDXRef-item10433154
+FileChecksum: SHA1: dee648791f78af6dead074822dabeab986f9e920
+FileChecksum: SHA256: 2a7d79d621ce35f07a345771016d4be02431569b1e2828ae81842f20865336f7
+FileChecksum: MD5: df674cfedf7fd48312cf3c1296bfa09b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_data_instructions/blender/process_script.py
+SPDXID: SPDXRef-item10433124
+FileChecksum: SHA1: ec940d211a5475cb24f035639833ddfff940a71a
+FileChecksum: SHA256: 311d5e6c7edc01501e8a5bd747d044cb21b5e437009de4e78767a4c87ae15e51
+FileChecksum: MD5: 00a8ee14b5e516fffa25c69b3cd21bd9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.github/workflows/publish-caption.yml
+SPDXID: SPDXRef-item10433184
+FileChecksum: SHA1: 766c4994b9358049571c1080d58e1228e4664855
+FileChecksum: SHA256: c8e3d6b55ee169c74b3b3137790ab76aa182fbfb06d213b5bcc06deff1f5e1b9
+FileChecksum: MD5: 68d65d4d4a298114d4e143479d3f01b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.github/workflows/publish-webapp.yml
+SPDXID: SPDXRef-item10433186
+FileChecksum: SHA1: c4cec94a5bc0a028177197c969ffbd70fc504d2d
+FileChecksum: SHA256: 35044115782abff5eeab981a3c48c8a3dbca9b13c250034ca6359c31393d2f82
+FileChecksum: MD5: edc93f7db3886dc655b1086f15aef24c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/run-playwright.sh
+SPDXID: SPDXRef-item10433118
+FileChecksum: SHA1: bea33205da8b0774f64f41bcdb8772f2b3a58d9e
+FileChecksum: SHA256: 677f5bcffe61bfa093e8b3e8386090952e1a25e7b9a10bfae27d7af4ce4add67
+FileChecksum: MD5: bf23bbb2841cd5fcca45944679c5704f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/run_integration.py
+SPDXID: SPDXRef-item10433231
+FileChecksum: SHA1: d75182c9bb2915c8c0010d1ca9f3d37014cc36b0
+FileChecksum: SHA256: c0b0753b1c7afb09a7065fc9b42473477525a260bc03b70d9b28627988edf147
+FileChecksum: MD5: 2a7fbd33def1b7bd12acfe28d745b7b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/old_process_reference/run_pipeline.py
+SPDXID: SPDXRef-item10433153
+FileChecksum: SHA1: bc5704d43fa52e4acb8e4e66e30f1a6a3b835d79
+FileChecksum: SHA256: e1361818d405d5f1ab8118133e19b781f11e00d2a48ed300cd9a62a23d69dbc4
+FileChecksum: MD5: 0145449f31e901ee70c4db318fac2701
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/scripts/setup.sh
+SPDXID: SPDXRef-item10433221
+FileChecksum: SHA1: 647e7662cc54444d4933839dab07091c0dd3e18d
+FileChecksum: SHA256: 0d74b26bdc9232da2bf2755a958f3e1ecf54289cc398a07aa103cf0795ca3018
+FileChecksum: MD5: f78f0cde549de6e74fb974611db41d6b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/scripts/setup_virt_env.sh
+SPDXID: SPDXRef-item10433223
+FileChecksum: SHA1: 31218d650db1befa29771ce82d1fc126717b8ce6
+FileChecksum: SHA256: 3fad0383b5cb722691fc57704166008fc0d105a94ecc3157594ee535f797e18a
+FileChecksum: MD5: 63b80b9c4f57ca79d7e06057ea58fc35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/old_process_reference/embeddings/simillarity_search.py
+SPDXID: SPDXRef-item10433157
+FileChecksum: SHA1: 029ad7d36dc3e7db869c2290e3a41b1cf1c71690
+FileChecksum: SHA256: e7bdf6ca0489d432425744077aef02681c82d7d3d23dd73eff5b230a2d1d6bad
+FileChecksum: MD5: 6da784879d989fc66b830974f4232045
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/test/smoke.py
+SPDXID: SPDXRef-item10433431
+FileChecksum: SHA1: 07e786b5576d087eb9f20b5076435f0ba2705f2a
+FileChecksum: SHA256: b2a1063428953a7b90b3ef5dd6cd057c89fa178e6ec825e17ff1ec6be797ec68
+FileChecksum: MD5: 98d4ad2038d28f430ad20c377980d635
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/odr_monitoring/formatters/standard_formatter.py
+SPDXID: SPDXRef-item10433447
+FileChecksum: SHA1: 6cd691b1297e8abf563a957c4a844c06beca2008
+FileChecksum: SHA256: a74cb333928106a24765fc9e7ff1e1484b29705d64a65bc0164d17ad57e1c686
+FileChecksum: MD5: 2044f1bce1291e1f3b22c5dbc78487d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/scripts/start_server.sh
+SPDXID: SPDXRef-item10433276
+FileChecksum: SHA1: 0bb83adba6b61d046ba4b34359697af1c4194f47
+FileChecksum: SHA256: 5aeb81147867ca3ce37b91a440d0879a179d20c6092a3edaa231317ae1b80364
+FileChecksum: MD5: 27959d813529b231c8c81b833274afdc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/scripts/stop_server.sh
+SPDXID: SPDXRef-item10433274
+FileChecksum: SHA1: ba6883959602648570f8b03ff23924f569760486
+FileChecksum: SHA256: e2bddd1e49129a34d8b542a75c7d409ffe3b28b8ee32ba0b3a643a1143fdd724
+FileChecksum: MD5: 8c5379940a086e9bbb55c87b7964f70f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/svelte.config.js
+SPDXID: SPDXRef-item10433383
+FileChecksum: SHA1: cd0de90c765898ba2d042c61efcc13ae4895de72
+FileChecksum: SHA256: 589f115564164c5925d6bca6eda398b16b0d1c8c709ca0fa1816ff52bfc71614
+FileChecksum: MD5: 5a2097a9eb5c7f5b2a2acecce674ea6b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/tailwind.config.ts
+SPDXID: SPDXRef-item10433282
+FileChecksum: SHA1: ced747a1f70ed949768f16f9bbba2462734bcff7
+FileChecksum: SHA256: f70d4a3b1d863f5077b857b8b10d5ba9a9fe1a4b9b3cbaf6332384756d7f1e5d
+FileChecksum: MD5: 3273ff703db6652b6eed8bf6e81fb353
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/models/team.py
+SPDXID: SPDXRef-item10433495
+FileChecksum: SHA1: 203749e5f86b554d1c80a078073b12f5cba64b11
+FileChecksum: SHA256: cb966d2cc325433c0c35bf0e57556c7d9981f118d331b0018ff60e0706cb1141
+FileChecksum: MD5: 9f512fd22a7238ba6fe517700e448de9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/tests/test.ts
+SPDXID: SPDXRef-item10433280
+FileChecksum: SHA1: ea2a6e8228cdf6b2e5da4cddd623e2d935df8b97
+FileChecksum: SHA256: f7873b93fb2ba33841059c557bfa030c04fe5a0b267480c5f201ee9678b8240f
+FileChecksum: MD5: 7638a8fe522d6dfaf4a2ea3f75eda9cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/models/annotation/test_annotation_lifecycle.py
+SPDXID: SPDXRef-item10433240
+FileChecksum: SHA1: 3d57a6c806f2240456bef59250fa8e034e05697b
+FileChecksum: SHA256: a8f5943c2c9db68b6c9dee7df215b7acf6525e1bf3e61f320fe01553055411d0
+FileChecksum: MD5: 552a4ec3898777b146ef80b6411e577e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/models/annotation/test_annotation_rating_lifecycle.py
+SPDXID: SPDXRef-item10433241
+FileChecksum: SHA1: d344963095f4560ffef9fdcb7f3cb3cda9810bdb
+FileChecksum: SHA256: 0d944de8090534169d2326532ddcafed7d2c8342b93e7ac538333af70db6efa0
+FileChecksum: MD5: 74837d561fd213ae81f5b76884fb524e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/crud/test_annotations.py
+SPDXID: SPDXRef-item10433481
+FileChecksum: SHA1: 53105df325ef185ac2ddd105ff61a2bcedfd82a4
+FileChecksum: SHA256: 8914a1e4e249393a2583d24d97b332ffd78ecc73aff90cf1d3f7f289bcb9573b
+FileChecksum: MD5: 990d90e32bf80d39fa6176f66804360e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/config/test_config.py
+SPDXID: SPDXRef-item10433485
+FileChecksum: SHA1: d9e0abc971ab7b0c65a3fd34c9ea2af1d3b6a6a7
+FileChecksum: SHA256: 8459930ff79e6f8d1b765d54b070f7e535ac3d74be9093ac51787784b3c20ef3
+FileChecksum: MD5: bd1dc7dea723c1277b4cb055eadfc9a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/models/test_content.py
+SPDXID: SPDXRef-item10433472
+FileChecksum: SHA1: 557af565e69daa249c7d50b564945a0f66fff646
+FileChecksum: SHA256: da5c600d6f1cdb7ec54f19f7813b6cda2ec727c326f1d7e50262a1ef186e85f0
+FileChecksum: MD5: 66631fb4ff8fad357b07fff6a9dbc986
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/integration/api/test_content_api.py
+SPDXID: SPDXRef-item10433465
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/crud/test_content_crud.py
+SPDXID: SPDXRef-item10433480
+FileChecksum: SHA1: 19048d0a21489b33c83ff590568c8820aec69cda
+FileChecksum: SHA256: eedce8cf5c5301c96f3757bfe5c37df72258375f13e1bf29777d4f641294154a
+FileChecksum: MD5: 4dcb105f41001b9457d1eec872cdccc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/crud/test_content_event.py
+SPDXID: SPDXRef-item10433479
+FileChecksum: SHA1: 86d16ad1748f594fd789d9b6339f4c36223eb1d0
+FileChecksum: SHA256: e0a488983701eae890e6b3ceea3b7c7508694253242f4cec4e98693aa2ee5ff8
+FileChecksum: MD5: 195119e35e7a6b5387330ae757df99d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/models/test_content_lifecycle.py
+SPDXID: SPDXRef-item10433236
+FileChecksum: SHA1: 437fbef623b0337ef6efb3f9ffef7436efbb2318
+FileChecksum: SHA256: 1e0cc90a34e2cb9535ff0da03b27f259787aede2369d30ce0f73c7754f296aeb
+FileChecksum: MD5: fa632f3870ffc388b3e47ed5c577cf65
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/crud/test_content_report_crud.py
+SPDXID: SPDXRef-item10433483
+FileChecksum: SHA1: 496673288da5c7dee216342af6ab314e7e0159d9
+FileChecksum: SHA256: 02e7bed5d81d847b0f5e8517d4eb886bc846cc3152beaf098f58b880878352b4
+FileChecksum: MD5: 0431962a8587dbefb3fdf4ed70952d35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/models/test_content_report_schema.py
+SPDXID: SPDXRef-item10433469
+FileChecksum: SHA1: 27af4cdd13ff30efa7192ce6079580cfda1e1ad2
+FileChecksum: SHA256: fb194fb599f9c87aa55e129f564351714e247f48b964346d22d05f64cd16c743
+FileChecksum: MD5: 05f0f9ac40c8b2bf84de503ab75ed63e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/schemas/test_content_schema.py
+SPDXID: SPDXRef-item10433474
+FileChecksum: SHA1: 1237024a0a4bbf1298f53df3bfb31c8ad325b86e
+FileChecksum: SHA256: cb5c5f365f4cc85c4dbf188966ee2b69487941d497924db11280849214250e00
+FileChecksum: MD5: ca672235cd09eb5da43b124379c6092a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/crud/test_content_set_crud.py
+SPDXID: SPDXRef-item10433478
+FileChecksum: SHA1: 7917158aed160b7249caeff0d88c1de4cdf67f2f
+FileChecksum: SHA256: f037f960c628507ecf1324b681400939fcbee1cbf9d4d2b2c155f210ff1875fa
+FileChecksum: MD5: d8d3fc42b73d0d61fba2bfe133cbadcc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/models/test_content_set_schema.py
+SPDXID: SPDXRef-item10433468
+FileChecksum: SHA1: d7a34255847621334218a392acdf981e875bf4cd
+FileChecksum: SHA256: 1d2e89b1d207fed4be296191561ab204447d5437868ab6dae62e06aa030b2f65
+FileChecksum: MD5: 6efac9bfe30c69e8f53f0dd4733cfa63
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/integration/db/test_database.py
+SPDXID: SPDXRef-item10433462
+FileChecksum: SHA1: 706e3c5365fc4c58b8b9699ffe4394d29be7ef4d
+FileChecksum: SHA256: a803dada71bd67c1d74b81b6f60cfb1a626554d121809959e097454d5d50d16a
+FileChecksum: MD5: b6fcaddc4e1d448a9711218dc3197bae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/integration/db/test_db_manager.py
+SPDXID: SPDXRef-item10433463
+FileChecksum: SHA1: c4356b6a5fb99fab1854d7b45a6f23a0b33a494c
+FileChecksum: SHA256: 752a49dfc9f846dc9aa7820f55f4f2ba86adf66c8df83330fa6d73aafe4cd0b9
+FileChecksum: MD5: fbede27b34fb3775ed2392f916be1b5f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/crud/test_embedding_crud.py
+SPDXID: SPDXRef-item10433482
+FileChecksum: SHA1: 80fe34257fc0d60115b4f59981efba89f821730f
+FileChecksum: SHA256: 0aa6da76d99b5e9d55bdb7de56195f7fa4b39acef4637e6bafaee7e246e752db
+FileChecksum: MD5: 064f631bcce357db3fb3c01e9ac73844
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/models/test_embedding_engine.py
+SPDXID: SPDXRef-item10433470
+FileChecksum: SHA1: 380da3b6bd840b9ff29e1760d2208b5b524cc787
+FileChecksum: SHA256: 90e265bb3aafa1afa3f615b8116e82349970ad843e7232e1940a386adad63d04
+FileChecksum: MD5: 9ad8ab4987b9ec3b5cf63aba6e2bc512
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/crud/test_embedding_engine_crud.py
+SPDXID: SPDXRef-item10433477
+FileChecksum: SHA1: 54a1e64ab7b64b74bc7566d07856269965391e60
+FileChecksum: SHA256: df127eab64898d16d1c3f5fdf556bdad39201854d0223b7b82551fba47b6212e
+FileChecksum: MD5: b60f99bfb8f1de912fb26d7600d2de0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/schemas/test_embedding_engine_schema.py
+SPDXID: SPDXRef-item10433475
+FileChecksum: SHA1: a788f0cb8f3bac5ee04d4dc019b07b61d59e3f01
+FileChecksum: SHA256: 7d25125b60579ac44f56e7bff2949ffb10eea330983a6f11d8e0e4cd835b72e8
+FileChecksum: MD5: 41089057d1f67c1ff126c18eeb5f4b9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/models/test_health.py
+SPDXID: SPDXRef-item10433238
+FileChecksum: SHA1: c40f40a7a04577c5a499e2019acc98a8f23dbf36
+FileChecksum: SHA256: 5a5bf8cdb8d1bcb18add5c69d3800f3385872d78418de2695864fd102fbf8a42
+FileChecksum: MD5: c744b72f64166f55145a801c3e342026
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/tests/test_logger.py
+SPDXID: SPDXRef-item10433441
+FileChecksum: SHA1: 71cdb3721e4cb75af47f3f433bb1d2cebbc0768c
+FileChecksum: SHA256: 486efd0d9d3f2046854db298a4df404f576bc507f285805fa518eef919acd415
+FileChecksum: MD5: 55fcd10f287d2b7ba5532d512f2e1875
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/test_result.py
+SPDXID: SPDXRef-item10433245
+FileChecksum: SHA1: c3191f1628b055b92d9a92f28e33f9ec1251fd2d
+FileChecksum: SHA256: 4d4e7a0a56a0aa93652512ea4d1ff9cccf08bca5cfc16c7ef743fe4aa9daae43
+FileChecksum: MD5: 7d2ab313784d8d18da841dbc1913fb92
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/tests/unit/models/test_team.py
+SPDXID: SPDXRef-item10433471
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/lib/toastHelper.ts
+SPDXID: SPDXRef-item10433290
+FileChecksum: SHA1: 619bd1cadcd50e2e9e95111a2aab501dcd3b7af8
+FileChecksum: SHA256: f4a70176f97ec521a0e3532d060c471ba0727d9fee94cc4db38b5454afbe7950
+FileChecksum: MD5: 654e16a7f5ae4dd1f7d63c79ba31115a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/app/ui.py
+SPDXID: SPDXRef-item10433211
+FileChecksum: SHA1: 28d7ccd940289dc3b983a53b7a7c5494127357e7
+FileChecksum: SHA256: 0a09c39b5488fbe89ed556af23f908367952099a9040a5536856e6c929d53841
+FileChecksum: MD5: 1585d4af428dbb737d7f09aec7db724b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/upload_private_dataset.py
+SPDXID: SPDXRef-item10433168
+FileChecksum: SHA1: 889276b44485334bf7fd034aab1eebfeccc9ea34
+FileChecksum: SHA256: 9189cba17e2b1024b207466e4abffd2fcdd26e0759967d58296bf7c2641403a2
+FileChecksum: MD5: f653910198fca9459e0c3804851d9ef5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/upload_public_dataset.py
+SPDXID: SPDXRef-item10433170
+FileChecksum: SHA1: 70259328a15e5f4454f7c28dc5eda9a500bdbf20
+FileChecksum: SHA256: 2949c89fc24a2e67260f8db0897750067bd9bd6d03d3e55b14dce1df8ae50de0
+FileChecksum: MD5: 8a45f58618cca908f05dba9a7db6e74f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/models/user.py
+SPDXID: SPDXRef-item10433500
+FileChecksum: SHA1: 36f1f8db56b1322a795ed406791a7d5f4ba53646
+FileChecksum: SHA256: 6d965a78f1763079338d76842b5f18aad71e4aa869ceb7ea7e1c910a9d01a5c4
+FileChecksum: MD5: 9719a983629d18f4ad7b4f06ac133c57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/crud/user.py
+SPDXID: SPDXRef-item10433519
+FileChecksum: SHA1: 8ea7d0ba2409bbf6273f246e8e0ffb4a2c2e8061
+FileChecksum: SHA256: 172e54918ca693b6df91dc819aa00d5eed34e5737b67452aee7e40dc96c655b1
+FileChecksum: MD5: 6725b2b35b12511a99ea68e392ea9fed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/odr_core/utils.py
+SPDXID: SPDXRef-item10433526
+FileChecksum: SHA1: e2b89e269faefd93537ccb961146c02573450a23
+FileChecksum: SHA256: fa6e7f9f191920fc77b4fa135df3f28a631625f1cc9d26a5bcf48ef20e8e0523
+FileChecksum: MD5: a6764d90710852b7c34c71a4d3a0a05a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/app/utils.py
+SPDXID: SPDXRef-item10433215
+FileChecksum: SHA1: 120dea232e01ea2df77a9f27144161445c2db443
+FileChecksum: SHA256: e33ddb662f7104c48fef31693880a0a7d4104c40c771b2e1b3f994d628a72a20
+FileChecksum: MD5: 8dea6bea1b48ce1932810f91f96364cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/lib/admin/utils.ts
+SPDXID: SPDXRef-item10433297
+FileChecksum: SHA1: 3c1b76411f488c46489d14179ba003abb61bc62a
+FileChecksum: SHA256: 8ba9321c64e85b0bd1f1472c159ff71bf85a8a68a3b07bacde49fa20e8ed7383
+FileChecksum: MD5: 482a849d62c9b65436c14479016b1afa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/outlines/vision.py
+SPDXID: SPDXRef-item10433428
+FileChecksum: SHA1: 16a4efdeeda141979530be565990ed51b15d8faf
+FileChecksum: SHA256: 0567a5019e3879c2f0f7882fc8ed1f09aefdd212d3123265cb57b8654bc6beb6
+FileChecksum: MD5: 24f1ab16d47c8ae865b8d09fa4d97bde
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/vite.config.ts
+SPDXID: SPDXRef-item10433385
+FileChecksum: SHA1: f3ed3064a0e0ac9eb0137c884a87b223a40d0bc5
+FileChecksum: SHA256: d7abadf40442d96950be77eff1161f906895c59ad5f7c429284714bb71049973
+FileChecksum: MD5: a5e65ad379fa25b8385144641ca5bf36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/odr_caption/schemas/vllm_schemas.py
+SPDXID: SPDXRef-item10433419
+FileChecksum: SHA1: 828a6fe7620ec9ec545844f77b85cc93c1b7f274
+FileChecksum: SHA256: b9e1fcb5b8ba43b945e4d06a476e1e543c7e4b29a03bd54d0c88d42ca32e84b2
+FileChecksum: MD5: 6b413958c6fdf1c0e74c435ca1209243
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item10433090
+FileChecksum: SHA1: c848833f40cd48b4128b5e877af5040a381de2bd
+FileChecksum: SHA256: efa0135c39c4820f7c0d475facc87b8b25900f1596f9f4fc7c9e271492f1b3fc
+FileChecksum: MD5: b0071ebce912b9750cf21c5579bdc4ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/CONTRIBUTING.md
+SPDXID: SPDXRef-item10433092
+FileChecksum: SHA1: 1d906bdfab20a50c33d1f7e0d9cbcbd88875a498
+FileChecksum: SHA256: 4a96d3fef2a21cc3a60066242e678c289ca2e7a5173b35d3cfe276a5f978ca81
+FileChecksum: MD5: dfc3944e98c9490204dcd6306a9376fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/DCO.md
+SPDXID: SPDXRef-item10433093
+FileChecksum: SHA1: 69dbbd118310c84eba441dff8a37f0a6dd4c5aa3
+FileChecksum: SHA256: 0dcf5d745ac04e73bd58fa1882a40dc7e87b0d613b24195ee4e66ad8d670f2d6
+FileChecksum: MD5: 3a05c563e3c30d32513fef829731aeb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/pipelines/architecture-experiments/main.py
+SPDXID: SPDXRef-item10433096
+FileChecksum: SHA1: a8e4586e8817512f8e7fc1db249d5ac0ac49506d
+FileChecksum: SHA256: 999534887ccbdad9dca7259f27cc704dff17f55adc771b05e6d69257dbf11eff
+FileChecksum: MD5: cb05dc4b390b77576d9af7884c8469d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/pipelines/architecture-experiments/OMI/RectifiedFlow.py
+SPDXID: SPDXRef-item10433098
+FileChecksum: SHA1: 9e5f7548edfaa33a1d61c54f12b6bb28be9df294
+FileChecksum: SHA256: e9f2b06baa8141c2a62fd3ffa5c92d77c86253304face02ec48c5ffb53c3ff82
+FileChecksum: MD5: caa15acbfab3dc100cd7ebd7761f6eda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/pipelines/architecture-experiments/OMI/__pycache__/RectifiedFlow.cpython-310.pyc
+SPDXID: SPDXRef-item10433100
+FileChecksum: SHA1: c6ede6e96b05a5029be145aa0c0a99c5945cccbd
+FileChecksum: SHA256: d0f438e6b1dbcc971467bbd82da753c1baf450c9d2be6ac582f945314b525b28
+FileChecksum: MD5: a372c8ce341ca237ef7df583026fd99e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/pipelines/architecture-experiments/OMI/__pycache__/utils.cpython-310.pyc
+SPDXID: SPDXRef-item10433101
+FileChecksum: SHA1: 6668af9992c520e2d6a2fabd69a2714e9795fcb7
+FileChecksum: SHA256: ba59b3bba7c46ad1582a4b0380241aadf09cf4376bd411803a123f54a47bf710
+FileChecksum: MD5: beffb704bd8c3121a8db4ce1ec9bf11f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/pipelines/architecture-experiments/OMI/__pycache__/dit.cpython-310.pyc
+SPDXID: SPDXRef-item10433102
+FileChecksum: SHA1: 9c83d2a3ea627910bf21c14a1d38d50927d5ab74
+FileChecksum: SHA256: 69a828f95c2a26553f6d0926af611d8c6e913e5f8a40e85c4982dafcb8b64518
+FileChecksum: MD5: 1663e13315a8fcc50a75126f2b4bbd4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/pipelines/architecture-experiments/OMI/dit.py
+SPDXID: SPDXRef-item10433103
+FileChecksum: SHA1: 2138163bc63b5839193845d89d3373d180ed9f43
+FileChecksum: SHA256: e62c945e92a2e317ed2486d80408ec3dab3483fedb782704bba9e3ec4e0c43c2
+FileChecksum: MD5: afcce2e11a33b814a657724ee167bb40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/pipelines/architecture-experiments/OMI/utils.py
+SPDXID: SPDXRef-item10433104
+FileChecksum: SHA1: a1036b2bef0d92692155fa635662c7527d164668
+FileChecksum: SHA256: d42dccc92fc1cfdc255b5115cea4c4d8c6b5632a9785c5343c78f63cbad57c68
+FileChecksum: MD5: c35e66bb66097f4b3cfbcd695f3096a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/CODEOWNERS.md
+SPDXID: SPDXRef-item10433105
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Training-Pipeline/SECURITY.md
+SPDXID: SPDXRef-item10433107
+FileChecksum: SHA1: d03c3104e3c8821f1e47764875b39f74757ab477
+FileChecksum: SHA256: 9883ac23ea5ccae8220c16b5dbaa050f89a0a0f9f9ef4bb410cdb330fcfe8d49
+FileChecksum: MD5: 45e673ed82d8db0e87356d38610d9a74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Site/CNAME
+SPDXID: SPDXRef-item10433109
+FileChecksum: SHA1: 160374a322897186dbab40cd615b5858c2d59ea4
+FileChecksum: SHA256: aa7c331cb41666ba8db27f58842001a0caf1e7adc50137231d60168be8bcf800
+FileChecksum: MD5: 19b355fbca7be822079dc268851d2126
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Site/README.md
+SPDXID: SPDXRef-item10433112
+FileChecksum: SHA1: 9bb22d39053a9b9326632a14563ef33f404ad62f
+FileChecksum: SHA256: 4ed29a39804c755ef88e8e7b6c987a0d204e8bd9c3a593ad0be072d9712c0f4e
+FileChecksum: MD5: 15f109a7190a954a368a6b0303bcfcf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item10433114
+FileChecksum: SHA1: 3e61e5cfd555252b115e49405e672bd87448a49d
+FileChecksum: SHA256: b2e7372965a77e1837511ada01449907aea76e065a932086ac1b7eb46c66ebc3
+FileChecksum: MD5: f9c5e5c8191dcca986818adc35c25543
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/requirements-dev.txt
+SPDXID: SPDXRef-item10433116
+FileChecksum: SHA1: 46f1a094d2c7a77aec8cb692c8f87e4dded53e00
+FileChecksum: SHA256: 2a7164916f696f6943b82e388f62ae55d455aa667499b762d1e30eeeeb3af778
+FileChecksum: MD5: cccf4c8fbac55076a041e3005c589e6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/CONTRIBUTING.md
+SPDXID: SPDXRef-item10433117
+FileChecksum: SHA1: 4757633ccd6390b19993e9d6b8c9a8046b59a34c
+FileChecksum: SHA256: 763f8c10d6db57c436d18f8d831cbc6fcfceebbc1e4bae9081186685d8f2856b
+FileChecksum: MD5: d6e420542c7277b99e6e3261ffa0ff53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_data_instructions/godot_engine/README.md
+SPDXID: SPDXRef-item10433122
+FileChecksum: SHA1: 76bde13da22b0315e452d6e37290883a3d7b323e
+FileChecksum: SHA256: 823f2081350648f9306890ba04a38ae026399f871c666be7c917479b0e073acc
+FileChecksum: MD5: d3493f5aaf6b95a91ede8d4dcb22002d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_data_instructions/blender/initial_scene.blend
+SPDXID: SPDXRef-item10433125
+FileChecksum: SHA1: 898e04c63afae8d0b755b42f9768ba2478d0b118
+FileChecksum: SHA256: aac64ae972f7ea9757a334d5e7fb08ecf87e7736cad0f9a20fd3da022d46d929
+FileChecksum: MD5: 454cc597fbde066db7b021b59520194f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright*licensetagsactive_tagtot_tagscustom_library_indexasset_library_type*asset_library_identifier*relative_asset_identifier*pathname[32]rule*obfear_factorsignal_idlook_aheadoloc[3]cfradistancequeue_sizewanderlevelspeedflee_distancehealthacc[3]state_idrulesconditions </text>
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_data_instructions/blender/README.md
+SPDXID: SPDXRef-item10433126
+FileChecksum: SHA1: effb514f0b2efedf5d426829a752a51feaf5eb3e
+FileChecksum: SHA256: 155a55440f693c5b2346d88eae71ef915d9d4b283658647a34f8a1c01b375aa1
+FileChecksum: MD5: d277e4c631fd9dd429f6b504281c498f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_data_instructions/unreal_engine/README.md
+SPDXID: SPDXRef-item10433128
+FileChecksum: SHA1: 2378ad67dabf44af91fe9277eb59492a2ac2cb4d
+FileChecksum: SHA256: 9b1d8b1fb15aee18e4793ea7fd3bc6f55e722ece5749d054fae6d74c1986872e
+FileChecksum: MD5: 1bea1b20e011133bccc1e70f76964ba1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/datasets/mappings/zlicastro_zanya-custom-dataset-test_mapping.json
+SPDXID: SPDXRef-item10433134
+FileChecksum: SHA1: 5bb6620ca2e167887c8454fab668072c71ec2ff6
+FileChecksum: SHA256: fade28d90b12604ec820a4774e39cac3ed17752373e53166b15855e3a24bb755
+FileChecksum: MD5: aee03ae46e7030e4f67c8f56cb480626
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/datasets/mappings/tomg-group-umd_pixelprose_mapping.json
+SPDXID: SPDXRef-item10433135
+FileChecksum: SHA1: 4ebfe2558f5916d1223c81da245ac815811d61ee
+FileChecksum: SHA256: 0ed4d3084dd2092aa08debddf017ff97ac0b25caf5102337973968d2052a9fb9
+FileChecksum: MD5: c1e6f97ea8affb98d7f94080fc115719
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/datasets/mappings/common-canvas_commoncatalog-cc-by-sa_mapping.json
+SPDXID: SPDXRef-item10433136
+FileChecksum: SHA1: 78d334081e3976bd0abe74433dcbe9adea1fcbd8
+FileChecksum: SHA256: 0e9cb41402f3f7f0d2345771afb491f16db5414068e38313dbeab24791d2b66a
+FileChecksum: MD5: 9f6e7c4f28aa10ef35923621ccde75fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/datasets/bad_images/sorry_no_image_01.png
+SPDXID: SPDXRef-item10433138
+FileChecksum: SHA1: d12cde820b9d0bfd4343741f3193f1294bc06b87
+FileChecksum: SHA256: 23a628a99d06eb4fdb524900318b3a2dd6f0a70ff29b12c07f1e03fb49bca4a5
+FileChecksum: MD5: f34fe07fd5d4d2246b72f9141a871651
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/datasets/dataset_info/zlicastro/zanya-custom-dataset-test/dataset_info.json
+SPDXID: SPDXRef-item10433142
+FileChecksum: SHA1: 0137569ba20301a73410f7634a6445b020363fe9
+FileChecksum: SHA256: 2ee117abeff9db8cd9f0714d4cf2ccc83f565fdd95e0695726479befaedc8591
+FileChecksum: MD5: 485946292bd505ba461213698bb89e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/datasets/dataset_info/openmodelinitiative/initial-test-dataset-private/dataset_info.json
+SPDXID: SPDXRef-item10433145
+FileChecksum: SHA1: 299b8245abcb7d16a70c1bdffb7660d5fbbd6fb8
+FileChecksum: SHA256: 4045167584440215d1e0a40f27b9326746f3d7f27d29c92917127dea59126e6f
+FileChecksum: MD5: 1200bacb140bca49d1ea8001669b86ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/datasets/dataset_info/openmodelinitiative/initial-test-dataset-images-private/dataset_info.json
+SPDXID: SPDXRef-item10433147
+FileChecksum: SHA1: b532b994db119d1e00f67a6e55b44a27a7ee1881
+FileChecksum: SHA256: bb44c687711ef798b0bfe04a8811947dcd9c8dcf09e688f9b64432fcf672daf1
+FileChecksum: MD5: cc89dde0411bfd7694fa2478ed8be8cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/old_process_reference/embeddings/README.md
+SPDXID: SPDXRef-item10433156
+FileChecksum: SHA1: 5d5b1122918386d03403d4d08782f61cd994eb96
+FileChecksum: SHA256: 5b6522e73baa1af21658cbc94dcc47de3cc2da858d2b5c36fce1b8263d75035d
+FileChecksum: MD5: da24e3f7ef9b74f35c33111565684565
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/old_process_reference/README.md
+SPDXID: SPDXRef-item10433158
+FileChecksum: SHA1: 8116ae272571f62c3596c9cc2dffaafc97e86559
+FileChecksum: SHA256: 40884a600b5c106a405a5fa7a2a8716693594591f93e876547afa76109266d13
+FileChecksum: MD5: 6713665c3bff836dba8cbe74493bc57f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/embeddings/embedding-requirements.txt
+SPDXID: SPDXRef-item10433160
+FileChecksum: SHA1: 3e7c2c1fe4cd98db33e88194916d8cd28f5dc2a7
+FileChecksum: SHA256: f79ec7616874bacaac4ce7cc068408c14f9ded4821532c2bd2e6d12454a3f9d9
+FileChecksum: MD5: 462fe0f6f187e671a461a61fa5e12b72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/embeddings/.gitignore
+SPDXID: SPDXRef-item10433161
+FileChecksum: SHA1: 1972a0ec50fea02acd9091c7fb73c6098e15a86a
+FileChecksum: SHA256: 76b27f03ceb4dfa00867235340c240731abbbf452d50e98643126080a10715c3
+FileChecksum: MD5: f1ffab5d753f204bace0550030f8ff9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/.gitignore
+SPDXID: SPDXRef-item10433167
+FileChecksum: SHA1: ab454b70cdaa6bf64f0ad66f8e7cc26b65e42abb
+FileChecksum: SHA256: f488db0c189e72d6fc6550ea0daa66e63b1fe3b766958401182f6099cb8c80cf
+FileChecksum: MD5: 82b63807676189fd1fd5d026b3da1286
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/README.md
+SPDXID: SPDXRef-item10433171
+FileChecksum: SHA1: 327e4837718b341fc8723dd0e6c9ba2e8d79ab94
+FileChecksum: SHA256: 3506715dcfefe899c75abda7bc06e7db7b1dd34d85ae7a2ee134d140a7c22e15
+FileChecksum: MD5: d40b9ee391e80829e95d5b26e8a8e6c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hugging_face/hf-requirements.txt
+SPDXID: SPDXRef-item10433174
+FileChecksum: SHA1: a18270bff5cf0de270a987cac0128fe2543195e3
+FileChecksum: SHA256: d825937d3206d5b863fb39419be0518afbbdc56f888b636d0ef6a1f75061594d
+FileChecksum: MD5: 49c615b6bea2b371142489daf467ef3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.vscode/launch.json
+SPDXID: SPDXRef-item10433176
+FileChecksum: SHA1: 3b3095301f0294cac5bd036df627865451380091
+FileChecksum: SHA256: 76bd999a534adf52b4ee09bc48a4dcaf55d42039a53e8c6075d914197445d735
+FileChecksum: MD5: 26150ecac2fd3deab136e2d1dac3def5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.vscode/settings.json
+SPDXID: SPDXRef-item10433177
+FileChecksum: SHA1: 10bba3ec5df8621a07f6e9255bb6b308f73bb679
+FileChecksum: SHA256: dce4fda93d24253a0db49fc102e695988a8ed4a32112b4ae1d209dac866df25e
+FileChecksum: MD5: ae4c93b0c477d8297115693745534d4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.vscode/extensions.json
+SPDXID: SPDXRef-item10433178
+FileChecksum: SHA1: c7545c26786f6600248425f747705ed928085382
+FileChecksum: SHA256: eb51808fb55bee2f7b27ecf1315768b4057b5d8be1dbc80355127b1db5231c89
+FileChecksum: MD5: 3b83a08a650f23156a12651663b8d2ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/dng_conversion/.gitignore
+SPDXID: SPDXRef-item10433180
+FileChecksum: SHA1: f22a8d06872ddddfe9371e4c3b6bf9a8d0498d77
+FileChecksum: SHA256: 8841d218ee0d99c9ae71eca1ab86435e48d402b1784ddbbfc74a34c594a3ac11
+FileChecksum: MD5: 6402f6ae3c6a07836b3728c6818fa2ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.flake8
+SPDXID: SPDXRef-item10433189
+FileChecksum: SHA1: 0e7c55b71be8251b24ba7cf5278fe4c3e1dd3a14
+FileChecksum: SHA256: e9026048b386d72603848972cc2daad847761827b0da3257f345dab76a34a234
+FileChecksum: MD5: d7358a3faab5e77f63b128beef11b747
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.gitignore
+SPDXID: SPDXRef-item10433190
+FileChecksum: SHA1: 152d0d96ff9516c3fd88ba44d17ed8f04803c8c6
+FileChecksum: SHA256: 3a2f11619ac710a32805ab759e90f6d0114f2a861a444afa0e73346648f1c79e
+FileChecksum: MD5: 3d52dfbf4ec64f249c26e2b10f644315
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/DCO.md
+SPDXID: SPDXRef-item10433191
+FileChecksum: SHA1: f12bc3d485f4f3db79a5ae4056abf1ca85744c4a
+FileChecksum: SHA256: 0f2ec4a2b1c7f9a80cf4137be0cbabae05f8fb7be45025e36991969c2997849f
+FileChecksum: MD5: 73221ef055cac9a65fb035f4938ddfb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/.env.template
+SPDXID: SPDXRef-item10433192
+FileChecksum: SHA1: 2fba60ed6ef33014c036a54c47998328a1bef39f
+FileChecksum: SHA256: 9d9c2998b5314ee015d5e9702d605bb3445d3183d305e9b1aa20a2f532a3a89d
+FileChecksum: MD5: fece4a59b94c63dd4203a79c14edd596
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/GETTING_STARTED.md
+SPDXID: SPDXRef-item10433193
+FileChecksum: SHA1: 4d0a8622e62042ff3a2b79490253e69413b809b8
+FileChecksum: SHA256: 3508aa11796b2697bdf50a6bb64862415903dd6529071378eb6898633f039bc1
+FileChecksum: MD5: 7bdb573eeb0c5e9c172d7153e1ba8220
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/requirements.txt
+SPDXID: SPDXRef-item10433196
+FileChecksum: SHA1: a76cbc8388bd4556450b7a05fb60428438da93b6
+FileChecksum: SHA256: c9edafe2cf31b282ed518d5577d91b9d26f19c650dbff1b368c3966774c6f6d7
+FileChecksum: MD5: 124b56497a466709f93b2c086704a2e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/README.md
+SPDXID: SPDXRef-item10433197
+FileChecksum: SHA1: e367ba80c243faf2c6055687a53f71135ccdd0fa
+FileChecksum: SHA256: 37a8faa88a868b39f5e2949e9ac91e8cc11de21f2a6d892a2a8f614796aaa965
+FileChecksum: MD5: 3319033a5d3ea09879e8b79dee277b6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/assets/screenshot.jpg
+SPDXID: SPDXRef-item10433199
+FileChecksum: SHA1: 5d737191583ff51305c05d3ccd0f266b6e00fbf0
+FileChecksum: SHA256: d252a7a0de23b82b9bfbdc1cd313aaac4acd26f6fc68b5534a0ccd2fff842c58
+FileChecksum: MD5: 3486b02df3f4d49b9913322796cc6a12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/assets/dng_validate.exe/.pdata
+SPDXID: SPDXRef-item10433202
+FileChecksum: SHA1: e4f4bc2bc9dd1b4695864bc923947f02693e78a0
+FileChecksum: SHA256: 8d60318ff712d24db8231546e76bca6e06cafda3b8c41977903264a659960138
+FileChecksum: MD5: dc52b34c6e63ea1b31dc75a503cd2bda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/assets/dng_validate.exe/.reloc
+SPDXID: SPDXRef-item10433203
+FileChecksum: SHA1: 8286c9cf14b7eb1782f3e6f3d916e2e9374ae001
+FileChecksum: SHA256: 11b3238755685c35d0fb2155d47c071f2137789cad6fe95c6e894cb573246bae
+FileChecksum: MD5: c70b489abcafafeedd90d2ce2c83eada
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/assets/dng_validate.exe/.rsrc/MANIFEST/1
+SPDXID: SPDXRef-item10433206
+FileChecksum: SHA1: 4260284ce14278c397aaf6f389c1609b0ab0ce51
+FileChecksum: SHA256: 4bb79dcea0a901f7d9eac5aa05728ae92acb42e0cb22e5dd14134f4421a3d8df
+FileChecksum: MD5: 1e4a89b11eae0fcf8bb5fdd5ec3b6f61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/assets/dng_validate.exe/.data
+SPDXID: SPDXRef-item10433207
+FileChecksum: SHA1: 7954f2c681550160cb31ec78783c6a0786e6a8aa
+FileChecksum: SHA256: 9ae729fded2eeed36fb06c8ad33659285b5359b2b5d3f45165b0f52d988995b3
+FileChecksum: MD5: 061f8984faf474b6737711bb0c620e73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2018, Thomas G. Lane, Guido Vollbeding9c 14-Jan-2018Caution: quantization tables are too coarse for baseline JPEGAdobe APP14 marker: version %d, flags 0x%04x 0x%04x, transform %dUnknown APP0 marker (not JFIF), length %uUnknown APP14 marker (not Adobe), length %u
+Copyright (c) by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED. ÿÿÿÿ </text>
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/assets/dng_validate.exe/.text
+SPDXID: SPDXRef-item10433208
+FileChecksum: SHA1: b0f929f08570ba5682e5aa1b0ef100c93b45cbd4
+FileChecksum: SHA256: b54ce20e45a043bc123cf6ae1c4af49c7df1124be74e3a08a084eace2cb28597
+FileChecksum: MD5: 3b4b2fcfc6883e8372660284541e4c19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/hdr_sdxl/assets/dng_validate.exe/.rdata
+SPDXID: SPDXRef-item10433209
+FileChecksum: SHA1: 53c62c4a2f7747655a3aa821565e7d8599e4f8d4
+FileChecksum: SHA256: fbcbd73e314e9d62b956e8a9884bb6069b7a2317e48e3c433457b4e50383ad21
+FileChecksum: MD5: 54917c19aaa9ebb7e32d349b3d8847b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC
+Copyright 1999 Adobe Systems Incorporateddesc?Adobe RGB (1998)XYZ óQ ÌXYZ curv 3curv 3curv 3XYZ ?O¥?üXYZ 4 ,?XYZ &1?/¾
+Copyright 1999 Adobe Systems Incorporateddesc?ColorMatch RGBXYZ öÜ?Ó:XYZ curv Ícurv Ícurv ÍXYZ kFc?6XYZ R#¨y?×XYZ "H?%±
+Copyright:
+CopyrightFlashBForwardMatrix1ForwardMatrix2PreviewApplicationNamePreviewApplicationVersion%uPreviewSettingsName%uPreviewSettingsDigestPreviewColorSpaceUnsafe%uPreviewDateTimeRawImageDigestOriginalRawFileDigestSubTileBlockSizeShade%uRowInterleaveFactor
+CopyrightExposureTimeFNumberIPTC/NAALeafPKTSAdobeDataExifIFDICCProfileExposureProgramSpectralSensitivityGPSInfoISOSpeedRatingsOECFInterlaceTimeZoneOffsetSelfTimerModeSensitivityTypeStandardOutputSensitivityRecommendedExposureI
+Copyright: Allow copyingEmbed if usedEmbed never No restrictionsINVALID VALUEProfileEmbedPolicy: %s ProfileHueSatMapDims: Hues = %u, Sats = %u, Vals = %u ProfileHueSatMapData1: ProfileHueSatMapData2: sRGBINVALID VALUEProfileHueSatMapEncoding: %s ProfileLookTableDim
+Copyright 2005-2019 Adobe Systems, Inc.
+Copyright 1995-2017 Jean-loup Gailly and Mark Adler Ô;/@ c?@ ôf?@ ôf?@ ôf?@ èj?@ èj?@ èj?@ ?èj?@  èj?@ èj?@?` P s p?0	À
+Copyright 1995-2017 Mark Adler _0@?0@?¨0@?Å;/@?¸0@?Ȃ0@?؂0@?è0@?0@ 0@?Å;/@?0?w,a?îºQ	?Äm?ôjp5¥c飕d2Û?¤¸Üy?éÕàÙҗ+L¶	½|±~?-¸ç?¿d?·?ò °jHq¹óÞA¾}ÔÚ?ëäÝmQµÔôǅӃVl?À¨kdzùbýìÉeO\ Ùl?cc=?úõ È n;^?iLäA`Õrqg¢Ñä?<GÔ?KýÒkµ ¥ú¨µ5l²BÖɻÛ@ù¼¬ãlØ2
+Copyright (c) 2016 schema ?30 ?29 -COMMAS- ?27 ?26 ?25 ?24 ?23 isStale isDerived isStable ?19 isInternal hasAliases isAlias -AFTER- -BEFORE- isCompact isLangAlt isAlt isOrdered isAr
+copyrightx-repairexif:GPSTimeStampxmpDM:copyrightxmpRights:UsageTermsuuid:InstanceIDFailure creating xmpMM:InstanceID&#xParser bytesLeft too largeNull parse bufferÀk0@?HÖ2@?äÈ?@?, @?¼È?@?ÄÈ?@?Ö2@?ìÇ?@?°Õ2@?4É?@?¸Ë?@
+Copyright (c) 2016Big endian flag mismatchLittle endian flag mismatchXMPFiles: Unable to allocate memory for Progress TrackerXMPFiles: file does not existXMPFiles: path specified is not a fileXMPFiles: rejected file extension specifiedXMPFiles: No smart file handle </text>
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/CODEOWNERS.md
+SPDXID: SPDXRef-item10433218
+FileChecksum: SHA1: a773c00adf8ab3610c2534e88a65bb9ebf9318c9
+FileChecksum: SHA256: 38a85e7ad5d908dceecf4f543fbdd67b1a662ee701663d667d517a94d258880c
+FileChecksum: MD5: b3e8ddf0723bca5f93928e81e500c140
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/scripts/setup_virt_env.ps1
+SPDXID: SPDXRef-item10433224
+FileChecksum: SHA1: 1d945035832795172b7dfcd7f94abd7a853f47d1
+FileChecksum: SHA256: 8c7e0b03e46707d15126deac81fb6105def00706630194220eb2d4ac79792672
+FileChecksum: MD5: 2ecaa203b24171a83c8ba8606834ee1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/scripts/setup.ps1
+SPDXID: SPDXRef-item10433225
+FileChecksum: SHA1: 3de2bb4d06c77569ceaa818b725bd66c9b73fe1a
+FileChecksum: SHA256: 3dc95c3d2f45f770341ea43ece6cc6c8343b048138345f3407e2cf670fe7f960
+FileChecksum: MD5: 1974084cea8e2a33e840f23c6b951dd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/test_assets/omi_logo.png
+SPDXID: SPDXRef-item10433234
+FileChecksum: SHA1: 3810e0c9d957672d0ccd0072c9e3c965e8aa69d1
+FileChecksum: SHA256: 699318f5cfc60a42072a6687146d232ba8be1ab71fc6ddb26e10bbc00be41925
+FileChecksum: MD5: 1b96a0c667cef5b104e70b6305973815
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/tests/integration/README.md
+SPDXID: SPDXRef-item10433246
+FileChecksum: SHA1: e667c9f8de2e3457a8bd87b7fa75fd09f1e22fbc
+FileChecksum: SHA256: c40c188c50483b8a0a7f7c4b7a390eb97e3c61f0c2c1e9f341679a81c28f449c
+FileChecksum: MD5: c4bc83f7e5fcd44552c9c56538617779
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/pyproject.toml
+SPDXID: SPDXRef-item10433269
+FileChecksum: SHA1: b105a1668a6cdb6a36057bc0bc6f9c10a3842364
+FileChecksum: SHA256: 54b89073392aeea699bcafde9b567fa5ec94168de9ee44c923fee3866f656f69
+FileChecksum: MD5: ccc586f82e1e49ad3cf5127309db66b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/docker/Dockerfile.api
+SPDXID: SPDXRef-item10433271
+FileChecksum: SHA1: 7c31d307c5110acded4a1f35f8a8d80f9deccf4e
+FileChecksum: SHA256: da0aaa3f2c8be92734aa418c20756ec7afc0b4239cded12a6d2acc9d94b47d65
+FileChecksum: MD5: bdb8994e1cd856bdf33c0b8f00beaf2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/requirements.txt
+SPDXID: SPDXRef-item10433272
+FileChecksum: SHA1: 045c19baa0c3093968fcac1d3eaec3ca09b39868
+FileChecksum: SHA256: 3215a36af2434128642f0c50d87a9761a2dc5c9dc84303096247255d07712cb1
+FileChecksum: MD5: 7939e1916269b4a1b14dedbf99837399
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_api/scripts/run_server.ps1
+SPDXID: SPDXRef-item10433275
+FileChecksum: SHA1: b09ffe760fbeeb2af36389bf820babe470d33973
+FileChecksum: SHA256: e34111e00a4b853ea43805d872891652c55a54afca84d980b7b2b4e6ef7d4688
+FileChecksum: MD5: cbca603c2d5be35083ff34566553734f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/.prettierignore
+SPDXID: SPDXRef-item10433281
+FileChecksum: SHA1: d2295e258cf7ad5f43ba77def615a6276289726e
+FileChecksum: SHA256: 53b371672d1620f38383706df127e44ad89a9791abeaedbeacb578d678ac24f6
+FileChecksum: MD5: 9a0c508eb7e6a3309f493a5463494dfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/tsconfig.json
+SPDXID: SPDXRef-item10433283
+FileChecksum: SHA1: 2c296a214f60fb2aab575ed483e203ec94f220b1
+FileChecksum: SHA256: 214b75bd2ab39b4d4b558fcee60001cd8dbe47cdbdb529417731b0cfe8b89ed6
+FileChecksum: MD5: 7e25b75cdb5518e1b8f64a78f0ffb033
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/lib/icons/UploadIcon.svelte
+SPDXID: SPDXRef-item10433293
+FileChecksum: SHA1: c9aeaf634d19db519dcda6ad8dd28cb3fa95074d
+FileChecksum: SHA256: cab99994605b2eea9453d9278fc75b1b2a0cb3ac943a36bd8e0e6a6f424b7430
+FileChecksum: MD5: 2c5f5274fecada97eac776c892b99a59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/lib/icons/DiscordIcon.svelte
+SPDXID: SPDXRef-item10433294
+FileChecksum: SHA1: 5794d95d098a201321ac73d01c0b54a72062ccd0
+FileChecksum: SHA256: ef90b557c7c3ac2f92d40554f2ff7f1848b240d6850501dc145a7306bd350a34
+FileChecksum: MD5: fe646b9b8e793d2d28de956a440b47f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/lib/icons/GithubIcon.svelte
+SPDXID: SPDXRef-item10433295
+FileChecksum: SHA1: 294f5b97b703be8abd7b17146ef730d8a99f27f5
+FileChecksum: SHA256: de39c728d4cf76f0402227fc7dd231d3986af7be5a89d18db9a3bba09ecfa830
+FileChecksum: MD5: cf1b1895b290295cc7278f14f731e7cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/lib/admin/SuperUserToggle.svelte
+SPDXID: SPDXRef-item10433298
+FileChecksum: SHA1: fd9ea2f11373825e97319defd90dde406bbf5277
+FileChecksum: SHA256: 7dbe5fb22da0a03a83d64eaa5d4111efb58ec8a21164d720769fdf2698f9b450
+FileChecksum: MD5: a2bc70390378d8cbac2cd3fa90066e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/lib/admin/FeatureToggle.svelte
+SPDXID: SPDXRef-item10433299
+FileChecksum: SHA1: 1c4511806c0091124877d62713214c521e3b7e7f
+FileChecksum: SHA256: a085d4f40d5008c9c16520e81097d4920f27330ad67cda25bb73414b906e0bb4
+FileChecksum: MD5: ce69872bb1359a3d3eec4669f96636b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/lib/admin/ActiveToggle.svelte
+SPDXID: SPDXRef-item10433300
+FileChecksum: SHA1: 60a6efe7f69a3c64a1df57f55d431808ab5ad6e5
+FileChecksum: SHA256: f1219c1b0148c41b2b0c9422b33c025b23e9743f93c92f97bb0c33c6ea8ec51a
+FileChecksum: MD5: 700fee903a60c82e806ae675dafb5824
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/app.postcss
+SPDXID: SPDXRef-item10433303
+FileChecksum: SHA1: 48bbafb1e4ed6bf98f297ccda1435ab48231a33a
+FileChecksum: SHA256: 57d3ffbcc8b76a559d009b3ddb908a8c9f64ff9778eb33cccf1364af2d5e5180
+FileChecksum: MD5: ddc31aede554561e1d7c2f97e3c1d81f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/dump/+page.svelte
+SPDXID: SPDXRef-item10433307
+FileChecksum: SHA1: 49f0f9fd23f3b4e28ae945c85088dbf45578ddc0
+FileChecksum: SHA256: a46393cfdcd6c0e00cb5b80fadde0fa4c99575c18792115817efc3c436b00b5d
+FileChecksum: MD5: 2d152e2b2a056a93eee92f118c0b15e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/datasets/+page.svelte
+SPDXID: SPDXRef-item10433311
+FileChecksum: SHA1: 69a49963f4a0576f25c8414add2027a9cd383fef
+FileChecksum: SHA256: 98eb0ec9e7a3d1566f939359b8ae96770f8fe681b72f132acfc31daaae93a14d
+FileChecksum: MD5: 43e0fa39e5ce38dcadbed044772728f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/datasets/import/+page.svelte
+SPDXID: SPDXRef-item10433313
+FileChecksum: SHA1: d0c2b2d95fdbe3939df21ac3c825420b3e9bdafa
+FileChecksum: SHA256: 065d3bd184ea549e8d2bd02ab3e1419e4987eb974c688122d2ee54aabf7b7d0e
+FileChecksum: MD5: e7aa3a55428632f1120922b8243f5fe4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/auth/+page.svelte
+SPDXID: SPDXRef-item10433315
+FileChecksum: SHA1: bb72817ea9e831f2b47b6ee934889ad89779be2f
+FileChecksum: SHA256: f98f8d6fd776950e602d8246a4ef1923d3a910414583ff235103b82fbeddce04
+FileChecksum: MD5: 3a90e6d91d92cf01c2b4ad6e078813dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/auth/callback/discord/+page.svelte
+SPDXID: SPDXRef-item10433318
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/+page.svelte
+SPDXID: SPDXRef-item10433319
+FileChecksum: SHA1: 408d054790b50043c99e8eacf346d8371609671c
+FileChecksum: SHA256: 50e6fcad199e564859cbee935895d7295d03e743f4a2ebde599b65b3405dbe18
+FileChecksum: MD5: 5f85002d95900d4e6d962384ec6ed4f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/dco/+page.svelte
+SPDXID: SPDXRef-item10433323
+FileChecksum: SHA1: 195a5b775806e54815270cdf9c72d8a2cdbb4118
+FileChecksum: SHA256: 959d6c158b332d01a9d48e2f81c722be56ca4b9b355eded5938abbdd2a599f94
+FileChecksum: MD5: 9a8225f72f0417de450e7411129afa71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/inactive/+page.svelte
+SPDXID: SPDXRef-item10433330
+FileChecksum: SHA1: a166a983a585bb7d5b4b220e56d871580a1bf18c
+FileChecksum: SHA256: f374722d9e141a5f45a61c32803445cc9d115e96d9be1544e0939ea29126e046
+FileChecksum: MD5: 6fb37c3f249d0c8b6509033043877d47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/queue/+page.svelte
+SPDXID: SPDXRef-item10433332
+FileChecksum: SHA1: 9ab5cc1eff7e146d71576c30e6c291d0fe88a0db
+FileChecksum: SHA256: 6e658c9da5e4e71f93ed13d1bf692cdaef3e5f955d5c79f93262e0e896ed2472
+FileChecksum: MD5: 910bfe46fd9b6a3099dafdc64b80bc7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/+layout.svelte
+SPDXID: SPDXRef-item10433333
+FileChecksum: SHA1: 93cde2385905452bd611e6d50c37977cf28fe31d
+FileChecksum: SHA256: c3381570340061d824929b42e45bd9be72bb1d2a4444f03c1ffcdf5f70b496be
+FileChecksum: MD5: a745c8cf0aae2a59737b4b32310ca59c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/+page.svelte
+SPDXID: SPDXRef-item10433335
+FileChecksum: SHA1: d5e07623b3494c780b0fdc5cc2aa13647ed3fae8
+FileChecksum: SHA256: 7acc96e880b1959a33596c828b1f37a8911c6152fbefafd5c90c1b474e668039
+FileChecksum: MD5: 998cb5381a79441339470639ced71cd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/users/+page.svelte
+SPDXID: SPDXRef-item10433337
+FileChecksum: SHA1: a4ccd852e0aef448bc3d080e1c6e3ad2a787057c
+FileChecksum: SHA256: f8bab848509fdb12c986d5b4860125982c9d6f0241b317f9b8b9ce067ed14e9d
+FileChecksum: MD5: a975481178eb8694f9287145e2140e06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/users/[slug]/+page.svelte
+SPDXID: SPDXRef-item10433340
+FileChecksum: SHA1: 782eacb35a3bf8f3f11eea74baada7dbaf138d40
+FileChecksum: SHA256: cfccb2602962247db7f4608e3eeba675697a8bd13cf8b07522d4d61106e792a4
+FileChecksum: MD5: ce4d910b41043553e4abfe1278c92d9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/users/UserRow.svelte
+SPDXID: SPDXRef-item10433347
+FileChecksum: SHA1: bb86470836eeefaa71ef505ae424fb4a41b7d7d4
+FileChecksum: SHA256: 4d8757089996f1b8d8e26b402b24cd7eb0a546d84860aa4c7918cea5a42c6179
+FileChecksum: MD5: a70db8c3d05366781ff8b20890c7a053
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/moderation/+page.svelte
+SPDXID: SPDXRef-item10433349
+FileChecksum: SHA1: 9d80acb97338ec36beda9453d450ada13af84609
+FileChecksum: SHA256: 52bc089d5e15da5995159b899ec89530ffc7628ffcbf4c0bc27c4c252656fb07
+FileChecksum: MD5: 6e50481d7cfbf08e23b33f6deb3dd2ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/moderation/moderation.css
+SPDXID: SPDXRef-item10433351
+FileChecksum: SHA1: c4e89d62880e492e156892a25c728c543bc13c01
+FileChecksum: SHA256: 0470edd8ed22563b8d7ffcfcd149b5b1c5a55004700d3d3f2be635dac6dd0451
+FileChecksum: MD5: 655704de5fcb0a693c3b9d6bb862f42b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/teams/+page.svelte
+SPDXID: SPDXRef-item10433353
+FileChecksum: SHA1: 3ccd293565ac2f393aa8bc94400706e39051cc47
+FileChecksum: SHA256: 5f5b13e7cba02e4b5d02db9b961050f3ef0bd40fac08ce50653edbd861b23392
+FileChecksum: MD5: 64d465fc418a45174be951c219531964
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/+layout.svelte
+SPDXID: SPDXRef-item10433361
+FileChecksum: SHA1: 52075602327cda34ae3bfa7e32a9728a30d491d6
+FileChecksum: SHA256: b50af85675bf5f75e2c3381d48c62ad7b63536373ff64f2c00519bf2c6b24dde
+FileChecksum: MD5: 3aa168c4aef410c06c626592df81202b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/admin/feature-toggles/+page.svelte
+SPDXID: SPDXRef-item10433363
+FileChecksum: SHA1: da7fa1cb1f94052ad7f948e83f893fbd93c3c4d8
+FileChecksum: SHA256: 9c38a9089c487b2b5a80c34f41e873ecbe64145528b7bba0ce2facddc12c09bf
+FileChecksum: MD5: 880919e0dec47b21e137eca93891e9b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/src/routes/reports/+page.svelte
+SPDXID: SPDXRef-item10433370
+FileChecksum: SHA1: 8845deb00471d4fdf198449b370397e9d34d66aa
+FileChecksum: SHA256: 39732756ae04738acc62b61fa60aaeb0fd1fe1bfc8e9b58676e96b588cdd8548
+FileChecksum: MD5: e799d570baa4fa26106e0e6e180be4df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/.vscode/settings.json
+SPDXID: SPDXRef-item10433373
+FileChecksum: SHA1: b9e99a06432c898a339cc8553e81288dbedf35bc
+FileChecksum: SHA256: a78168ec0c03e208830285665d7dfa7072260314c99c044df6a6762390587437
+FileChecksum: MD5: 80bfe96bfcdd0f4738a366daf3fcda04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/docker/Dockerfile.frontend.dev
+SPDXID: SPDXRef-item10433375
+FileChecksum: SHA1: e0bd9b0852e21fe1eea5b0a59b38c3ba44223cdc
+FileChecksum: SHA256: b576e80acf2bdb71ba6f4cb3b484690fa1ec534fbb6cc2d7be5dd5c3330fd8b3
+FileChecksum: MD5: 890b4f7611d7486f0e6718ed1fb564f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/docker/Dockerfile.frontend.prod
+SPDXID: SPDXRef-item10433377
+FileChecksum: SHA1: d5e59c7f0bad4d9838ff531c675b353bd7b16b95
+FileChecksum: SHA256: fa3222e89306db39e9985ada139816cfb469274d38e0612b192be6caad76696a
+FileChecksum: MD5: 08ca0461cf4c2e437f9c983ee7b3b095
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/.gitignore
+SPDXID: SPDXRef-item10433380
+FileChecksum: SHA1: dc8f76abfaa17f3e6a3cad465690d5349e557c94
+FileChecksum: SHA256: e30b12b56ee2de0cec81510f0e488e886ef353ae833512b6c84e7adf264b8a4b
+FileChecksum: MD5: add6c701bfec7d39a1d23f312449a9fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/postcss.config.cjs
+SPDXID: SPDXRef-item10433381
+FileChecksum: SHA1: 45e257f2dcbee69e68e1cd04dfd2f577b3598b1a
+FileChecksum: SHA256: 3040f583b4f874d8656b518993476cd1cdac0e7272f5116602192cafe598be1c
+FileChecksum: MD5: 12b207405721b0d52b1349a59226b01b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/pnpm-lock.yaml
+SPDXID: SPDXRef-item10433382
+FileChecksum: SHA1: 3137d15ec9562731b1e372c3b9c3578f31818631
+FileChecksum: SHA256: 04413df9bcb9a47a7d0385941c85b86ae1a116adb70991273fec496161c57b23
+FileChecksum: MD5: e25e084dc48873e23bb5e5b25f7892cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/.env.template
+SPDXID: SPDXRef-item10433384
+FileChecksum: SHA1: e7167dde7bf66dce608852ef994bdadce31ab64b
+FileChecksum: SHA256: 68d930c15b60f9a402ccae4ddf9947482799af87c7a3c874c9a0201c33452dc0
+FileChecksum: MD5: 92a3cdea759cf87919c05db5ad7c0d2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/README.md
+SPDXID: SPDXRef-item10433387
+FileChecksum: SHA1: e07c19b4b67f32406b326b5aca1e6ad91b1d3dee
+FileChecksum: SHA256: 25d9cb7cad65ba01865f57e81ef4180c7cd1eea388a9c836af186ee728d63133
+FileChecksum: MD5: 72cdcda15576ddcd13c07b368c1a86a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/package.json
+SPDXID: SPDXRef-item10433388
+FileChecksum: SHA1: 668fbaeb0be7552b3a6c50d32408b655577a09e0
+FileChecksum: SHA256: 00274d0c75fa7e187d5fc2deaa1de24fdcd9ea2568022907a477b7774f807d5c
+FileChecksum: MD5: f47b0e797235e02a5df08f2735d6ff0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/.npmrc
+SPDXID: SPDXRef-item10433389
+FileChecksum: SHA1: 1e3ad6871d0360ed831484d4af1ef5cbddb5bbe7
+FileChecksum: SHA256: 7151cf397def0c2cb0ab65643701d27d335a72c90f775675b5f826bc7005818a
+FileChecksum: MD5: e780ac33d3d13827a73886735c3a368b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/static/fonts/SpaceGrotesk.ttf
+SPDXID: SPDXRef-item10433392
+FileChecksum: SHA1: 40354561c5545ee6c3058df49a261c1c457fc7d2
+FileChecksum: SHA256: e13b56b9bc84600ac672b2785c052bc2011aa8d503177e8b041981ab498f105c
+FileChecksum: MD5: ae9bc74e61db603b00e35ced0a0f4d03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/static/favicon.png
+SPDXID: SPDXRef-item10433393
+FileChecksum: SHA1: 650d3937dc633e266edd86aca1f8804ed98a4195
+FileChecksum: SHA256: ec4be9cfc0044cf7b241bbd0e516dc389dfa4dcc3be02efc81c9e48ceb9eb0a3
+FileChecksum: MD5: 69febb50c023355dbfc4f5f4d97b875d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/.prettierrc
+SPDXID: SPDXRef-item10433394
+FileChecksum: SHA1: 2cb4597503e79c4fc0a341593409b1d9f043fb32
+FileChecksum: SHA256: 13e6db9e0370e84beebe6793661f5b9df87ebd4841373ac5be3b9131ff8dace9
+FileChecksum: MD5: a38ec6991a02b2a6699225c3d2bb4522
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_frontend/.dockerignore
+SPDXID: SPDXRef-item10433395
+FileChecksum: SHA1: 3ff88a56a2fce10a0539e92e735701f4d5377e13
+FileChecksum: SHA256: 6b2c7bd41aed53ea4db11c3ca3742daa3ce384c0724be938765e35604dbc9e18
+FileChecksum: MD5: 9881d9881e35aa1fe514c88f913c519a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/pyproject.toml
+SPDXID: SPDXRef-item10433399
+FileChecksum: SHA1: 285dea65adb0ca9f42e5cd54e0765d03c6a77811
+FileChecksum: SHA256: e90cb988f38a01545196ba588f6d122affa732b4d2365cb7578ac3d5f5a6614d
+FileChecksum: MD5: 587c3c5c367cdb40e2862b3cf6b7482b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/docker/Dockerfile.caption
+SPDXID: SPDXRef-item10433402
+FileChecksum: SHA1: 724b4017e72e64b066f6a17784ee760e16373c1d
+FileChecksum: SHA256: 44557bdd054d930ffffbd9012776b679bcca74c33027b85045e9f56003a139df
+FileChecksum: MD5: e395964a52f86c999a90673fc409129a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/cookbook/basic_caption.ipynb
+SPDXID: SPDXRef-item10433405
+FileChecksum: SHA1: b03c8b3289d82f56be1b0471515ee1e3306c79b9
+FileChecksum: SHA256: f3055f5ae6e0b4740317762f93ed77ff70270c6f2da84b59b866333702951cc8
+FileChecksum: MD5: 2d29a7116d5b2796dde4baeca372da1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/instructions.md
+SPDXID: SPDXRef-item10433429
+FileChecksum: SHA1: 05be41f60a409d5f0f93bcd1b59aa5c62ed81205
+FileChecksum: SHA256: 67baa6d313aabce762e7167f61fd7ba74a8b5fbcb3a6bf73056e467dd59e7d8c
+FileChecksum: MD5: 06adafeb04c86b4746ac6cb931d39c97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/test/NOTICE.md
+SPDXID: SPDXRef-item10433432
+FileChecksum: SHA1: 63b1c7db29eda6b6ec18a33bcdd8a7b5e887727e
+FileChecksum: SHA256: 292bde447730db510d39c8dec82e82eb88dc56b0ede31140a1e40ff71d04394d
+FileChecksum: MD5: d389b512da1d0d19f1349bf673facfc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/test/test_images/test_image_1.png
+SPDXID: SPDXRef-item10433434
+FileChecksum: SHA1: 1ce67db1df60c9fbbcec87c4a222f5749e478c03
+FileChecksum: SHA256: 162471a5000cd8474b192c4eef43ac4fe1ad609edbae9d16cd60fcfeae674314
+FileChecksum: MD5: d59fbc94cc38f4b3891f856cadac7c9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/requirements.txt
+SPDXID: SPDXRef-item10433435
+FileChecksum: SHA1: 5e2f6c30f115280a223d81897679ac14521f7846
+FileChecksum: SHA256: ff2531ea4aef8eaef386895ce56849dff5389e5adb7240704e4b86d70fd61234
+FileChecksum: MD5: c2bcbcffbd345a87069b78c62ce402f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/README.md
+SPDXID: SPDXRef-item10433436
+FileChecksum: SHA1: 13de58b1e6b79a3d55e4c12eb76e148fe17d0cca
+FileChecksum: SHA256: 89a93aa5267b0d9caad9242f5fbc7680b1969dac7c81917eb5668c9322747f23
+FileChecksum: MD5: f88f1b5ea1003ef4f5395c219f58671e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/.env.caption.template
+SPDXID: SPDXRef-item10433437
+FileChecksum: SHA1: 45d0c17ce36f6aa730de3cea3471a38118487157
+FileChecksum: SHA256: 7d14e1e5207d75dab2d73f31dbe1cfcc9eabbdfc1e159c87cd9a575f6b9f220d
+FileChecksum: MD5: 72ba6e35caf02c3668dd376502f6b38e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_caption/.dockerignore
+SPDXID: SPDXRef-item10433438
+FileChecksum: SHA1: a04866d9c5557700e334b29d932f52de7b847012
+FileChecksum: SHA256: a3383fd8cfef5861d91dbae739ef876602b3cd4b7aa822bd75299ed48150344b
+FileChecksum: MD5: 357bf0d12930d79ed0ffbe8053d2736d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/pyproject.toml
+SPDXID: SPDXRef-item10433443
+FileChecksum: SHA1: 15aa19ec7e5d1663e9c24b3bd4c928eaf5673a2c
+FileChecksum: SHA256: 5623c9757e573425ec2a67ede97e2316e3ca9eea2d42887c8dff35fcc7b3a1a5
+FileChecksum: MD5: 878bac169a0d6b47c069578e8e363005
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/requirements.txt
+SPDXID: SPDXRef-item10433455
+FileChecksum: SHA1: 93284a71db2fd0f80be6fc7d343f921805822479
+FileChecksum: SHA256: 096ebe35e364909f65003c93ba7aed1e3a8af1da449ed66616f8525c52996f5a
+FileChecksum: MD5: 66654f096e5543167ce99c569f49598c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_monitoring/README.md
+SPDXID: SPDXRef-item10433457
+FileChecksum: SHA1: 9467e68a81e253d982ee970166b5af8cf9e88b98
+FileChecksum: SHA256: 3e41db19bd36f921dbc2066228a184f96cfd18b93372280128561232822df4f9
+FileChecksum: MD5: 6aa3458dfbc1368fa187688b233d79c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/architecture.md
+SPDXID: SPDXRef-item10433487
+FileChecksum: SHA1: a16c43f6f8f5fcaa425e6b2ed4ae3b2231f27822
+FileChecksum: SHA256: 986087497be1ef53fe835c7fcaef2eb5c96ead65cdcc10ba2d5c81786b7c9bfd
+FileChecksum: MD5: 573911dc603cbcd5bb2984064655abf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/pyproject.toml
+SPDXID: SPDXRef-item10433488
+FileChecksum: SHA1: 437e893a9944e0c13cc2bca2930490f5affe0d0d
+FileChecksum: SHA256: 180ab9622612d7fb20823271cc828ba806ea4dee359d1fa36254debcce0f596d
+FileChecksum: MD5: 09b41c7c640f03bbbc7333ba3cd0aed4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/pytest.ini
+SPDXID: SPDXRef-item10433489
+FileChecksum: SHA1: f7cee0cc9fdcc226356a6386552bddb6036273dc
+FileChecksum: SHA256: 7d6911808dbfe9148500f1f4b08da6a878520520358a204f7840cc2527b6584b
+FileChecksum: MD5: c9873fdecce26fc1297cead8cf41ca35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_core/requirements.txt
+SPDXID: SPDXRef-item10433490
+FileChecksum: SHA1: 420a2ce1e66444b3e640f7a50fa71bcc7904eafb
+FileChecksum: SHA256: 6e1caba30507917568ce38d738fec31862e11a2951b15c429e20538dc273eb3b
+FileChecksum: MD5: 18a3db84d870c5ee4322154ffbffdb61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic.ini
+SPDXID: SPDXRef-item10433529
+FileChecksum: SHA1: 83c552fa4e2a6c16ce3bf8a90d4def713f24d674
+FileChecksum: SHA256: e558597cf729c3ea5293e86f777a4118c7c8f8c307740ad0621af4b1f510bd8f
+FileChecksum: MD5: 1768ea662e700401a46b6e275ca104a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/requirements.txt
+SPDXID: SPDXRef-item10433530
+FileChecksum: SHA1: 9840b631a8b75cfe3873a86e395c19d346439a4b
+FileChecksum: SHA256: a89b04d28e2c37deea37d01dc5b0e94bd2030af76a931d10d7bf2b768226710c
+FileChecksum: MD5: 8579be73f50d0ecaecc79a2d9e9c0745
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/data_model_overview.md
+SPDXID: SPDXRef-item10433531
+FileChecksum: SHA1: 26cb1984e5294ba80e6a71467f993c72618e0045
+FileChecksum: SHA256: bf919995548adc596e7eaa2582a1f117f4c6ff692dfe6f91df3fac07d2f49f57
+FileChecksum: MD5: 4d94412ba1c9215e5521663bec2bbf0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyrighted, CC BY-NC-SA...) licenseUrl? contentAuthor?[]* flags (bitwise flags: synthetic) meta (store data specific to the content, for example generation details for synthetic content) fromUser* fromTeam?* annotations* embeddings* createdAt updatedAt </text>
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/README
+SPDXID: SPDXRef-item10433535
+FileChecksum: SHA1: 601b8f08d40c7e262158ed76b1f86617989f5323
+FileChecksum: SHA256: 85e33379b63094686713cff80962782d2ef85a81198c1cbe4be988251c4010a2
+FileChecksum: MD5: f89caf3517dd4d3387753e0419089f31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/odr_datamodel/alembic/script.py.mako
+SPDXID: SPDXRef-item10433563
+FileChecksum: SHA1: d467ab0ed9f37f461377626574b9da3639f648aa
+FileChecksum: SHA256: 304a8bfb6a804e5493f5300e79882c70c9f5bb2e87512f4d16f0e097dddd323f
+FileChecksum: MD5: dbe2609632797d37d908ab6a957e5604
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/modules/README.md
+SPDXID: SPDXRef-item10433564
+FileChecksum: SHA1: 495a055ae554625dd065b7b6acfa81c60d5446b6
+FileChecksum: SHA256: fc21a98192730ee86b8b8814a1c702902f93375076aad3e1fa8f196b4b5d5a7f
+FileChecksum: MD5: 8f62a0a5df92885c75e1fe77d7bbd24d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Data-Pipeline/SECURITY.md
+SPDXID: SPDXRef-item10433567
+FileChecksum: SHA1: 375925b54cee734117062a9cd26e389b4099a994
+FileChecksum: SHA256: 26fe03b68f525ec1b426ed94f3765185097452716e993fff160be62f68eb4645
+FileChecksum: MD5: f0a89060c126f9909e4dcaf53a75dfd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Model-Standards/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item10433570
+FileChecksum: SHA1: c848833f40cd48b4128b5e877af5040a381de2bd
+FileChecksum: SHA256: efa0135c39c4820f7c0d475facc87b8b25900f1596f9f4fc7c9e271492f1b3fc
+FileChecksum: MD5: b0071ebce912b9750cf21c5579bdc4ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Model-Standards/docs/omi_model_format.html
+SPDXID: SPDXRef-item10433572
+FileChecksum: SHA1: a0e6fa8bf4bcb0bd2da5baf3bd19086884e150ac
+FileChecksum: SHA256: 2a01236a40bbb278fd0363829f0f19c2d071140d94c75a20762b371406bebff0
+FileChecksum: MD5: 192616fdf8a48358eb27f08d4d920c67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Model-Standards/CONTRIBUTING.md
+SPDXID: SPDXRef-item10433574
+FileChecksum: SHA1: 7020ee3d8e5399a39966abe61e3961815e3d8d2b
+FileChecksum: SHA256: 8b102f4b4e1a1b12e846918cfad8f0542fd9c79f000bc25dba0ed84381d0d852
+FileChecksum: MD5: c696182d9cca971cc295d6216986be3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Model-Standards/DCO.md
+SPDXID: SPDXRef-item10433575
+FileChecksum: SHA1: 69dbbd118310c84eba441dff8a37f0a6dd4c5aa3
+FileChecksum: SHA256: 0dcf5d745ac04e73bd58fa1882a40dc7e87b0d613b24195ee4e66ad8d670f2d6
+FileChecksum: MD5: 3a05c563e3c30d32513fef829731aeb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Model-Standards/CODEOWNERS.md
+SPDXID: SPDXRef-item10433576
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: open-model-initiative-2025-01-10.zip/OMI-Model-Standards/SECURITY.md
+SPDXID: SPDXRef-item10433578
+FileChecksum: SHA1: d03c3104e3c8821f1e47764875b39f74757ab477
+FileChecksum: SHA256: 9883ac23ea5ccae8220c16b5dbaa050f89a0a0f9f9ef4bb410cdb330fcfe8d49
+FileChecksum: MD5: 45e673ed82d8db0e87356d38610d9a74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
