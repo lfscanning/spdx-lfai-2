@@ -1,0 +1,4552 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_recommenders-team-2025-01-10.zip_1737622252.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-23T08:50:52Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: recommenders-team-2025-01-10.zip
+PackageFileName: recommenders-team-2025-01-10.zip
+SPDXID: SPDXRef-upload1756
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 07b4acf071cd50adc93d9108e9836c50b5832040
+PackageChecksum: SHA1: 94d4e035b36930236c39d0ff825e8ace614ab59a
+PackageChecksum: SHA256: 0c940a4560a09e6bb3894a17d562fc00021a6a81dbeb89c3512b1d2c2a9788fd
+PackageChecksum: MD5: 2692062009920df67e17768c58e5f682
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1756
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/datasets/MIND/README.md
+SPDXID: SPDXRef-item10380992
+FileChecksum: SHA1: 5a07173758ad86d6406a7fe817449797ea870a82
+FileChecksum: SHA256: 5e3e17ab098fd51ef972304d17a8c1ef401e41d7b3eb795480879cded06097a6
+FileChecksum: MD5: a11b01cc7bce717ff386714a3e604898
+LicenseConcluded: LicenseRef-fossology-Non-commercial
+LicenseInfoInFile: LicenseRef-fossology-Microsoft-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/setup.py
+SPDXID: SPDXRef-item10381401
+FileChecksum: SHA1: 08883b2e6fd67f4033f858fca4fedd8d3fa2229c
+FileChecksum: SHA256: ff894634b205eea59e38624db3d7970aa8c52cb41e86bd60f4935dd53223b53f
+FileChecksum: MD5: 6e339f90475e13073ba1ebac2edca853
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-fossology-Python
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/LICENSE
+SPDXID: SPDXRef-item10381298
+FileChecksum: SHA1: 0e4c6451f7a44d48cabc8ce65201cfa9dc4969c5
+FileChecksum: SHA256: c1aa8025098719446d02e43f16b4545a3283d872b57de8d25b8202fe44bc6b8b
+FileChecksum: MD5: 4d609685f051035ca7e1ff8bb50393ee
+LicenseConcluded: MIT AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: X11-distribute-modifications-variant
+FileCopyrightText: <text> Copyright (c) 2018-present Microsoft Corporation.
+Copyright (c) 2023-present Recommenders contributors. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/CONTRIBUTING.md
+SPDXID: SPDXRef-item10381301
+FileChecksum: SHA1: b94816436c298910bdf02315d4d7df2d6bf9bbea
+FileChecksum: SHA256: 8183f74bb446d8597a1eff355b7e0febc10324c06e3fa69fa5f6f5ddfdacf4dc
+FileChecksum: MD5: f00ec30f6eef0b95da1b0ffe38ad698d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-fossology-GPL
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License.
+Copyright (c) Recommenders contributors. Licensed under the MIT License.` </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/tfidf/tfidf_utils.py
+SPDXID: SPDXRef-item10381172
+FileChecksum: SHA1: 3b19cee4bcfaa1d7a47edc02db7b511e54c22a83
+FileChecksum: SHA256: a0510c1ad0d03bce0fbb4dea3c521406b8287958ea83087298ab5811c41052d3
+FileChecksum: MD5: 26c2f32a582758d9aa1646a7b25f60bb
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-fossology-Public-domain-ref
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/rlrmc/conjugate_gradient_ms.py
+SPDXID: SPDXRef-item10381269
+FileChecksum: SHA1: e16f2e91db191dba9ce18a080d2f4ebcc2aacd5d
+FileChecksum: SHA256: ba004fdec1f52bb4956fee4cd24c786deafd465c1d8324bea2148aca343808d9
+FileChecksum: MD5: 4683739b60a82a5a934ec19f9ae99f88
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2015-2016, Pymanopt Developers. All rights reserved. Online code of Pymanopt: https://github.com/pymanopt/pymanopt Pymanopt is licensed under the BSD 3-Clause "New" or "Revised" License Online license link: https://github.com/pymanopt/pymanopt/blob/master/LICENSE </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/sequential/rnn_cell_implement.py
+SPDXID: SPDXRef-item10381201
+FileChecksum: SHA1: 27cf0d326d97394ac6f9f3ce09986e5b714f2c96
+FileChecksum: SHA256: d2b3db642664a9c8b92249fd31506b2c4f984402ce2a15d165e7bd9ec3342df8
+FileChecksum: MD5: 2956e1eba4b2aa3063fbbad89444dc0e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 The TensorFlow Authors. All Rights Reserved. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/covid_utils.py
+SPDXID: SPDXRef-item10381140
+FileChecksum: SHA1: ea4c48f72c893c353c536c7640b7a0f272c4b21e
+FileChecksum: SHA256: 78bd854c14abfb39519d08b10ec65332d1d557e46d1eca15d4aedeeff1b85320
+FileChecksum: MD5: d8491281fe179fb4c6ce86a41c8e528f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-fossology-Public-domain-ref
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/tfidf_covid.ipynb
+SPDXID: SPDXRef-item10381431
+FileChecksum: SHA1: 4a07f3471a142c8285180b8ab89ad58e640b2085
+FileChecksum: SHA256: 55e091340650c52287c1296a8bcff89d6dcd418eda430ebf32a5f4b177296cee
+FileChecksum: MD5: 8f8c59f3783ed3deccf04fbe582b6829
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/datasets/LICENSE
+SPDXID: SPDXRef-item10380990
+FileChecksum: SHA1: 199cc76c4ed606e762c7c266748f8f2d7ccf3b6f
+FileChecksum: SHA256: 83adc08dbe79568fa4b7d640ba02a9aeac958aaccb284935787e3571abab7398
+FileChecksum: MD5: 58f97d30205ee0df3d605c46f7cb8d9b
+LicenseConcluded: MIT AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: X11-distribute-modifications-variant
+FileCopyrightText: <text> Copyright (c) 2024-present Recommenders contributors. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/AUTHORS.md
+SPDXID: SPDXRef-item10381503
+FileChecksum: SHA1: a6cf16c22e3f4c1434570b4e8c652fbf5882f169
+FileChecksum: SHA256: c0f10c24f7df9d053f396995453daa5d737a9f88f29230ac0d05d912d2d8b28c
+FileChecksum: MD5: b74212cecd96d69be3ef7e11d89ad46d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item10381130
+FileChecksum: SHA1: 9f805229490744a7835ec9019868bd6cf4e42bc3
+FileChecksum: SHA256: fc18cbbd8de27781f8941e68ab9520856bfa7099c4bb610084204b91d35a55a4
+FileChecksum: MD5: f245e37936f6fbd99457c7c0bc635880
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/scala/src/main/scala/com/microsoft/sarplus/DefaultSource.scala
+SPDXID: SPDXRef-item10381374
+FileChecksum: SHA1: 54af36e23a322c107fef7f14586ce40adec8d718
+FileChecksum: SHA256: 7e006ff5fa515998fc4c30e35bb4575d031e56c67f36dcb0beaa7f3c91f61cb3
+FileChecksum: MD5: 375e5288e17e65d32f1fbafcf0151fe5
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tools/docker/Dockerfile
+SPDXID: SPDXRef-item10381404
+FileChecksum: SHA1: f2ac0aa5bd656f358c0f234cf99ac858efb8c1c9
+FileChecksum: SHA256: c09d97ed0c1b112af156cf03fdec1ae9bbc267ae331cf00042bcdf80ac3c2bc8
+FileChecksum: MD5: f84ec34d0c02c07c851f9b9b12fcf8aa
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/GLOSSARY.md
+SPDXID: SPDXRef-item10381129
+FileChecksum: SHA1: ad1cf55248c7dba4408e3d0ce6ce1f60e40698f2
+FileChecksum: SHA256: ffe287ec2e9b8989f3cda14db2e32c8f43786338db61e1819d0b3a7c1a6b7f80
+FileChecksum: MD5: 04736bfad9fe767bcf6782c75dff36e7
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/DataModel/ImplicitCF.py
+SPDXID: SPDXRef-item10381185
+FileChecksum: SHA1: cb9d829efb7546ae91e1cb8f2390cdecc600a5ab
+FileChecksum: SHA256: 8ba512586cccc8346de837948dbabffb205f5139023f6003c4983e29b607fbf5
+FileChecksum: MD5: 4c01466079a748e3e1d08a08d0c40c77
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/NEWS.md
+SPDXID: SPDXRef-item10381521
+FileChecksum: SHA1: 61bdae7b1fc166a735b5215adec09c8bc1d501bd
+FileChecksum: SHA256: 2b963f9cec70a67b67c1fd181bf2ed4ba8a276d3804fbc2ed3c96a18d35bbf17
+FileChecksum: MD5: 677c38d324efe1d7dcd46400fa3cb914
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/utils/PandasMagClass.py
+SPDXID: SPDXRef-item10381493
+FileChecksum: SHA1: aabd46fc3c4d7a58fd0a7acf5ea0df93a9fc089d
+FileChecksum: SHA256: 9861bc1fc03ea11a60287fdbc964667cd093ca1bdb5a9dac2c2011e14c9b0b72
+FileChecksum: MD5: ce5ccad4aaa316b8fe1eedb6deb8f034
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/README.md
+SPDXID: SPDXRef-item10381114
+FileChecksum: SHA1: b905fbaf546776ab4c2d3c16c67fa742476b2d02
+FileChecksum: SHA256: 8b3d703b86f5ab171520ee7cf860b467dc6fbf49511d3be3c5599f3e127c14ae
+FileChecksum: MD5: 062d2b1df9d82ec313c95207927c3304
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/README.md
+SPDXID: SPDXRef-item10381287
+FileChecksum: SHA1: 7d57495b3d43e4426f1e6cdea000a06b70847216
+FileChecksum: SHA256: 65573f227edbad58165c3b1a9e6ae03a04540e42484467a291b0728e62b1c73a
+FileChecksum: MD5: 321678bf1759cb35c85c771adc2abbae
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/ci/README.md
+SPDXID: SPDXRef-item10381005
+FileChecksum: SHA1: bd8acf74cd5a22bcd4eee68ac35dec2eb3752c62
+FileChecksum: SHA256: dafef2fb4163c4d55394a1935159d42955b8deceab41fd0997d1de325155bec0
+FileChecksum: MD5: 2a357bbb9e8f519b6c30fa95dd0c2382
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/README.md
+SPDXID: SPDXRef-item10381519
+FileChecksum: SHA1: d61a2a06d97b41549d562b739990d840d3c8c936
+FileChecksum: SHA256: a54fb7b01a4b469a8f919d549ba698b929901f455b4a508f53e22fd1371b6311
+FileChecksum: MD5: ce7932731701e86178ec4680dd5fc3c9
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/scenarios/README.md
+SPDXID: SPDXRef-item10381515
+FileChecksum: SHA1: 7ed123213aa4e94d552e7035aef371c04f766269
+FileChecksum: SHA256: 495acf090e8f9acecd6a699fefbf2286b02b80b759a1a90fc5d72456f2a54733
+FileChecksum: MD5: 9d73dd0cf7b2f1392fcbee0bc1d4180d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/rlrmc/RLRMCalgorithm.py
+SPDXID: SPDXRef-item10381268
+FileChecksum: SHA1: 216104ec72e12564d37f26d9c5515e44f3b1d42f
+FileChecksum: SHA256: 4380e4d093f958f1ae0c54f9de5a24523f0094decf05157bd0efa09152cf5df3
+FileChecksum: MD5: 110fc63b760b0e629801f6821cc446fc
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/rlrmc/RLRMCdataset.py
+SPDXID: SPDXRef-item10381266
+FileChecksum: SHA1: 08e40949be234d8c72ad89e132282ca630063715
+FileChecksum: SHA256: ec2588843b72e0eb04260b732f6dfe8cd21f2654e9327e0b8327ce9ebb1ef184
+FileChecksum: MD5: 44074e699258ef39edaf47bfa71de831
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/scala/src/main/scala/com/microsoft/sarplus/SARCacheOutputWriter.scala
+SPDXID: SPDXRef-item10381373
+FileChecksum: SHA1: 28b9e32bad2873098acff18d5f5b47997448dc66
+FileChecksum: SHA256: 26aa0fe79dcdd2d58705e37883ea56e7a2aeeb3fc82756f4651c29bb7e5813a9
+FileChecksum: MD5: c5bb038a9ec40a1da2696b710cae41f3
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/scala/src/main/scala/com/microsoft/sarplus/SARCacheOutputWriterFactory.scala
+SPDXID: SPDXRef-item10381372
+FileChecksum: SHA1: 8f74dbe6048ac8aeaa51215fc36816a15448725d
+FileChecksum: SHA256: ef77e5e8c7f8ecd344daf54479e79b25249ab3d22923cd8fe4e1068ac88890f5
+FileChecksum: MD5: 19f3bebc7d835c63ce6da02da17dc6f6
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/scala/src/test/scala/com/microsoft/sarplus/SARCacheOutputWriterSpec.scala
+SPDXID: SPDXRef-item10381380
+FileChecksum: SHA1: 4dd9221abab3fb63c924fa3f2b015db795b62e4c
+FileChecksum: SHA256: a2911c3e1210cfe6f7ffe7c376f439135cf4be9acf738488cb8ef43b60db5790
+FileChecksum: MD5: a598c3e9d29fabea34f47a446e568c46
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/python/pysarplus/SARModel.py
+SPDXID: SPDXRef-item10381353
+FileChecksum: SHA1: 1ad54c32125293b80ebea6ad1cbaf4cb7982c4b5
+FileChecksum: SHA256: 4da4ddd5b3fd1ef5c45347538c8342dcb436e5b0e904223e404a9c2d29b75b85
+FileChecksum: MD5: 2607d5503ed6f75f96089dbbd74512c7
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/python/pysarplus/SARPlus.py
+SPDXID: SPDXRef-item10381352
+FileChecksum: SHA1: 26bff7b5fc858128c7cc427960f5780c907e2109
+FileChecksum: SHA256: 264126af04136bffaa20ecb0f080c7a3fc71f6ba293f8b781e9b72f3e20db04d
+FileChecksum: MD5: 6b02a74e4b997535a4d217637d37e90f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. This is the implementation of SAR.""" </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/SECURITY.md
+SPDXID: SPDXRef-item10381520
+FileChecksum: SHA1: 934340cacb6b96b0788d298464fd2db25a13fc74
+FileChecksum: SHA256: 386b69cc10be4a6760611c8f1c004a3ed0a659f8af7155c27a30811722d1e7bd
+FileChecksum: MD5: e15653ef38dbe5879f6f8626cb6631e8
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/SETUP.md
+SPDXID: SPDXRef-item10381518
+FileChecksum: SHA1: 2e20493a38f8290d324732d87f696d5b27753e15
+FileChecksum: SHA256: 4d84cff4a45330d78b2724644dd62e720f168181d7180a4fe611a6b44c54523d
+FileChecksum: MD5: 6f291d00dde09f42f4560f688c3e9bd5
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/__init__.py
+SPDXID: SPDXRef-item10381282
+FileChecksum: SHA1: e061cd5d111a862e848e43cf0ce270aeab0c7f48
+FileChecksum: SHA256: f313ff16f3843585d3c7051fc0486a9e52313448440c50d12c9d90a62419bc18
+FileChecksum: MD5: f1266ba3195ce8049ff94e0894cf8b23
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License.
+copyright__ = "Copyright 2018-present Recommenders contributors."
+COPYRIGHT = __copyright__ </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/sar/__init__.py
+SPDXID: SPDXRef-item10381234
+FileChecksum: SHA1: 6d573248f73b1647af5639fa0ee33770e6ab84fa
+FileChecksum: SHA256: ae9ef432422dea4f9ff23a2b99632f46ecae67446cfa101b83c1cb5071b512df
+FileChecksum: MD5: 8b6f1cfe6c9579fc97099ef99f24daab
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/python/pysarplus/__init__.py
+SPDXID: SPDXRef-item10381354
+FileChecksum: SHA1: 0cca01d6811efd697eb9ba45d9faa2753eafc9f1
+FileChecksum: SHA256: 2972bf8f6d1e212b6ff881eb7b4459623b4def24d81a068367165feb534402ba
+FileChecksum: MD5: c560aa0677d258bd5a296f0be54c41cb
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License.
+copyright__ = "Copyright 2018-present Recommenders contributors."
+COPYRIGHT = __copyright__ </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/scala/python/pysarplus_dummy/__init__.py
+SPDXID: SPDXRef-item10381364
+FileChecksum: SHA1: 68eef003c4088456a964a837f74279c57dec933a
+FileChecksum: SHA256: a64128195a8ecff6ea4c8173e1afbfc41514fc76116db05b4bae2abcb07ce6a6
+FileChecksum: MD5: cc9446304605e9c6b763079e3a7d4b2d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/docs/_config.yml
+SPDXID: SPDXRef-item10381292
+FileChecksum: SHA1: 1fd9ecb42612741198c604e250e40fca7866b081
+FileChecksum: SHA256: 7c3d7bd7e426a4eb79222749bac1df71bcb135f70e1d58d603b1cf965d232305
+FileChecksum: MD5: 7bbcb37072e552845816dde75992cfe7
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License.
+copyright: "2018-2024" logo: https://raw.githubusercontent.com/recommenders-team/artwork/main/color/recommenders_color.svg </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/docs/_toc.yml
+SPDXID: SPDXRef-item10381293
+FileChecksum: SHA1: 5d15891ed363d3dff28b9c38c748a069e5034b7e
+FileChecksum: SHA256: 2ff6f374604d5bf33c17afa6869e3086f100d0cdc2662a436978c0b924a5b93b
+FileChecksum: MD5: 97b8a7945a602168069797af84bf3955
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/actions/azureml-test/action.yml
+SPDXID: SPDXRef-item10381309
+FileChecksum: SHA1: 2c30d4790be51dfa18631c7b15e3871a2e0bbb48
+FileChecksum: SHA256: 6bcaf0f410bf3ef5f65b91d685c26cb4c8e8c59c577a334a67d8f41eaf43e5b3
+FileChecksum: MD5: 311af66e36bc3aef0b8ba31e0bf80210
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/actions/get-test-groups/action.yml
+SPDXID: SPDXRef-item10381311
+FileChecksum: SHA1: 15eb481f383102dc59597f367a2b9ebfb3905cfb
+FileChecksum: SHA256: 6d8949cfb4671aaa8970f38cad42202c220622c6b1382d60c064dc52ed2c7bff
+FileChecksum: MD5: d95beb61b92a282b9dd28849eabb37dc
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/05_operationalize/aks_locust_load_test.ipynb
+SPDXID: SPDXRef-item10381470
+FileChecksum: SHA1: 6f1d0ce45ae466af24da19d11af0237174e35554
+FileChecksum: SHA256: 4d7429b550590488740cb95f99a01327a00f4f86226a816242f302b5473a8871
+FileChecksum: MD5: a827f9c2c8014ed32ef58adce86b91a0
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/als_deep_dive.ipynb
+SPDXID: SPDXRef-item10381459
+FileChecksum: SHA1: b5cbdc09c8e17817bdd57cb304866f3d86d39d8e
+FileChecksum: SHA256: 36379c0725a8b410d5d895444be6061a88d785bfca5ee6e0d3065dc67b961914
+FileChecksum: MD5: d47b8a88ae34e08101ac9f99f0122aaa
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/05_operationalize/als_movie_o16n.ipynb
+SPDXID: SPDXRef-item10381471
+FileChecksum: SHA1: fd8f42c8f897ad6216de92793475abb51ece841e
+FileChecksum: SHA256: dc0b7277315d79321aaeb6f8bbe8cd10e06265d2b0bfce700168cf6d3402ba20
+FileChecksum: MD5: c38ebae17805db2875547ffdd5fc5eaa
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/als_movielens.ipynb
+SPDXID: SPDXRef-item10381444
+FileChecksum: SHA1: 1b74c27533e59f3377c8820a07f858a6bc67c659
+FileChecksum: SHA256: 9197b0f6c166ad18f8029e259ba6616b327b8ee8dafb2341c48330db41cfec5c
+FileChecksum: MD5: 2540e92ff182152d4f463f9fef0adfb5
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/03_evaluate/als_movielens_diversity_metrics.ipynb
+SPDXID: SPDXRef-item10381480
+FileChecksum: SHA1: 22d51ab1208de4f2009e95bd18af0b01130fd4b6
+FileChecksum: SHA256: 6e273ab083e82a5ee42be31e46ebf4dc170af05cb265e26516eb93cb5d41713b
+FileChecksum: MD5: 04717b62101fcbeb5ce8f02751f7e247
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/amazon_reviews.py
+SPDXID: SPDXRef-item10381146
+FileChecksum: SHA1: 8f208101bd7e2ded3b0f9d049ab5272e2abed68b
+FileChecksum: SHA256: c9d0842936ffb0ba3212659b0fd1f30b5edf98ab120ab77beb58f2be5f4cd9fe
+FileChecksum: MD5: 7a234b0c38cb1ecc5e5ac764d554c82a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/ci/azureml_tests/aml_utils.py
+SPDXID: SPDXRef-item10380998
+FileChecksum: SHA1: de428184404f9dc8f6c3cd07bb4d9201612d4f4b
+FileChecksum: SHA256: cdc816f8aa7999a2830dd93b68a1513de3c18a4e1c16bb622b480143d50579cb
+FileChecksum: MD5: 85bebac75d9bc958a90ecba74b9d52c2
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/sequential/asvd.py
+SPDXID: SPDXRef-item10381199
+FileChecksum: SHA1: 73b55a22215a8464f3d1919acdb8ef910b0f17e8
+FileChecksum: SHA256: 5921ab548811c2c15d53d77be8175e75b9845acfa9c0532580dba2fafcd6f9ae
+FileChecksum: MD5: ef2f9847a8a10aaaf63d7aef5099f027
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/workflows/azureml-cpu-nightly.yml
+SPDXID: SPDXRef-item10381318
+FileChecksum: SHA1: 5667241c608d65680276359b82e0bb64e5829efd
+FileChecksum: SHA256: d9b1b86107843ffdfd8e508e7f35f90c615ed4c8557b99cb2df6b0abdbf8c82f
+FileChecksum: MD5: 591c13e920c4d4e5a77c7cf8e9abcb8f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/workflows/azureml-gpu-nightly.yml
+SPDXID: SPDXRef-item10381314
+FileChecksum: SHA1: 1e1e7237e2241cb273ec2c572bb7a86751872d09
+FileChecksum: SHA256: dbb51536d0293d52045b5a3b67e591e2e4a4341590813ea9af416e6af6e0dd00
+FileChecksum: MD5: 52b3800d6bf104ecff6e38846bf3dc6b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/workflows/azureml-release-pipeline.yml
+SPDXID: SPDXRef-item10381320
+FileChecksum: SHA1: ef2ce16b71d34d65230ac389e6f032b8c15b542c
+FileChecksum: SHA256: c7226e757db14943779e1435712deb70c6b9307971824638ccee420d5c8f1309
+FileChecksum: MD5: 656deda8ac435e366acfa50273170489
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/workflows/azureml-spark-nightly.yml
+SPDXID: SPDXRef-item10381315
+FileChecksum: SHA1: b4cf51570b8cd44859b35679cbd29764944864bd
+FileChecksum: SHA256: be9cfde621d3117becda6070be9e00f7c43a4d6cb59ecf886ca6e3d6a2def7b3
+FileChecksum: MD5: a8baa425ad372f907fd9ad88cccde913
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/workflows/azureml-unit-tests.yml
+SPDXID: SPDXRef-item10381317
+FileChecksum: SHA1: ea7311daac37008660a0e184a43363eef6f9bcc4
+FileChecksum: SHA256: 35b19f32388a67d25ea3020c4fc7fb2cab7c6b497b424a4630e78ca0ee2c3842
+FileChecksum: MD5: 00a53d55bc8aca58ef0fbdde6d129922
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/04_model_select_and_optimize/azureml_hyperdrive_surprise_svd.ipynb
+SPDXID: SPDXRef-item10381417
+FileChecksum: SHA1: ca92c7597ec61920e689941fd14fc7b82a2160a2
+FileChecksum: SHA256: e82ad59abc4200267312da3912f0cb73a23b334cf65013418e26e701e83fa5e7
+FileChecksum: MD5: ee7ea2b95be27c55a8f85b7a4e9f3006
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.<br>\n", Licensed under the MIT License.</i>\n", br><br>\n", SVD Hyperparameter Tuning with Azure Machine Learning" </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/04_model_select_and_optimize/azureml_hyperdrive_wide_and_deep.ipynb
+SPDXID: SPDXRef-item10381411
+FileChecksum: SHA1: 7309981cf87e15879afd7ee076ee0f54f84fdf2a
+FileChecksum: SHA256: f796a2259c5f98032f9001f115a459a2939a107e996bb7a592d85ceca7f82749
+FileChecksum: MD5: b4a52163dcb9b21b1b6286bb799fa555
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.<br>\n", Licensed under the MIT License.</i>\n", br>\n", Wide-and-Deep Model Hyperparameter Tuning with AzureML" </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/newsrec/models/base_model.py
+SPDXID: SPDXRef-item10381247
+FileChecksum: SHA1: 0ff9152aa4a54dca62a66c948fcbf8f2d724e8b7
+FileChecksum: SHA256: 7e1bd8798cf84dd1a33b91517246a2183ed50613a3cada2cbb10686d094e8f39
+FileChecksum: MD5: 7c495779b45a7e04ef82f078a21c4026
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/base_model.py
+SPDXID: SPDXRef-item10381190
+FileChecksum: SHA1: 7c0616ed1d394cb5af6c91790ab96c1d6894936a
+FileChecksum: SHA256: fc8707acbc22a35fc5b18b6fcb8aa213821b22bc1fed3aefcb9390774af1f95d
+FileChecksum: MD5: 6cdf2cd9f2537d8ed14e1cdcb5499880
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/baseline_deep_dive.ipynb
+SPDXID: SPDXRef-item10381458
+FileChecksum: SHA1: eb4190ac1fd09edc6550a1d67758366193aa4824
+FileChecksum: SHA256: 70de143bf16ada7fe9e4603168151158be21725652a7332ec90deac35c310414
+FileChecksum: MD5: da811bbc9e0167c4f712e28a8c568995
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/06_benchmarks/benchmark_utils.py
+SPDXID: SPDXRef-item10381421
+FileChecksum: SHA1: c08cb38f2f869f2769176487a74b3f6cc17e9a35
+FileChecksum: SHA256: 5ffdfb01ec7591ec547b8b9df42953a34f2c25e15341e0ddb7f3e8c337760876
+FileChecksum: MD5: ff6865716c29ae473a8743e89d15b8ba
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/scala/build.sbt
+SPDXID: SPDXRef-item10381381
+FileChecksum: SHA1: 801866de84ce25f8d6ad3428ff2efd7abdeb2544
+FileChecksum: SHA256: e49b578b89689140a7036e1b52f5e3fc0d0e5c94ed0f42e0efd251a254d07f5a
+FileChecksum: MD5: 3eb0b2c9df6f05c6a44ccab90481afcb
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/sequential/caser.py
+SPDXID: SPDXRef-item10381202
+FileChecksum: SHA1: 4005cc61b219437d66248ba547415e3e3bcf1e35
+FileChecksum: SHA256: ad5c0253bb2601a3cb42492ebf24e6531a15b90f2d54ca0327fe658b050d4a21
+FileChecksum: MD5: 599260ab0bf50e5d1f205750a533c21e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/conftest.py
+SPDXID: SPDXRef-item10381105
+FileChecksum: SHA1: 8bbe0ce57f1bc02a5ef479980075cdfbae071b46
+FileChecksum: SHA256: f873464059e072f3e6ea8df89b5d46e8cc32ffd2da33f3977aefffdb2aa7887e
+FileChecksum: MD5: d85f7685ac7bf0144b71e1f1584f89e5
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/python/tests/conftest.py
+SPDXID: SPDXRef-item10381350
+FileChecksum: SHA1: 81acdc5c7ce56c71958febe9776014121eedea59
+FileChecksum: SHA256: 3d074ae634a9b624e33ea8e0b06e7b814c9e51d7f3483141440a189c6fd5a84f
+FileChecksum: MD5: 4c699ce6c80b67db425c4a11319a34d3
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/evaluation/conftest.py
+SPDXID: SPDXRef-item10381081
+FileChecksum: SHA1: d91d1b0c1b0e69a0f1b40140aa40b3d8ababa951
+FileChecksum: SHA256: c67213c050b61593c7fce879a927960c8fdf3b4f0d75e80e9ed3a9ee096ef3dc
+FileChecksum: MD5: 6817c0b76fca56991d37079860931fe1
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/utils/constants.py
+SPDXID: SPDXRef-item10381160
+FileChecksum: SHA1: 3f462758832cfc6d21abcc3b1dcf55d71dde7e69
+FileChecksum: SHA256: fe6398768636ab81c3609c6a3c6b22c48bcca1c5ae4460ed5976ccbbe0acdbd4
+FileChecksum: MD5: 87b12640c7d274b9e3c7c9e82ef514e2
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. All rights reserved. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/cornac_bivae_deep_dive.ipynb
+SPDXID: SPDXRef-item10381456
+FileChecksum: SHA1: c32ac63f41fbb0eaba879651f9ebde9d605ea1b4
+FileChecksum: SHA256: c3563a9396278868c6efc9faa39040350529cd004595bddef3eb4c10c28854b0
+FileChecksum: MD5: d45076760fa2a14548edf0a84dabaecf
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/cornac_bpr_deep_dive.ipynb
+SPDXID: SPDXRef-item10381455
+FileChecksum: SHA1: 48b5b1f6ef0395d7570f250e81106bf5acf37380
+FileChecksum: SHA256: 4d38ddb8ba717348ff28f8aaf0b969f9d9efd5fae436ae31814dbc3ceb6ea2d4
+FileChecksum: MD5: 17cfdc137804f5983580620bc54f58d9
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/cornac/cornac_utils.py
+SPDXID: SPDXRef-item10381231
+FileChecksum: SHA1: f7f7c65a193e771bb7974837876913381453d024
+FileChecksum: SHA256: 4760dbed9f16e35f9c950abd7f1f1b3972b5b61519d202fdacd23177ee8d476a
+FileChecksum: MD5: 3a39ef4f8b7f5684c5d90c99b09c4ffb
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/cosmos_cli.py
+SPDXID: SPDXRef-item10381145
+FileChecksum: SHA1: 36c8e0d8d73dad02824d82290e726eb8891b7135
+FileChecksum: SHA256: 908d3dd7259c01e92cf075e0e9dba104bad9da6d9c892231adeb06823cd8ce2e
+FileChecksum: MD5: f3ecfe312933087b044c79f25abd6821
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. import pydocumentdb.errors as errors </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/criteo.py
+SPDXID: SPDXRef-item10381143
+FileChecksum: SHA1: 74059fb111685c3c51ce4d8d8eb79ebe61293bdd
+FileChecksum: SHA256: 3c89e4224bdeedf3df0711825db49ac7e461045599619538e70ea066921a433e
+FileChecksum: MD5: 41d456020e5fa7c8a83e67f49ce13180
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/utils/data_helper.py
+SPDXID: SPDXRef-item10381491
+FileChecksum: SHA1: b949d0d6637e1600ce466d7ebb4cc72b90ed1c58
+FileChecksum: SHA256: 34fb7645ead486a9159f1903523b49fd4c39baa3e63c08d3dfb6aaf1e27027ba
+FileChecksum: MD5: 21ebfa4e82d90557521ee9305ccf11fc
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/01_prepare_data/data_split.ipynb
+SPDXID: SPDXRef-item10381478
+FileChecksum: SHA1: f3700426afd2121ee2b33c92b9d18d6531382886
+FileChecksum: SHA256: a7cb3d21bce5762a3b778240213f804babf70f2a63e492c7de46676df4fc1dd3
+FileChecksum: MD5: 05301cd1ca02a3d249ec21f9fa3a2fca
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/01_prepare_data/data_transform.ipynb
+SPDXID: SPDXRef-item10381476
+FileChecksum: SHA1: 96d3f963f9970510ff11207f673671207748c225
+FileChecksum: SHA256: 7895592750ce0bf760896a339080d723ee6d0dba1fb11e4d0165c778fd7a2ee3
+FileChecksum: MD5: 3e526b9ff6507f31cb9236d443e7d157
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tools/databricks_install.py
+SPDXID: SPDXRef-item10381406
+FileChecksum: SHA1: 71b42d193f6b05c834d037eff1d689ca635eb286
+FileChecksum: SHA256: d8b1e6468e9803e67478acc5b6f930bf3a7ce3413f21706101b3d938ad161d21
+FileChecksum: MD5: cb039680d7d7e4e99efb3af4c4ed5886
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/ncf/dataset.py
+SPDXID: SPDXRef-item10381179
+FileChecksum: SHA1: 5248a2b4ba949e17c23b7eed632b64e28f2c1d55
+FileChecksum: SHA256: c9c0b51107f74f2e382e755af0eda7a19d9beb7511a8c5be34b8ae6b2450e23c
+FileChecksum: MD5: 6b51b116a37e4d57c91906805220a051
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/deeprec_utils.py
+SPDXID: SPDXRef-item10381207
+FileChecksum: SHA1: 2713ab4fda6595951105f450ecfa952f3f8611fa
+FileChecksum: SHA256: 76fb4143a455b35fd31879f866d8d15dbba12c6432452ff1e36d3189995cd05f
+FileChecksum: MD5: ec235a8e2ebc6b694256e05800dfc43a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/dkn.py
+SPDXID: SPDXRef-item10381191
+FileChecksum: SHA1: 64d04d1cfb5f4d3031c10d4a74634fc49ea337aa
+FileChecksum: SHA256: 3d88a7496192fba797e8ff622060524a5276449802ce3bfa1d1c4be8b8ae7830
+FileChecksum: MD5: 55b77c3996814267603faef21e7ae203
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/dkn_MIND.ipynb
+SPDXID: SPDXRef-item10381432
+FileChecksum: SHA1: 6837ece14145c7d51e812c0d6f4349f406049116
+FileChecksum: SHA256: 2c876a689dacdebad4334b83a4043c03671bb7432f6f6089ad6e424abc782309
+FileChecksum: MD5: 763a3c5a1779fcd7ea8c1e63d447246e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_content_based_filtering/dkn_deep_dive.ipynb
+SPDXID: SPDXRef-item10381464
+FileChecksum: SHA1: f82b6e9638d29da48d35532e3cef5d450dd23ae4
+FileChecksum: SHA256: 33372b11c796734374535895e539cdbbabd86cb934ae8ac63e73236c2f8ebe13
+FileChecksum: MD5: 310e1aaa37b122815e7c4b3d2b5ee862
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/dkn_item2item.py
+SPDXID: SPDXRef-item10381189
+FileChecksum: SHA1: 31d22aa9b0d3f8b586dc4948d8df021991670f35
+FileChecksum: SHA256: 3cb303d000553cce8cbcfa2efef6f2dbe76d7125442045dca96906fb516708df
+FileChecksum: MD5: 3299d27f002f3a7f85273d2423cc476c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/io/dkn_item2item_iterator.py
+SPDXID: SPDXRef-item10381212
+FileChecksum: SHA1: 6de29ab68d18dca4491eed08a536071f205a605c
+FileChecksum: SHA256: 84c6bc6dc32a8ba64dd61807c36b866067a8173761be5acbe56581149cba750a
+FileChecksum: MD5: 6707a1cb8453dcfd675f219a8988504b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/io/dkn_iterator.py
+SPDXID: SPDXRef-item10381213
+FileChecksum: SHA1: 48ea1e1dbf76bcdc41143c25515988a86a54413e
+FileChecksum: SHA256: 2a78f0b6d5964048d9ffa526d7894289982dfffda0e9d97f0db1afe31f967a3a
+FileChecksum: MD5: 9e1668b1404a29c09839dbdcd4b7c3eb
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/download_utils.py
+SPDXID: SPDXRef-item10381133
+FileChecksum: SHA1: 2a24c6cc1fd67d4724516e47c0f512b9fa336137
+FileChecksum: SHA256: 6224dc5aab2498d178eb8fbb64a8c42f89e9a8d475128d4b17b8ed8378301bee
+FileChecksum: MD5: 52b189013f531d2ac356c1e8bc8778ff
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/03_evaluate/evaluation.ipynb
+SPDXID: SPDXRef-item10381482
+FileChecksum: SHA1: a8b117e3b3ad0d3b6087eb57d2746946c1c769ff
+FileChecksum: SHA256: da5729abdf5a6551b352d02545331fd4e8e0eabe78516d6d7821e661933ff8e2
+FileChecksum: MD5: 6688b514bd8d43ccb80ff346ca9f846d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/fastai_movielens.ipynb
+SPDXID: SPDXRef-item10381429
+FileChecksum: SHA1: 1249de009a5ca8244ac5d6db2fea1f5099352aae
+FileChecksum: SHA256: 4f38e8a6794a2707d2ac977fd1adfcec94a4e91d5b8e94fc25ee1e29a40ec878
+FileChecksum: MD5: 69ce0c5771500839fd244349bf0a590f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/fastai/fastai_utils.py
+SPDXID: SPDXRef-item10381263
+FileChecksum: SHA1: 1f43644f7a5d58fcd159ed05c8ac4983d0f47c77
+FileChecksum: SHA256: d5d2e1d7e334dafb140d53f138ac5f94ac357f17022ca7cc0324e8bd9f28e54f
+FileChecksum: MD5: d8dccd7d4dc300d3fc6a9ebc4f37aaea
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/fm_deep_dive.ipynb
+SPDXID: SPDXRef-item10381449
+FileChecksum: SHA1: 9d4af3cc790dfbf66638e88e3ae0eacc4543ff23
+FileChecksum: SHA256: 7506fcfc4484b7430c58faae8591ccf4161b7abd6d9db951fb07695ac3d83096
+FileChecksum: MD5: c7203596fa3a389d0a3d73ce1aaefa29
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/utils/general.py
+SPDXID: SPDXRef-item10381492
+FileChecksum: SHA1: 6d26a22b022cd7e79e7cc39aa57c1160df7e0816
+FileChecksum: SHA256: a01538028d3f2acf7b78d0bfeeae6b45ab33b2db6e8160892c8154be06dd55fc
+FileChecksum: MD5: 0a1b9025102aa16a80bf54dca61544fe
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/utils/general_utils.py
+SPDXID: SPDXRef-item10381158
+FileChecksum: SHA1: ae9de4e32f2af63d15b74d28d333407932bed153
+FileChecksum: SHA256: d86f8f7b9cc1fec5b186fe0c6e5dc53edc0afbbc9762ca11c9481b28efb39f38
+FileChecksum: MD5: 78ec50846c8e6b532d7b259a67b1af39
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/geoimc/geoimc_algorithm.py
+SPDXID: SPDXRef-item10381227
+FileChecksum: SHA1: 06ca05be9079a6778bc9801062b4572cdb4874ea
+FileChecksum: SHA256: dd5d04b2ff1e047ee86bb0d1bfbc66ce44c156a47afbc4fc4be3f8c8ccf0460a
+FileChecksum: MD5: fd2256c812087adb0ec36fb411497d7d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/geoimc/geoimc_data.py
+SPDXID: SPDXRef-item10381225
+FileChecksum: SHA1: eda73f411c8288a3c357a96b93246530a712ab77
+FileChecksum: SHA256: e24ef8e5ed41f097038517a0a323a7fb168a98fec9c2c3e354ba40bf9baac72d
+FileChecksum: MD5: cd71c60e5be1044436db8c84d8eb5f40
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/geoimc_movielens.ipynb
+SPDXID: SPDXRef-item10381442
+FileChecksum: SHA1: 01e4aa8ae6cc56be7dd2028ba9cf45e2cb274911
+FileChecksum: SHA256: e95ef856ca08c757009e09daf920f0e56606c8f9592454b8e4814af12e4d6990
+FileChecksum: MD5: 43297c831afefc84b99263ffc959a994
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/geoimc/geoimc_predict.py
+SPDXID: SPDXRef-item10381228
+FileChecksum: SHA1: ddf37718061bf51591508399b20b16d2d5092e0f
+FileChecksum: SHA256: 676714fe53e4d23be61cd9a547b7d16c04aee0e29c285e046acf1f3c0cc65934
+FileChecksum: MD5: 5987fc95211aaf3037f195495fda6130
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/geoimc/geoimc_utils.py
+SPDXID: SPDXRef-item10381226
+FileChecksum: SHA1: ea296b96a06fc86f7b447b5f54c0265be43d12b0
+FileChecksum: SHA256: 136ba7f6b3315b6bb4c462518aa2041d9a38c4c7916725d7aea13d5534028c9b
+FileChecksum: MD5: 02b76bbf3820d1a14d730b6827057b22
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/utils/gpu_utils.py
+SPDXID: SPDXRef-item10381157
+FileChecksum: SHA1: a78f28c3d481695d4eacbcfdc583ed73a34a2429
+FileChecksum: SHA256: 5217d100ea62dbe6a01f10e2fe5099c284bb05a1387940b0199deef48c93779d
+FileChecksum: MD5: 8ba3902d779f559ec0a680d17bd8d9fc
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/sequential/gru.py
+SPDXID: SPDXRef-item10381198
+FileChecksum: SHA1: 45665c5ac39adef2fb443a5468808aa539fb07f2
+FileChecksum: SHA256: 150be3c67f0ac671bf846402705683a3369f1a42ed01ebddd00eefb04d740211
+FileChecksum: MD5: 597dfdf36d9e6b9a3f5aab74e6da10da
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/docs/intro.md
+SPDXID: SPDXRef-item10381296
+FileChecksum: SHA1: 24904e3c7f456b7d3743fb612be7697106683191
+FileChecksum: SHA256: ea887d28cdb99a5c6f5e1ac963e1a2fb8fc26610db37638ca902fa85cea65fab
+FileChecksum: MD5: 1a13e4f3ea2a3688986cb5a5c8e4185c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/io/iterator.py
+SPDXID: SPDXRef-item10381211
+FileChecksum: SHA1: aed17947c31808bfd58fd3d7f7004cff625c6b8c
+FileChecksum: SHA256: 998207ec30f632b4fd66aba1ec4f308b3dcddc5232811353d4c914da5ca5b7fe
+FileChecksum: MD5: fa101c68681b5156703ba98f4cd77e97
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/utils/k8s_utils.py
+SPDXID: SPDXRef-item10381165
+FileChecksum: SHA1: 36beb19401e5ba406326caff795980f4ffceb436
+FileChecksum: SHA256: 28e1fb16b22cb97aa8d4e2eda2505d923dac4c405af3469c7b89eafc063a26bf
+FileChecksum: MD5: ce5c8fdcab6380786e9e8d39d2cc5b92
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/newsrec/models/layers.py
+SPDXID: SPDXRef-item10381246
+FileChecksum: SHA1: fad2fbd109ed7fa6b7c399a634442ad9949e8cc5
+FileChecksum: SHA256: b47d25ed096381644c7f5deea9c84f1ac45f085f3cabc38a3d24d303ba6b7a79
+FileChecksum: MD5: 8efbb3b590389628c652e2dd709039d4
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/lightfm_deep_dive.ipynb
+SPDXID: SPDXRef-item10381461
+FileChecksum: SHA1: af22cd7d422020ba4b21e7372da287b2a444d084
+FileChecksum: SHA256: ce5a5a3e00c17f4ea60830afa0a7a8edb567baf93567bbf7f3a12b6724eb655c
+FileChecksum: MD5: 66f38668f9b8ca9e118acddd706d026b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/lightfm/lightfm_utils.py
+SPDXID: SPDXRef-item10381242
+FileChecksum: SHA1: 5061953026fb264b37c0563f8c5ae45404479c45
+FileChecksum: SHA256: 484bf8ff2f2e83cfcb1e1024f2b865304103c7c498880428d27f9c6eaad6ffc9
+FileChecksum: MD5: b39597bc854b40aa42ad2246d13e5a0b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/05_operationalize/lightgbm_criteo_o16n.ipynb
+SPDXID: SPDXRef-item10381469
+FileChecksum: SHA1: d93321a13fc71c03c511644a2956fef28880ae48
+FileChecksum: SHA256: 7f09cea0cedadfdd17bab79fc5c88f88d1dcf0ed1a9b9b82e185446290f3888a
+FileChecksum: MD5: ab3ad24a3482f6a3d14da7d4000e6dff
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/lightgbm_tinycriteo.ipynb
+SPDXID: SPDXRef-item10381439
+FileChecksum: SHA1: 2383fd1fa1a2809759265b3e31365d0988d1a305
+FileChecksum: SHA256: 4262a671c3f6b5a35eeec5af6f45511d5811a091d592bcc6d458701acd4960a3
+FileChecksum: MD5: c3f6a9f9562ba94e0e0e947a9c58d6da
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/lightgbm/lightgbm_utils.py
+SPDXID: SPDXRef-item10381174
+FileChecksum: SHA1: c60241d27cd3392c740dfe118ac31ff89a5dc5a6
+FileChecksum: SHA256: 5ae2aa97a303b6263e97dae902523e0c702a61a1741dfc74a4af3b94097a17b6
+FileChecksum: MD5: c6cb05e0a1a126f1fcfcf684f2faf5f7
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/graphrec/lightgcn.py
+SPDXID: SPDXRef-item10381193
+FileChecksum: SHA1: fd312d3d5df3391b7e60db090c3ccc4cdef38259
+FileChecksum: SHA256: a9590c769f7ca3f21d1a690c584e6a00d4ba5934171820392f57d4cc7bf1a0af
+FileChecksum: MD5: a3ef6b07ca259816aad9d0df0349be99
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/lightgcn_deep_dive.ipynb
+SPDXID: SPDXRef-item10381457
+FileChecksum: SHA1: 5fbb0dbb49a71eac4de16674a99836258be443a0
+FileChecksum: SHA256: 3eee009a9291293221ab67c0b4a99980143eaec01dcdd6a481fe9b4e7b6f9309
+FileChecksum: MD5: a2949dc071582bb562babc5601da7539
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/newsrec/models/lstur.py
+SPDXID: SPDXRef-item10381252
+FileChecksum: SHA1: b68e81df119517fec04190b11804a96436b0f0bf
+FileChecksum: SHA256: ec494655e742ef32b11f6ff3bb3c6bf38c5cde98bcece536da1f5226c48097a5
+FileChecksum: MD5: 01b2249ed03cf83e75234d9b2daeafbc
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/lstur_MIND.ipynb
+SPDXID: SPDXRef-item10381426
+FileChecksum: SHA1: 8529f950cd0d241f1333aa3ce916e6ed9f41fee8
+FileChecksum: SHA256: bd9296deeebfca4c6a87b84a3f86fa19df10dd4736ab998f17dda7483961ac04
+FileChecksum: MD5: 3ad75c2d028c074a62f989272f80f951
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/mind.py
+SPDXID: SPDXRef-item10381142
+FileChecksum: SHA1: 0c6cb9c1b7e7477aab1aa725b27e3f896cac91a1
+FileChecksum: SHA256: 8aa8a672fa62686621e32f5bef0c40791476c7acf6d71ba6a4c60c3d58aac787
+FileChecksum: MD5: b3cf2a2a39cd03e6339f647e92244a8f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/newsrec/io/mind_all_iterator.py
+SPDXID: SPDXRef-item10381255
+FileChecksum: SHA1: 6051f34575fb5f1a91e4b5a673c32248be31e255
+FileChecksum: SHA256: 193c0e3eae721a8c8ac306fec7e0f00c90ca96cdea58b3b2b918f2ae05b570fc
+FileChecksum: MD5: c98933c4312e08765cf2bc4315ab4e9e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/newsrec/io/mind_iterator.py
+SPDXID: SPDXRef-item10381257
+FileChecksum: SHA1: 6ce3b3af4c4b3bba0abaa7f720abdeddaddee130
+FileChecksum: SHA256: 3ad9fb639c5b19480084683239c162564f1a28f9459c0cc2294070c90b855ce9
+FileChecksum: MD5: 7efd3015869bbcabec03e78af5431635
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/01_prepare_data/mind_utils.ipynb
+SPDXID: SPDXRef-item10381475
+FileChecksum: SHA1: eaa764fd5b06d5a8e694a79e97719e9994469590
+FileChecksum: SHA256: cbbbdde5c470e9ec28407d6f1b0a5d3e75d7ec08ab9676924789c5a2a3bf71ef
+FileChecksum: MD5: 1dfc11cbe6ea6535a56ae289b558fb52
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_content_based_filtering/mmlspark_lightgbm_criteo.ipynb
+SPDXID: SPDXRef-item10381465
+FileChecksum: SHA1: 15106d239d3390b1ff8574e246872b1c6bc40b06
+FileChecksum: SHA256: dab3ee70fe5795dcd3d837fdfa176ed3267f416d375af0623676ce1e25c44fbf
+FileChecksum: MD5: 630c6bdb777b6e0d71e89a55e39df16c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/sasrec/model.py
+SPDXID: SPDXRef-item10381273
+FileChecksum: SHA1: c9b1a6ad12cede8ec90c8832d94f539478d894cb
+FileChecksum: SHA256: 0488ee0886258f7a80af7d98473611e1e606fbc641d8d6f0e75b6c47295e1a85
+FileChecksum: MD5: 2f05e22330c7bed533baf61d542276ea
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/06_benchmarks/movielens.ipynb
+SPDXID: SPDXRef-item10381422
+FileChecksum: SHA1: 86b0090b56db9d33957be1c065bd6aba23512897
+FileChecksum: SHA256: c0db78f6f7deaf82b64fad374831ea339bcd914bb9f199e20c61b750b0f5c07f
+FileChecksum: MD5: 4a818d75f96c9929560e7b397aa34b7c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/movielens.py
+SPDXID: SPDXRef-item10381144
+FileChecksum: SHA1: bc2b8c519e5ca7dc2737ee457df77c74c84da9ae
+FileChecksum: SHA256: 07dbc26213e0d9117801b91b28a2234d43bee4d71a59fb6eb82d3fb4372f0013
+FileChecksum: MD5: d2a9c414e73bef77a5eed8049bc47629
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/multi_vae_deep_dive.ipynb
+SPDXID: SPDXRef-item10381448
+FileChecksum: SHA1: 28daca6b5272408ca10a622f0e42e19cb398e1ea
+FileChecksum: SHA256: c0ac382a076eedf7794b36ab69b68243461490bfc4bb83aaf4e77054a967ddc3
+FileChecksum: MD5: 169eb46dd83dc91c30e2227124b41628
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/vae/multinomial_vae.py
+SPDXID: SPDXRef-item10381238
+FileChecksum: SHA1: a924b65da72176b8254dade89d59bfa1d5106eb1
+FileChecksum: SHA256: 10f00f1256fd70cc51acdc61333a560be4243d083e7023ea0ca747496b285917
+FileChecksum: MD5: 43b7799c441cc7707a3da8b6516e959b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/newsrec/models/naml.py
+SPDXID: SPDXRef-item10381250
+FileChecksum: SHA1: f6ede25fba8601a8fd3e791fda8be4d4397faab3
+FileChecksum: SHA256: cc2f5d35fba1924af5fbf11dfbe346b9df090f46aa1236b70d400d90de9c00ab
+FileChecksum: MD5: d78e7c402920600eba7c241224610ac4
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/naml_MIND.ipynb
+SPDXID: SPDXRef-item10381433
+FileChecksum: SHA1: 3d87ebf8a8e2854bb3f73baea7b79606724ed01f
+FileChecksum: SHA256: fdb32ba4d3062ac60387d198829cdc35ace9220c8706f4cf1e80546adb730d76
+FileChecksum: MD5: 348caaf9c0bba6882f72324af18d5da9
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/ncf_deep_dive.ipynb
+SPDXID: SPDXRef-item10381452
+FileChecksum: SHA1: d2749fe37bf03925b35f4df7f3e635f8ca2fea8a
+FileChecksum: SHA256: 4190e6a908fdac68ec05438c7bf3284f8de6f0b6c44de2ddb7568499d3f63614
+FileChecksum: MD5: fdab3ea6bd671a72952f12ca3d03b94d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/ncf_movielens.ipynb
+SPDXID: SPDXRef-item10381427
+FileChecksum: SHA1: 5760672d64d6ce0388c04de6671c43254174c6de
+FileChecksum: SHA256: 227d4fd68bb647dee72b5f95a5c5929ed2e91302f9839cc41cf1945b5a2e9c37
+FileChecksum: MD5: 697c37d0533b615dfb7b07e134051c17
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/ncf/ncf_singlenode.py
+SPDXID: SPDXRef-item10381177
+FileChecksum: SHA1: d27047f41afb51ca9ff065b6a71d748ea008580a
+FileChecksum: SHA256: ad31eb5530b24c7383ff2218f7cf333a91dd0a888e255c5e43e91b5ddbf365e2
+FileChecksum: MD5: 27f5e10fda79353fc6c1bfd802646322
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/tuning/nni/ncf_training.py
+SPDXID: SPDXRef-item10381154
+FileChecksum: SHA1: b5dd9cd45f284a26418a0fd36cf20ea822c9f050
+FileChecksum: SHA256: 8a2f532e290398ec417f672d77ac52fba8029316ecfc9f4258298cb2a435db74
+FileChecksum: MD5: 8b4827c7002e1d61e3a286560f0ecd2c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/tuning/nni/ncf_utils.py
+SPDXID: SPDXRef-item10381153
+FileChecksum: SHA1: 2d288676ab910dca00b133d7a3e514b530a74ca5
+FileChecksum: SHA256: 5d16a2e7e7c219bbd7f9e98be7f3d5d65cad835c2ed925a41d0ef92b033def04
+FileChecksum: MD5: 06886593378f6c44608fb11f9cb9bd40
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/newsrec/newsrec_utils.py
+SPDXID: SPDXRef-item10381244
+FileChecksum: SHA1: c39fda135a1e6b0d7ae258231ae159d25183b092
+FileChecksum: SHA256: 5c804b7f537b386bbbbbda27745aebc7ead7e389bc2438d68ae44237e7fb74ca
+FileChecksum: MD5: 66fb50ca6b241ff123c1462b0140e6ef
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/sequential/nextitnet.py
+SPDXID: SPDXRef-item10381200
+FileChecksum: SHA1: 79831f3fec294085d080dd7a9e562dddc78cb2c9
+FileChecksum: SHA256: a510599bee862175b720eeb854d107685afd678b52fe97a9e6cf1369d721ca07
+FileChecksum: MD5: ddf0807de38f4af8ed4234b849e9d11a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/io/nextitnet_iterator.py
+SPDXID: SPDXRef-item10381215
+FileChecksum: SHA1: 8b65bf06c0f04863703a7b5ad37dba0a549125d4
+FileChecksum: SHA256: 3086f3ae04ef54a81cffb52106598c45334c92e2eb2b6b0d59234960d3737604
+FileChecksum: MD5: 7ed13961f1d373a056930145f5844f2f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/04_model_select_and_optimize/nni_ncf.ipynb
+SPDXID: SPDXRef-item10381416
+FileChecksum: SHA1: d5534b2db6ab57ba1bb1400479eca89fbc2e1260
+FileChecksum: SHA256: 43f40cc0a93e1d9ca28da354c7e98d14e7873b29e384077ac09bea1fb1a3586d
+FileChecksum: MD5: ae6f84b0e75afbe6d55ca0d3951b6e6e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.<br>\n", Licensed under the MIT License.</i>\n", br>\n", Model Comparison for NCF Using the Neural Network Intelligence Toolkit" </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/04_model_select_and_optimize/nni_surprise_svd.ipynb
+SPDXID: SPDXRef-item10381410
+FileChecksum: SHA1: 00805706209b1840c940bbe9d88a26cc1b57fcab
+FileChecksum: SHA256: 2d52a5992ddcebf9137bdff23ff531f0119a70230964969a57591caf55eb0369
+FileChecksum: MD5: 39a9c005754f1a36120e12e3ca1581ef
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.<br>\n", Licensed under the MIT License.</i>\n", br>\n", Hyperparameter Tuning for Matrix Factorization Using the Neural Network Intelligence Toolkit" </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/tuning/nni/nni_utils.py
+SPDXID: SPDXRef-item10381150
+FileChecksum: SHA1: 21f32a8302bb5e6a0cc39673dcca129ad480bdec
+FileChecksum: SHA256: 07c507448cce7563c5604bf2494984753418dab0fd4176a845208c6f8700fbb2
+FileChecksum: MD5: 6024db108595cbf9ba4fd0e47934e884
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/utils/notebook_utils.py
+SPDXID: SPDXRef-item10381164
+FileChecksum: SHA1: 714a26550bde47d754e2c29b9f787dc4f59c958d
+FileChecksum: SHA256: fec0177adc6d1bc34da78f811a252240c4748a6e703c0ab3d3dc48472188e13b
+FileChecksum: MD5: 9d8ad7f23f9917b112a48163bb981fdf
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/newsrec/models/npa.py
+SPDXID: SPDXRef-item10381248
+FileChecksum: SHA1: c98bcb9fcf9778646e0658abeac5ce73d13e0ce1
+FileChecksum: SHA256: 9fbc86f39805be6a7608409a01987ac9db7176ec18b43eb9cbc1659450c56a82
+FileChecksum: MD5: 6b47a783a7a0a3d17020ef24ab90fa21
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/npa_MIND.ipynb
+SPDXID: SPDXRef-item10381436
+FileChecksum: SHA1: be7e1a34cb78f93f303499d56fdd39bfc2e2af27
+FileChecksum: SHA256: a4040543584481a3eb15db67869f8a2f2314ff7893413e7434e5cd06ce66be09
+FileChecksum: MD5: 810b35d1556ff796fef4d5a152e28627
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/newsrec/models/nrms.py
+SPDXID: SPDXRef-item10381251
+FileChecksum: SHA1: 561cf49faaa2bd9349e147ac9aa815cc093b38c2
+FileChecksum: SHA256: 0e70acbfda6fab8409e6d2278cc1d92ac343df871c8d297e8f2c411c7d96505d
+FileChecksum: MD5: 6c1e9178362f5034595582d36cc52933
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/nrms_MIND.ipynb
+SPDXID: SPDXRef-item10381441
+FileChecksum: SHA1: fb3dafb1d4f41d374e965004ad4e08e8eb15ff7f
+FileChecksum: SHA256: 9d52970226b97023940301c1a1d2ee33d01e85ed22980d22fb96698f29e863d7
+FileChecksum: MD5: fb59db6a97cb8379c17f4678fec4cba2
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/pandas-subgraph-local-samples.ipynb
+SPDXID: SPDXRef-item10381499
+FileChecksum: SHA1: 35318b2502edf3e7cd16f2da415a30a85b622354
+FileChecksum: SHA256: 48b5fba7fde64ec9865cc56711995f4e691fec5f5f58b2c00e471192e802f99b
+FileChecksum: MD5: a8999d113b4128c62186773b83e0f945
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/pandas_df_utils.py
+SPDXID: SPDXRef-item10381137
+FileChecksum: SHA1: 24a5c1cbcf64f2f977e714dd0184143ac4fdaa00
+FileChecksum: SHA256: 04db67f79fca93bacf8aa4cc6901e25fc1abf523fcb19f2bc8deedffbf28f135
+FileChecksum: MD5: ad7103d130f2a1cbf7d4f489cde021ed
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/tuning/parameter_sweep.py
+SPDXID: SPDXRef-item10381148
+FileChecksum: SHA1: f7ceddb381763329abcebe0c1f9af4c823e5e46b
+FileChecksum: SHA256: 345a353ed8d68ff2b55acb73494ce4711777ed990767f5f151152b8989ce4a8a
+FileChecksum: MD5: 869105935e5ee0385092b3e807426cb5
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/ci/azureml_tests/post_pytest.py
+SPDXID: SPDXRef-item10381000
+FileChecksum: SHA1: 3b7de8d50355994612e1f68a428c3f9e6fe3ec98
+FileChecksum: SHA256: b18be8e2f43b03ee62d549976ea315d9d0f76d0a7d9a33f311aa4faf0cb76763
+FileChecksum: MD5: 95dde5ef02417e50be1e6e78d6c32020
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/utils/programmatic_notebook_execution.ipynb
+SPDXID: SPDXRef-item10381058
+FileChecksum: SHA1: 577835313ee76b2faa57b97895da107c066d924b
+FileChecksum: SHA256: 2375cfd8bfdcf719f1ba1931972e854ab0d9b79e33af47bd76b712c6394afd4a
+FileChecksum: MD5: 432a3433e4ed1ed26b9810e73155823d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/python/src/pysarplus.cpp
+SPDXID: SPDXRef-item10381357
+FileChecksum: SHA1: 51673742f1ef26c1acf152563311f805ee736184
+FileChecksum: SHA256: da7761e73a5701b94f8349e8ba4fdfa219de2971167294edacf78b2ff5c1f8b2
+FileChecksum: MD5: 3334cc5ae4ef46ba8592f1c1930bc341
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/evaluation/python_evaluation.py
+SPDXID: SPDXRef-item10381285
+FileChecksum: SHA1: 39125bd9c38e9a58f8774832de3f96d71053d1b6
+FileChecksum: SHA256: 6b13fdbd86db06fa46f93f817867b265b32c5d1f0251edd228ce4d663a7eab3d
+FileChecksum: MD5: 320ff87bb7c5010ed1b55e469d34034e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/python_splitters.py
+SPDXID: SPDXRef-item10381139
+FileChecksum: SHA1: 9abaa601fcc5b3278611e7c955b12e59309fcae9
+FileChecksum: SHA256: 40651551683f848e80d17d1cfada224eac0f8e48f5e14f9ed2f9d4f5e2bf5bf7
+FileChecksum: MD5: 02619f82a82051cd8fd19c289d437f61
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. import numpy as np import pandas as pd from sklearn.model_selection import train_test_split as sk_split </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/utils/python_utils.py
+SPDXID: SPDXRef-item10381167
+FileChecksum: SHA1: f8bccffa634c7d3feb9e07d0f47d0de0ce245545
+FileChecksum: SHA256: fbe5a3559912a632d6b74678fbc1b7a3463f6fd4bf8b535872af664e4d0e5873
+FileChecksum: MD5: 45eb8d3192e7779d7d441dc54d49bbe3
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/rbm/rbm.py
+SPDXID: SPDXRef-item10381259
+FileChecksum: SHA1: 09e39cfbf99ac50f969ee308890d4f1003fe3e84
+FileChecksum: SHA256: 97963185519936df6c72431f1a915f263fa008e62f91b52a9fecdab1d16911a3
+FileChecksum: MD5: 2e79618b60e3eb5dc23bb16ce737e82c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/rbm_deep_dive.ipynb
+SPDXID: SPDXRef-item10381453
+FileChecksum: SHA1: 05aaf08354989c30884e1dc62c6a92df9b6de60d
+FileChecksum: SHA256: ae18f7e3468b5dcb4a0fc2f19feaf228e6e311829731ca14eceb3533f6e2800b
+FileChecksum: MD5: 31216f22e77a265b0d36be132684a42b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/rbm_movielens.ipynb
+SPDXID: SPDXRef-item10381445
+FileChecksum: SHA1: 3ea49325f05399f8c81217cec93ca77847b015d9
+FileChecksum: SHA256: 3c1f0958d25b2d911a6224efb67a0a91a23d715f2e7109f497630c31d1cca6ad
+FileChecksum: MD5: 90c6d564d0fe33d9ca9ed626c1c185b4
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/rlrmc_movielens.ipynb
+SPDXID: SPDXRef-item10381438
+FileChecksum: SHA1: 14a2b229fbc39286feb48d9345963bf4cef11047
+FileChecksum: SHA256: 2705ff1f7bac0a857f6d020fe4d3d07f774b7583a7a62789c2378a360f84c850
+FileChecksum: MD5: d16409d66876193093e942bab169a895
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.*\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/ci/azureml_tests/run_groupwise_pytest.py
+SPDXID: SPDXRef-item10381001
+FileChecksum: SHA1: d20581a515c81a0e906ae92cc2ca59741d1ab04d
+FileChecksum: SHA256: f175b84fc9fda701cc8c42d05e8ec57dbbac49d683bf0b92cc749222648ee714
+FileChecksum: MD5: e148a7f4ab63da18a093b491e8674cd1
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/run_notebook_on_azureml.ipynb
+SPDXID: SPDXRef-item10381424
+FileChecksum: SHA1: b2902a68ca3a4286a195708f8a4e02ba4fd73cda
+FileChecksum: SHA256: 30fe6ad96bce75f5930d9d503db1be1aeb4d5453c129176bb1b1328027b69022
+FileChecksum: MD5: a41510a70ae0cc589296115c2fab8e7e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/sasrec/sampler.py
+SPDXID: SPDXRef-item10381275
+FileChecksum: SHA1: e414c068f12c3d72b316cec4d7f818dd74853424
+FileChecksum: SHA256: 22721d1b4e7b15402b36fa2db1368eb8efd7ad1c6742dc1adb6608b12201fa24
+FileChecksum: MD5: bc594989dc50372a93912b473f626006
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. Original codes are from https://github.com/kang205/SASRec/blob/master/sampler.py </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/sar_deep_dive.ipynb
+SPDXID: SPDXRef-item10381450
+FileChecksum: SHA1: 6a5888c6b63724e831f45e22c3e1819694f04bbd
+FileChecksum: SHA256: 4d3abad69c59e03318c1a15a90654782547baf2879d60ea812ee332229568729
+FileChecksum: MD5: c4195d66b0f30cd343d93ede9b881696
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/sar_movielens.ipynb
+SPDXID: SPDXRef-item10381428
+FileChecksum: SHA1: a4a8c76dbaa99bc3ddfae276eb450e16c3c64bc4
+FileChecksum: SHA256: 070773756608cbb73b5e327f63a810a0cb7e1108534eed853d532095011e416a
+FileChecksum: MD5: bdf187182c6d92bfc6f7460790b01110
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/sar_movielens_with_azureml.ipynb
+SPDXID: SPDXRef-item10381440
+FileChecksum: SHA1: 405f6af65c9eed03f698143afbe189aee5eae64e
+FileChecksum: SHA256: aad6ad2b4bbf0e0717bfd46f38986fddf1b4fc7254ddc53c501997d0beb84fc0
+FileChecksum: MD5: 64d85261c7057b86d6633f38868fc53d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/sar_movieratings_with_azureml_designer.ipynb
+SPDXID: SPDXRef-item10381434
+FileChecksum: SHA1: 2c6c8e3488a1f308704e86557eee4d191ac6c709
+FileChecksum: SHA256: 12614a280dc4b54d3bd023fc79292712a154a87b3668cb6e98714b748841f70b
+FileChecksum: MD5: e9627257ae8611876d6150a6e46074ee
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/sar/sar_singlenode.py
+SPDXID: SPDXRef-item10381235
+FileChecksum: SHA1: 0d2ba2d057db7229b878c29554c81808c6f41fab
+FileChecksum: SHA256: ced5fb167854037d138e89b206a52e753d10709e72f245b966561410d71a9511
+FileChecksum: MD5: 1b13d42ed258121d186b085e536ceb35
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/workflows/sarplus.yml
+SPDXID: SPDXRef-item10381316
+FileChecksum: SHA1: fb068df526a2c94e6f4011dd8813cd746eeb1f15
+FileChecksum: SHA256: ef208d89b3965f606ebbfa5d5fa6a4b8f82fa4cf40cd271652e0f986ddde6e94
+FileChecksum: MD5: 01760e81a3cf3b2904b434f8b9697bb8
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/sequential/sequential_base_model.py
+SPDXID: SPDXRef-item10381205
+FileChecksum: SHA1: 4869b625c3f24056f1a704774977b3b7a5e1dfb2
+FileChecksum: SHA256: 48a0b167be5f6d24558952f9660c5a72fb8231a09e811e1369003d5dafdb93d8
+FileChecksum: MD5: b176f74de23f25ddd6d4b9222b357672
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/io/sequential_iterator.py
+SPDXID: SPDXRef-item10381210
+FileChecksum: SHA1: 9cbded4a5c60e726cc8f23bc519dfc1524e951bc
+FileChecksum: SHA256: 0a2e2ef44b41dd9852a88e9c986018bea770320e77099791ee307378c40e9e53
+FileChecksum: MD5: de6cf9e6830e070b19901af367f22b02
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/sequential_recsys_amazondataset.ipynb
+SPDXID: SPDXRef-item10381437
+FileChecksum: SHA1: e380e0174a59aa9544582eea755d2daf1e02561e
+FileChecksum: SHA256: 766417f7a00459912e8ded05040c57cb9274fa05eafdb9108476114ecc26a1d2
+FileChecksum: MD5: 287d90152670d751571350ad3a6815e7
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/python/setup.py
+SPDXID: SPDXRef-item10381359
+FileChecksum: SHA1: 51701862ae4d9ec37164b362ca693f8ae6cf447e
+FileChecksum: SHA256: 0e92a7e3fcc6f1f9b47b98b375d4d7b86ffcdb22dcf18e39871a13599c48ff91
+FileChecksum: MD5: d9ec1e396e2b990cbdc9d06b9acf77cd
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/scala/python/setup.py
+SPDXID: SPDXRef-item10381365
+FileChecksum: SHA1: 53ecb0a33bcb1db89a9a07abe9c35f698988f2ed
+FileChecksum: SHA256: d9347a8ee344f0560ac0708e39ad63cea875c44e1e65746d4d603f1aa803004f
+FileChecksum: MD5: 5d2f41d137a35b87c8db84ec288eef79
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/scala/compat/src/main/scala/com/microsoft/sarplus/compat/spark/since3p2defvisible.scala
+SPDXID: SPDXRef-item10381391
+FileChecksum: SHA1: 73cc291aa490d27bffee7d499259e63611748f0f
+FileChecksum: SHA256: c2b9a28c0b8bc36f7622b29d789758c5830c6c5e9e285595ded967caf3bb2cdd
+FileChecksum: MD5: 037093302d94184bc15a322ffe192315
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/sequential/sli_rec.py
+SPDXID: SPDXRef-item10381206
+FileChecksum: SHA1: 1213ceaa9a7d1091285e66f7de853a266c1a7cfe
+FileChecksum: SHA256: 7d12ac2599003af5bcbd1a1cebb2cb276854828fa0e43316c834f0057da35eb9
+FileChecksum: MD5: 3da1cafa50d5953cec4cf611711a08c0
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/evaluation/spark_evaluation.py
+SPDXID: SPDXRef-item10381284
+FileChecksum: SHA1: 2a99bce5bf94005e3d1e633019587ecad2f25ac1
+FileChecksum: SHA256: 76c056c14eb4d547423de406ca31a5bb8386123daef2df88b3b4cfa610634bb9
+FileChecksum: MD5: 71d126d7d78c565779421bf27e8572a7
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/spark_splitters.py
+SPDXID: SPDXRef-item10381138
+FileChecksum: SHA1: 42b3158b6a147a2daa0e7a99ad6464ef45a690f9
+FileChecksum: SHA256: 989a822bb13f114de68415beba516dd4a94d9d4dcf881932b86cf1cdce156d0e
+FileChecksum: MD5: 60dee632a4cfa717f4785a6e32fc2899
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/utils/spark_utils.py
+SPDXID: SPDXRef-item10381166
+FileChecksum: SHA1: d849838bf0362ce6bbb3544780ac9461d002159d
+FileChecksum: SHA256: 6260b5b82614e0bf44609b2bb8ed11dbd73ec5e6fd4ff2f2d76ddb5bb36a6798
+FileChecksum: MD5: 6ad799a86af2241378862ec31efa927f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/sparse.py
+SPDXID: SPDXRef-item10381134
+FileChecksum: SHA1: ee9384dff5b2a5f7530e6f666a730af989b87c6c
+FileChecksum: SHA256: 519029658c687b0ae6869f187d26890a3243822e594afb5dd6fb02e4ae687dec
+FileChecksum: MD5: c4f4e211829bb4c4d21ec3fb84f1967d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/split_utils.py
+SPDXID: SPDXRef-item10381136
+FileChecksum: SHA1: d901af50baa78cf59ee904c9e6d7dc1fe178a7ab
+FileChecksum: SHA256: ea447acdfbe2af53b82b76a790ad2aa21bb9e78500265de0ccf57ba324fd8b3c
+FileChecksum: MD5: 896725f56a030a912418cf02705d0bde
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/sasrec/ssept.py
+SPDXID: SPDXRef-item10381271
+FileChecksum: SHA1: eef988609abd94fc5d45151d47ffed91cc3ed4b4
+FileChecksum: SHA256: d28767530317bebd65ee7b9d812c1ffa526e90ac46521dc199f39882e5761812
+FileChecksum: MD5: 33ae66ab5c9cdbcf810d03603394f7a3
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/vae/standard_vae.py
+SPDXID: SPDXRef-item10381237
+FileChecksum: SHA1: 67a0717a32fbe133971b7479eb245f4530597da9
+FileChecksum: SHA256: ff2708f4a1c0107ffe484b3702aa6c158933a384d3c002c8923536298f79071a
+FileChecksum: MD5: 3c811964caf16e20d577d5eb14de9c4d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/standard_vae_deep_dive.ipynb
+SPDXID: SPDXRef-item10381451
+FileChecksum: SHA1: 4c3cf58546ad5c5c743e52f6a4b6222058c4eec7
+FileChecksum: SHA256: fa298c803572e246a54e48017fc14fc5a1d440c61f69170aa6664bbd39b877f2
+FileChecksum: MD5: 0c11576a28241a7fffd84a879014f563
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/step1_data_preparation.ipynb
+SPDXID: SPDXRef-item10381498
+FileChecksum: SHA1: 4ac4f63da5bae8ad93bd92c0f43614078b10e3e5
+FileChecksum: SHA256: ea94142fc0bf4392bcda9399bea2ca3561f20ca38f9152b20a7bb353f3964db0
+FileChecksum: MD5: aa9f840f140c02f39bb1aed6b94dcbef
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/step2_pretraining-embeddings.ipynb
+SPDXID: SPDXRef-item10381485
+FileChecksum: SHA1: 146c7dfe76315ca97a10151809cf18f01c08af7e
+FileChecksum: SHA256: 000f9c36a900ee01e8edab9283e71961a86c01ed300d795ba548f8afccbfafe1
+FileChecksum: MD5: 621bef95afc0aab70b59bfbaee157c25
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/step3_run_dkn.ipynb
+SPDXID: SPDXRef-item10381496
+FileChecksum: SHA1: 386eee2c08de14f7b9dd188f21e6c5964fb09d22
+FileChecksum: SHA256: e467df3a649480cfce740270fb4f0c4b372f5cb90d6e36f37f5b7430a39517a3
+FileChecksum: MD5: e528f8242a47399f24c406c7ac3166e3
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/step4_run_dkn_item2item.ipynb
+SPDXID: SPDXRef-item10381495
+FileChecksum: SHA1: 98f716117837956d3e88ce9850a60730789d5186
+FileChecksum: SHA256: 8a62792021d72793f1abe4a7110e8c4b3394bda1f4fdfe6b477d398726da46fa
+FileChecksum: MD5: a37899439c06168266a48d4317573184
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/step5_run_lightgcn.ipynb
+SPDXID: SPDXRef-item10381488
+FileChecksum: SHA1: 7f557b6b9351947c4bee3e56979fb02823031df7
+FileChecksum: SHA256: a1edce1ab1b641e1a3a732dce1dc351a7cf4548592058cc8e33ab3ad9acbf729
+FileChecksum: MD5: f5ee3ccdc12f1e06aa1923e00ef2d63a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/ci/azureml_tests/submit_groupwise_azureml_pytest.py
+SPDXID: SPDXRef-item10380999
+FileChecksum: SHA1: ea7c98f358512e61c34c715c611f9015f25c7314
+FileChecksum: SHA256: ba58a07d8c883fb4968cc651f1ddb63e4dbaadd026d448efe736717f7c4803ae
+FileChecksum: MD5: 4e81902e1307ef086aa53797d400dc2b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/sequential/sum.py
+SPDXID: SPDXRef-item10381197
+FileChecksum: SHA1: a50d3b98f8ffbb4612e806fa02f495c98ddcc214
+FileChecksum: SHA256: ed5c3df31c8767e45d7bdcbef5524607483ac0e0280129a3e5a23d372b8f85e2
+FileChecksum: MD5: a7e01f1a7037bc841578b7bbceb659e5
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/sequential/sum_cells.py
+SPDXID: SPDXRef-item10381204
+FileChecksum: SHA1: 37327c86861f933a53e9aae58d616783dea200a1
+FileChecksum: SHA256: f37fc41c75c28f52cbe6bd7ee0956f840b47a2c2e6b3a09528e510a0c43aeab4
+FileChecksum: MD5: 29e7d13b64b018bf1ac67f670aedabe2
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/surprise_svd_deep_dive.ipynb
+SPDXID: SPDXRef-item10381454
+FileChecksum: SHA1: 767657e9797f222017d543a2e3aad8cc3e67ce93
+FileChecksum: SHA256: 4b45573ad00c27c189b069c5f3f10d1815dd0f3d609b2a18b6defdad6e56554a
+FileChecksum: MD5: f427b887f88dfed7f06eb983ced20846
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/surprise/surprise_utils.py
+SPDXID: SPDXRef-item10381277
+FileChecksum: SHA1: aabb266007959c4bca0cdc66e0be57c4fc016702
+FileChecksum: SHA256: 2764cc2c60b4802200637ae299cec311b24191c160ebfe4df90b0605f2fab702
+FileChecksum: MD5: 865269e1a843a4468dbd3d0a666339ee
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/tuning/nni/svd_training.py
+SPDXID: SPDXRef-item10381152
+FileChecksum: SHA1: 18690b96095e1b70b77bfd5e6f9c1338c1326ef3
+FileChecksum: SHA256: 3290ca501f635c6dc18b7cec2d4f6c8a3cea3331113e6739385df7d3cc60ffa4
+FileChecksum: MD5: 4b674eb0e2b961f81e6978261de62b0f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/04_model_select_and_optimize/train_scripts/svd_training.py
+SPDXID: SPDXRef-item10381413
+FileChecksum: SHA1: 0539037a72d45a03a406beac84393a4fa2625e2e
+FileChecksum: SHA256: a89c8fb2e94835bc5a4ca608486b73b0673da74582bd2073d8ed2e8d498d70a1
+FileChecksum: MD5: 05f3b61121ce48f0a6bfa0f18f72f58c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/utils/task_helper.py
+SPDXID: SPDXRef-item10381494
+FileChecksum: SHA1: ebe5ec94c5716f08e3f4f50382fb417c6b7d23b8
+FileChecksum: SHA256: 55323172f6ccb8bdcca76b01c0236912bd3058f7d4fe95bc2cf35767d6cc1611
+FileChecksum: MD5: 7b64e9316d232d58c170376374340e1f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/template.ipynb
+SPDXID: SPDXRef-item10381419
+FileChecksum: SHA1: acd98656eb8a7827c9aeb56df33587618997bfd9
+FileChecksum: SHA256: 3fa35b90ad7951c4601df7b50624baa28367e1621abe47f14864c9e6ad567146
+FileChecksum: MD5: 580f5edf9f2d872f467846cc3295ff67
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/regression/test_compatibility_tf.py
+SPDXID: SPDXRef-item10381116
+FileChecksum: SHA1: 72242e2b9d8fc6fc06d18872b9ba9bc74bfe60ff
+FileChecksum: SHA256: b1d28eeacf57c84fc9553fedc27b3fc678044181e7e13014a3953d3fb0c16899
+FileChecksum: MD5: f303a4a04a3370db1653d3dcdfd47397
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_cornac_utils.py
+SPDXID: SPDXRef-item10381069
+FileChecksum: SHA1: 168dfa05cb02e00680eebe7f8eb5688e82e17706
+FileChecksum: SHA256: 5be588d1188073aa760f96fa8a1af44301c3e363206c650d0f47b5228ebda278
+FileChecksum: MD5: 67967c68393ff61900b5c801da66e29e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/data_validation/recommenders/datasets/test_covid_utils.py
+SPDXID: SPDXRef-item10381098
+FileChecksum: SHA1: ae8515002f0d3016dc8d0db2ee143692c1946187
+FileChecksum: SHA256: a345dae85e071d1d42dcd694a1190f34f996bea4b705164cafd072e1b10f8e4f
+FileChecksum: MD5: 8853ae0e04f808cd1a7f16c2fd1e3fcb
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/data_validation/recommenders/datasets/test_criteo.py
+SPDXID: SPDXRef-item10381094
+FileChecksum: SHA1: 9e807510f637efe52694c5d7ba19767699078f99
+FileChecksum: SHA256: e74fb95364e7e31ec9c86d9ba94105b51b958f9a9dc11d8cefb1f3566939e3bd
+FileChecksum: MD5: e0902e9d92749178ae1aa066f1158d81
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/responsible_ai/recommenders/datasets/test_criteo_privacy.py
+SPDXID: SPDXRef-item10381125
+FileChecksum: SHA1: d03e4b207754ca9652af6ecb5a876418e8b942c6
+FileChecksum: SHA256: 7f62722b763b96d1897a3aa83ac1153d0dcc79f0568cf1e43f9f8808c42f8090
+FileChecksum: MD5: 3368ca6cbb3d3a59e5f938dd61677703
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/smoke/recommenders/models/test_deeprec_model.py
+SPDXID: SPDXRef-item10381018
+FileChecksum: SHA1: dcb6a9bd780fe20bff93b8e539c5cc8c53d66cb0
+FileChecksum: SHA256: 98fbb0b1cc76a58ebf9faf202f53876fd9cdc9fb9ce201dcdaafb9cfb70ca539
+FileChecksum: MD5: a264477eef6c400b156aeebf775e9941
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_deeprec_model.py
+SPDXID: SPDXRef-item10381068
+FileChecksum: SHA1: 2d72b6289fb0b21a628af151800f2ebfaf6f1d3d
+FileChecksum: SHA256: f95fb33fbde486930656940c3c3cc85245b88d3cb117a807f1239cb648c7ff31
+FileChecksum: MD5: ba48ea25d43b646581169dd2b2dc76c5
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/smoke/recommenders/models/test_deeprec_utils.py
+SPDXID: SPDXRef-item10381017
+FileChecksum: SHA1: c073e3bf0c91c16126381917995543336a058753
+FileChecksum: SHA256: 8aa688225a7339bba4f937e028cc9c2f5d1cc0f672168b05b7e76cc896ca53e6
+FileChecksum: MD5: fbb98cd99abcdc1b82f18158acbd8b0a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_deeprec_utils.py
+SPDXID: SPDXRef-item10381066
+FileChecksum: SHA1: d5b1554c104b365f3940edef15d76490110853d4
+FileChecksum: SHA256: 26ed1d296f605b019729887d3e716d14299aa1e2eef59531712b0944a67e38d5
+FileChecksum: MD5: 62d8395b3dc72643cbd1d8e59bfdb222
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/security/test_dependency_security.py
+SPDXID: SPDXRef-item10381119
+FileChecksum: SHA1: 4e9721070a040e389015a3b813f4a99878c9c0a9
+FileChecksum: SHA256: 363663b7a3709ff389511fa8d0248da547ce12fb19075a10e571b7c01f2bc638
+FileChecksum: MD5: 160ac897ed559e03034cdc38698ce8f2
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/datasets/test_download_utils.py
+SPDXID: SPDXRef-item10381040
+FileChecksum: SHA1: 09695193450331a40af19cbe168d43cadb3e8490
+FileChecksum: SHA256: 8428ced3913a9244996ba4a5e3266955bf12c19ad48551739b23785190f696fc
+FileChecksum: MD5: bbd44f1af08229f0cad73d92c1cf39e3
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/utils/test_general_utils.py
+SPDXID: SPDXRef-item10381054
+FileChecksum: SHA1: a037f4a99190582d1563a3a3064f57037f124601
+FileChecksum: SHA256: 88afb6c098bd3c1ebbb570309c2a4f32335c9a96e693ae9f819e08ed152a1f33
+FileChecksum: MD5: 9ddab4a94ab69ba7bb84abdfd6b00742
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_geoimc.py
+SPDXID: SPDXRef-item10381064
+FileChecksum: SHA1: 7d41e8c213eec13e32a17cc8c25ea91ad8bcd1e8
+FileChecksum: SHA256: 90baba1030f077bd8fd92b6317f6c48c0d772b97082ca5091c7c169f0d2f9efd
+FileChecksum: MD5: 3a1cb758c75a9b2b9d59c7c3c2a13795
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/utils/test_gpu_utils.py
+SPDXID: SPDXRef-item10381050
+FileChecksum: SHA1: 61ef462d2cac6b842c45903a2925321762649240
+FileChecksum: SHA256: dc63c2836d9e5a050b6187f6a592b467875434caf354c39a7209868ede843b5e
+FileChecksum: MD5: fe6beaa07bb86a87aa3db83ccfea3517
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/ci/azureml_tests/test_groups.py
+SPDXID: SPDXRef-item10381002
+FileChecksum: SHA1: 7aa48d3658c7dd11dfc43b7f1b8fe75be93c9f16
+FileChecksum: SHA256: 4862902045cb51033d7377f606542bdb623f9d840c26fbf137498d814cb7b780
+FileChecksum: MD5: f51c87306423ff4f6dce3845f6ec8f29
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/integration/recommenders/utils/test_k8s_utils.py
+SPDXID: SPDXRef-item10381010
+FileChecksum: SHA1: b894c6a12368177e1609f4787001fb71df1f87f6
+FileChecksum: SHA256: 1b19f231af42ad2de58a3c4e88e79318916be21c58f71203966cf3acb8dbb334
+FileChecksum: MD5: aba0c02d7316557243597aa38ef683d6
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_lightfm_utils.py
+SPDXID: SPDXRef-item10381063
+FileChecksum: SHA1: 7fbb9c7a8deb6920e84df9dcb81bf4a53e3d8834
+FileChecksum: SHA256: c10d50fcbc3a13e3826e52529f08562b4e41393763b7ee26416609323cb21951
+FileChecksum: MD5: 88a9f96a6d74aaba4d34a96a006e3e9c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/data_validation/examples/test_mind.py
+SPDXID: SPDXRef-item10381101
+FileChecksum: SHA1: b7361a973eb4372526a0fbdb5da4e2f83fe1fdc5
+FileChecksum: SHA256: f7e84a079dc34ca99083d38e6055b3851fc253bebb2c4902d9ec84fb70a900f3
+FileChecksum: MD5: f7a83b3b44dce05fa8c61ae1560cf94d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/data_validation/recommenders/datasets/test_mind.py
+SPDXID: SPDXRef-item10381093
+FileChecksum: SHA1: d1b3b78c56cc2fe7620bff7491fdd564b9363f8a
+FileChecksum: SHA256: f08a7073966b36cd3e6ca4da08321473e85bf4d84c80a34fc94649eccef45521
+FileChecksum: MD5: 3cd88da51f14c5289b3d78420ed3c834
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/data_validation/recommenders/datasets/test_movielens.py
+SPDXID: SPDXRef-item10381095
+FileChecksum: SHA1: 07df97deaa4fe0ee83b6993aa67710f333470b4d
+FileChecksum: SHA256: 95c7a12691d0eed1e5672b27f87cc29e675b1fc03d6e52efea6c9cb8701f9803
+FileChecksum: MD5: 0c122fe800db2b40027972d660220839
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/responsible_ai/recommenders/datasets/test_movielens_privacy.py
+SPDXID: SPDXRef-item10381126
+FileChecksum: SHA1: 88b45d66f6bc4c1e465056d2354a0a9919a2738b
+FileChecksum: SHA256: 00091b4570f01619c227e602091dd7026f0c4eab9aa88ca7fe3e967f342e486e
+FileChecksum: MD5: 9871c0cc18ec21af6b62fb2619bd09d7
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_ncf_dataset.py
+SPDXID: SPDXRef-item10381062
+FileChecksum: SHA1: 4fa257a4c293917fbb8baff160e94fa390f1e7ad
+FileChecksum: SHA256: aa0a61dac9253a4b51a631320697c908fd14da2ff62f62620a349c00cdb3fe13
+FileChecksum: MD5: 6690012ffe49afdd52aeff15f7ffe4a9
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_ncf_singlenode.py
+SPDXID: SPDXRef-item10381067
+FileChecksum: SHA1: e0d54821410f29d7cf2d4349c5c4ed4a90c8be49
+FileChecksum: SHA256: 82d5dc6fb3c300b02a19b0897cc280242967b98ac2de136bee645a6b47faed15
+FileChecksum: MD5: b9e26047272284e050a6bd349cb18a06
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/tuning/test_ncf_utils.py
+SPDXID: SPDXRef-item10381046
+FileChecksum: SHA1: 18fb10a0d255d04fcee3011abebe8f041bba028f
+FileChecksum: SHA256: d8910be66bfd150b77164dc7234d1242b25082ea8da73938297e4bedfcbf3bb1
+FileChecksum: MD5: 712560577ddbe7e13fa2dbce94cbb09a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_newsrec_model.py
+SPDXID: SPDXRef-item10381071
+FileChecksum: SHA1: b0ca628e86a42d33c58734c3f85163bd94505778
+FileChecksum: SHA256: afc53d03bb7bed148cda1f5ac4394f76633296f2e611be5f4b6d55fd14ff3c09
+FileChecksum: MD5: 6b2eaa2ab42916692d6124303e1a9033
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/smoke/recommenders/models/test_newsrec_model.py
+SPDXID: SPDXRef-item10381019
+FileChecksum: SHA1: 86fe80b3e26509bf7a2a569f82dbe4a021d639bc
+FileChecksum: SHA256: 9d12758ff5a7fd8f412a09d1dc794238fa108c9ddb5df67f77ada9a5b9be7cc0
+FileChecksum: MD5: b4be1bdb85e50541e1e26c88ab816a7f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_newsrec_utils.py
+SPDXID: SPDXRef-item10381061
+FileChecksum: SHA1: e867b449308f7a76a824305fbf4b7ce50ce8b807
+FileChecksum: SHA256: e1e56982a3091ede553080bdcc20794febf2e26eb10fcf51394cfd23b5485068
+FileChecksum: MD5: 68f10a0c864fc52765e1e3c26a8e19ef
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/smoke/recommenders/models/test_newsrec_utils.py
+SPDXID: SPDXRef-item10381016
+FileChecksum: SHA1: b5c0f79c0513f96cbdf0b45f3098b0b43348737f
+FileChecksum: SHA256: d7c40fbcadf5f5bc1a6f7ac025aa29aef254362b80872c6986186f1d260310f4
+FileChecksum: MD5: 175b3a84cd4cfa857f287868cc55d362
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/tuning/test_nni_utils.py
+SPDXID: SPDXRef-item10381047
+FileChecksum: SHA1: dca31d7a5e2c3775d231e1d06ab8ca862f6101bd
+FileChecksum: SHA256: ad8740c57fbea41305df0b3975aa0a010ca0cfda06258df3100ed83fd31402af
+FileChecksum: MD5: 98ffd3e4302d254209e26cbdc102a5fc
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/utils/test_notebook_utils.ipynb
+SPDXID: SPDXRef-item10381051
+FileChecksum: SHA1: e279c4fe1fc3083d20b211c0c836ff310a34f12c
+FileChecksum: SHA256: 959d4da4e1d749e3901506a054267fa3fc3d2e8b51a889e8e7c90313649eac40
+FileChecksum: MD5: 7629733f275fd60531b4a2038310d0fa
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/utils/test_notebook_utils.py
+SPDXID: SPDXRef-item10381053
+FileChecksum: SHA1: 14155a4dd4da867cbdd41ba66b127f556f61408c
+FileChecksum: SHA256: 94014aba5b89f057fbdac8c80281fd03968dbe570a3477c13e347bd96c46be54
+FileChecksum: MD5: 472349ea0aa0fd76c4486f7952994b99
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/functional/examples/test_notebooks_gpu.py
+SPDXID: SPDXRef-item10381031
+FileChecksum: SHA1: f3f945ee672afe08fd818306c9985f3966365a82
+FileChecksum: SHA256: 4df32feb98368db1a74a6fa4f71a709d0dacb2414250785b437b8a500213b1a9
+FileChecksum: MD5: 67244cae78b01d9400abaf2295261307
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/smoke/examples/test_notebooks_gpu.py
+SPDXID: SPDXRef-item10381024
+FileChecksum: SHA1: 056f52dbb4b33ee9cd1adf3d1115a60aa62f932c
+FileChecksum: SHA256: dff722bd81aa095be28e19fd81a20a8946a38267862edd8909764d93c07f34cf
+FileChecksum: MD5: 3a92ab03f01c9d425d3dd5b9ae7f5384
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/examples/test_notebooks_gpu.py
+SPDXID: SPDXRef-item10381086
+FileChecksum: SHA1: b20a51ded0065c53d6dd7bca407696086cfee653
+FileChecksum: SHA256: 9083ee2f44f65ce136cfb3d8429a4558a07a7c2bc585f50c874730d8b008afd3
+FileChecksum: MD5: 8cf0ec832ec91b3b58ff67445463c71f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/examples/test_notebooks_pyspark.py
+SPDXID: SPDXRef-item10381085
+FileChecksum: SHA1: 3f0046cb77e12839d9039f03ed19209ec300bf34
+FileChecksum: SHA256: 6c7752e5a8c0bf76da7feee23a1b79bf1477523661205d16b3554bfd58a8caa6
+FileChecksum: MD5: 7eb0a0956a210ae2bbebfefccbd5e3a6
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/smoke/examples/test_notebooks_pyspark.py
+SPDXID: SPDXRef-item10381023
+FileChecksum: SHA1: 414183c782ded4631c862b3689d413baa7c1828a
+FileChecksum: SHA256: 3eddb06c3aeab48e97b4d2052bae5a526a66684355bd09bbeeb4421799a15789
+FileChecksum: MD5: a55817dec3d471232b87fc2ffd033b9a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/functional/examples/test_notebooks_pyspark.py
+SPDXID: SPDXRef-item10381030
+FileChecksum: SHA1: 2d92f29b06a4b8b4fc82c1dd3a7cc2e7710fb069
+FileChecksum: SHA256: fa98597ad8ebc0ace7df8e761d98968c519e340bad92e1008768785cc2ca1d1d
+FileChecksum: MD5: 71a8535b054579cf4cfff7b5ad02cb3f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/functional/examples/test_notebooks_python.py
+SPDXID: SPDXRef-item10381032
+FileChecksum: SHA1: c1936c768a15e930afc28a2ef7de3647e95f3b98
+FileChecksum: SHA256: 13665bfb26900251312708bcb97a5a7bd6bea6c39c8f61c639031fccde63c2f4
+FileChecksum: MD5: 972002201de5fad3195a246a32e79604
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/smoke/examples/test_notebooks_python.py
+SPDXID: SPDXRef-item10381025
+FileChecksum: SHA1: d9320eb58999f874ffb30b37ab6349fe61200599
+FileChecksum: SHA256: ec0607bfaf803306932e5f6072ef97627c83974d287268c08fd79cfaf1497293
+FileChecksum: MD5: ee25a8bbb2721262b220740493afc00e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/examples/test_notebooks_python.py
+SPDXID: SPDXRef-item10381087
+FileChecksum: SHA1: 2b46a73b6e9d0d2bf9d5718a9a15a4d7352b9959
+FileChecksum: SHA256: 660c168d6eb4a0db6adee0e017edecb993e934f1b41153a1de905eebe2bce9b4
+FileChecksum: MD5: 7350a11c8ce4d240f35477a9b62d0b1a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/datasets/test_pandas_df_utils.py
+SPDXID: SPDXRef-item10381041
+FileChecksum: SHA1: 8d12db952822b20d81aaa3c0f1dfd09da4c5320c
+FileChecksum: SHA256: 8ac5f21286b4ec90030a474f789a022d0da40ce898416fa9e345b2d15fade2a3
+FileChecksum: MD5: 9fbdac16e060d24fb6fd5f43b6ba17fe
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/utils/test_plot.py
+SPDXID: SPDXRef-item10381052
+FileChecksum: SHA1: f8031a734187df3be8104da228122527c33d9a07
+FileChecksum: SHA256: 7de8076fe7f9674e85e7821eb34a8473cc27c9a7228acab41db41a805956e0f1
+FileChecksum: MD5: f5bb35b344d25f4301cc30e65893f945
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/python/tests/test_pyspark_sar.py
+SPDXID: SPDXRef-item10381348
+FileChecksum: SHA1: 6eb0a1f50bf7a072cd39fbf49103fdcbdef11df8
+FileChecksum: SHA256: a0d545e0d1255cf7e127f98b50346a0f30ae0cd96e3c7c22d43731c69b41d674
+FileChecksum: MD5: 2a273aa06360116c718d63f5d077d48e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/evaluation/test_python_evaluation.py
+SPDXID: SPDXRef-item10381083
+FileChecksum: SHA1: 81e1a098b064cf37587d9c49437def096789ca76
+FileChecksum: SHA256: d08744d1aa18994de3716cbe2b3807ea62f3cd3f4165d0511e7683616df7ba08
+FileChecksum: MD5: 8ba7dfdf957066faa88ab8303495b63b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/performance/recommenders/evaluation/test_python_evaluation_time_performance.py
+SPDXID: SPDXRef-item10381111
+FileChecksum: SHA1: 233913294c53f6055b1c6a00d43a603635554293
+FileChecksum: SHA256: 30ba8cf2bc2d74c6ed86bbfb00161288e87d1f93d9dbcd036126f2cac4f5b7c3
+FileChecksum: MD5: e6bed0d4d5949fded318d4574db19ad8
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/datasets/test_python_splitter.py
+SPDXID: SPDXRef-item10381043
+FileChecksum: SHA1: cf8afeabf2c8ecf960ec1ecf7f9fbe8f2d107a88
+FileChecksum: SHA256: c25c49b038256c13e59569c50a3fbdd9f6e81c70f58f01bab71bde196b8997f9
+FileChecksum: MD5: aa9ebbfd38847095fd6ada10e39e8c6b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/utils/test_python_utils.py
+SPDXID: SPDXRef-item10381057
+FileChecksum: SHA1: b7410cd4c6cf291baf7a5304e7b58c1d60ee64b2
+FileChecksum: SHA256: e6b55ad798a680ef35021026b27eabc056c4e0cfaee43a9f7b2d4d9cf2ebcf03
+FileChecksum: MD5: d0c01fd8673abf03f8a5f111c33fc646
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_rbm.py
+SPDXID: SPDXRef-item10381074
+FileChecksum: SHA1: 98a4b3193380e25a9ab08a3a72d7328601262936
+FileChecksum: SHA256: f1bff9979d1284b5e0bfbed6444d41588ecade265cf7c98be486492fa7870b00
+FileChecksum: MD5: a7a1cb1b8c62f1c0063df3d596e077e7
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_sar_singlenode.py
+SPDXID: SPDXRef-item10381065
+FileChecksum: SHA1: 27fbe2db13783fbbcdb684b778aba3f4d54696b6
+FileChecksum: SHA256: 6d57a199356941bd4d6fe1ba90e7f3ea15f47a777bab2bfb21c93fc51d85d7fc
+FileChecksum: MD5: f9d8fd61b543ea18b6d9c953c745e90e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_sasrec_model.py
+SPDXID: SPDXRef-item10381070
+FileChecksum: SHA1: 0551b1945984f3231ccdb210c4e7d442514262fa
+FileChecksum: SHA256: e9d4fb4b07a14467ca5f79825b2864c8b1921521f9a26f4f8da241cb788db053
+FileChecksum: MD5: e5825cd381739806a383166b820b2ab8
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/evaluation/test_spark_evaluation.py
+SPDXID: SPDXRef-item10381080
+FileChecksum: SHA1: fbee616357e8fd31c72682cdaed89e59974604e8
+FileChecksum: SHA256: f25fadafb2433c44b113e24cdad8ee6c9941fb67374fa83862fb8f2648b3482b
+FileChecksum: MD5: a407dca375267323b36220a24d372e67
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/datasets/test_spark_splitter.py
+SPDXID: SPDXRef-item10381039
+FileChecksum: SHA1: b8bc1079a875b4ffa64ae448d1b0d84a9512c5b3
+FileChecksum: SHA256: f00a788fd7a6d40967667a3150070ffd3b2806fe68709711edb4b4fd09254a8f
+FileChecksum: MD5: c71ca1d7e98bfbde751ff5ef3c6b1f77
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/datasets/test_sparse.py
+SPDXID: SPDXRef-item10381038
+FileChecksum: SHA1: 67ca793839100fa5166d3bb1ba8c1760c124b235
+FileChecksum: SHA256: 23597228ddd279eafee07d2fdb3dfe5b4d9fcf890c62283421c45c125f042f1c
+FileChecksum: MD5: 81c6e54d26a3da72856e8dbf879bc00a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_surprise_utils.py
+SPDXID: SPDXRef-item10381073
+FileChecksum: SHA1: d4e1052f521aa83aba3755ae13b5dc2ab4e47f38
+FileChecksum: SHA256: 16b7d5f2550805f83cb3a94408bc8a85c79d8bae1fe1726894a58846be729828
+FileChecksum: MD5: 8bd24f7c283bd92742546ede5ec61a00
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/tuning/test_sweep.py
+SPDXID: SPDXRef-item10381045
+FileChecksum: SHA1: 501e096dd4045600a0ec91210c8c85cc91f1d25a
+FileChecksum: SHA256: 95182bd5742ef0084c835fb00d6cd19584b8606843cc46c4a094aeee287de17b
+FileChecksum: MD5: 0e2b3d714655a8f739410ca555a4d04d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/utils/test_tf_utils.py
+SPDXID: SPDXRef-item10381059
+FileChecksum: SHA1: c297e76c08e65ee15fde398aab58ea12464a6cd8
+FileChecksum: SHA256: 0e44d77f5a9fed4e520838ee8e8f6219939cf3560aa05f297993bd3f57bbcc13
+FileChecksum: MD5: 2d635440754c324467142a10eb88667e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_tfidf_utils.py
+SPDXID: SPDXRef-item10381075
+FileChecksum: SHA1: 6f0da2b23c52fb85fd9d8c732cdb7fd5cf221dd1
+FileChecksum: SHA256: 2e42065acdaf01e3218f6ae639066775fef0f1bbee1c75bd5ab0b67f925b5ed7
+FileChecksum: MD5: 7b6e6faed17daf06eb178fc9c211a962
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/utils/test_timer.py
+SPDXID: SPDXRef-item10381056
+FileChecksum: SHA1: ddc2e19b17a399756e6aeaeaf25545a6cfd0e44e
+FileChecksum: SHA256: 5b1844effd56189e4277025c66092c428d17e888ecffb57af9fd24b755d94c9b
+FileChecksum: MD5: e214863a9614d275795b0d46c9d46e5c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_vowpal_wabbit.py
+SPDXID: SPDXRef-item10381076
+FileChecksum: SHA1: f72b9ce16f5475b9387976c8905ca2c2d14da3ca
+FileChecksum: SHA256: 7afbce0e7e9fa5ffc3b11726c97460d286b77b2c8deefc8beb0a773a421d68a1
+FileChecksum: MD5: 618852d23eff4b400d1a1bc250e6f5f9
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/test_wide_deep_utils.py
+SPDXID: SPDXRef-item10381077
+FileChecksum: SHA1: 499df8da7ec873ce31b64410651c58b9ac86eba6
+FileChecksum: SHA256: 7cdfa286c6f29a7e64ec3686875798cb4c786d81c46ebd701ada1d00eec53ff8
+FileChecksum: MD5: 0695afdef5f833b6023b4d5add14620a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/data_validation/examples/test_wikidata.py
+SPDXID: SPDXRef-item10381102
+FileChecksum: SHA1: 7599dffd3a73a86ae4923bf07d99a32602492373
+FileChecksum: SHA256: 90451d39fc2675f7c9ad12675cc89026b30b26020c2a3fee8c76389f2c7c9364
+FileChecksum: MD5: fd2843acf805137dc8aebaf8afe0ab53
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/data_validation/recommenders/datasets/test_wikidata.py
+SPDXID: SPDXRef-item10381096
+FileChecksum: SHA1: 4dd246d6ddf569f4433d4ec7be5fe89a5607eac7
+FileChecksum: SHA256: 949f689de05679cd71e0ef6114a7accd01e101b1f7aa6da3beaf76a7677bd12a
+FileChecksum: MD5: 0704cc5f408d794f31db75be4e7fd506
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/utils/tf_utils.py
+SPDXID: SPDXRef-item10381168
+FileChecksum: SHA1: 474fcb442c2c680bd4e3dfb4cbdb0a1a6fbf223e
+FileChecksum: SHA256: 222f7fdd4e5e9e39211a866bab53ed32c4a31880bd67cdea56cd91b8fa2b8919
+FileChecksum: MD5: 95094d4626015f161c13af3aa0767876
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/utils/timer.py
+SPDXID: SPDXRef-item10381159
+FileChecksum: SHA1: 733386fee308a7d51e8aed1a4ec5eb5396bdff40
+FileChecksum: SHA256: d679682d65fd623c9e5578da27e16d7074482bd5f71e47355e12fd6231116c3c
+FileChecksum: MD5: dab380dacc4d2d6789ecb9fe2d97aa75
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/04_model_select_and_optimize/tuning_spark_als.ipynb
+SPDXID: SPDXRef-item10381415
+FileChecksum: SHA1: 9ead951e31f750b4601ac870544b4b3eeba31477
+FileChecksum: SHA256: 258facc79d12bcf2f2570e7dbb4f5be879d15192bfb2e2bb4341b0a8bf087b76
+FileChecksum: MD5: f2071bf7375cfefd9b5042be3b0e0a54
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/workflows/update_documentation.yml
+SPDXID: SPDXRef-item10381319
+FileChecksum: SHA1: 6554fe0349ec0be5720c39fc86b238f48d2169ce
+FileChecksum: SHA256: a88c70a2ec1ff4bdf0db35fddba2600888fdebd11c0cee18385573f0569bff60
+FileChecksum: MD5: 6736c4837ffab25379a76a3e40e36d16
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/sasrec/util.py
+SPDXID: SPDXRef-item10381272
+FileChecksum: SHA1: 55ffff2afa4977e99d7c17383b80b87f0000aeea
+FileChecksum: SHA256: 51f374677fff7dd43375949cd67b844156cfd98280fe316509c7a1e66f8288f1
+FileChecksum: MD5: 769620a33667e71ba3c167506e55c4d4
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_content_based_filtering/vowpal_wabbit_deep_dive.ipynb
+SPDXID: SPDXRef-item10381466
+FileChecksum: SHA1: 783a8a19fd48dbd83024466cca0cea3b5dbf2044
+FileChecksum: SHA256: 32e1c42a99ba65634151d0d79d4fe7fb2a5f603d4e259a6cb5365dd597d379f8
+FileChecksum: MD5: de4a7ca527650034ffe5d33951dabd57
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/vowpal_wabbit/vw.py
+SPDXID: SPDXRef-item10381280
+FileChecksum: SHA1: 12b805f784fe9e17f302930f410f66ece4a662e5
+FileChecksum: SHA256: 2ebc28ba8bcf4365f919516c8ede570a575f4e166e298f2eb272536c823f8afa
+FileChecksum: MD5: 000d708177277d3cfba8f144e3a155bc
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/wide_deep_movielens.ipynb
+SPDXID: SPDXRef-item10381430
+FileChecksum: SHA1: 0788dddfb01f69dcbaad45b9f23de86e6ee9cb50
+FileChecksum: SHA256: c660f0f2fb359ce55655fb99953b86908e81c59d461933d34d63863bd0cf9226
+FileChecksum: MD5: 3c9542e46bc3ef36af5b29d4f00ddd8c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/04_model_select_and_optimize/train_scripts/wide_deep_training.py
+SPDXID: SPDXRef-item10381414
+FileChecksum: SHA1: f02a71e8fa3717248ac7bd0bce5cb63a671ea8fe
+FileChecksum: SHA256: 83dced1d539845dc10f8c780c10a90cff1e8cd73461b9d144c9870762df85d52
+FileChecksum: MD5: 04be2cd3a7201dde88dbf72ded2bf96f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/wide_deep/wide_deep_utils.py
+SPDXID: SPDXRef-item10381182
+FileChecksum: SHA1: 5a10a48cef22f8bc09f9c81f0cb7bb3f5d3e8904
+FileChecksum: SHA256: 3beabd12b1fb27ec63a5863a7638f930bd48101002c6cde798d0ea21b973bbf4
+FileChecksum: MD5: 340fcdeb024c046231b0c980066c573e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/wikidata.py
+SPDXID: SPDXRef-item10381135
+FileChecksum: SHA1: 719d973affb821d61a074d7c6802b6e5115b6bc8
+FileChecksum: SHA256: c89ad806d43d1872603d7752d55dcc5557ea21779b83b3e84b42410b59f2bd7e
+FileChecksum: MD5: 12b38e20e7872da7eb7bab0e6d02da5e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/xDeepFM.py
+SPDXID: SPDXRef-item10381188
+FileChecksum: SHA1: 8ba57728e7b05c3fea80e264f55785b6374a54a5
+FileChecksum: SHA256: 0ee5ad6b62734ecee27a270435a7c0fe883d1e2b28c6483d0cc530cdb5018e74
+FileChecksum: MD5: 5caee60ffb9bb5db1aaab09005184862
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors. Licensed under the MIT License. </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/xdeepfm_criteo.ipynb
+SPDXID: SPDXRef-item10381446
+FileChecksum: SHA1: 2bc0d0b3a6a79d1d242f2afdc1127f569cad2e80
+FileChecksum: SHA256: 82132eb04c8f707847985f5f5bb31d9a5513c2be538259564715054c907666c8
+FileChecksum: MD5: b05f019ef32a4e428e69e1bf65831ade
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) Recommenders contributors.</i>\n", </text>
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/datasets/README.md
+SPDXID: SPDXRef-item10380993
+FileChecksum: SHA1: c3e97874fa525aedc48468fe5e74c766ebeba33e
+FileChecksum: SHA256: 8b4c224dcd1290898df4f6d9667177f34c192ad6c6ba3216dfb66911d0f3408a
+FileChecksum: MD5: 72af04be403b7d47ee8b18b7c57c1cdb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/ci/azureml_tests/__init__.py
+SPDXID: SPDXRef-item10381003
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/ci/__init__.py
+SPDXID: SPDXRef-item10381004
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/integration/recommenders/utils/__init__.py
+SPDXID: SPDXRef-item10381009
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/integration/recommenders/__init__.py
+SPDXID: SPDXRef-item10381011
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/integration/__init__.py
+SPDXID: SPDXRef-item10381012
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/smoke/recommenders/models/__init__.py
+SPDXID: SPDXRef-item10381020
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/smoke/recommenders/__init__.py
+SPDXID: SPDXRef-item10381021
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/smoke/examples/__init__.py
+SPDXID: SPDXRef-item10381026
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/smoke/__init__.py
+SPDXID: SPDXRef-item10381027
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/functional/examples/__init__.py
+SPDXID: SPDXRef-item10381033
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/functional/__init__.py
+SPDXID: SPDXRef-item10381034
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/datasets/__init__.py
+SPDXID: SPDXRef-item10381042
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/tuning/__init__.py
+SPDXID: SPDXRef-item10381048
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/utils/__init__.py
+SPDXID: SPDXRef-item10381055
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/models/__init__.py
+SPDXID: SPDXRef-item10381072
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/__init__.py
+SPDXID: SPDXRef-item10381078
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/recommenders/evaluation/__init__.py
+SPDXID: SPDXRef-item10381082
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/examples/__init__.py
+SPDXID: SPDXRef-item10381088
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/unit/__init__.py
+SPDXID: SPDXRef-item10381089
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/data_validation/recommenders/datasets/__init__.py
+SPDXID: SPDXRef-item10381097
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/data_validation/recommenders/__init__.py
+SPDXID: SPDXRef-item10381099
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/data_validation/examples/__init__.py
+SPDXID: SPDXRef-item10381103
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/data_validation/__init__.py
+SPDXID: SPDXRef-item10381104
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/__init__.py
+SPDXID: SPDXRef-item10381106
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/performance/recommenders/__init__.py
+SPDXID: SPDXRef-item10381109
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/performance/recommenders/evaluation/__init__.py
+SPDXID: SPDXRef-item10381112
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/performance/__init__.py
+SPDXID: SPDXRef-item10381113
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/regression/__init__.py
+SPDXID: SPDXRef-item10381117
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/security/__init__.py
+SPDXID: SPDXRef-item10381120
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/responsible_ai/recommenders/datasets/__init__.py
+SPDXID: SPDXRef-item10381124
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/responsible_ai/recommenders/__init__.py
+SPDXID: SPDXRef-item10381127
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tests/responsible_ai/__init__.py
+SPDXID: SPDXRef-item10381128
+FileChecksum: SHA1: c42e6b6b97ac94537034fbc5505b0023def0e4c3
+FileChecksum: SHA256: 747b69bf9699da984853b1948b9f9e8c5274143427cfb5688ee0ad7fe8094df6
+FileChecksum: MD5: bff8cdcd169f97015614515af9faa2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/datasets/__init__.py
+SPDXID: SPDXRef-item10381141
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/tuning/nni/__init__.py
+SPDXID: SPDXRef-item10381151
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/tuning/__init__.py
+SPDXID: SPDXRef-item10381155
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/utils/__init__.py
+SPDXID: SPDXRef-item10381161
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/utils/plot.py
+SPDXID: SPDXRef-item10381162
+FileChecksum: SHA1: 069ca15bc8182b898190706d346fddaa8d82f796
+FileChecksum: SHA256: 8e2284fc26eb2fa3bb08c992040b0a46f62ec2843da7eeb45734b58db644ebe0
+FileChecksum: MD5: e808cd7c8c33032a045a11673051e4c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/utils/notebook_memory_management.py
+SPDXID: SPDXRef-item10381163
+FileChecksum: SHA1: 6b87136a83e3b37c7566d8d8bb14a49fe9ed8774
+FileChecksum: SHA256: df8713246b17078f47fdf04722b25f48ebaae31e627b68304a3d43da6edfcf14
+FileChecksum: MD5: b1f83244673f2728d9d3aae7199b6d86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/tfidf/__init__.py
+SPDXID: SPDXRef-item10381171
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/lightgbm/__init__.py
+SPDXID: SPDXRef-item10381175
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/ncf/__init__.py
+SPDXID: SPDXRef-item10381178
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/wide_deep/__init__.py
+SPDXID: SPDXRef-item10381181
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/DataModel/__init__.py
+SPDXID: SPDXRef-item10381186
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/graphrec/__init__.py
+SPDXID: SPDXRef-item10381194
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/__init__.py
+SPDXID: SPDXRef-item10381195
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/models/sequential/__init__.py
+SPDXID: SPDXRef-item10381203
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/__init__.py
+SPDXID: SPDXRef-item10381208
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/io/__init__.py
+SPDXID: SPDXRef-item10381214
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/config/sum.yaml
+SPDXID: SPDXRef-item10381217
+FileChecksum: SHA1: 9dc657d4137a974baf646324803cf712039f1354
+FileChecksum: SHA256: 051e4a4b5e32368ce65033b97605d717177f563235115506dd3e1a4e84ce2d50
+FileChecksum: MD5: d31e65d715bb2ea3a4ea382869c28d70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/config/asvd.yaml
+SPDXID: SPDXRef-item10381218
+FileChecksum: SHA1: 24c6c065eba571884c998cdef6e462cd1a39c3ec
+FileChecksum: SHA256: c05d1bf1c13b61f39794dfce3d23f37ad5786610adc297008e0356c63847034d
+FileChecksum: MD5: 0178c33515b4ed92b63ffa52bc7383eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/config/gru.yaml
+SPDXID: SPDXRef-item10381219
+FileChecksum: SHA1: 141163288c891ad0143cc2890712376d93615fe0
+FileChecksum: SHA256: f62acdb18e3ee896631ca3b3e051d7b44c0a04a4cbea8a4ead85998063f6ce1b
+FileChecksum: MD5: 0b71958be244a6d1d7371f43b18ec487
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/config/sli_rec.yaml
+SPDXID: SPDXRef-item10381220
+FileChecksum: SHA1: f8472197b6f53efce547877b8a3bcb1c19c61989
+FileChecksum: SHA256: a0c69251f019e18b69009c3e133c6503433a0a03bdafd9342d53b512d326e158
+FileChecksum: MD5: 6cdb6126a57c16640142455e7d80bb0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/config/nextitnet.yaml
+SPDXID: SPDXRef-item10381221
+FileChecksum: SHA1: d55eaaa126376c251ce018cbc7d818c2eb023f5d
+FileChecksum: SHA256: ddff543e5618136b8fe5eec1dc9ee5eeaf2a6fe92249507d8828bcb6029b5d95
+FileChecksum: MD5: 406ce0abb49109797d509bd889ebc879
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/config/caser.yaml
+SPDXID: SPDXRef-item10381222
+FileChecksum: SHA1: e2397e6a0d1b9b5937861cf6611808a9b2ff1460
+FileChecksum: SHA256: 1c27e5c3e8ce44eb5bd17cc409e0d26a7bbf36cc06debf5cea7d04323a25eb1b
+FileChecksum: MD5: f819f44e29def264c9cadb4900b0f535
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/deeprec/config/lightgcn.yaml
+SPDXID: SPDXRef-item10381223
+FileChecksum: SHA1: 24274af1f288321f7fa77e27032fd25aa4ea9e62
+FileChecksum: SHA256: f8a12b7d80786dcbb8937edb44b86ff188ae614fb4f11f59583277096c626ec3
+FileChecksum: MD5: 8975f6d8b49484913f6ee7162fe3a85e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/geoimc/__init__.py
+SPDXID: SPDXRef-item10381229
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/cornac/__init__.py
+SPDXID: SPDXRef-item10381232
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/vae/__init__.py
+SPDXID: SPDXRef-item10381239
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/lightfm/__init__.py
+SPDXID: SPDXRef-item10381241
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/newsrec/models/__init__.py
+SPDXID: SPDXRef-item10381249
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/newsrec/__init__.py
+SPDXID: SPDXRef-item10381253
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/newsrec/io/__init__.py
+SPDXID: SPDXRef-item10381256
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/rbm/__init__.py
+SPDXID: SPDXRef-item10381260
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/__init__.py
+SPDXID: SPDXRef-item10381261
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/fastai/__init__.py
+SPDXID: SPDXRef-item10381264
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/rlrmc/__init__.py
+SPDXID: SPDXRef-item10381267
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/sasrec/__init__.py
+SPDXID: SPDXRef-item10381274
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/surprise/__init__.py
+SPDXID: SPDXRef-item10381278
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/models/vowpal_wabbit/__init__.py
+SPDXID: SPDXRef-item10381281
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/recommenders/evaluation/__init__.py
+SPDXID: SPDXRef-item10381286
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/docs/evaluation.rst
+SPDXID: SPDXRef-item10381289
+FileChecksum: SHA1: f5a8e69b7d02e46cdec1c9613adf32ff4dc6a2a5
+FileChecksum: SHA256: 8893c5fcc9f3f0ba9e49e435038b806defac03a7f159ce655942165533d599b8
+FileChecksum: MD5: 457d14657ddb97efaa8667873fea6113
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/docs/tuning.rst
+SPDXID: SPDXRef-item10381290
+FileChecksum: SHA1: 84bcb86850c358ae037bcc8aadaf076dc7374358
+FileChecksum: SHA256: f99315e9e68b9ddb4940525029cedcb0fce8e15a0514a5b991a942fbd15802ef
+FileChecksum: MD5: 86d9ee79a1c58de505c3e89c219f478b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/docs/utils.rst
+SPDXID: SPDXRef-item10381291
+FileChecksum: SHA1: 8f967d366ec62fc773100c90275df12c7cf8fe76
+FileChecksum: SHA256: a85a9062454d09f2b99b58eeccb6a3222b7c3ce886d8fbed9573d23766cdcd13
+FileChecksum: MD5: c4ccdcf67be93da6a080c9d8bd85c452
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/docs/datasets.rst
+SPDXID: SPDXRef-item10381294
+FileChecksum: SHA1: 64f07305dc1d51f68ecd89c6458a8c730f82d867
+FileChecksum: SHA256: 9031c02801da8590ad055de8db63562563d77e166636311dfc55932143421985
+FileChecksum: MD5: 5c8fe18d251a87bea700e6e7bab21e2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/docs/requirements-doc.txt
+SPDXID: SPDXRef-item10381295
+FileChecksum: SHA1: fc96bd23d327d9d585bafb6ce41d8fdd1578f583
+FileChecksum: SHA256: 9f172d4b101a624267f893bdc41f541efcbb9125155a63241eb5e28c6abd838b
+FileChecksum: MD5: 5295b598b25956fbb5806b2ac96c8230
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/docs/models.rst
+SPDXID: SPDXRef-item10381297
+FileChecksum: SHA1: 07ca0e792e5eb1a67150b7192b9f3a15f8e7de34
+FileChecksum: SHA256: e6f738ac12fe11812497c76520025ae4d6e13ce8c975f841327efbb5ac4987e1
+FileChecksum: MD5: b0ff515d318e0c67318120622c70d684
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/MANIFEST.in
+SPDXID: SPDXRef-item10381299
+FileChecksum: SHA1: 3a9fd2d2a8f58d24563d354fe20ab835abcec091
+FileChecksum: SHA256: 45453d60373dbbe5acd15cb9007b88ed2fd065613b06f87f9a0f52e18b0051ff
+FileChecksum: MD5: 71d9af3b81f4ec2aa5e64c82aef846c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/pyproject.toml
+SPDXID: SPDXRef-item10381300
+FileChecksum: SHA1: 81538cc1456e54b7b16f6672bcb9c6bbdc7166a6
+FileChecksum: SHA256: 9a6d8439c927b13dbcfcf2cb03f96b31aa280dc0715e9f654fada8ef6b220ced
+FileChecksum: MD5: 3e50af51312d13c5c87057e3d16be082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/ISSUE_TEMPLATE/general-ask.md
+SPDXID: SPDXRef-item10381304
+FileChecksum: SHA1: 13d4b5ffca34dc1846985df255f0b8f4fe12a378
+FileChecksum: SHA256: e7eb11b1872e4ea3b7c3b1a329762bca93979184eb865c5196b90b5c407e8d23
+FileChecksum: MD5: eb8c0bcae368018bbdc3655ca28079d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item10381305
+FileChecksum: SHA1: 280c430e36ae95013cfe487034ccef4c8ee1df05
+FileChecksum: SHA256: 9147a80f1779dda406e94e1496ebf4c90b291e3e52ba6e34e6db1e1a460d9ef5
+FileChecksum: MD5: 440d3af730183b94bda8913a7530724d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item10381306
+FileChecksum: SHA1: 16e843db49b544e5e28716c0ab385bc94880521b
+FileChecksum: SHA256: d1558bcbea2eb4c05d464aa8e782ee1c3412f1db0e1eb2fd5ee0f815b3f8bdda
+FileChecksum: MD5: ffac8fc5934b555ecbcbb940d78e90f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/CODEOWNERS
+SPDXID: SPDXRef-item10381312
+FileChecksum: SHA1: 8d9bc8fe6f390de07b99db772f2b9af97e453bef
+FileChecksum: SHA256: c45896134b02b6f7863c3c254b050886bfd452a20973ab2825d8e24cb3c8e82b
+FileChecksum: MD5: 40d91c40cf44525c7d33e8a1d02b090d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/.codecov.yml
+SPDXID: SPDXRef-item10381321
+FileChecksum: SHA1: 0a1f13ab20b26eefdcd15b697ca79690c3e547b2
+FileChecksum: SHA256: 45aca07e61272a22f3049703a89fd63bfab1f72877b859faa7666118c202fd46
+FileChecksum: MD5: fb7f56f9abbd6e781f8a328cf5e0ef95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/ISSUE_TEMPLATE.md
+SPDXID: SPDXRef-item10381322
+FileChecksum: SHA1: dae7c3f2148f0d0f5f057680a505d989457a60e5
+FileChecksum: SHA256: 408b0f233ed59874ec344c8f99ba86d85d8332412b51c5a70b1f7bacbc8af571
+FileChecksum: MD5: 7aecfed7e15050a1e7343339c6b91ff8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.github/PULL_REQUEST_TEMPLATE.md
+SPDXID: SPDXRef-item10381323
+FileChecksum: SHA1: b2ac466ec714fc97c5220eee96a54afebf96f4cf
+FileChecksum: SHA256: 3944254226275c186ef7b585810104940d1fed53ea500d573c8ddc87067f25fc
+FileChecksum: MD5: a2e5a236ecaf20a63569a108301e6c86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/entries/map_entry.py
+SPDXID: SPDXRef-item10381327
+FileChecksum: SHA1: ee11e35a7674252aa184cf6fec1d91831aa0e338
+FileChecksum: SHA256: c77c7a7dc70f446a6f018222183f93af2eb7fbca2dcdf2710caa7402ea53fe42
+FileChecksum: MD5: 8eaad176f6cc40eaac716a57903c0094
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/entries/train_sar_entry.py
+SPDXID: SPDXRef-item10381328
+FileChecksum: SHA1: 50a3c59bfbc453b834545cc83c635cb317010867
+FileChecksum: SHA256: 8225a71dc610fb59f0f25fe38e318a876b423428a80fab9a373572cd2e9c6d2b
+FileChecksum: MD5: 34a1977155e0d1e1f0a2ee9f23a06321
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/entries/precision_at_k_entry.py
+SPDXID: SPDXRef-item10381329
+FileChecksum: SHA1: 66e456a2f3486f27e20bb5f1c6fe4dec7c4fec13
+FileChecksum: SHA256: 73f325ab5405d37809d81711665800d9c0784e59ab5e531d8cb8da7df45045f2
+FileChecksum: MD5: da0c6d8378f9582c4ce48a439c9f6aec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/entries/stratified_splitter_entry.py
+SPDXID: SPDXRef-item10381330
+FileChecksum: SHA1: cf036853b9ed577d24e2f573f02c423bb737724c
+FileChecksum: SHA256: 3b12075248f3925bf1aa4a7173bcab0b46167c52a228d9cef119f99e84b3b967
+FileChecksum: MD5: 635af316ad49d9eb998fdf22c50790ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/entries/score_sar_entry.py
+SPDXID: SPDXRef-item10381331
+FileChecksum: SHA1: 5b27d77f34a78a4535687cb48bde5b2d21ef7f1d
+FileChecksum: SHA256: fd0b963873c2e4b898220d93b517ed9cb2d5f0b6ef5c2ceb45c9bc6057235ce8
+FileChecksum: MD5: 77cf9a9d7f95dba1f79dcb2a2ba555c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/entries/recall_at_k_entry.py
+SPDXID: SPDXRef-item10381332
+FileChecksum: SHA1: 470864cc444658b2f10eab6b2d9462a510e5a928
+FileChecksum: SHA256: 11e608957889e91e309c83d49e3cb1887a8b6669efa157ca79f0d10f141206d6
+FileChecksum: MD5: 40b1d9acffeb0b372bd1bb041b47768c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/entries/ndcg_entry.py
+SPDXID: SPDXRef-item10381333
+FileChecksum: SHA1: 35af61eb7ead604b13c2cc4e4fdf04f97d9a4101
+FileChecksum: SHA256: 7386b657d5f5595b8c34f64ade7f7c4e4c826f4b93dac4fc1f82e15afc5ea57d
+FileChecksum: MD5: 63a081dbe3fc98a083659ae276cbc512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/module_specs/recall_at_k.yaml
+SPDXID: SPDXRef-item10381335
+FileChecksum: SHA1: a82f7be6e6819ce3b8c8699ae2d14e5b6695a79f
+FileChecksum: SHA256: d34b05e7ddd8e31ab2ba1fc0645ac6b08300b9baa6c5f16442c0ab4286c1e884
+FileChecksum: MD5: b41dff1b2ca4274b1d064f41c8fe03dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/module_specs/sar_score.yaml
+SPDXID: SPDXRef-item10381336
+FileChecksum: SHA1: b89e22eb87a42b3d68e7de1fea2ea77ba9e219bb
+FileChecksum: SHA256: a4b437fbf8d212d16d6406d2383668a8cb74a41b14a201dfb0ebf0206eeee236
+FileChecksum: MD5: eb85662274968398f865ac4c8ec00a73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/module_specs/sar_train.yaml
+SPDXID: SPDXRef-item10381337
+FileChecksum: SHA1: dd6a9af4c2a77740e304d3050d6d8a7e95e87a2d
+FileChecksum: SHA256: c714b37f2fb068bab116bec0162dfcf634cc6a7b28fcdd9ac6c60f2d15cca9f1
+FileChecksum: MD5: 1bc34e3c8886d25a1e3a9b5e4508e6e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/module_specs/sar_conda.yaml
+SPDXID: SPDXRef-item10381338
+FileChecksum: SHA1: 1ad86ebc0e00264897dc35b3c1c88faa7d444114
+FileChecksum: SHA256: 8cdeed435b642fe44c8f7284840bdff24e9526db63cae12e37b13b80f6d3741a
+FileChecksum: MD5: 2b1d86a1d5312c113b3ff3733ef4e452
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/module_specs/map.yaml
+SPDXID: SPDXRef-item10381339
+FileChecksum: SHA1: 4d179fb7d2154f0e47c616660f09ea1e75142483
+FileChecksum: SHA256: 8d2c488d06abbfae837affc86981fb559e72a28842a040fbdbeb9a2e825f514e
+FileChecksum: MD5: a3f7424e8bebe2eb4dac774d0d7bfba7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/module_specs/precision_at_k.yaml
+SPDXID: SPDXRef-item10381340
+FileChecksum: SHA1: 46e4e9ada898222f7f914372d06a2c5f832f9a65
+FileChecksum: SHA256: 01a3d094b3a4cd0dd85ef690dde567162ff080721a202e88ec4af171a3f668c8
+FileChecksum: MD5: a102b34efd9c4b4be72b595b4683cd34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/module_specs/ndcg.yaml
+SPDXID: SPDXRef-item10381341
+FileChecksum: SHA1: 48f67d0ca1bb7243abbf266f33fc82fb366e6831
+FileChecksum: SHA256: 948ddee8c5a300db684501196bef0a742cc93f0b8b04dea2ccd9a1777d8036af
+FileChecksum: MD5: 3ac9b95a58237af53d69ab6e96b8d38d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/module_specs/stratified_splitter.yaml
+SPDXID: SPDXRef-item10381342
+FileChecksum: SHA1: 294ba6157fc12d035b5ebd8ef0218a6e9d0384cd
+FileChecksum: SHA256: 57cc2358f821506b5f5cc49737777a54221cc41e0413c11b7560feb9c3adb466
+FileChecksum: MD5: 009c51f63d95c57422a8b71593e12129
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/azureml_designer_modules/README.md
+SPDXID: SPDXRef-item10381343
+FileChecksum: SHA1: 8b3cfde70e1a61bcf60eaf063146bce480cc5087
+FileChecksum: SHA256: 63afeed278f339b1ee7577c5b46c36bf489755f546cee3733df69bdd987c29e6
+FileChecksum: MD5: 29461f2701d7f4ba0036a1a56fe2a640
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/README.md
+SPDXID: SPDXRef-item10381344
+FileChecksum: SHA1: 6a7674486385447a9576217e5f6a4d1870b24b53
+FileChecksum: SHA256: 66661f5b659f68cea2e8dc7d091c93dd6f4ad8577cd5b0793d75817c26f9424d
+FileChecksum: MD5: da94da2773af0166131bc9d280a7da63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/python/tests/sample-input.txt
+SPDXID: SPDXRef-item10381349
+FileChecksum: SHA1: a2e8a7bb6f91034065e0621564e4840a51cfc702
+FileChecksum: SHA256: 45bf9f21bd2d55111e6da8ee3576b7441d602feb741cdf2d95c775b1a6ad83a1
+FileChecksum: MD5: 7deb7f1ba80d182612ea70ce4f13a650
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/python/pyproject.toml
+SPDXID: SPDXRef-item10381355
+FileChecksum: SHA1: c6c57fd4443b0bec06e2ddce9f63494f885a2f2b
+FileChecksum: SHA256: d4a92c83f318037ab5964f1d49d7258aeb204e73b648d6a826fc9ef44822a3f9
+FileChecksum: MD5: 513f7eb00aab2240ecd05a10b623d08f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/python/.flake8
+SPDXID: SPDXRef-item10381358
+FileChecksum: SHA1: 2af3aec3c3ec8390c720ee26f0dcbae6e4659a55
+FileChecksum: SHA256: ff434401ed3ae888a8631fed44479c85f0a9896777db2996f51f7d226ef78b5f
+FileChecksum: MD5: e1682143cceb6f0ed87d87c1522cacd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/python/README.md
+SPDXID: SPDXRef-item10381360
+FileChecksum: SHA1: f792b3e6dc959a2fc6ed667e96913c36cefcafcd
+FileChecksum: SHA256: 9f91031fa2e0968f9e9bd5f574180dc9ae636317abd017faba4587cc612f2a82
+FileChecksum: MD5: 12feef965aebd4495b248eb41d4fd060
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/scala/project/plugins.sbt
+SPDXID: SPDXRef-item10381393
+FileChecksum: SHA1: 1af2fa70a449543e39386978ab4185b09ef39403
+FileChecksum: SHA256: 15c88d9d6b5e15bc04b843ba2492969e6641817f9c90c1940bb671c7ccc3a956
+FileChecksum: MD5: 6b6a0b7d8c799a1f3ee4bbf606663264
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/scala/project/Utils.scala
+SPDXID: SPDXRef-item10381394
+FileChecksum: SHA1: bc52764b73b1de4cba251c01cca38767adab10ca
+FileChecksum: SHA256: fc90bae92b1300a92f7b0b8dea0a55cfea2d42b8eb79905a0cc3ed7f1fa1beb5
+FileChecksum: MD5: 42eaa491a6af4106a760b3213a68b1b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/scala/project/build.properties
+SPDXID: SPDXRef-item10381395
+FileChecksum: SHA1: 1d323bb2711711051f9e3ec6c69d2b5e7363a6b3
+FileChecksum: SHA256: 744d212fe861e2c9e25f1e577913260ccf6e9a23c23403bc1cc97ec20cc4e3de
+FileChecksum: MD5: b3175ce8d8f6d0574070e52067375bb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/README.md
+SPDXID: SPDXRef-item10381396
+FileChecksum: SHA1: 1722843103eb8636fa5a564c64b21a4f441a86b2
+FileChecksum: SHA256: 8ace70b09fcfd7880a60696ceb082677fa893ddc5b916694b3d9c2a0d077319e
+FileChecksum: MD5: 57479c9ac7faf7547ee1dba887f57a65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/DEVELOPMENT.md
+SPDXID: SPDXRef-item10381397
+FileChecksum: SHA1: a4c8b09bb8c0683a58e912463968832de73b1ef9
+FileChecksum: SHA256: 156129fba45b79b966d370409f79d4df65fd33a79269e46375b99b88c3a57fc4
+FileChecksum: MD5: dc4711718310fe20ab3e43635d2605d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/contrib/sarplus/VERSION
+SPDXID: SPDXRef-item10381398
+FileChecksum: SHA1: f8e783785031fcd0936f17992385627c5d147d2d
+FileChecksum: SHA256: 1076e9b67dd8c5b0721effc09f34012572c0fb636999a6d43fdfd94912cd2f6d
+FileChecksum: MD5: b654c2cc12bf8ae736f2b7afd2e08cc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.devcontainer/devcontainer.json
+SPDXID: SPDXRef-item10381400
+FileChecksum: SHA1: ada01bd7942dc6b737006fc62e4c2887d8ae469d
+FileChecksum: SHA256: 9d7ca4dc13744d91adc0de6e0a78517e422190bad83cb3e0ce061e7bcf5380a6
+FileChecksum: MD5: c309068bbedd4d15c9be423828b84988
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tools/docker/README.md
+SPDXID: SPDXRef-item10381405
+FileChecksum: SHA1: 63df5d9eb95abc4da50e709908fd1ccb7a33a472
+FileChecksum: SHA256: bad2d17692f82846bbd75e2f74b0b4cca94be528740114eb8af0704064a2a9eb
+FileChecksum: MD5: f74e63edfe90037b4f4d6ed62657caaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/tools/__init__.py
+SPDXID: SPDXRef-item10381407
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/04_model_select_and_optimize/README.md
+SPDXID: SPDXRef-item10381418
+FileChecksum: SHA1: 5bd76500ba3393e6a0cdd85a1f2b291fa97baa99
+FileChecksum: SHA256: 7ec09eb43ca6d0d1101268c942ca833202620b568de3bb235d908723f844bb90
+FileChecksum: MD5: 2e9a9bcf544913b28ec5fdaa2d6c7fd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/06_benchmarks/README.md
+SPDXID: SPDXRef-item10381423
+FileChecksum: SHA1: 181d59a73459585a328af5d93ffbfd0715cd68fc
+FileChecksum: SHA256: d4273161a6ac35df1302c4778b36f657e4d0a05b6571ce6c7ba53dc6038b77d5
+FileChecksum: MD5: 59af7d2225f5613249a1e0413c5c57c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/sasrec_amazon.ipynb
+SPDXID: SPDXRef-item10381435
+FileChecksum: SHA1: 327f3e393ce2975346666e1d6d8d8dffeea91d60
+FileChecksum: SHA256: bcab950f932e1ec6317533b4211e49efba81fa07d554fcb80f294efce4f5120a
+FileChecksum: MD5: a3cf025630f968dc25720223bcf34820
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/00_quick_start/README.md
+SPDXID: SPDXRef-item10381443
+FileChecksum: SHA1: b801c051c2caa1e21c88403ffd689815319dd78b
+FileChecksum: SHA256: caaeafdf66c15c8c4f41e08230540f2c3746b967b78d02ed9efd40d95bf27aae
+FileChecksum: MD5: 9c9aa41386e173cf9677367cfed99078
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Non-commercial
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_collaborative_filtering/README.md
+SPDXID: SPDXRef-item10381460
+FileChecksum: SHA1: bd20796d872d2f333b10bbfba1bf38089dd4d384
+FileChecksum: SHA256: 05a96dbabdcbf63e7422f4d83c70ea19a0ca57cc4ada0dd2d20fd25b0b5daca0
+FileChecksum: MD5: ce77f8d81be00b603330f1206f7d6938
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/README.md
+SPDXID: SPDXRef-item10381462
+FileChecksum: SHA1: 9929d99a8b4fbb9c9b1fc3fb62b03de160e0e1d7
+FileChecksum: SHA256: 981f254eff9d59d715e3a5236f35a91f9d94d03082890b2cc6ba8cf95426cffa
+FileChecksum: MD5: 633dd72dc5e3133d1509ed81097db40a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/02_model_content_based_filtering/README.md
+SPDXID: SPDXRef-item10381467
+FileChecksum: SHA1: 81ad49a9a58f1a4624a108b7d7e640eb198ab8c3
+FileChecksum: SHA256: e5f74f5de27aac5a6875ed316480c9ffefdd2517a927d9ec91e0ee792965ef6d
+FileChecksum: MD5: 7aac237b57b65ff6903a5f0ccd446c34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/05_operationalize/README.md
+SPDXID: SPDXRef-item10381472
+FileChecksum: SHA1: 8a5b8b5c21ed4396e7eceec925c3b35e10991f5f
+FileChecksum: SHA256: 5a2ae5c92e8abdf882b9f30ae5857d2c76e6e3b39b0cf7e54b8e748ce5961f2c
+FileChecksum: MD5: 26c283ee1c972d4170bd09d97066d0ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/01_prepare_data/wikidata_knowledge_graph.ipynb
+SPDXID: SPDXRef-item10381474
+FileChecksum: SHA1: 24c1b32e161526a54d7f22443a49f5deac05d0b3
+FileChecksum: SHA256: d40bccaaad0ff879930cef4d46683f383b16af4ce46315b3c7df2b4b26836896
+FileChecksum: MD5: a03d62d9b83f2375ca4a5840956765e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/01_prepare_data/README.md
+SPDXID: SPDXRef-item10381477
+FileChecksum: SHA1: f5a8ea49fad7d11810e896f8651af64d642aea9a
+FileChecksum: SHA256: afcb18332812365831748d493445be852c12e6e160db22e90fe3368811ef56f1
+FileChecksum: MD5: 096edfca10bc5dc4b24366f24e06ce70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/03_evaluate/README.md
+SPDXID: SPDXRef-item10381481
+FileChecksum: SHA1: 03b2aa212aa1205c5408f4e9a4429c91ecffb3a7
+FileChecksum: SHA256: 58a3ba16a4f750f154004ec655e7227a0bc43441e539eb94193f9b4b381f1e17
+FileChecksum: MD5: b351bcf45d3f9cf978fba347bbadf8d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/reco_cpu_kdd.yaml
+SPDXID: SPDXRef-item10381486
+FileChecksum: SHA1: 831bc72183a162a52d50b20ef0f0c119949c49cb
+FileChecksum: SHA256: f992a3c5a50c499d69b29a4fc016641b2741b494d8e79c2793cf89a43e1fb071
+FileChecksum: MD5: 882db40698c105d6d08820688ccfae75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/reco_gpu_kdd.yaml
+SPDXID: SPDXRef-item10381487
+FileChecksum: SHA1: 6f64c2c421e69b632856a90fb1488fd290397198
+FileChecksum: SHA256: b458079d92100b0c077fff31f1c10a93eba1f1f0f5c68608dec4bb50da60ee58
+FileChecksum: MD5: eff16cb021f20a13b1b5b2cd432dbe70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/dkn.yaml
+SPDXID: SPDXRef-item10381489
+FileChecksum: SHA1: 6e0f7f4499b906f8586d4f182600b3822ef34044
+FileChecksum: SHA256: 995d6513e9d6e37d4cfc510600513aa09bd3670818a82a29f6ca2d10390a669e
+FileChecksum: MD5: c62b1cf2cc048096fee3ea119a97d946
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/README.md
+SPDXID: SPDXRef-item10381497
+FileChecksum: SHA1: 66685ab3df8d80ad765cab385165fcbb5d8166e8
+FileChecksum: SHA256: de66562dde05db9b2be68c3b5e9865e76c48c86def5a5adca96e72ff88ecf508
+FileChecksum: MD5: 69cd8770b0264b230ffc398877762567
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/run_transE.sh
+SPDXID: SPDXRef-item10381500
+FileChecksum: SHA1: 5761661c4cb31cde83dfe58b46f17efb53e2a063
+FileChecksum: SHA256: 7e9d4aeb6c2e3af7bc1cf08cb580ce248fa67a13ee9590124ae306003f2c4af2
+FileChecksum: MD5: 798d3768406b34ffb3942e1bd039a376
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/examples/07_tutorials/KDD2020-tutorial/lightgcn.yaml
+SPDXID: SPDXRef-item10381501
+FileChecksum: SHA1: 42b6c02dd3627a8c6c868e87b2bb06c768d7f6a1
+FileChecksum: SHA256: 38479d3a53c941aa552cfc7b185e901c6d40cac86ef1d7ff45f7e77647aee315
+FileChecksum: MD5: 1776c6c5f35750b3089c879ada0c7cbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/.gitignore
+SPDXID: SPDXRef-item10381502
+FileChecksum: SHA1: 26751f2b475885716cf3f0c9f040678667efbb14
+FileChecksum: SHA256: ba9952db17e6de87ac1cef42c07817de1433003bcfd979e06c020cc47327bf0a
+FileChecksum: MD5: 628a4e3a1f5dfd65bed2ab0311c3ea46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/scenarios/food_and_restaurants/README.md
+SPDXID: SPDXRef-item10381506
+FileChecksum: SHA1: 978c81b9cf861ca2a0f98d5eb61f2d4e5fc1b460
+FileChecksum: SHA256: a888405ed084b9a0a327128729b2cf1e915d3e17cc8da8d7fd66e060969c07bc
+FileChecksum: MD5: 5b4106b472b97b90f428b4a9f286f1e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/scenarios/travel/README.md
+SPDXID: SPDXRef-item10381508
+FileChecksum: SHA1: 229259581b2119793c9167f62723c8856761c950
+FileChecksum: SHA256: 7be520ac5b8e58307331928b7d7941c32d708dc5650619c7b67a14539e6e8444
+FileChecksum: MD5: 9b01f220196ecfd0223c853ac72c4b5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/scenarios/retail/README.md
+SPDXID: SPDXRef-item10381510
+FileChecksum: SHA1: 795aed0536cf9080dc1d0f2135064a0b28e9d0c7
+FileChecksum: SHA256: f4ea6362fcc37c228070e7268ded81b606b43ed5f061fdbd76a0e8c557636bdc
+FileChecksum: MD5: 44d101ef5ac0f420a1414e95c5c63c3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/scenarios/ads/README.md
+SPDXID: SPDXRef-item10381512
+FileChecksum: SHA1: 89fdf14f7b6ea1e2b6687fd50108ccce46a1e5fa
+FileChecksum: SHA256: 5efd6093ffd2149b9ef9cb647566245ac3a9afd0447282c1ea3c3dd466a192aa
+FileChecksum: MD5: fe9668065c3d216f869b573b40d9e6cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/scenarios/news/README.md
+SPDXID: SPDXRef-item10381514
+FileChecksum: SHA1: 7fc251e8d0fe7350bbb7b166417f316bfa6d75b9
+FileChecksum: SHA256: 388b1718f20d92555dedaff489e52baccc2046abe5a9f94e0eb585bd1f0995e5
+FileChecksum: MD5: 1c2e70b5bb1f33a443bfdbccebeb6b0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: recommenders-team-2025-01-10.zip/recommenders/scenarios/gaming/README.md
+SPDXID: SPDXRef-item10381517
+FileChecksum: SHA1: d93ec1018ce8959bc9f465ffd0e61230d8a9cc44
+FileChecksum: SHA256: 07f2b24190e6300f548552e6d380a103c9caf05f21d5373bf1fbc719a4a87e0d
+FileChecksum: MD5: d9570f476a527374dc668aa15f838544
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-Python
+LicenseName: Python
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Non-commercial
+LicenseName: Non-commercial
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-fossology-Microsoft-possibility
+LicenseName: Microsoft-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
