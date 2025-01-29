@@ -1,0 +1,1967 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_monocle2ai-2025-01-10.zip_1737622999.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-23T09:03:19Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: monocle2ai-2025-01-10.zip
+PackageFileName: monocle2ai-2025-01-10.zip
+SPDXID: SPDXRef-upload1766
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 68294ac877b9c5b2a24c864134fc5030ea6a5186
+PackageChecksum: SHA1: bdd8a88557f7252943c9f4ab84e6e88a2674f6de
+PackageChecksum: SHA256: f839a495cca345a95ccf49c22ae02c707c6d30c5ce419fcde2350efc1a522428
+PackageChecksum: MD5: d9e3677a66ced4792b7671cb3f18a0b5
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1766
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/pyproject.toml
+SPDXID: SPDXRef-item10429222
+FileChecksum: SHA1: b1b5b4c14eabdce1de59c827e5b7787fd0899069
+FileChecksum: SHA256: 044f440b05b222f6bdfb6c405dfbef74fa5c88be88dd3f132dc5b77acc65049a
+FileChecksum: MD5: deeaf62b986094a3dd33c2559c469958
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/COPYRIGHT.template
+SPDXID: SPDXRef-item10429219
+FileChecksum: SHA1: b9ad61df2ccac5a198daeaede7d2dc2cae444696
+FileChecksum: SHA256: 203a1334302fd04f6d58c1728c29b935019f8675aa4048615706af53a182971a
+FileChecksum: MD5: ab647e06f8ee306cc759d18f7057d7ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Monocle project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/LICENSE
+SPDXID: SPDXRef-item10429218
+FileChecksum: SHA1: 8ef53189dfd4452c5d68e85478b35368ebb59ae9
+FileChecksum: SHA256: 6b2f6dacb88fe48ed9b055e8e80aad90b61d46a7b94bdafe0eb3cebec36566b8
+FileChecksum: MD5: 84ff51c1268d95f18d26117c20d64fb7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must inclu </text>
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/LICENSE
+SPDXID: SPDXRef-item10429310
+FileChecksum: SHA1: 8ef53189dfd4452c5d68e85478b35368ebb59ae9
+FileChecksum: SHA256: 6b2f6dacb88fe48ed9b055e8e80aad90b61d46a7b94bdafe0eb3cebec36566b8
+FileChecksum: MD5: 84ff51c1268d95f18d26117c20d64fb7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must inclu </text>
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/NOTICE
+SPDXID: SPDXRef-item10429305
+FileChecksum: SHA1: e63e4f4438d01af2d6047137285ed82570c5e74b
+FileChecksum: SHA256: f639f8c6dc0cfee51eb49331e56a869e1ad1ecc221a68465a68923493972b7c7
+FileChecksum: MD5: e1e327c904bb3ed05f2e3adf8bf0a10b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2021 Monocle Project Authors </text>
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/NOTICE
+SPDXID: SPDXRef-item10429362
+FileChecksum: SHA1: fb21f0d916b566f0221ebd40908517e3706b953a
+FileChecksum: SHA256: 00027106bdc184a44b7e39ebe23979fa9dc9e0ba9508d797bc5dcb3dc73c4fe8
+FileChecksum: MD5: 346c9ae3234f1d5d53403dc24637d3dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2024 Monocle Project Authors </text>
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.env
+SPDXID: SPDXRef-item10429147
+FileChecksum: SHA1: 186ec2131ecc95241ea9b5d125ac1a11e8459c9e
+FileChecksum: SHA256: f131b00b4c172836c6d26cae2c8f762755776d5f1f7352cf2dde78d89992f484
+FileChecksum: MD5: db93007952348557c8f24f579ebb5606
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_haystack_metamodel_sample.py
+SPDXID: SPDXRef-item10429150
+FileChecksum: SHA1: 827b10bf171ada3fd020acf7cc6966e57094eaae
+FileChecksum: SHA256: 490f92123b916f7b2cfeee25e05348a04ed0e8a687d46de34ff7247a9d40f471
+FileChecksum: MD5: ff7ccec753298216c2195f6e22f20d86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_metachain_sample.py
+SPDXID: SPDXRef-item10429151
+FileChecksum: SHA1: 043f02bdb47673115e564bef35d9debe4d2c4bde
+FileChecksum: SHA256: 1dd5f6c0ca78649e03eec443927384883c0553e62840abc01ae09669c8a62b23
+FileChecksum: MD5: 9e02f90c806926958c22d7ab3be70a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_langchain_sample_s3.py
+SPDXID: SPDXRef-item10429152
+FileChecksum: SHA1: 668f1583a80177013052d8a752e6899f82083f22
+FileChecksum: SHA256: e2d62cb80cd368ec6df8648bdc501e15b0fdf3738583c5aadc079d13d72077b7
+FileChecksum: MD5: 710527da6f52c44d0a93b63b7de23e99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_haystack_sample.py
+SPDXID: SPDXRef-item10429153
+FileChecksum: SHA1: a116558e90c670b8b669b5f5a3a410fdbc5cc0c9
+FileChecksum: SHA256: 7e0dd73edd1cde949401dc25958fbbcc848e86ef96b9137f3430374c05fa1ebe
+FileChecksum: MD5: cbee41f84651909178d5dc389d529993
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_langchain_rag_l_to_m.py
+SPDXID: SPDXRef-item10429154
+FileChecksum: SHA1: 77fbc6703a0d1f0668ef5043482a84ff80dae637
+FileChecksum: SHA256: bfbd69ca7aae13cadccddc2335f15b949921a0a7c12c1b0c9e9c5af60ee52eb9
+FileChecksum: MD5: 851e2a0a672c01e35010fce53c41f39b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_pytorch_sample.py
+SPDXID: SPDXRef-item10429155
+FileChecksum: SHA1: 2c0822175d3b898f0370795067ed51ff68be0356
+FileChecksum: SHA256: b3cd9fab89da84283b9c5495286213b2571cad35071d9a3bfab38e8c9d1fc8e3
+FileChecksum: MD5: 57a8dac6615d892f31cb1a2e1486ea21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_langchain_sample_wrapped.py
+SPDXID: SPDXRef-item10429156
+FileChecksum: SHA1: 3202e86907f9a881dd6fbf1026f86d9ed0ae89c3
+FileChecksum: SHA256: c3432d19d0b88274c954c0c1ae517c4ec74879c1caf35994dcc43c6574ed047d
+FileChecksum: MD5: 95ba72035579ef23f98d854af0894248
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_langchain_sample.py
+SPDXID: SPDXRef-item10429157
+FileChecksum: SHA1: 7816bfb176cb064f2b530d44cf19dea0daddf276
+FileChecksum: SHA256: dca2632474e02b6b2618eb1b2ea279e3c48ff861c9d5ae5b2ca60fda803e5d43
+FileChecksum: MD5: f40569436c22877ca5749f0cd6753515
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_sagemaker_sample.py
+SPDXID: SPDXRef-item10429158
+FileChecksum: SHA1: a0d35edad1292abf9983584d834b89d89d6f7da1
+FileChecksum: SHA256: f6767aa3fcdee55f0bd2b7daeb2a70aafbe790c9fe8a5bc7e40b734fc3404bdc
+FileChecksum: MD5: 526b5a9235eff09786f0389a93ea4a61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_llamaindex_opensearch_sample.py
+SPDXID: SPDXRef-item10429159
+FileChecksum: SHA1: 5bc0a4424328d785ead1fd00c0418c06880c3ed7
+FileChecksum: SHA256: 99808063f1cbf7bc4d7b7d4de9c2164252e68ae71280a0d6b5400a80b2d454a0
+FileChecksum: MD5: ac3d424737aa7d8d8c86818b7b4f8061
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/__init__.py
+SPDXID: SPDXRef-item10429160
+FileChecksum: SHA1: b58ed2d04636a84723f332f21d104dcaa38f5274
+FileChecksum: SHA256: 7ec6e30b6323ae4defc7658627ebb0204ee6f9fd00bf29a7665dbd7329f51ece
+FileChecksum: MD5: 128bb239e7406a8f40414e8954e83a50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_langchain_bedrock_sample.py
+SPDXID: SPDXRef-item10429161
+FileChecksum: SHA1: 2bf310691ddc0ef89dfe7db4bfecc602cc74e220
+FileChecksum: SHA256: e7206f65e50f47fdcbb09ec40f738ae6569c054e730d6551cf3614f7fc2cde43
+FileChecksum: MD5: 3d564cf142b3600343ed9bace18d26d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_bedrock_opensearch.py
+SPDXID: SPDXRef-item10429162
+FileChecksum: SHA1: baed256f5fae16a3a1431130928ee045a7c119ed
+FileChecksum: SHA256: 93bb1cbe38cbd835a2d93bc7f4cb56f07a3033d49d16e6ba076c51fe63a80e84
+FileChecksum: MD5: 79f60b08459e3d2f4683675c52bf2195
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_haystack_opensearch_sample.py
+SPDXID: SPDXRef-item10429163
+FileChecksum: SHA1: 8802c442025cd0b1a8a3de893ab1ed4da9b3ac8f
+FileChecksum: SHA256: a358d35f0a6700046d249dd7a4564196f5bb6ad00aa194e342d19ab7a6ce561d
+FileChecksum: MD5: e8047f0a81729fb13d1886212b84eb08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_langchain_chat_sample.py
+SPDXID: SPDXRef-item10429164
+FileChecksum: SHA1: 76fbee73115eb6af42f1e84aaf5bc3a24b21d114
+FileChecksum: SHA256: 02fa422c27931741a4eb56870d51aba34965d74f765b8e60e124844cb19bdd42
+FileChecksum: MD5: bf6b9d5fecaffb2382c7a2717c14a1b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_langchain_opensearch_sample.py
+SPDXID: SPDXRef-item10429165
+FileChecksum: SHA1: aa753e4e3249e1bcbdaf8d218801ddc421b394d7
+FileChecksum: SHA256: 0b15b4790cfac85482dc9ff463e80c144816881db7ed9929be242ae8cffad853
+FileChecksum: MD5: 8921afcc5c7818b18e83b915f1efa1a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_llama_index_sample.py
+SPDXID: SPDXRef-item10429166
+FileChecksum: SHA1: ca7262eb9711c40d893e40c7ff84d838d07d215b
+FileChecksum: SHA256: 5feb620f51e08f1e766922dd5089bd280570db2ff9ebf8d262c3cb1b89f4d65f
+FileChecksum: MD5: cc6eeccc88a1c34a9c99896d656988c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/integration/test_langchain_sample_blob.py
+SPDXID: SPDXRef-item10429167
+FileChecksum: SHA1: c343f5c1580908ba7512b50f363a17b63ccbe3e1
+FileChecksum: SHA256: c74c86d3ca61fd3e56bc596344d1b6261c277a2eb0906b833743adf41c4e2b5a
+FileChecksum: MD5: e67860033dff61be5d9f2ba9d5b50f77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/data/coffee_embeddings/index.pkl
+SPDXID: SPDXRef-item10429170
+FileChecksum: SHA1: 640665b877a463adbd10ef74157761b5fedf22d6
+FileChecksum: SHA256: c563a566000ac667e598550af0d9fa91d1ee1d38c4a4f5f442894dc2fed5160e
+FileChecksum: MD5: 16dd4819a86a3248fd46a9b0d04301b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-CC-BY-SA
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/data/coffee_embeddings/index.faiss
+SPDXID: SPDXRef-item10429171
+FileChecksum: SHA1: 558aadc02f0c92adf556d2f36398e5415bfee5e1
+FileChecksum: SHA256: 51e5ac266a3dfd72817faf74b9c461bb42e03e7ce5eb0a2e9021087c771e2c57
+FileChecksum: MD5: 7bf18571841933f730a5eadec7c98101
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/data/sample.txt
+SPDXID: SPDXRef-item10429172
+FileChecksum: SHA1: 2bbb4f3330035471c82a61bfdd93904c2e76cb34
+FileChecksum: SHA256: 5b512c46ee7f4bd7d730e2364335f652c2acedafafa76b4f15881bac26ed77c6
+FileChecksum: MD5: 53f77938e8e5a2cd0c73550867e1fa82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/flask_instrumented_app_test.py
+SPDXID: SPDXRef-item10429174
+FileChecksum: SHA1: 23396d3114e484f3bf648d950e0f0caa5c5f32fb
+FileChecksum: SHA256: 41fd033b2cd1ce3f022a2108d7c8bd205788f3b2e73fceceaef13f55af274dd3
+FileChecksum: MD5: 23bddfb64e46eb0ce6ec5e6ca5163cc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/langchain_async_processor_test.py
+SPDXID: SPDXRef-item10429175
+FileChecksum: SHA1: 784a538a6b43f97ca1cc1ca35224109405acb057
+FileChecksum: SHA256: fbcc6f6bcc2addfd31c4b11d16dc6d8742cc1047f74c9c476bf63b8212dbcf8f
+FileChecksum: MD5: 94d8927753f4d65279eb6aec802f18e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/file_exporter_test.py
+SPDXID: SPDXRef-item10429176
+FileChecksum: SHA1: d118c864c92d4284e4dcee66e8ca7de6fb271203
+FileChecksum: SHA256: d45587348d9928935e7f3354d397b213c9bae1d5633c3384f429b1b18dd066e4
+FileChecksum: MD5: 779b55bd77b32253be69fcef11239fee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/llama_index_test.py
+SPDXID: SPDXRef-item10429177
+FileChecksum: SHA1: dbf9cf5a262b18ebc221b532ea58a097c577091d
+FileChecksum: SHA256: 2e6e763452951652fab37d838a165648296d1c85e74371d8c36d23ea0299ebd8
+FileChecksum: MD5: 9d6c7fa27335e7ff0e00e5c49a0d2b1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/langchain_kwargs_test.py
+SPDXID: SPDXRef-item10429178
+FileChecksum: SHA1: 0482d51a1d9ac6afd8c63d76369fb7a0fe8b7689
+FileChecksum: SHA256: c5069ce0e9f7721d11bc25970cfed7f6cf9e51adb16fb54a6ff063869c98b86d
+FileChecksum: MD5: 6218fe1b3ffbb0b412bff96f7f6f0f8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/exporter_config_test.py
+SPDXID: SPDXRef-item10429179
+FileChecksum: SHA1: f9931bad6e22eb88364183531443d3ecdc84780b
+FileChecksum: SHA256: 2c8a8b964e6cbdcabbce34eea4bd30c3acaa658cbcafc44cb96e4ba016f16d0c
+FileChecksum: MD5: 805eff26e1da15c951011f168d680596
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/app_hosting_types_test.py
+SPDXID: SPDXRef-item10429180
+FileChecksum: SHA1: 7ea71c3640e30ed2c8e37f46c1537ed6ca3bc989
+FileChecksum: SHA256: e29a37f1647e209a7a21cb42747e261a6a6aa7f4294dc3c4cfec88d60d95fbf0
+FileChecksum: MD5: 101a89cfbf2f70757262c07acc64aa5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/haystack_unitest.py
+SPDXID: SPDXRef-item10429181
+FileChecksum: SHA1: b9d0b64459f203de661ab430a3ee55362a8778da
+FileChecksum: SHA256: 665159b2aecd9b20d7b1eb8a55d4a6ad8b157bf5f06837266bdf942689628674
+FileChecksum: MD5: 28f0331355ac57e755ae1480883c6be5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/langchain_custom_output_processor_test.py
+SPDXID: SPDXRef-item10429182
+FileChecksum: SHA1: e21b1d9426dee50601645a5bad360f3163c4a77c
+FileChecksum: SHA256: 2299fdb8e70f115babecb35cbb3a3ccf826bd01583599c1073ecc6c0723b7cb8
+FileChecksum: MD5: 851308060c441477cdbfa36e8f21301c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/vectorstore_deployment_test.py
+SPDXID: SPDXRef-item10429183
+FileChecksum: SHA1: 8bd5b87c7565c65435b59241193c1950e9129941
+FileChecksum: SHA256: 23d7e9b90ff98cf08f5625defa89b39297988416aa562f1aa476fdd70336a291
+FileChecksum: MD5: 7bb114f24850db566ec2fdb156d1c4c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/langchain_async_test.py
+SPDXID: SPDXRef-item10429184
+FileChecksum: SHA1: 99b1bce71108b7472ac1be5736f127a517b1c626
+FileChecksum: SHA256: 9b8308eb9e9728c8bea7aeb6db2e0650c0540937d7c8e23b30147d7416f71f0e
+FileChecksum: MD5: 6c93e621bdb152b27f9098454ca456db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/haystack_metamodel_unittest.py
+SPDXID: SPDXRef-item10429185
+FileChecksum: SHA1: d401196f5528883d534228aa3bcbaa5b89ff1c89
+FileChecksum: SHA256: e3bc872b44e79a5170356848bf9a50fd92240d0292f0113c4a965b3ef457201d
+FileChecksum: MD5: bf4361cf6b987c17cce65ca371053e45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/__init__.py
+SPDXID: SPDXRef-item10429186
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/s3_filename_test.py
+SPDXID: SPDXRef-item10429187
+FileChecksum: SHA1: 0a2cd99366e67cee4fc65599ba0cf4e383b6f807
+FileChecksum: SHA256: 480f76fc610930b730c09c45d37bb8c97faa42863e573adcb8ff59122050576a
+FileChecksum: MD5: 65041aa9f67babe4bd0b3c5cea9fa857
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/langchain_bedrock_test.py
+SPDXID: SPDXRef-item10429188
+FileChecksum: SHA1: 4f43c8fa6800733178c709cced4e44e8e4b19147
+FileChecksum: SHA256: e951e9cd45b01e726e9f4e48c8dd818f19123df310b0f512a0deece6d547bbf2
+FileChecksum: MD5: a742d3a74e5d4b773988a89611a0bb78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/output_processor_test.py
+SPDXID: SPDXRef-item10429189
+FileChecksum: SHA1: fe5c8325f6e76229f46ad88ef1836f6e1f0e9bf4
+FileChecksum: SHA256: 435a02fd13765c231179c3d4d75d5c5c1e539f0ffdbea8143b45fd12522056d2
+FileChecksum: MD5: 04442a43b6d3756f5bd02df3d87ae286
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/langchain_test.py
+SPDXID: SPDXRef-item10429190
+FileChecksum: SHA1: a7a89d473b6849966e9d76310b57019b7e3ac77d
+FileChecksum: SHA256: a2bb1a51766069d6d23fd62bd4a2cfef904c98ff3364b5d6f28cd60451e8b3c4
+FileChecksum: MD5: 7e5e60295db55ca6c5ac7d573fefac19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/langchain_workflow_name_test.py
+SPDXID: SPDXRef-item10429191
+FileChecksum: SHA1: ae3f5cde0ccf3da517969269fce9714442d21390
+FileChecksum: SHA256: c2844fb9c7073ef1014887940821b4007ca99f7ec9b57cd4f9ed67c5ac4ab7ce
+FileChecksum: MD5: 73b5d61585874c89183188c467c2f24f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/unit/pytorch_sample_test.py
+SPDXID: SPDXRef-item10429192
+FileChecksum: SHA1: e18930420b969d49421c01c6a7de8d8e010f4630
+FileChecksum: SHA256: c6ef681ef53f344d88447beb0fab91e01601a163cafe4af54953174dcf38e3d5
+FileChecksum: MD5: 4f2a06043c6dec865579549c8894bfd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/common/fake_list_llm.py
+SPDXID: SPDXRef-item10429194
+FileChecksum: SHA1: 5288a5921036ab0275204996cf4b6406cf8ec60e
+FileChecksum: SHA256: 000be45d2fd4699b6c040b212af35cf90ebdfc1bcc3f2aef22d15f044946c7a7
+FileChecksum: MD5: 7f57fcc118653a782576ab31d20eff8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/common/embeddings_wrapper.py
+SPDXID: SPDXRef-item10429195
+FileChecksum: SHA1: 07c07abb5aaf3f12fb8dfb31365051587cf4a04e
+FileChecksum: SHA256: 65b6cdd0337e480c380c5c7afae20f59d8f6145f2d304dcb4f4a89d940c948dd
+FileChecksum: MD5: 908afe5e10ada1eef74aa7ac5098ac54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/common/dummy_class.py
+SPDXID: SPDXRef-item10429196
+FileChecksum: SHA1: 2a8ee4c587a045974231d30576cafaabe4f13d2f
+FileChecksum: SHA256: 73e3b669e7573f69608d752c7f46ed7ab755aaa64061c32fb4ee6d95ca6a4564
+FileChecksum: MD5: 25f6affd768074e62b5d083e24e0ad4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/common/langhchain_patch.py
+SPDXID: SPDXRef-item10429197
+FileChecksum: SHA1: eb8ac59fef8d15d1873e0aabd9fe1139bd1a90d3
+FileChecksum: SHA256: aa947ebe91bc8c288bb0b9e82d8c4859c3977efcaad13c07c0e445ecf31dd45f
+FileChecksum: MD5: 0296dc36da2e4f3e5488c964c47a1841
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/common/custom_exporter.py
+SPDXID: SPDXRef-item10429198
+FileChecksum: SHA1: 61cabd349994ddda86900a1415c54c1dc6e3e36e
+FileChecksum: SHA256: 57e8be244065539de728cfd53fa2ea1750ed6b89e31cb94e81b9f61088a2ca7d
+FileChecksum: MD5: 6aa234e138bd913d65a60fb1e8e5b155
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/common/helpers.py
+SPDXID: SPDXRef-item10429199
+FileChecksum: SHA1: c9ad341cb78315047f039ff26504bc55df4c660d
+FileChecksum: SHA256: dccca72b8ce548697a0ae59afd3e708be33576b799ccd5ab5a45c51e9db89714
+FileChecksum: MD5: c011dd30ad07981dc4002a11c16754ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/common/mock_exporter.py
+SPDXID: SPDXRef-item10429200
+FileChecksum: SHA1: 85d4962591b74eda233cba8dcf8076114f4c8465
+FileChecksum: SHA256: c96aebff90db5f8ea0e9546f047c8bfeaceeb20f2989ea32dd66c69f7fa61299
+FileChecksum: MD5: 27fc3ab06b9fe2524f840453c4c47915
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/common/entities.json
+SPDXID: SPDXRef-item10429201
+FileChecksum: SHA1: f03370623732c5bd8f5fe5d372ca214909fa00af
+FileChecksum: SHA256: e8e4ddded3d7c39df8fee515bdea20197972ff4865a4317c35a8d5920e6c6b7a
+FileChecksum: MD5: f17468517f2e79b49b6c7601dcd7d889
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/common/__init__.py
+SPDXID: SPDXRef-item10429202
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/common/http_span_exporter.py
+SPDXID: SPDXRef-item10429203
+FileChecksum: SHA1: 481bca1fe4b7c4362a50f0c15768d59006d68879
+FileChecksum: SHA256: cd7081263fbea028d86fc62b5fac86a2cbace3f9d0a745e663891e28fc3e9cd1
+FileChecksum: MD5: 9686e605f5e68cdae5177fbca08bf6c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) Http Inc 2023-2024. All rights reserved </text>
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/langchain_starter.md
+SPDXID: SPDXRef-item10429204
+FileChecksum: SHA1: a7294e7d055e0040b887d25ca6db7d04eae64a0d
+FileChecksum: SHA256: 2ad79c9e74a1decfec5cd0c551315a1f2f1c99cd6348f159b2b549ea012cc249
+FileChecksum: MD5: 9e17d2e0ad1a22c4b037a2afd2275802
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/metamodel/metachain/methods.py
+SPDXID: SPDXRef-item10429207
+FileChecksum: SHA1: 230ee1cb087fbd2545a3d2866956ccc3a3e7c502
+FileChecksum: SHA256: 0263679c47d4fe18bef63f24dbebba5d220dcbc8a3fb093fcbb3166d9640bd8f
+FileChecksum: MD5: 6d1f466725018544b132df3d6ad397b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/metamodel/metachain/entities/__init__.py
+SPDXID: SPDXRef-item10429209
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/metamodel/metachain/entities/inference.py
+SPDXID: SPDXRef-item10429210
+FileChecksum: SHA1: a03446114b5fc0ee16d7a4cd2da09f25e3011261
+FileChecksum: SHA256: 6be2f9bcb5a711c7940ca8bb0ff77114c9ac049acfeb255e41f53dbf3e1a9253
+FileChecksum: MD5: 6a90ae0995e3acb38a36ce268e6994c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/metamodel/metachain/__init__.py
+SPDXID: SPDXRef-item10429211
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/llama_starter.md
+SPDXID: SPDXRef-item10429212
+FileChecksum: SHA1: d84d66e1e28ad4a19961c1c8d893ba783e1ecb5c
+FileChecksum: SHA256: bae86c9aa231650d809d94ff7fafa3bde7165a97586cc68003d0d31b60a8581c
+FileChecksum: MD5: 437ebc91e3a19cba5115fe9421fe7a67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tests/__init__.py
+SPDXID: SPDXRef-item10429213
+FileChecksum: SHA1: 7c338ed2840d2bf55f9f5e4eed04f66c80840eb3
+FileChecksum: SHA256: 6a3cf5192354f71615ac51034b3e97c20eda99643fcaf5bbe6d41ad59bd12167
+FileChecksum: MD5: 2228e977ebea8966e27929f43e39cb67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item10429214
+FileChecksum: SHA1: ba39d342b899149a1ac681283f491693033338b4
+FileChecksum: SHA256: 12d95ff94cf3790cba048aba333fd0ef99ee1e24dcf50719a850de44c16e8d11
+FileChecksum: MD5: 8bd44b26bd8d5fb3f17983161f10f704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/docs/design.md
+SPDXID: SPDXRef-item10429216
+FileChecksum: SHA1: 4ee775d0a3070d95fd289d69bb2f1fe3976b86c1
+FileChecksum: SHA256: 3cc7e20f659092e0ea9c50c0880641c7eca62c8c5deae0d46af84bc144d85e1d
+FileChecksum: MD5: ed5e80ae7444c2834ea47c415e3bd58c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/Monocle_contributor_guide.md
+SPDXID: SPDXRef-item10429217
+FileChecksum: SHA1: a131802194bf6e0a4d3ff7d0b930fa42f6d6616c
+FileChecksum: SHA256: efc87c3a783ea7922bee9b1efd29f173986bdc0e9e786423e7e81885ed2b2bf0
+FileChecksum: MD5: b2299b17275cb6ba71114e61d9bbae4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/DCO.txt
+SPDXID: SPDXRef-item10429220
+FileChecksum: SHA1: 6d9bc7fe94a20433425728c868f549038f6870a5
+FileChecksum: SHA256: 53a0a460f8eccb279580aa16013c5f98936eba73554d267632f5ea83d8e890b1
+FileChecksum: MD5: e59ab8d56e1112527e696ad021bf5faf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/MAINTAINER.md
+SPDXID: SPDXRef-item10429221
+FileChecksum: SHA1: c2eeb2d7e514195754245d456f92355880e93e00
+FileChecksum: SHA256: 371354c5c66048792ced2094ec3f74624c85cff41070a1d2731c664f1f276837
+FileChecksum: MD5: bc1ed306ed996bf66fbfdba6058ee1c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/CONTRIBUTING.md
+SPDXID: SPDXRef-item10429223
+FileChecksum: SHA1: 336b7f290ac1dbfbe7bb49539939e0e9e045cdd0
+FileChecksum: SHA256: 857c521f7f08760bf05278594fb725466f9e5a92cb4ad3fbba9387c6f35d7482
+FileChecksum: MD5: 8240e2d8523591645fd3dca252f05f9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/common/wrapper_method.py
+SPDXID: SPDXRef-item10429228
+FileChecksum: SHA1: 7f25ec8700de5e2420e54df4b5055b140da9a659
+FileChecksum: SHA256: ad6892773859ae75a735554064c7ad3dba021f61c748e67b2a023b74fc06c55f
+FileChecksum: MD5: 76efb5fce39cfef905274ad8a034fdf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/common/wrapper.py
+SPDXID: SPDXRef-item10429229
+FileChecksum: SHA1: 14ff72c27fcb6fbcd16b91d581fed2f170d49d70
+FileChecksum: SHA256: 43eee0c89a53b4da58d7e92176e4f7bf292f39ec10f2a2b32907d86998e1a3bb
+FileChecksum: MD5: efbbbcb5f1549e5148b0bb084db2eca2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/common/instrumentor.py
+SPDXID: SPDXRef-item10429230
+FileChecksum: SHA1: 46105e3928fa831772806c998d87f883de324cf1
+FileChecksum: SHA256: bfbf699870d17fae06d58d00e913199716ca8b3611b8dc25909a5169b1120e25
+FileChecksum: MD5: a85fca7a1a0ad0a99b099fe53f9ba6ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/common/constants.py
+SPDXID: SPDXRef-item10429231
+FileChecksum: SHA1: 2b44863bf9121a9a49fb0b48c5332713e23bd5b4
+FileChecksum: SHA256: c927f0379654b4d1709b76dae505b10692e6655b8146a565b6e681be993e7b76
+FileChecksum: MD5: 631e0ea0297abd0070b672eec5fe048c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/common/__init__.py
+SPDXID: SPDXRef-item10429232
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/common/span_handler.py
+SPDXID: SPDXRef-item10429233
+FileChecksum: SHA1: 41150f4a70893ec2df4b3fdb0962a8f857fa9038
+FileChecksum: SHA256: 779c9c377fce624366ebf5cab80c9b31afacd68e95ac7f766c4891f90fc78f6e
+FileChecksum: MD5: a19a7aaad3d5fd37693849620045b6c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/common/utils.py
+SPDXID: SPDXRef-item10429234
+FileChecksum: SHA1: 9ebc30d2a6a4164603f5c8845f4d6fde14880c06
+FileChecksum: SHA256: c5a6683f2d2dd08842e8e83da9f9acc8f17e7150cf83b391054a5df850a7d435
+FileChecksum: MD5: 2ca746e24172e6460354238fdb9e2924
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/haystack/_helper.py
+SPDXID: SPDXRef-item10429237
+FileChecksum: SHA1: f8ff44a63a53fd3b36f48996a501d8e09605e6c8
+FileChecksum: SHA256: 5604eb2a7eeb64c72fe0e55d544048efa1bee41d11bb1e20ba223a36cb28d78b
+FileChecksum: MD5: 09fc4421ec705745620e426fb577687f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/haystack/methods.py
+SPDXID: SPDXRef-item10429238
+FileChecksum: SHA1: 1f2da24ad958e699eb1979130fe053abff3052b6
+FileChecksum: SHA256: e16c216683d0064578d93a41be7fab5eedfbc6d68146bc3bfd5641dcc1ab7f11
+FileChecksum: MD5: b7226cc4c94ed17fbc21ab459b7f9055
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/haystack/entities/retrieval.py
+SPDXID: SPDXRef-item10429240
+FileChecksum: SHA1: 51b1a7f125a4ddd3b94fa1588b48deab06b53a15
+FileChecksum: SHA256: 9eade5b24daa1715eac2b007b01b7cceb8786551802400643edca5ae35020aa7
+FileChecksum: MD5: bdb990d83ee4ffb7f3fbd09904c3bf2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/haystack/entities/__init__.py
+SPDXID: SPDXRef-item10429241
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/haystack/entities/inference.py
+SPDXID: SPDXRef-item10429242
+FileChecksum: SHA1: 1e231761b569fe0ea97663cd479684b010a192ed
+FileChecksum: SHA256: 3e409a69aaf985b647ed81ad5a2b2af1d509a8120db051a6b5a520b75d540dae
+FileChecksum: MD5: b4787868a2c859a09017bb25da48a5ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/haystack/__init__.py
+SPDXID: SPDXRef-item10429243
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/llamaindex/_helper.py
+SPDXID: SPDXRef-item10429245
+FileChecksum: SHA1: 91215b8a83762c2c5e7e2f32edc0b57860338488
+FileChecksum: SHA256: 3ec22a70635ca9e70d80a3463333332e93f47f0e697ebcd88f09b373415a160f
+FileChecksum: MD5: bb8cdb68a7b09d9c77c991641606712b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/llamaindex/methods.py
+SPDXID: SPDXRef-item10429246
+FileChecksum: SHA1: 9a11f96bcd45a3293bd36191599f44922b984e0a
+FileChecksum: SHA256: 4c7afe9e678644dc261da1de63134b006ec440e1d94f04d85fed047458df1419
+FileChecksum: MD5: db59c80ad183fc1d154c75b2a83ed816
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/llamaindex/entities/retrieval.py
+SPDXID: SPDXRef-item10429248
+FileChecksum: SHA1: 47e02e8a41e05f24bd39231f8d7696c070e988e0
+FileChecksum: SHA256: 4011759ebaa883928787ddb98e263657e91e8cbea254b294a30666a940e8889e
+FileChecksum: MD5: 2100a54ad6d5280f0ef21a8bc9e3ea58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/llamaindex/entities/__init__.py
+SPDXID: SPDXRef-item10429249
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/llamaindex/entities/inference.py
+SPDXID: SPDXRef-item10429250
+FileChecksum: SHA1: 01afea39af92aea6a33156b16a82d3769c4ec2c8
+FileChecksum: SHA256: e7ce1b97ef389d59c7793c829a6d11ca00ebdd7297e2fcc74db1af939d5c8e14
+FileChecksum: MD5: 9ebcaf351fdc5422afe61ce028b79d7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/llamaindex/__init__.py
+SPDXID: SPDXRef-item10429251
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/langchain/_helper.py
+SPDXID: SPDXRef-item10429253
+FileChecksum: SHA1: fd1ad292295ffe14e54986f6f4cf516b7e3aff49
+FileChecksum: SHA256: 5cbd27863d581454e3b66ad07587844e4453b4a4b2a1df6cbe1bdc4ae81f1c97
+FileChecksum: MD5: 8258eac7049aef10bbedebd756e67e5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/langchain/methods.py
+SPDXID: SPDXRef-item10429254
+FileChecksum: SHA1: 9eb7ec3babd4690bdb05861a4ccdaa563a7d68ae
+FileChecksum: SHA256: c4458ee2e4a23a7476db572f5c44a756001f0ba25e131b0fe3a6646caf3f62ab
+FileChecksum: MD5: b364f660400b6beba82966c6d051a3a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/langchain/entities/retrieval.py
+SPDXID: SPDXRef-item10429256
+FileChecksum: SHA1: 5311117ca900cd54e2e65a63faa2b2376fcd6cfe
+FileChecksum: SHA256: af852a4c24f9bce7e46f3f65c284d1a2232451426d3ccc2a3986eaa39dc0e8af
+FileChecksum: MD5: 4f9ef021931b5c5e520a62cb1632660f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/langchain/entities/__init__.py
+SPDXID: SPDXRef-item10429257
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/langchain/entities/inference.py
+SPDXID: SPDXRef-item10429258
+FileChecksum: SHA1: e123d242ca85bc7c6a46175765cb451a787634b5
+FileChecksum: SHA256: c212ca942e16e0b1e36ef0b81c81fb589fdb1c99b1967610fde5145db84e1fdc
+FileChecksum: MD5: 7d3e5369c80b85fb560028e5dd7a1148
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/langchain/__init__.py
+SPDXID: SPDXRef-item10429259
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/__init__.py
+SPDXID: SPDXRef-item10429260
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/botocore/_helper.py
+SPDXID: SPDXRef-item10429262
+FileChecksum: SHA1: 6983700209d73681373c09c99caf06d84abbfa2f
+FileChecksum: SHA256: c0aeb267de9cb133946aae62b50c74752faf8c37f232ef8020fbb78b771779bb
+FileChecksum: MD5: 93ad8bae2e15e1a19e3ee1eafc69c81e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/botocore/methods.py
+SPDXID: SPDXRef-item10429263
+FileChecksum: SHA1: 0ec74ad7c859c525323f1e6a40888cae72a4ac67
+FileChecksum: SHA256: 11835813c168942a0580953caba2647ffd0258327c917224b57d5e0797930084
+FileChecksum: MD5: 7c780acf2b9a50d8c6669c3cbd3bdc8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/botocore/entities/__init__.py
+SPDXID: SPDXRef-item10429265
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/botocore/entities/inference.py
+SPDXID: SPDXRef-item10429266
+FileChecksum: SHA1: e814f2f166711c550762f98ca576a6b4b2481dc4
+FileChecksum: SHA256: 25f4d19abc6053a7be6f77416ee9d6b7939b63f472fd9058241c0a241e54949f
+FileChecksum: MD5: 3d887a196f350b70ac8ab853ce614f1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/metamodel/botocore/__init__.py
+SPDXID: SPDXRef-item10429267
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/instrumentation/__init__.py
+SPDXID: SPDXRef-item10429268
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/exporters/exporter_processor.py
+SPDXID: SPDXRef-item10429270
+FileChecksum: SHA1: a877084f07bb11b1aa75a56ff90c5b3c4e4f12c9
+FileChecksum: SHA256: 05370180cb852c709d0a056f73d4ca228f72f20d41bd2848d0be2f5fa43e7269
+FileChecksum: MD5: 215eeb3c45e8358b2067c56cf6a90c95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/exporters/aws/s3_exporter.py
+SPDXID: SPDXRef-item10429272
+FileChecksum: SHA1: fff0c54a14e457f52a3b4987ce1a7ab74fa7d9af
+FileChecksum: SHA256: 90554a781fedc813ba78df2886847fc6ca8cc03a2dfb7565ee533b67bb832cd6
+FileChecksum: MD5: 152c9046ef6b4f0d1831c1e04fcd99b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/exporters/file_exporter.py
+SPDXID: SPDXRef-item10429273
+FileChecksum: SHA1: a8c426ecbb4e13a5e1915e46b02cda7e25c480f1
+FileChecksum: SHA256: 80df6927f5f9a5cb2d555b328af807b235a1af8e377916ba63a1f1d6b18b4003
+FileChecksum: MD5: f8f69ceede6828f1f0b54050c00d36fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/exporters/base_exporter.py
+SPDXID: SPDXRef-item10429274
+FileChecksum: SHA1: aaee41348a0820dc62d55581718fe8ab59b2e426
+FileChecksum: SHA256: 1a8bff40aa797e89d567e61d34cdb29e83e8b7b18269236629b08720fddb0e51
+FileChecksum: MD5: 57be43f029e21067ddaecff1496fd0d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/exporters/monocle_exporters.py
+SPDXID: SPDXRef-item10429275
+FileChecksum: SHA1: d2665febae8819ba4774973cf904c31ba8dde7c3
+FileChecksum: SHA256: 5917119e73748122fb92137e059f70a2730a896687345aa7059f90c8cea132c8
+FileChecksum: MD5: 13501532eaa37a667cc3838e080c7864
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/exporters/azure/blob_exporter.py
+SPDXID: SPDXRef-item10429277
+FileChecksum: SHA1: 7f23ae66646e5f2520a26f4eb6d379b4b901a09e
+FileChecksum: SHA256: 9bb1ecc3739794fd8638241c7717fc2cce857b5d9f6668a1e39c7cd99d7675b2
+FileChecksum: MD5: a1a27a0313d747b9e368ea11e78e5dbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/exporters/okahu/okahu_exporter.py
+SPDXID: SPDXRef-item10429279
+FileChecksum: SHA1: c03c4472e1837203425f00913e81a0318e6b35da
+FileChecksum: SHA256: a76ae34adc28d0e304747590b7f42f444a545976c39b98c6c77a977986a2e3f3
+FileChecksum: MD5: 1edbcd41f84668a589670237a99f9da5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/__init__.py
+SPDXID: SPDXRef-item10429280
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/src/monocle_apptrace/README.md
+SPDXID: SPDXRef-item10429281
+FileChecksum: SHA1: 574255f6c3a2cfc83199db8e31b1d6a0bcd8fa24
+FileChecksum: SHA256: 4f93450b4d5b17c551d28567017fe7d1b86c12db6dc2a7d3c433407b963f8af1
+FileChecksum: MD5: e0f3b7e4e555d7e91ec9efba7e23056c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/pull_request_template.md
+SPDXID: SPDXRef-item10429283
+FileChecksum: SHA1: 6a40e650331351b71f74f484385607e8123f2bac
+FileChecksum: SHA256: 51c69cf1a658088a022436c80020ac666c5d01551edaf428af59a37cff3581e0
+FileChecksum: MD5: 2337d9e991c300eca91e54b4ee2cca27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/workflows/tox.yml
+SPDXID: SPDXRef-item10429285
+FileChecksum: SHA1: c905b0fc973ee02146d52d795a8c2fcc4cb05ca5
+FileChecksum: SHA256: 7866f3a2ad426772a55dcbd3b6865a4e267743149376c836a65f5eb74846069c
+FileChecksum: MD5: 2a9f82895251227dad4f89f91b18aade
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/workflows/release.yml
+SPDXID: SPDXRef-item10429286
+FileChecksum: SHA1: af281e0da989ece7caa86bb193e2bddd5f18ade4
+FileChecksum: SHA256: c3f6fe13a612d16a0ba208c6265b96cd5c7f82ce0aa60fb2d5c5553e95accacf
+FileChecksum: MD5: bef8b3538ab3e56bfe0dad878b2a9339
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/workflows/codeql.yml
+SPDXID: SPDXRef-item10429287
+FileChecksum: SHA1: 609c0a7ca4a4242aa74c305ebc4715b72b62f20c
+FileChecksum: SHA256: c20a48833e08c3ea2206ebae0ef8b7b3f88e8ec75f936144fad0fa42d42e01dc
+FileChecksum: MD5: 695365f5ff31de3ddf6c0a692cc702f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/workflows/repolinter.yml
+SPDXID: SPDXRef-item10429288
+FileChecksum: SHA1: 06f91ff1baba36025066b71c752502e9ebc52402
+FileChecksum: SHA256: 6bfc6d76be9f3322bac0ad3b0e8a6ac17e31f18cf74458c2e5c26af9f2199315
+FileChecksum: MD5: b404dd9790f93f3a0e72f8db7b731a43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/workflows/prepare-release-branch.yml
+SPDXID: SPDXRef-item10429289
+FileChecksum: SHA1: 254cb37cf32647dde99cb804c6441eb7eb9b883c
+FileChecksum: SHA256: 2f4d70c4992e22510c517cb951b6075ad768ffa61db74aad7571e82f97f96aee
+FileChecksum: MD5: be91d373a6bf276c85647a2f4cc2daae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/workflows/lint.yml
+SPDXID: SPDXRef-item10429290
+FileChecksum: SHA1: 2a0acf1ad0767dd5718d4b822c4a6505d55f0e8c
+FileChecksum: SHA256: b5500801656c21179746a4b00bd614f45d0227df44a3775ff6f102fb011a84eb
+FileChecksum: MD5: dea9325efe6400582e8f6df8b6a6d8f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/workflows/push-pypi.yml
+SPDXID: SPDXRef-item10429291
+FileChecksum: SHA1: 9af3e221a9b8df7e6f95942331f10998d505ecc1
+FileChecksum: SHA256: f592351a044f45942dd6fc638d902b320463f933f2c391f5f9e9d1ad845fdf83
+FileChecksum: MD5: 66b07a8d5f867eff99da710e9ad3aa7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/release.md
+SPDXID: SPDXRef-item10429292
+FileChecksum: SHA1: 62e4d2976c3a15b28585f295bff7a43b8ee54010
+FileChecksum: SHA256: 902eb011dee9d8f956bfe3b78e570f8ee1a268e7ce2161627f1cd9736a8dafeb
+FileChecksum: MD5: 50186c439a66e64ceb0e142f3f6114fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/scripts/update-version.sh
+SPDXID: SPDXRef-item10429294
+FileChecksum: SHA1: 56815e5d9a0a2e0897ad44fe1b4f91cb24962829
+FileChecksum: SHA256: ba4e672a803365112cf2f5f0a4c9c51c4c8ca73164eab959000da5b936ab61d4
+FileChecksum: MD5: f5fad405fca68131cceb9be8970e6faf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/scripts/get-version.sh
+SPDXID: SPDXRef-item10429295
+FileChecksum: SHA1: 4baa53bce11f477be853ccaedc71585859bef8ef
+FileChecksum: SHA256: 3eacae124081b3842ec67e474e015b93ba5cd6ae0497f99ad432b0f402ea539f
+FileChecksum: MD5: 618e5cb91ca74a1178c33f46e0306157
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/scripts/push-pypi.sh
+SPDXID: SPDXRef-item10429296
+FileChecksum: SHA1: 285475eb17034d9b8fa0c10faa99608d6798c4f0
+FileChecksum: SHA256: 256d27f47450c6fd5deb72e77fd4e2806ded65fa2971064fb395537fc2260934
+FileChecksum: MD5: c52121e1d27f1ba00b4224beeed31513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.github/scripts/build.sh
+SPDXID: SPDXRef-item10429297
+FileChecksum: SHA1: 3013e6e1e9fd29ff9aa5da6a3b88dec2734a9100
+FileChecksum: SHA256: b9b7643710bda1b38bb6179f897c21f83370150d3b3a42428c27030cce507f92
+FileChecksum: MD5: ca5f19ec256a79a400964e45b10f1e7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.pylintrc
+SPDXID: SPDXRef-item10429298
+FileChecksum: SHA1: 6c417c674e78baf87d2b0322d298a0484752d729
+FileChecksum: SHA256: ec3b8c3da63d063fbfdff57eb279cff265a95938e9516c762ea189b03e59f577
+FileChecksum: MD5: 1cd2c7a50b2a684d907a8e8ae8022f69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/tox.ini
+SPDXID: SPDXRef-item10429299
+FileChecksum: SHA1: 8568d2dccece7eddf4cc545b1e0e66ca0b718d05
+FileChecksum: SHA256: 07f99f56ecc411041bf69e128f3c7fe1d01a01babd4922b077ee6d3b655f3491
+FileChecksum: MD5: 47fbc41355678bf09a809c19e957a37a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/.gitignore
+SPDXID: SPDXRef-item10429300
+FileChecksum: SHA1: 1f27315713aa29bb3266db969842718da536a2f7
+FileChecksum: SHA256: c9351d9c65d404daed691dd740a18e8a7c945937440475192c1374b96026647d
+FileChecksum: MD5: df46a63018074fa1cfc53d543ebd2fb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/Monocle_User_Guide.md
+SPDXID: SPDXRef-item10429301
+FileChecksum: SHA1: f81986f844f5fe84e90b3ef16547074eb15a3b5e
+FileChecksum: SHA256: 75ff352744fef3d390f5cc803402043541698c6a250546532e8b563c1d872de9
+FileChecksum: MD5: db17599b032584c615ba8614570a640e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/CHANGELOG.md
+SPDXID: SPDXRef-item10429302
+FileChecksum: SHA1: 9b3f9246d613c69a88eecb51313b9c4a335f2da1
+FileChecksum: SHA256: 9ec00b3e5a62ceababe261019272bb6d55863877d9b7dffb5a452ca401d7af6c
+FileChecksum: MD5: 3c0691db9d49f5f0217aa2bbb2c0f547
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/Monocle_committer_guide.md
+SPDXID: SPDXRef-item10429303
+FileChecksum: SHA1: 5b2235d59125c60f1df389d48bdaf5ad92020e9d
+FileChecksum: SHA256: ce7229d8ea5b7e78626e7e7f5f22a010c56904ea3a5e4ed1144f40ab717dd9a0
+FileChecksum: MD5: a9e971094880f13977c020908c959547
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/CODEOWNERS.md
+SPDXID: SPDXRef-item10429304
+FileChecksum: SHA1: c2eeb2d7e514195754245d456f92355880e93e00
+FileChecksum: SHA256: 371354c5c66048792ced2094ec3f74624c85cff41070a1d2731c664f1f276837
+FileChecksum: MD5: bc1ed306ed996bf66fbfdba6058ee1c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/README.md
+SPDXID: SPDXRef-item10429306
+FileChecksum: SHA1: 9863891dd384461a101e8ea3937ee5d94c3cac95
+FileChecksum: SHA256: de4097c7be6daff426e8145cb003e244669aac387cfd52d590050899dab1e295
+FileChecksum: MD5: 3ba2f44993b526445e686edc5fc29c66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle/SECURITY.md
+SPDXID: SPDXRef-item10429307
+FileChecksum: SHA1: 46bc2f6c61c3492784634d2eb187eaf13ba58de1
+FileChecksum: SHA256: 481b3151c1bfe8f5a6e6db9df62e338b938eb4cc749c605e2eb9919519d000af
+FileChecksum: MD5: 8b685ab960ba630ff6827498cf811afd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item10429309
+FileChecksum: SHA1: ba39d342b899149a1ac681283f491693033338b4
+FileChecksum: SHA256: 12d95ff94cf3790cba048aba333fd0ef99ee1e24dcf50719a850de44c16e8d11
+FileChecksum: MD5: 8bd44b26bd8d5fb3f17983161f10f704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/package-lock.json
+SPDXID: SPDXRef-item10429311
+FileChecksum: SHA1: 725d40c169811dd34de9fe1b7b1753918f094241
+FileChecksum: SHA256: 8a3a29d70aca77ad834cc5c4aafdb82ea2c9f6179477cab7c8607c1b0e700f9c
+FileChecksum: MD5: 7f33813d18b5014a97c0380cc1f416ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0-or-later
+LicenseInfoInFile: Python-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: Zlib
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: ISC
+LicenseInfoInFile: WTFPL
+LicenseInfoInFile: 0BSD
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/DCO.txt
+SPDXID: SPDXRef-item10429312
+FileChecksum: SHA1: 6d9bc7fe94a20433425728c868f549038f6870a5
+FileChecksum: SHA256: 53a0a460f8eccb279580aa16013c5f98936eba73554d267632f5ea83d8e890b1
+FileChecksum: MD5: e59ab8d56e1112527e696ad021bf5faf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/MAINTAINER.md
+SPDXID: SPDXRef-item10429313
+FileChecksum: SHA1: c2eeb2d7e514195754245d456f92355880e93e00
+FileChecksum: SHA256: 371354c5c66048792ced2094ec3f74624c85cff41070a1d2731c664f1f276837
+FileChecksum: MD5: bc1ed306ed996bf66fbfdba6058ee1c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/CONTRIBUTING.md
+SPDXID: SPDXRef-item10429314
+FileChecksum: SHA1: 336b7f290ac1dbfbe7bb49539939e0e9e045cdd0
+FileChecksum: SHA256: 857c521f7f08760bf05278594fb725466f9e5a92cb4ad3fbba9387c6f35d7482
+FileChecksum: MD5: 8240e2d8523591645fd3dca252f05f9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/common/opentelemetryUtils.js
+SPDXID: SPDXRef-item10429318
+FileChecksum: SHA1: 9faf97eb00ee00b9ed4f0f93c0f140403770d54e
+FileChecksum: SHA256: 4b4d4f5276163aa5d6e2af1da72c3bc353510d923971866fa3ee99df7deb5d39
+FileChecksum: MD5: 9381813a25c8384250853b47949b6d04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/common/packages.js
+SPDXID: SPDXRef-item10429319
+FileChecksum: SHA1: a3ea4c7272a1bdc6438f1bfa233a4af3f1508da5
+FileChecksum: SHA256: acf4fabdc472755e43322520d13f258b1806ab1fbe0925f64e0152aaa331e0b6
+FileChecksum: MD5: 6ecc023541268b976b8c6a49c2040265
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/common/instrumentation.js
+SPDXID: SPDXRef-item10429320
+FileChecksum: SHA1: cff867a193cdd37513105f6b1549153486afb21b
+FileChecksum: SHA256: da48cac67b4b47622d3a564f7d4d8e5a2d6dec47302ba0c547615d5c85845ba8
+FileChecksum: MD5: c84c8395128f8c3233eb54653a579c0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/common/wrapper.js
+SPDXID: SPDXRef-item10429321
+FileChecksum: SHA1: 1028c300a9e10b74880556777146eef425bd8b79
+FileChecksum: SHA256: 65c439db8fb1d09e093d9bb6262af8cc2df5ae529750b77fb63cc583c75c302d
+FileChecksum: MD5: fea45fe6a22247899498fab867549e3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/common/constants.js
+SPDXID: SPDXRef-item10429322
+FileChecksum: SHA1: 1b0d2e2e37f699268cc50a1047ad66c25442d03a
+FileChecksum: SHA256: 33de52b9f525d311e9a47c67e2e4b24c159e3778c508586209f06d5a5959f4fc
+FileChecksum: MD5: 8d77f75074a59335063f158c3d43da89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/metamodel/openai/entities/inference.js
+SPDXID: SPDXRef-item10429326
+FileChecksum: SHA1: 7aef8a19dbfc80454d6dd517e23580ba07c4b3d8
+FileChecksum: SHA256: dbd9992500848149cafdd74d35804ac0e762147b49839c0c2fe40c8e20b8d729
+FileChecksum: MD5: c30a8a9bdbca35deaf5004fb202d0e0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/metamodel/openai/methods.js
+SPDXID: SPDXRef-item10429327
+FileChecksum: SHA1: 0380f98bb6b18f0e8f9a240744cc08fe30033c40
+FileChecksum: SHA256: 91cfea078445579d4bc93a8350c6baa7706b11c0ab96aa604d942af7cffb3ce5
+FileChecksum: MD5: f0f8d17aefba3afc28f651d1a28cd395
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/metamodel/llamaindex/entities/inference.js
+SPDXID: SPDXRef-item10429330
+FileChecksum: SHA1: 57cf0a1ac49286986203f20d681c42c6c6c51ce9
+FileChecksum: SHA256: 77dc49c6db1c6b461ee6ab7bba93104017d0e6f64756d56aa8a5b707de97d01f
+FileChecksum: MD5: c5540b483a2443337cea2cac5c53590e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/metamodel/llamaindex/entities/retrieval.js
+SPDXID: SPDXRef-item10429331
+FileChecksum: SHA1: e8ebddffb3d4bc41797271a0ee617bf8a707438e
+FileChecksum: SHA256: 42c929ff365b5399e40c33a084598bbbecbd04674643136bef1d1b67d18185ea
+FileChecksum: MD5: 16f4ab29f93eb668547884470fc2ac21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/metamodel/llamaindex/methods.js
+SPDXID: SPDXRef-item10429332
+FileChecksum: SHA1: f13cef471b9eeb0f47e0028a4977643a4c3d3290
+FileChecksum: SHA256: 648e4deed19a8e3bbf3490202d6b6768d973e96220c88cd8aaf614f9b6e437cb
+FileChecksum: MD5: d5b453b9be72324a435de644214ce870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/metamodel/utils.js
+SPDXID: SPDXRef-item10429333
+FileChecksum: SHA1: d023e628b6ca4eb56260c494cc68538b5cb2043d
+FileChecksum: SHA256: 577fc074db3233fc46b1af4462709726f7fe1324e9ec2ad9e665ce69f5f823ae
+FileChecksum: MD5: cf76b4234bcd1475ef58db43487fce68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/metamodel/langchain/entities/inference.js
+SPDXID: SPDXRef-item10429336
+FileChecksum: SHA1: 54eaccec296faf72c57fae085b3819123a622a96
+FileChecksum: SHA256: 926377a790954d69ca959f96e1c01be27c443724b2bf26acf368ea08794cce65
+FileChecksum: MD5: 49868663df87c5ffc3773cc6c1c423cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/metamodel/langchain/entities/retrieval.js
+SPDXID: SPDXRef-item10429337
+FileChecksum: SHA1: 2acf60845d487ecbf5d0b7202fa24319116b8259
+FileChecksum: SHA256: bf76bc0953dd7f2ac03f28999965c9b9f688e130972c7b7c34ac01132a582f7c
+FileChecksum: MD5: 9388bcff2efab4815db606e7c30c1175
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/instrumentation/metamodel/langchain/methods.js
+SPDXID: SPDXRef-item10429338
+FileChecksum: SHA1: 8bffa7c6968e56ccfe97eef8a4dbe403aff81771
+FileChecksum: SHA256: 1f59d0b930e20583c03058dce0c3dcc7fd3cd8ab8bf328e4514a12ff8d18c7ef
+FileChecksum: MD5: ebf204ae79ae90d18c143362a7b167c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/index.js
+SPDXID: SPDXRef-item10429339
+FileChecksum: SHA1: 3ad28918b31db3dbe25b1412009b41e3e041d1e5
+FileChecksum: SHA256: b6c29ac50fd54aa5e6f6e31661c24a2255694c6dc8f3bc59752f23d1f0203c88
+FileChecksum: MD5: 595f804d397865d36b5b3fc1c553a9bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/common/logging.js
+SPDXID: SPDXRef-item10429341
+FileChecksum: SHA1: 287acb51965411671b0171f8ae67dc8f6c9208ae
+FileChecksum: SHA256: 8aff5dd13b1f6091fdba1ec6c880b31c0b61b1ac18c272f2d6805794a9a7d10b
+FileChecksum: MD5: 0357ea80b00e4f55944275bf2fc1ee33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/exporters/index.js
+SPDXID: SPDXRef-item10429343
+FileChecksum: SHA1: 382ead4371228eb770f2cf4c653b03f89897e235
+FileChecksum: SHA256: eb1e222826005baf860e4a72d195e8e2f78b7a5375a49a5d4b9c47dc68aeac2b
+FileChecksum: MD5: 5c23803363f116b8e9f3c876ef6fd206
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/exporters/monocle/MonocleConsoleSpanExporter.js
+SPDXID: SPDXRef-item10429345
+FileChecksum: SHA1: 331bc8a9c49d1c30cedead9d397c59776ac0aa73
+FileChecksum: SHA256: c90e2dd9090cd46978155d8f5539999857ba13e3a1876143e8ff0897f6a4b165
+FileChecksum: MD5: f3da4361ee845c8e6e6e181c5b7895eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/exporters/utils.js
+SPDXID: SPDXRef-item10429346
+FileChecksum: SHA1: 569e2826687279fc3baae1afd238dac8366f9076
+FileChecksum: SHA256: 3543a95de577c29134111150752408fa5127de67a89dab393de111279df32849
+FileChecksum: MD5: 10e8b00767d8781290eda75b3706f08a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/exporters/aws/AWSS3SpanExporter.js
+SPDXID: SPDXRef-item10429348
+FileChecksum: SHA1: 5da07ff5f2ea3199bee682b3d16727be6898bced
+FileChecksum: SHA256: 6f14eed749395c56b7c498f5778a4a520b2d7b50aad2ba0c3eee4a20754f3329
+FileChecksum: MD5: 2216a1fa2a893a21d27ab7193c0f4fcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/exporters/file/FileSpanExporter.js
+SPDXID: SPDXRef-item10429350
+FileChecksum: SHA1: 1dd183367fccb5860d2147fa4999915aadd50131
+FileChecksum: SHA256: 5ebc35b3292e2f0eecba5c63875bdd2db4dbd7ede4a929b58741aca51b45710e
+FileChecksum: MD5: 1c87eab91b5a501e52f1633eff43022b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/src/exporters/azure/AzureBlobSpanExporter.js
+SPDXID: SPDXRef-item10429352
+FileChecksum: SHA1: bde2651d0d6b850c8a0cbb4fb5992242cbe93fd0
+FileChecksum: SHA256: 9e4ce720f5f6a363b05a7db859ae1a72a11adb61ccafd77db64bd1fd11e2da57
+FileChecksum: MD5: 493d35aa367445d380972a1594681791
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/.github/pull_request_template.md
+SPDXID: SPDXRef-item10429354
+FileChecksum: SHA1: 6a40e650331351b71f74f484385607e8123f2bac
+FileChecksum: SHA256: 51c69cf1a658088a022436c80020ac666c5d01551edaf428af59a37cff3581e0
+FileChecksum: MD5: 2337d9e991c300eca91e54b4ee2cca27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/examples/text.txt
+SPDXID: SPDXRef-item10429356
+FileChecksum: SHA1: f5a8745b0ae3ae77d281ddc9bb0f573fa97ebf71
+FileChecksum: SHA256: 95fd7c691b40109f6b2f832b7724f553ba07eaf3e48e52830e3e4f900fd4c901
+FileChecksum: MD5: 3f5669397f508a0719f333c5c9825bcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/examples/langchainSampleWithMonocle.js
+SPDXID: SPDXRef-item10429357
+FileChecksum: SHA1: 98d9e4bdc71be00732b99bfd457f2f5136ef4862
+FileChecksum: SHA256: a181a54f21741e5629878f186369bcc15c3e63a5a4a34c73c1343f123fef2c48
+FileChecksum: MD5: fa45ae5444fd418c777fa21458aff6af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/examples/openaiChatCompletion.js
+SPDXID: SPDXRef-item10429358
+FileChecksum: SHA1: ea12ad90a6c7b4fbe32a905c8b50b4ce7bcf942a
+FileChecksum: SHA256: d9a28bdc0e8b983e2dc6d8a5fc21f0b75fbceeab966d17def60966d1a19c2688
+FileChecksum: MD5: dc0e6d03dd32d4ee5694d67a17f99463
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/examples/llamaIndexSample.js
+SPDXID: SPDXRef-item10429359
+FileChecksum: SHA1: 1410eb013ba7ff0a9d5795c5fb6574be0dd06219
+FileChecksum: SHA256: cb61500bd15d1378915b04e3d641bb99bbe0b77edea8d6c88392e0ad2fb24449
+FileChecksum: MD5: 0369733ba047cdd22aeec29cd41c5ba3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/.gitignore
+SPDXID: SPDXRef-item10429360
+FileChecksum: SHA1: 4e4a61e41d9b8a475b9e8119d33d1321f736aa56
+FileChecksum: SHA256: 8d214f8e564d88e386fcd0b020ecc6276330763ab995d3831751e7e17d2aee76
+FileChecksum: MD5: 426a51f0fad6fa6d02c4f2797365d259
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/CODEOWNERS.md
+SPDXID: SPDXRef-item10429361
+FileChecksum: SHA1: c2eeb2d7e514195754245d456f92355880e93e00
+FileChecksum: SHA256: 371354c5c66048792ced2094ec3f74624c85cff41070a1d2731c664f1f276837
+FileChecksum: MD5: bc1ed306ed996bf66fbfdba6058ee1c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/eslint.config.mjs
+SPDXID: SPDXRef-item10429363
+FileChecksum: SHA1: e85c791ee7f7cda0cb567139b358493eb4fe16df
+FileChecksum: SHA256: b60089e7d3ef1601cb3a55bcbd0ffad2c0cd625f64007ade927ca15bba08e767
+FileChecksum: MD5: a74401ee55bc0662026fc8490c3d87ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/README.md
+SPDXID: SPDXRef-item10429364
+FileChecksum: SHA1: 93ec84f3fb5f06290f42dc2436fb9e8473dce13f
+FileChecksum: SHA256: f72fe83607c702f50ee361b726f3decbc582ab0846e07fbfc68d3c9ba3a7d41e
+FileChecksum: MD5: 17e0c5a0c6029985ebe203f044d57b6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/package.json
+SPDXID: SPDXRef-item10429365
+FileChecksum: SHA1: 122ad337464b493d2e19d6ecdc8ba85af8c22db7
+FileChecksum: SHA256: f32b682b2fbf5b10e40dd07547b71549039e4d2467ca01c08eca484c684a945d
+FileChecksum: MD5: d6a746e6cc34c279e38949f830f76acb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: monocle2ai-2025-01-10.zip/monocle-typescript/SECURITY.md
+SPDXID: SPDXRef-item10429366
+FileChecksum: SHA1: 46bc2f6c61c3492784634d2eb187eaf13ba58de1
+FileChecksum: SHA256: 481b3151c1bfe8f5a6e6db9df62e338b938eb4cc749c605e2eb9919519d000af
+FileChecksum: MD5: 8b685ab960ba630ff6827498cf811afd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-fossology-CC-BY-SA
+LicenseName: CC-BY-SA
+ExtractedText: <text> CC-BY-SA is referenced without a version number. Please look up CC-BY-SA in the License Admin to view the different versions. </text>
+
