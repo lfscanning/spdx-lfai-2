@@ -1,0 +1,102 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T17:30:01Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Non-commercial restriction",
+            "licenseId": "LicenseRef-Non-commercial-restriction"
+        }
+    ],
+    "name": "/tmp/tmpe18xl_tj/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpe18xl_tj/code-be13ba48-fa6b-4635-82c6-1c3e87e6405f",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-c5d195b2737458e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:30:01Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND LicenseRef-Non-commercial-restriction AND Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "MIT",
+            "name": "lfai-2.recommenders-team",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-recommenders-team-datasets",
+            "comment": "This package was added to the Trivy analysis for the datasets by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/recommenders-team/datasets/archive/70935ebf26b74d0c8c0e82e82851ef82eca14f85.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/recommenders-team/datasets@70935ebf26b74d0c8c0e82e82851ef82eca14f85",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND LicenseRef-Non-commercial-restriction AND Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "MIT",
+            "name": "datasets",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "70935ebf26b74d0c8c0e82e82851ef82eca14f85"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-recommenders-team-recommenders",
+            "comment": "This package was added to the Trivy analysis for the recommenders by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/recommenders-team/recommenders/archive/5c862afa751f53559b5ad98b92e098760f530ad8.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/recommenders-team/recommenders@5c862afa751f53559b5ad98b92e098760f530ad8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND LicenseRef-Non-commercial-restriction AND Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "MIT",
+            "name": "recommenders",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "5c862afa751f53559b5ad98b92e098760f530ad8"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-c5d195b2737458e",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c5d195b2737458e",
+            "relatedSpdxElement": "SPDXRef-lfai-2-recommenders-team-datasets",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c5d195b2737458e",
+            "relatedSpdxElement": "SPDXRef-lfai-2-recommenders-team-recommenders",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
