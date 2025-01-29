@@ -1,0 +1,255 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T17:30:15Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Restricted notice",
+            "licenseId": "LicenseRef-Restricted-notice"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Qt.Commercial",
+            "licenseId": "LicenseRef-Qt.Commercial"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Cryptogams",
+            "licenseId": "LicenseRef-Cryptogams"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD (version unspecified)",
+            "licenseId": "LicenseRef-BSD-version-unspecified-"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Public domain statement",
+            "licenseId": "LicenseRef-Public-domain-statement"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Other",
+            "licenseId": "LicenseRef-Other"
+        }
+    ],
+    "name": "/tmp/tmpbvbyjluj/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpbvbyjluj/code-cb7803ed-6583-430c-a4d1-05a27d67a9b4",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-c740be8a2ca6a0fb",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:30:15Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:30:15Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "shadernn/core/3rdparty/uVkCompute/third_party/benchmark/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "6f3fc8b1d398091cf66bf61a810e94eee55af102"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3a6a390ad90da139",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:30:15Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@1.19.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: shadernn/core/3rdparty/uVkCompute/third_party/benchmark/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "1.19.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-faa291ceb4dab789",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:30:15Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@1.1.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pandas.pydata.org",
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: shadernn/core/3rdparty/uVkCompute/third_party/benchmark/requirements.txt",
+            "supplier": "Organization: pandas",
+            "versionInfo": "1.1.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-80a7c42dfa1ef927",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:30:15Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.5.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: shadernn/core/3rdparty/uVkCompute/third_party/benchmark/requirements.txt",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.5.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-a3e6e2386a2e0b5d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:30:15Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND CC-BY-3.0 AND LicenseRef-Restricted-notice AND GPL-3.0-only AND GPL-2.0-only AND GFDL-1.3-only AND (GPL-2.0-only OR LGPL-2.1-only OR MPL-1.1) AND (GPL-2.0-only OR LGPL-3.0-only OR LicenseRef-Qt.Commercial) AND MPL-2.0 AND LGPL-2.1-or-later AND (OpenSSL OR LicenseRef-Cryptogams) AND LicenseRef-BSD-version-unspecified- AND (BSD-2-Clause AND BSD-3-Clause) AND BSL-1.0 AND BSD-2-Clause AND Zlib AND (Apache-2.0 AND BSD-3-Clause) AND (Apache-2.0 AND MIT) AND (BSD-2-Clause AND MIT) AND BSD-3-Clause AND MIT AND (BSD-3-Clause OR GPL-2.0-only) AND (BSD-3-Clause OR MPL-2.0) AND NCSA AND Minpack AND Python-2.0 AND GPL-3.0-only WITH Bison-exception-2.2 AND LicenseRef-Public-domain-statement AND OFL-1.1 AND (MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfai-2.inferenceengine",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-inferenceengine-renderdoc",
+            "comment": "This package was added to the Trivy analysis for the renderdoc by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/inferenceengine/renderdoc/archive/73141bc5336ce3ab52ffe8b54881624f9bcc9d3e.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/inferenceengine/renderdoc@73141bc5336ce3ab52ffe8b54881624f9bcc9d3e",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND CC-BY-3.0 AND LicenseRef-Restricted-notice AND GPL-3.0-only AND GPL-2.0-only AND GFDL-1.3-only AND (GPL-2.0-only OR LGPL-2.1-only OR MPL-1.1) AND (GPL-2.0-only OR LGPL-3.0-only OR LicenseRef-Qt.Commercial) AND MPL-2.0 AND LGPL-2.1-or-later AND (OpenSSL OR LicenseRef-Cryptogams) AND LicenseRef-BSD-version-unspecified- AND (BSD-2-Clause AND BSD-3-Clause) AND BSL-1.0 AND BSD-2-Clause AND Zlib AND (Apache-2.0 AND BSD-3-Clause) AND (Apache-2.0 AND MIT) AND (BSD-2-Clause AND MIT) AND BSD-3-Clause AND MIT AND (BSD-3-Clause OR GPL-2.0-only) AND (BSD-3-Clause OR MPL-2.0) AND NCSA AND Minpack AND Python-2.0 AND GPL-3.0-only WITH Bison-exception-2.2 AND LicenseRef-Public-domain-statement AND OFL-1.1 AND (MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "renderdoc",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "73141bc5336ce3ab52ffe8b54881624f9bcc9d3e"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-inferenceengine-shadernn",
+            "comment": "This package was added to the Trivy analysis for the shadernn by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/inferenceengine/shadernn/archive/6f3fc8b1d398091cf66bf61a810e94eee55af102.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/inferenceengine/shadernn@6f3fc8b1d398091cf66bf61a810e94eee55af102",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND CC-BY-3.0 AND LicenseRef-Restricted-notice AND GPL-3.0-only AND GPL-2.0-only AND GFDL-1.3-only AND (GPL-2.0-only OR LGPL-2.1-only OR MPL-1.1) AND (GPL-2.0-only OR LGPL-3.0-only OR LicenseRef-Qt.Commercial) AND MPL-2.0 AND LGPL-2.1-or-later AND (OpenSSL OR LicenseRef-Cryptogams) AND LicenseRef-BSD-version-unspecified- AND (BSD-2-Clause AND BSD-3-Clause) AND BSL-1.0 AND BSD-2-Clause AND Zlib AND (Apache-2.0 AND BSD-3-Clause) AND (Apache-2.0 AND MIT) AND (BSD-2-Clause AND MIT) AND BSD-3-Clause AND MIT AND (BSD-3-Clause OR GPL-2.0-only) AND (BSD-3-Clause OR MPL-2.0) AND NCSA AND Minpack AND Python-2.0 AND GPL-3.0-only WITH Bison-exception-2.2 AND LicenseRef-Public-domain-statement AND OFL-1.1 AND (MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "shadernn",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "6f3fc8b1d398091cf66bf61a810e94eee55af102"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-c740be8a2ca6a0fb",
+            "relatedSpdxElement": "SPDXRef-Package-3a6a390ad90da139",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c740be8a2ca6a0fb",
+            "relatedSpdxElement": "SPDXRef-Package-80a7c42dfa1ef927",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c740be8a2ca6a0fb",
+            "relatedSpdxElement": "SPDXRef-Package-faa291ceb4dab789",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-a3e6e2386a2e0b5d",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-inferenceengine-shadernn",
+            "relatedSpdxElement": "SPDXRef-Application-c740be8a2ca6a0fb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-a3e6e2386a2e0b5d",
+            "relatedSpdxElement": "SPDXRef-lfai-2-inferenceengine-renderdoc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-a3e6e2386a2e0b5d",
+            "relatedSpdxElement": "SPDXRef-lfai-2-inferenceengine-shadernn",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
