@@ -1,0 +1,282 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T17:34:06Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmp2pt335wn/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmp2pt335wn/code-a2c67824-1119-4081-b268-b6c170042575",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-107a87f59d04e6e8",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:34:06Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:34:06Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "RWKV-LM/RWKV-v5/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "5ce34bc1c21e982cab2b4ff542c543383a4dafdd"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f8d23f812c6c519a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:34:06Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "PyTorch Lightning is the lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytorch-lightning@1.9.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Lightning-AI/lightning",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "pytorch-lightning",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: RWKV-LM/RWKV-v5/requirements.txt",
+            "supplier": "Organization: \u26a1\ufe0f Lightning AI",
+            "versionInfo": "1.9.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-5d86ea19ea32514f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:34:06Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfai-2.BlinkDL",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-BlinkDL-RWKV-CUDA",
+            "comment": "This package was added to the Trivy analysis for the RWKV-CUDA by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/BlinkDL/RWKV-CUDA/archive/906c7e2061e8dbc1646f547bd45d6873cd36e0eb.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/BlinkDL/RWKV-CUDA@906c7e2061e8dbc1646f547bd45d6873cd36e0eb",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "RWKV-CUDA",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "906c7e2061e8dbc1646f547bd45d6873cd36e0eb"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-BlinkDL-RWKV-LM",
+            "comment": "This package was added to the Trivy analysis for the RWKV-LM by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/BlinkDL/RWKV-LM/archive/5ce34bc1c21e982cab2b4ff542c543383a4dafdd.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/BlinkDL/RWKV-LM@5ce34bc1c21e982cab2b4ff542c543383a4dafdd",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "RWKV-LM",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "5ce34bc1c21e982cab2b4ff542c543383a4dafdd"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-BlinkDL-RWKV-v2-RNN-Pile",
+            "comment": "This package was added to the Trivy analysis for the RWKV-v2-RNN-Pile by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/BlinkDL/RWKV-v2-RNN-Pile/archive/32c282a93bcdb32012ec15f5d862916ae6f67dcb.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/BlinkDL/RWKV-v2-RNN-Pile@32c282a93bcdb32012ec15f5d862916ae6f67dcb",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "RWKV-v2-RNN-Pile",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "32c282a93bcdb32012ec15f5d862916ae6f67dcb"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-BlinkDL-nanoRWKV",
+            "comment": "This package was added to the Trivy analysis for the nanoRWKV by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/BlinkDL/nanoRWKV/archive/381773e73b31f8f94c3ddaf2337399652c90dd01.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/BlinkDL/nanoRWKV@381773e73b31f8f94c3ddaf2337399652c90dd01",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "nanoRWKV",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "381773e73b31f8f94c3ddaf2337399652c90dd01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-BlinkDL-ChatRWKV",
+            "comment": "This package was added to the Trivy analysis for the ChatRWKV by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/BlinkDL/ChatRWKV/archive/9284fa14d64146ee8817d134435102df9989c735.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/BlinkDL/ChatRWKV@9284fa14d64146ee8817d134435102df9989c735",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "ChatRWKV",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "9284fa14d64146ee8817d134435102df9989c735"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-BlinkDL-modded-nanogpt-rwkv",
+            "comment": "This package was added to the Trivy analysis for the modded-nanogpt-rwkv by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/BlinkDL/modded-nanogpt-rwkv/archive/49f7076ab95a660e3585be94c382e4b2ada920af.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/BlinkDL/modded-nanogpt-rwkv@49f7076ab95a660e3585be94c382e4b2ada920af",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "modded-nanogpt-rwkv",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "49f7076ab95a660e3585be94c382e4b2ada920af"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-BlinkDL-RWKV.com",
+            "comment": "This package was added to the Trivy analysis for the RWKV.com by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/BlinkDL/RWKV.com/archive/b16ff3444d512957ad15ab0ece2a3d5575314a27.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/BlinkDL/RWKV.com@b16ff3444d512957ad15ab0ece2a3d5575314a27",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "RWKV.com",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "b16ff3444d512957ad15ab0ece2a3d5575314a27"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-107a87f59d04e6e8",
+            "relatedSpdxElement": "SPDXRef-Package-f8d23f812c6c519a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-5d86ea19ea32514f",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-BlinkDL-RWKV-LM",
+            "relatedSpdxElement": "SPDXRef-Application-107a87f59d04e6e8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5d86ea19ea32514f",
+            "relatedSpdxElement": "SPDXRef-lfai-2-BlinkDL-RWKV-CUDA",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5d86ea19ea32514f",
+            "relatedSpdxElement": "SPDXRef-lfai-2-BlinkDL-RWKV-LM",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5d86ea19ea32514f",
+            "relatedSpdxElement": "SPDXRef-lfai-2-BlinkDL-RWKV-v2-RNN-Pile",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5d86ea19ea32514f",
+            "relatedSpdxElement": "SPDXRef-lfai-2-BlinkDL-nanoRWKV",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5d86ea19ea32514f",
+            "relatedSpdxElement": "SPDXRef-lfai-2-BlinkDL-ChatRWKV",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5d86ea19ea32514f",
+            "relatedSpdxElement": "SPDXRef-lfai-2-BlinkDL-modded-nanogpt-rwkv",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5d86ea19ea32514f",
+            "relatedSpdxElement": "SPDXRef-lfai-2-BlinkDL-RWKV.com",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
