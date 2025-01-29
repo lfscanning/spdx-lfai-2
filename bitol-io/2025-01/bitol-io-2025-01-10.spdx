@@ -1,0 +1,664 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_bitol-io-2025-01-10.zip_1737622499.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-23T08:54:59Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: bitol-io-2025-01-10.zip
+PackageFileName: bitol-io-2025-01-10.zip
+SPDXID: SPDXRef-upload1760
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 93e182c64955fba977235520bcdc66f2b7adf9bd
+PackageChecksum: SHA1: 5f619735a09d5b54d0d7d08b5ef72b29b2001f0e
+PackageChecksum: SHA256: ab1d9ba19af0f4c348dae81bbba083b2c3f8b5719056c7b48c7610343235704e
+PackageChecksum: MD5: de66526eb149b37b40a3e42d8fd5fff0
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1760
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/README.md
+SPDXID: SPDXRef-item10400715
+FileChecksum: SHA1: 0374306f8a693094b87f09855217c10bc8377416
+FileChecksum: SHA256: eae621c4f3fff0fdcd70f1ca02a456a82b6d5e9c4729158521b2b43f64230a7d
+FileChecksum: MD5: d816aba064ef7787678c4c6b0a004934
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/LICENSE
+SPDXID: SPDXRef-item10400696
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/img/data-contract-diagram-v3.png
+SPDXID: SPDXRef-item10400653
+FileChecksum: SHA1: 59cd120946d7b8f0ec2b955db21b961228dc0b86
+FileChecksum: SHA256: 86e4241203eb07427a849c5bbd23325c9810809f29f4c55a2109f6a3eb0b0c6f
+FileChecksum: MD5: dce848e39f84683876bcc553e84f93c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/img/data-contract-diagram-v3.svg
+SPDXID: SPDXRef-item10400654
+FileChecksum: SHA1: 21e20db725ab6b42668a3c3c009a1a76008c937e
+FileChecksum: SHA256: 9d5b989201148d7247f38bc0210bcafa1c2eee4ce08d22159df59b9d73d864b2
+FileChecksum: MD5: f3e303f31d3f3872b1c058b3f5720b52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/img/data-contract-v2.2.1-schema.svg
+SPDXID: SPDXRef-item10400655
+FileChecksum: SHA1: 8c06cfae463af5a96091617837d372bcc0e11464
+FileChecksum: SHA256: f16c2e6ca9429907beaa4f868c74e72a1da035dd686903f8827d9a2ef7d9ca7d
+FileChecksum: MD5: 69646f45d26ac16361ef40caa415d2f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/img/data-contract-v2.2.1-schema.png
+SPDXID: SPDXRef-item10400656
+FileChecksum: SHA1: b8ee8e67bcd3aacd19dc1899d7c08bc864754cd9
+FileChecksum: SHA256: b38e59bae2d667e9d0e455ae8df51920cc775a320f65af131755401285c4850f
+FileChecksum: MD5: fc569b2974cb21137e1ac6a46156dea4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/img/elements-of-schema-odcs-v3.png
+SPDXID: SPDXRef-item10400657
+FileChecksum: SHA1: fb5f1dd85497d7f8c219b636225563c7164a5596
+FileChecksum: SHA256: e30ae28bd74e038f73fc230ab3b7f9983b4d30adc5ec741c36640bb2dd18aa28
+FileChecksum: MD5: 49ab9c6d69ed10bc320957e5dad9b481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © I³XåâWDC ¤ ð_?yG[6¯oôñ:öh±»0>9·F=ËÍ ¼nwm]Ê2µ º	1M?×>¸gµ¬>;Ó?ôìÖ?.´R!?jM«çA(áü##5kC0âh ïÆÕóX?Z(KðëQȤDÀ\aô \¿r?O%N?XöêÞfÃʹ|Â%¿O©Z¹,?»?ø¿qaïüÙãØ?pÇaBN±M?`âÄÆ?ñ?½??M§BmÈȻ4	¯]k?¶F_Ã]ÆA?¹H?â¯?bàùv¿?bß?Ñ+ }32Nµè×ù+XyB êøôÉwöü?øolA<}7¬¡.&$8¨?õpºtW ½l.Àa»¹ÿÐ?¥§Qù§ </text>
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/img/data-contract-v2-schema.png
+SPDXID: SPDXRef-item10400658
+FileChecksum: SHA1: 4d4ce000335a26245912cd9e24b06c6331e18055
+FileChecksum: SHA256: 3e782c9ea5ce8c133f66c20a71fa6cb5d08512b42741aa8391511fcc0077832c
+FileChecksum: MD5: eeeeaec1079f05f21658c40a141a0ef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/img/data-contract-diagram-latest.svg
+SPDXID: SPDXRef-item10400659
+FileChecksum: SHA1: 21e20db725ab6b42668a3c3c009a1a76008c937e
+FileChecksum: SHA256: 9d5b989201148d7247f38bc0210bcafa1c2eee4ce08d22159df59b9d73d864b2
+FileChecksum: MD5: f3e303f31d3f3872b1c058b3f5720b52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/img/data-contract-diagram-v3.pdf/data-contract-diagram-v3
+SPDXID: SPDXRef-item10400662
+FileChecksum: SHA1: 0cb6df3674ca8f47a57e37dfc0026a81453b7231
+FileChecksum: SHA256: cdfe19be8a499b5f12b1c1aaf9f782ce1c0165ac7daba83549c663a8012afbae
+FileChecksum: MD5: b1feb5e6b66e947af9d78983ea9e7bd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/img/Bitol_Logo_icon_color.svg
+SPDXID: SPDXRef-item10400663
+FileChecksum: SHA1: 49088919717286a784c9cfdeca7df8d1247babbe
+FileChecksum: SHA256: f9002e76856a2858d4c4ad8c52981808c7119d846ed4c2a474b9cd2f406eb8fc
+FileChecksum: MD5: fcef67d0005b5e0c2d5bdcb0b559b607
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/img/data-contract-v2.2-schema.png
+SPDXID: SPDXRef-item10400664
+FileChecksum: SHA1: 83bc08002f557f9e55f894b723e72cfe0f1ca940
+FileChecksum: SHA256: b3017c6700a05198c1c12b47c205b202c12bb4a52317e2f74ad60d0858d42664
+FileChecksum: MD5: 8028995a6513c963fb4307c0e1d673a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	7n Y4;QoN[þõ¹ºîhh) ) ûx,êr%¬oê½Ü_þ61yó?Ð??å?ÄÔe=¥ ü´¬¼y:ÑA·~ð«Ðë?!> dÀÍdÚi M?¶?ÑÁ5Lê#º|º?ý7ÖäM?:{òÑß3+:à`ÓU?2zzPJ|÷ÿٸdå*UçÝ}?üª%WoÌZ'SàË2SV??xòç&/7Ý?z´nüìcë?ê3 ¯à¯úËdYÏÇ}q4 ÷µ?7çw麯»©ݘ ?ý(?Ù?x?úiá< ãù)+̫¾?ë6¤Ó?¿\?/YÝ*=gõ¶xѬíÒÉÀD?:_¬ п£ä[7 l3Q=ñ </text>
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/img/elements-of-schema-odcs-v3.svg
+SPDXID: SPDXRef-item10400665
+FileChecksum: SHA1: fcf68d3fc2bcfb085c4af63e512a42fce3fbd1d3
+FileChecksum: SHA256: b6ff6c5c7aeae513c7301d3eb036adfe6d450ab883c8e6ac4a0f2b561619f7c0
+FileChecksum: MD5: cb65bbe400a1672962a8b5d14bf74e4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/quality/column-validity.odcs.yaml
+SPDXID: SPDXRef-item10400668
+FileChecksum: SHA1: 03e8b43c22aa831aced2c07dab31768472de9198
+FileChecksum: SHA256: 183733972517c60b19ba26db816e5d8b284deed1d5089e38ac2e3aefcea9d729
+FileChecksum: MD5: d5665bcaa6a8786d2855641243af2b6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/quality/column-completeness.odcs.yaml
+SPDXID: SPDXRef-item10400669
+FileChecksum: SHA1: 0e692f64eec703045f30f01edeaf93a484c4131c
+FileChecksum: SHA256: b4bdcaea97addd27b45bcc7d4e04599267f3ff5da49c39e3a5cdb0e28554a93c
+FileChecksum: MD5: e9b7e8da0a9cab7d64483aafe79f3e76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/quality/column-custom.odcs.yaml
+SPDXID: SPDXRef-item10400670
+FileChecksum: SHA1: 9df02c8a7055d8f8125689c9057eaa00a50fb1c6
+FileChecksum: SHA256: 75a2ffb741ca9765f3f3a673015068c4ffb08b715b33cc5d0e343fb25bb76139
+FileChecksum: MD5: f717a7c2470cf638bfbb22b45562b599
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/quality/column-accuracy.odcs.yaml
+SPDXID: SPDXRef-item10400671
+FileChecksum: SHA1: 47c0edc22dba866aa6a6b8c0b2089b74eaf30200
+FileChecksum: SHA256: fab35455e3965cac0aacc550d2fe46a81dd61b088d95272d890fe85b95eaa41e
+FileChecksum: MD5: 483155cd714c4d80b41f190764d98a36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/roles/service-and-operational-roles.odcs.yaml
+SPDXID: SPDXRef-item10400673
+FileChecksum: SHA1: 6ecea7dad2b05819e85c87d99675c30e9a00e1a8
+FileChecksum: SHA256: f0fdbe276569f46dc2d59cd263ba19179a7459fbc7409f8f712bdd310ced6728
+FileChecksum: MD5: 311e06f0f6890384ebc7a8cf3534497f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/data-types/all-data-types.odcs.yaml
+SPDXID: SPDXRef-item10400675
+FileChecksum: SHA1: 43a8cabc4aad45c58493a50751488ce7ae86d9d6
+FileChecksum: SHA256: 31bc3950007c40828dc80500c504664676dfe5b4f47145b0aa4bdbea3444ffb2
+FileChecksum: MD5: c2cbd742c96f79bec47c2a890054e684
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/fundamentals/table-column-description.odcs.yaml
+SPDXID: SPDXRef-item10400677
+FileChecksum: SHA1: 0af84c0e097fd7c72e388c32405f70fa3f1ecef1
+FileChecksum: SHA256: 73d7c246d9876bf479b86d2e198c742715021963278a6e0caf693b95db7944f7
+FileChecksum: MD5: 71146caf254520c486c7b50e5e51a535
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/server/kafka-server.odcs.yaml
+SPDXID: SPDXRef-item10400679
+FileChecksum: SHA1: dbacf9785901923525b915fe645aa692f2b2dc11
+FileChecksum: SHA256: 6cee885fd820bf2f299c7412221603a1291eaebe587c0edde06c5e3bd68e3519
+FileChecksum: MD5: cc1d7b4dbd9401451c5121ccee72914b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/server/azure-server.odcs.yaml
+SPDXID: SPDXRef-item10400680
+FileChecksum: SHA1: 9565114521fa027d27a24d9e40852bfbd82a0ddb
+FileChecksum: SHA256: f38276378b2b7af92ce481a43c0806ce046e902abd3f57641db0c904318f1484
+FileChecksum: MD5: a008f6da2ff6b7369a9374eb474f645c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/all/postgresql-adventureworks-contract.odcs.yaml
+SPDXID: SPDXRef-item10400682
+FileChecksum: SHA1: 08e20c5a44c844c7094dfb1664cbb14f69950645
+FileChecksum: SHA256: 1c195bcebfb656ea2617d4fe418691da2b111837f9afdbfff4831ca54ff75a9c
+FileChecksum: MD5: 0c13dccd9e8c16b78d394b148872cc09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © in XML format." partitioned: false authoritativeDefinitions: type: "implementation" url: "jdbc:postgresql://localhost:5432/adventureworks/jobcandidate/resume" criticalDataElement: false primaryKey: false required: false name: "modifieddate" </text>
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/all/full-example.odcs.yaml
+SPDXID: SPDXRef-item10400683
+FileChecksum: SHA1: 6301d9076de909b8ff5f0805ddbcde0e4ff93048
+FileChecksum: SHA256: bb1c0980400e883fb76511fd638778a93742838b284e4d38ee4f4ce0b2b46ed6
+FileChecksum: MD5: 9d471d78f2f550d4d5b6e0528d0c0457
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/stakeholders/basic-four-dpo.odcs.yaml
+SPDXID: SPDXRef-item10400685
+FileChecksum: SHA1: 1122e5daaa0478528c2305d39e770236a5d007aa
+FileChecksum: SHA256: e7cb7463f21f014833243b28928f2b0ec5629c8497b422d13e037461412b6fca
+FileChecksum: MD5: 614aa7b09104398017add17ef5c76fd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/sla/database-table-sla.odcs.yaml
+SPDXID: SPDXRef-item10400687
+FileChecksum: SHA1: e735ac8c003e7084c36c04fd604f6987466f114a
+FileChecksum: SHA256: 61a7363fcc312a8fdb1ea917fa3a728c532784ea6eae815daaa73f4ec28223b1
+FileChecksum: MD5: 456db424544f60f55adfd2fbbdc445b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/README.md
+SPDXID: SPDXRef-item10400688
+FileChecksum: SHA1: bd35d9dd4a96105e7debd407beac431b1b2dce45
+FileChecksum: SHA256: 6fe7db0203404e4d9c13c89a413c6778c7e4c21a8044bfeb8e0ce1ec787bc998
+FileChecksum: MD5: 37dce1ae5681a5c75f3d7d9dee68ddf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/schema/all-schema-types.odcs.yaml
+SPDXID: SPDXRef-item10400690
+FileChecksum: SHA1: a008fb1751b800d8575df154701b7077ee593cf2
+FileChecksum: SHA256: eeeb0766f4fd1aa9181926dae664e65a5f60e1adfa40dda357e747dd547737fd
+FileChecksum: MD5: 07458d9f4dcd6a1575bd5a52defd774d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/schema/kafka-schema.odcs.yaml
+SPDXID: SPDXRef-item10400691
+FileChecksum: SHA1: 039a2097c12418037b8576bc301219feae20c12a
+FileChecksum: SHA256: c29145065d4cc17aa6bfd540867d7fd5b9607ac8342db55fcd169b77bfc3fd2c
+FileChecksum: MD5: 9b18808f273ce8202dc2f1bdf0095bcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/schema/table-column.odcs.yaml
+SPDXID: SPDXRef-item10400692
+FileChecksum: SHA1: 83366dc143281e366a5361c5bd4287657c92040a
+FileChecksum: SHA256: 3e684e4f76540b8ccb0f1ced893a101fa1229765894200bc9576788322fd9fcb
+FileChecksum: MD5: 36f80b564be20dc6993f8b13c49deb68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/schema/table-columns-with-partition.odcs.yaml
+SPDXID: SPDXRef-item10400693
+FileChecksum: SHA1: b29a6bc1e86a0195014cd3da2c70a312efcc691e
+FileChecksum: SHA256: 235d7073787aed843648702ef9672f7f84355d8eea9f6ddb31ad5da97b6fd593
+FileChecksum: MD5: 993feef6667a393b60aacc2e85573d6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/examples/schema/kafka-schemaregistry.odcs.yaml
+SPDXID: SPDXRef-item10400694
+FileChecksum: SHA1: 1622c251cdbd373d383be7b037259e05015e85da
+FileChecksum: SHA256: 75feba2723b22c47954ee6a75f09ce922ef899651baa068ad92571b1a5d32c0b
+FileChecksum: MD5: 1d50c7ce23fa5df2d2262e876d48e119
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/docs/README.md
+SPDXID: SPDXRef-item10400695
+FileChecksum: SHA1: 37e3eda8ef0dc325d2499fbcf4587902962fd8e4
+FileChecksum: SHA256: d2f0676fb89a5c1139302ee08503b48de63a1996834a71c6be68a953b0094fae
+FileChecksum: MD5: 701de6a448408d2a9b7d51f8ce0d32c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/CONTRIBUTING.md
+SPDXID: SPDXRef-item10400697
+FileChecksum: SHA1: c86b59cc211ed14d9ce1af3aea3d1e21ae04f2c2
+FileChecksum: SHA256: 1b467345afc98c45b44e3a3be78d00aa3896dc6f9947b5448e0a5765cc8c788d
+FileChecksum: MD5: 824f9657c48fccee261decac49e8274e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/src/script/validate-examples.sh
+SPDXID: SPDXRef-item10400700
+FileChecksum: SHA1: 967b4c37b048789de07ec8c41387ba50b91cd932
+FileChecksum: SHA256: 1660a7effe9d4eea93a0a644dafb70d74a94d475d26f058ed4b684fe1693c6c1
+FileChecksum: MD5: 6d03a4ccdabbd5163c9f26e0515eacf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/src/script/generate-server-types.ruby
+SPDXID: SPDXRef-item10400701
+FileChecksum: SHA1: 39fc2a157fc7026d4968dcbdb0d37ace79dacced
+FileChecksum: SHA256: 91467dbcf1cb4890f09a64ffbcc0042c8ae342f13154a4064358c7066dfcc68b
+FileChecksum: MD5: dfefdce9229a48863d8278c8728d2172
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/src/script/README.md
+SPDXID: SPDXRef-item10400702
+FileChecksum: SHA1: 45a0ee9887d5fea57f14d96e4fbb85000b14f893
+FileChecksum: SHA256: 595da339fcb7f4cbf1fa6e4f55264c96601b1fec0cac14d3df5ac1608e7caf61
+FileChecksum: MD5: cc2a302e357a1ebaed4724c34f945a40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/src/script/build_docs.sh
+SPDXID: SPDXRef-item10400703
+FileChecksum: SHA1: e767d5c5a4ee00dc7f162e81f9fa8d9a4f6be465
+FileChecksum: SHA256: 869273ca39a337c60d70a59abf571b1c44df8011331ee67dbaa3d57f19eea2ad
+FileChecksum: MD5: 05b1a873a35d5f50f60364db9affe23c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/.github/workflows/validate-examples.yaml
+SPDXID: SPDXRef-item10400706
+FileChecksum: SHA1: ee4bf7135c2c25f66fec79f9ab759c101dbbc093
+FileChecksum: SHA256: bbbe639b1cc56fff2d3094be53514827fb192a9ac1394e90e8d628d8dd74761b
+FileChecksum: MD5: 7b7f6d5c1e872617d5d085580f0a7bcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/.github/workflows/docs-site-deploy.yaml
+SPDXID: SPDXRef-item10400707
+FileChecksum: SHA1: 39a47e6f824a595071f4f0926484ea89dfc96d3a
+FileChecksum: SHA256: 657edf6aa14a18dfdf1c19b36fd8b31059eafcf4ee999d7535dd6f17161c16bf
+FileChecksum: MD5: 395b85db5830562a75b0e01073d298f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/vendors.md
+SPDXID: SPDXRef-item10400708
+FileChecksum: SHA1: ab0004a703df2d13e76951237109eca2191d37ea
+FileChecksum: SHA256: aedee6c92ef63b42b958463bcf6980110dbab13b54b167070ce8da5d34b8915a
+FileChecksum: MD5: 526f576a6f32044cc513fd1a429344af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/building-doc.md
+SPDXID: SPDXRef-item10400709
+FileChecksum: SHA1: 3419f7a3eb82e0f9334acd187d92a914f9ddfdf4
+FileChecksum: SHA256: e256c4fb03f814223e8936f5bfc51eac29efb8377680a7adc437bfef9cf93678
+FileChecksum: MD5: 56befb0fedea1a1d735180589f9454de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/.gitignore
+SPDXID: SPDXRef-item10400710
+FileChecksum: SHA1: 97c652dbb0b8a9da778cc98b7eefb4d49ffb1462
+FileChecksum: SHA256: ffd89be1b79290ffd4fe2854275eebe33f924cb927c339ba879c5c643d96174f
+FileChecksum: MD5: f94a341fc111ea7d18b7ca7416d23cf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/CHANGELOG.md
+SPDXID: SPDXRef-item10400711
+FileChecksum: SHA1: 3917125c6407667e29418b1bbb1a206af50c32eb
+FileChecksum: SHA256: 4dc7ac3cd77fb7b610c473730d2a8b0b93b47126ab2d3dea0fd8379d0d37dec4
+FileChecksum: MD5: ad2411dcfe3ace5afee9a96ec27adc4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/AUTHORS.md
+SPDXID: SPDXRef-item10400712
+FileChecksum: SHA1: 95ea29d3b46e6e3888413b37fcbacceeb1275d98
+FileChecksum: SHA256: a9f9eb2db4e1cee44a85dbafe6b056ab0642f288e3025dcea7cc49080a715925
+FileChecksum: MD5: 40965f121332507a403ac73090da8c77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/resources.md
+SPDXID: SPDXRef-item10400713
+FileChecksum: SHA1: 0fbecbf80c6967bbcef15ad788c6620d7d55b0df
+FileChecksum: SHA256: 478a796e99f616abc7e404a1645f1d2501b34c4fe2a0f20ab0df4a63e9706053
+FileChecksum: MD5: e6f187da94392a19ea2993da90d406f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/mkdocs.yml
+SPDXID: SPDXRef-item10400714
+FileChecksum: SHA1: 197d0ca49019a4dc8040bade85dec8d54203e2ba
+FileChecksum: SHA256: 23a2018c44f79c4db440bb8627360dec37a5ffa8c5adf6efdcd687b4ef835464
+FileChecksum: MD5: 912f654d1c524ff30beb1f1963581831
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/schema/odcs-json-schema-v3.0.1.json
+SPDXID: SPDXRef-item10400717
+FileChecksum: SHA1: e1737de7bd935e1fcaee2249d78f1eebaed0ce2c
+FileChecksum: SHA256: 346408469a760b4a484f7ad3d7c6779de810b93761c8c11d3d7111f323273cc6
+FileChecksum: MD5: 7aadf2d4c56526cf51c50a6d288bf4c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/schema/odcs-json-schema-v2.2.2.json
+SPDXID: SPDXRef-item10400718
+FileChecksum: SHA1: e8e437074dfbd27aca0b7a51f4337a22af914fff
+FileChecksum: SHA256: a17f0d2ffa06deac2f3d1becd9828a0bb3e006a4bf9a189195dcef6786ad85d4
+FileChecksum: MD5: 3d3dca11b72e3d77971da3f1cdbabd94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/schema/odcs-json-schema-latest.json
+SPDXID: SPDXRef-item10400719
+FileChecksum: SHA1: cace9d9107cfe461087879f04bf31f6f01e725dc
+FileChecksum: SHA256: 74222956f9b0e41e63228cb12caa748630999b1f1adcf8e62ad289a648de90d2
+FileChecksum: MD5: 01f20d62c055d4ee9e62081cb33b59c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/schema/odcs-json-schema-v3.0.0.json
+SPDXID: SPDXRef-item10400720
+FileChecksum: SHA1: 90dc8aa0e27f7a1e50362c40219d1c63b464a994
+FileChecksum: SHA256: 421d1bbcead745784d91c3f198f45aaea536fbadbceb83f3bbfa5b4ad1305922
+FileChecksum: MD5: 19f5376e2ef4e49297e2e4ba4e2fd174
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/schema/odcs-json-schema-v2.2.1.json
+SPDXID: SPDXRef-item10400721
+FileChecksum: SHA1: ad1ab19a74dee202fa0557bfd3507a2083ba03d1
+FileChecksum: SHA256: c44695489e24d9c33b367e904916b14418443f81e5c5e290ac5f945d2544cc82
+FileChecksum: MD5: e923702da22ccf7562be3fdbc9b332dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-contract-standard/schema/README.md
+SPDXID: SPDXRef-item10400722
+FileChecksum: SHA1: 7a7318a6deb1931981f334d6c5d427a41e882146
+FileChecksum: SHA256: 606afd99e1794eac81d759d91bfd3036aa4a0cd9b4cf58e9ca7fbd45666f2d95
+FileChecksum: MD5: a2d3418e5764284ca12d67c7d4f42436
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bitol-io-2025-01-10.zip/open-data-product-standard/README.md
+SPDXID: SPDXRef-item10400724
+FileChecksum: SHA1: 63576cdf602ff9345752996e47d080059fcb9fdb
+FileChecksum: SHA256: 75873bdef159521d167df6df8b2897147c30cca0768ed4b7cd0f7b1a5385d987
+FileChecksum: MD5: 5900ea58df65722e11ebde0363bffaa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
