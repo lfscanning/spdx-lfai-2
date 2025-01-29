@@ -1,0 +1,306 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T16:48:30Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Other",
+            "licenseId": "LicenseRef-Other"
+        }
+    ],
+    "name": "/tmp/tmpgrqr3qu1/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpgrqr3qu1/code-d3e47b24-f087-48f2-a24a-d267688208d9",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-581895e399ca665a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:30Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T16:48:30Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "1chipML/prototype/clustering/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "24f2b4a6d83a4d6afaf23c5bf3f3804f2704a723"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2dbb2fd1791e26c7",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:30Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python plotting package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/matplotlib@3.6.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://matplotlib.org",
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "matplotlib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: 1chipML/prototype/clustering/requirements.txt",
+            "supplier": "Organization: Matplotlib Developers",
+            "versionInfo": "3.6.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-47a4a33f844675be",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:30Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@1.23.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: 1chipML/prototype/clustering/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "1.23.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1c67a2147e1bdc4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:30Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@1.5.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pandas.pydata.org",
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: 1chipML/prototype/clustering/requirements.txt",
+            "supplier": "Organization: pandas",
+            "versionInfo": "1.5.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8b6d4581d8ac5290",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:30Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python Serial Port Extension",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyserial@3.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pyserial/pyserial",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "pyserial",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: 1chipML/prototype/clustering/requirements.txt",
+            "supplier": "Organization: pySerial",
+            "versionInfo": "3.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-60fdeab297488df9",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:30Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A set of python modules for machine learning and data mining",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scikit-learn@1.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "scikit_learn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: 1chipML/prototype/clustering/requirements.txt",
+            "supplier": "Organization: scikit-learn",
+            "versionInfo": "1.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d6905047f164aceb",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:30Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Statistical data visualization",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/seaborn@0.12.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "seaborn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: 1chipML/prototype/clustering/requirements.txt",
+            "supplier": "Organization: Michael Waskom",
+            "versionInfo": "0.12.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-832a382276f31cf5",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:30Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfai-2.1chipML",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-1chipML-1chipML",
+            "comment": "This package was added to the Trivy analysis for the 1chipML by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/1chipML/1chipML/archive/24f2b4a6d83a4d6afaf23c5bf3f3804f2704a723.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/1chipML/1chipML@24f2b4a6d83a4d6afaf23c5bf3f3804f2704a723",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "1chipML",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "24f2b4a6d83a4d6afaf23c5bf3f3804f2704a723"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-581895e399ca665a",
+            "relatedSpdxElement": "SPDXRef-Package-1c67a2147e1bdc4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-581895e399ca665a",
+            "relatedSpdxElement": "SPDXRef-Package-2dbb2fd1791e26c7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-581895e399ca665a",
+            "relatedSpdxElement": "SPDXRef-Package-47a4a33f844675be",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-581895e399ca665a",
+            "relatedSpdxElement": "SPDXRef-Package-60fdeab297488df9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-581895e399ca665a",
+            "relatedSpdxElement": "SPDXRef-Package-8b6d4581d8ac5290",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-581895e399ca665a",
+            "relatedSpdxElement": "SPDXRef-Package-d6905047f164aceb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-832a382276f31cf5",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-1chipML-1chipML",
+            "relatedSpdxElement": "SPDXRef-Application-581895e399ca665a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-832a382276f31cf5",
+            "relatedSpdxElement": "SPDXRef-lfai-2-1chipML-1chipML",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
