@@ -1,0 +1,1452 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T17:56:40Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpayub2w71/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpayub2w71/code-dda3c2c4-f8dc-424f-b31e-ba3d25b1de12",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-d5f8ddde543f4412",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: npm"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "monocle-typescript/package-lock.json",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "447e6e0ecd00cb9f1b8a182153d7f8375964a76a"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2dd3e40f952842e3",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: @opentelemetry/api@1.9.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Public API for OpenTelemetry",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40opentelemetry/api@1.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/api",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "@opentelemetry/api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: OpenTelemetry - CNCF",
+            "versionInfo": "1.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b8f0f75749232a6b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: @opentelemetry/api-logs@0.55.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Public logs API for OpenTelemetry",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40opentelemetry/api-logs@0.55.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/experimental/packages/api-logs",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "@opentelemetry/api-logs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: OpenTelemetry - CNCF",
+            "versionInfo": "0.55.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-95018cdd7d5f8bf",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: @opentelemetry/context-async-hooks@1.30.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "OpenTelemetry AsyncHooks-based Context Manager",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40opentelemetry/context-async-hooks@1.30.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/packages/opentelemetry-context-async-hooks",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "@opentelemetry/context-async-hooks",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: OpenTelemetry - CNCF",
+            "versionInfo": "1.30.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-22554676d85ebd1d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: @opentelemetry/core@1.30.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "OpenTelemetry Core provides constants and utilities shared by all OpenTelemetry SDK packages.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40opentelemetry/core@1.30.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/packages/opentelemetry-core",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "@opentelemetry/core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: OpenTelemetry - CNCF",
+            "versionInfo": "1.30.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c0b6cdc99dab114e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: @opentelemetry/instrumentation@0.55.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Base class for node which OpenTelemetry instrumentation modules extend",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40opentelemetry/instrumentation@0.55.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/experimental/packages/opentelemetry-instrumentation",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "@opentelemetry/instrumentation",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: OpenTelemetry - CNCF",
+            "versionInfo": "0.55.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e613cba3d287c8e5",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: @opentelemetry/propagator-b3@1.30.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "OpenTelemetry B3 propagator provides context propagation for systems that are using the B3 header format",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40opentelemetry/propagator-b3@1.30.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/packages/opentelemetry-propagator-b3",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "@opentelemetry/propagator-b3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: OpenTelemetry - CNCF",
+            "versionInfo": "1.30.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1751f12fc179dcf4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: @opentelemetry/propagator-jaeger@1.30.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "OpenTelemetry Jaeger propagator provides HTTP header propagation for systems that are using Jaeger HTTP header format.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40opentelemetry/propagator-jaeger@1.30.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/packages/opentelemetry-propagator-jaeger",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "@opentelemetry/propagator-jaeger",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: OpenTelemetry - CNCF",
+            "versionInfo": "1.30.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cd466cc01b755412",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: @opentelemetry/resources@1.30.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "OpenTelemetry SDK resources",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40opentelemetry/resources@1.30.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/packages/opentelemetry-resources",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "@opentelemetry/resources",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: OpenTelemetry - CNCF",
+            "versionInfo": "1.30.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-60215b0cf14f04d7",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: @opentelemetry/sdk-trace-base@1.30.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "OpenTelemetry Tracing",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40opentelemetry/sdk-trace-base@1.30.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/packages/opentelemetry-sdk-trace-base",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "@opentelemetry/sdk-trace-base",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: OpenTelemetry - CNCF",
+            "versionInfo": "1.30.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-188e43282c0b9f1a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: @opentelemetry/sdk-trace-node@1.30.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "OpenTelemetry Node SDK provides automatic telemetry (tracing, metrics, etc) for Node.js applications",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40opentelemetry/sdk-trace-node@1.30.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/packages/opentelemetry-sdk-trace-node",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "@opentelemetry/sdk-trace-node",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: OpenTelemetry - CNCF",
+            "versionInfo": "1.30.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6d56ec7e12d6856a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: @opentelemetry/semantic-conventions@1.28.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "OpenTelemetry semantic conventions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40opentelemetry/semantic-conventions@1.28.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/semantic-conventions",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "@opentelemetry/semantic-conventions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: OpenTelemetry - CNCF",
+            "versionInfo": "1.28.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4e337d7b76267a26",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: @types/shimmer@1.2.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "TypeScript definitions for shimmer",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40types/shimmer@1.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/shimmer",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@types/shimmer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: DefinitelyTyped",
+            "versionInfo": "1.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7dcd5a13bb6751d2",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: acorn@8.14.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "ECMAScript parser",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/acorn@8.14.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/acornjs/acorn",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "acorn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: acornjs",
+            "versionInfo": "8.14.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8b072c83968834ed",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: acorn-import-attributes@1.9.5"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Support for import attributes in acorn",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/acorn-import-attributes@1.9.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "acorn-import-attributes",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Sven Sauleau",
+            "versionInfo": "1.9.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6a1647fd4ec5bb58",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: cjs-module-lexer@1.4.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Lexes CommonJS modules, returning their named exports metadata",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/cjs-module-lexer@1.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/nodejs/cjs-module-lexer#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "cjs-module-lexer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Node.js",
+            "versionInfo": "1.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a1efb6fcdf0f1646",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: date-fns@4.1.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Modern JavaScript date utility library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/date-fns@4.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/date-fns/date-fns#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "date-fns",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: date-fns",
+            "versionInfo": "4.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-42b4eb24e576ba19",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: debug@4.4.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Lightweight debugging utility for Node.js and the browser",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/debug@4.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/debug-js/debug#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "debug",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Debug.js",
+            "versionInfo": "4.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4814cb1f5a4880d6",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: function-bind@1.1.2"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Implementation of Function.prototype.bind",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/function-bind@1.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Raynos/function-bind",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "function-bind",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Jake Verbaten",
+            "versionInfo": "1.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-489a1c964b8ede6",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: hasown@2.0.2"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "A robust, ES3 compatible, \"has own property\" predicate.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/hasown@2.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/inspect-js/hasOwn#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "hasown",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Inspect JS",
+            "versionInfo": "2.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9212939c2852506f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: import-in-the-middle@1.11.2"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Intercept imports in Node.js",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/import-in-the-middle@1.11.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/nodejs/import-in-the-middle#readme",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "import-in-the-middle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Node.js",
+            "versionInfo": "1.11.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9117eb4eec31ffc8",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: is-core-module@2.16.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Is this specifier a node.js core module?",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/is-core-module@2.16.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/inspect-js/is-core-module",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "is-core-module",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Inspect JS",
+            "versionInfo": "2.16.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d3738ce377be7ea4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: module-details-from-path@1.0.3"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Extract the Node.js module details like name and base path given an abosulte path to a file inside the module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/module-details-from-path@1.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/watson/module-details-from-path#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "module-details-from-path",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Thomas Watson",
+            "versionInfo": "1.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6cf0f7c31a2a7fb1",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: ms@2.1.3"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Tiny millisecond conversion utility",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/ms@2.1.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/vercel/ms#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "ms",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Vercel",
+            "versionInfo": "2.1.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dd3deac44b1cd1c2",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: path-parse@1.0.7"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Node.js path.parse() ponyfill",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/path-parse@1.0.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jbgutierrez/path-parse#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "path-parse",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Javier Blanco Guti\u00e9rrez",
+            "versionInfo": "1.0.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6ea016035ae9ca7d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: require-in-the-middle@7.4.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Module to hook into the Node.js require function",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/require-in-the-middle@7.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/elastic/require-in-the-middle#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "require-in-the-middle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: elastic",
+            "versionInfo": "7.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ddbc9f069c1d8ac9",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: resolve@1.22.10"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "resolve like require.resolve() on behalf of files asynchronously and synchronously",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/resolve@1.22.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/browserify/resolve#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "resolve",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Browserify",
+            "versionInfo": "1.22.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-55f84caeeea031e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: semver@7.7.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "The semantic version parser used by npm.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/semver@7.7.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/npm/node-semver#readme",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "semver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: npm",
+            "versionInfo": "7.7.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cd358d48e713249a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: shimmer@1.2.1"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Safe(r) monkeypatching for JavaScript.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/shimmer@1.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/othiym23/shimmer#readme",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "shimmer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Forrest L Norvell",
+            "versionInfo": "1.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2164e86715aebd79",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgID: supports-preserve-symlinks-flag@1.0.0"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: npm"
+                }
+            ],
+            "description": "Determine if the current node version supports the `--preserve-symlinks` flag.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/supports-preserve-symlinks-flag@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/inspect-js/node-supports-preserve-symlinks-flag#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "supports-preserve-symlinks-flag",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: monocle-typescript/package-lock.json",
+            "supplier": "Organization: Inspect JS",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-ecaced394d1f975f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:56:40Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfai-2.monocle2ai",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-monocle2ai-monocle",
+            "comment": "This package was added to the Trivy analysis for the monocle by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/monocle2ai/monocle/archive/cf67b7ab3a79b744f0f7f68786ec5a24d383feb0.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/monocle2ai/monocle@cf67b7ab3a79b744f0f7f68786ec5a24d383feb0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "monocle",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "cf67b7ab3a79b744f0f7f68786ec5a24d383feb0"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-monocle2ai-monocle-typescript",
+            "comment": "This package was added to the Trivy analysis for the monocle-typescript by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/monocle2ai/monocle-typescript/archive/447e6e0ecd00cb9f1b8a182153d7f8375964a76a.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/monocle2ai/monocle-typescript@447e6e0ecd00cb9f1b8a182153d7f8375964a76a",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "monocle-typescript",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "447e6e0ecd00cb9f1b8a182153d7f8375964a76a"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-1751f12fc179dcf4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-188e43282c0b9f1a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-2164e86715aebd79",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-22554676d85ebd1d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-2dd3e40f952842e3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-42b4eb24e576ba19",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-4814cb1f5a4880d6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-489a1c964b8ede6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-4e337d7b76267a26",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-55f84caeeea031e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-60215b0cf14f04d7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-6a1647fd4ec5bb58",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-6cf0f7c31a2a7fb1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-6d56ec7e12d6856a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-6ea016035ae9ca7d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-7dcd5a13bb6751d2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-8b072c83968834ed",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-9117eb4eec31ffc8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-9212939c2852506f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-95018cdd7d5f8bf",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-a1efb6fcdf0f1646",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-b8f0f75749232a6b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-c0b6cdc99dab114e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-cd358d48e713249a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-cd466cc01b755412",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-d3738ce377be7ea4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-dd3deac44b1cd1c2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-ddbc9f069c1d8ac9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d5f8ddde543f4412",
+            "relatedSpdxElement": "SPDXRef-Package-e613cba3d287c8e5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-ecaced394d1f975f",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-monocle2ai-monocle-typescript",
+            "relatedSpdxElement": "SPDXRef-Application-d5f8ddde543f4412",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1751f12fc179dcf4",
+            "relatedSpdxElement": "SPDXRef-Package-22554676d85ebd1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-188e43282c0b9f1a",
+            "relatedSpdxElement": "SPDXRef-Package-1751f12fc179dcf4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-188e43282c0b9f1a",
+            "relatedSpdxElement": "SPDXRef-Package-22554676d85ebd1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-188e43282c0b9f1a",
+            "relatedSpdxElement": "SPDXRef-Package-55f84caeeea031e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-188e43282c0b9f1a",
+            "relatedSpdxElement": "SPDXRef-Package-60215b0cf14f04d7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-188e43282c0b9f1a",
+            "relatedSpdxElement": "SPDXRef-Package-95018cdd7d5f8bf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-188e43282c0b9f1a",
+            "relatedSpdxElement": "SPDXRef-Package-e613cba3d287c8e5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-22554676d85ebd1d",
+            "relatedSpdxElement": "SPDXRef-Package-6d56ec7e12d6856a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-42b4eb24e576ba19",
+            "relatedSpdxElement": "SPDXRef-Package-6cf0f7c31a2a7fb1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-489a1c964b8ede6",
+            "relatedSpdxElement": "SPDXRef-Package-4814cb1f5a4880d6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-60215b0cf14f04d7",
+            "relatedSpdxElement": "SPDXRef-Package-22554676d85ebd1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-60215b0cf14f04d7",
+            "relatedSpdxElement": "SPDXRef-Package-6d56ec7e12d6856a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-60215b0cf14f04d7",
+            "relatedSpdxElement": "SPDXRef-Package-cd466cc01b755412",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6ea016035ae9ca7d",
+            "relatedSpdxElement": "SPDXRef-Package-42b4eb24e576ba19",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6ea016035ae9ca7d",
+            "relatedSpdxElement": "SPDXRef-Package-d3738ce377be7ea4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6ea016035ae9ca7d",
+            "relatedSpdxElement": "SPDXRef-Package-ddbc9f069c1d8ac9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9117eb4eec31ffc8",
+            "relatedSpdxElement": "SPDXRef-Package-489a1c964b8ede6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9212939c2852506f",
+            "relatedSpdxElement": "SPDXRef-Package-6a1647fd4ec5bb58",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9212939c2852506f",
+            "relatedSpdxElement": "SPDXRef-Package-7dcd5a13bb6751d2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9212939c2852506f",
+            "relatedSpdxElement": "SPDXRef-Package-8b072c83968834ed",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9212939c2852506f",
+            "relatedSpdxElement": "SPDXRef-Package-d3738ce377be7ea4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8f0f75749232a6b",
+            "relatedSpdxElement": "SPDXRef-Package-2dd3e40f952842e3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c0b6cdc99dab114e",
+            "relatedSpdxElement": "SPDXRef-Package-4e337d7b76267a26",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c0b6cdc99dab114e",
+            "relatedSpdxElement": "SPDXRef-Package-55f84caeeea031e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c0b6cdc99dab114e",
+            "relatedSpdxElement": "SPDXRef-Package-6ea016035ae9ca7d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c0b6cdc99dab114e",
+            "relatedSpdxElement": "SPDXRef-Package-9212939c2852506f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c0b6cdc99dab114e",
+            "relatedSpdxElement": "SPDXRef-Package-b8f0f75749232a6b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c0b6cdc99dab114e",
+            "relatedSpdxElement": "SPDXRef-Package-cd358d48e713249a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd466cc01b755412",
+            "relatedSpdxElement": "SPDXRef-Package-22554676d85ebd1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd466cc01b755412",
+            "relatedSpdxElement": "SPDXRef-Package-6d56ec7e12d6856a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ddbc9f069c1d8ac9",
+            "relatedSpdxElement": "SPDXRef-Package-2164e86715aebd79",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ddbc9f069c1d8ac9",
+            "relatedSpdxElement": "SPDXRef-Package-9117eb4eec31ffc8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ddbc9f069c1d8ac9",
+            "relatedSpdxElement": "SPDXRef-Package-dd3deac44b1cd1c2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e613cba3d287c8e5",
+            "relatedSpdxElement": "SPDXRef-Package-22554676d85ebd1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-ecaced394d1f975f",
+            "relatedSpdxElement": "SPDXRef-lfai-2-monocle2ai-monocle",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-ecaced394d1f975f",
+            "relatedSpdxElement": "SPDXRef-lfai-2-monocle2ai-monocle-typescript",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
