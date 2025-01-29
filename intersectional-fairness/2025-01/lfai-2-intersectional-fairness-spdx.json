@@ -1,0 +1,77 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T17:29:49Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD (version unspecified)",
+            "licenseId": "LicenseRef-BSD-version-unspecified-"
+        }
+    ],
+    "name": "/tmp/tmpxaqrsjlc/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpxaqrsjlc/code-ab25db08-3422-4118-91f7-7334954d3ea2",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-13ef73ac1e2d5f21",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:29:49Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND (Apache-2.0 AND MIT) AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfai-2.intersectional-fairness",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-intersectional-fairness-isf",
+            "comment": "This package was added to the Trivy analysis for the isf by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/intersectional-fairness/isf/archive/8778b9bc321deb8cce7b50f85eb7ae753a9b4895.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/intersectional-fairness/isf@8778b9bc321deb8cce7b50f85eb7ae753a9b4895",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND (Apache-2.0 AND MIT) AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "isf",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "8778b9bc321deb8cce7b50f85eb7ae753a9b4895"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-13ef73ac1e2d5f21",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-13ef73ac1e2d5f21",
+            "relatedSpdxElement": "SPDXRef-lfai-2-intersectional-fairness-isf",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
