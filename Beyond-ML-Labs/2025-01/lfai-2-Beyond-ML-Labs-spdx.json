@@ -1,0 +1,102 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T16:48:42Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD (version unspecified)",
+            "licenseId": "LicenseRef-BSD-version-unspecified-"
+        }
+    ],
+    "name": "/tmp/tmpf9ode6vi/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpf9ode6vi/code-84b518b2-faf1-4da5-ab1d-b455f9954c41",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-41ac5ef04a356c55",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:42Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND BSD-2-Clause AND MIT AND (MIT OR GPL-2.0-only) AND (MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfai-2.Beyond-ML-Labs",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-Beyond-ML-Labs-BeyondML",
+            "comment": "This package was added to the Trivy analysis for the BeyondML by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/Beyond-ML-Labs/BeyondML/archive/ae7f7ebe44ea736d6e6daaf42936738f4d313bdc.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/Beyond-ML-Labs/BeyondML@ae7f7ebe44ea736d6e6daaf42936738f4d313bdc",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND BSD-2-Clause AND MIT AND (MIT OR GPL-2.0-only) AND (MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "BeyondML",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "ae7f7ebe44ea736d6e6daaf42936738f4d313bdc"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-Beyond-ML-Labs-mann-stress-testing",
+            "comment": "This package was added to the Trivy analysis for the mann-stress-testing by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/Beyond-ML-Labs/mann-stress-testing/archive/c480ef1545225d27ba1121f6f4ba8ca200a7e4d7.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/Beyond-ML-Labs/mann-stress-testing@c480ef1545225d27ba1121f6f4ba8ca200a7e4d7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-BSD-version-unspecified- AND BSD-2-Clause AND MIT AND (MIT OR GPL-2.0-only) AND (MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "mann-stress-testing",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "c480ef1545225d27ba1121f6f4ba8ca200a7e4d7"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-41ac5ef04a356c55",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-41ac5ef04a356c55",
+            "relatedSpdxElement": "SPDXRef-lfai-2-Beyond-ML-Labs-BeyondML",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-41ac5ef04a356c55",
+            "relatedSpdxElement": "SPDXRef-lfai-2-Beyond-ML-Labs-mann-stress-testing",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
