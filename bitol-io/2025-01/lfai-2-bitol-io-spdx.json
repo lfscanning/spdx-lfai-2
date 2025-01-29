@@ -1,0 +1,95 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T17:33:53Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpbo5f2_6i/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpbo5f2_6i/code-f0f0ab5d-5336-40e1-86dc-ef41a7762b07",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-88c1d45a2fac5147",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:33:53Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfai-2.bitol-io",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-bitol-io-open-data-contract-standard",
+            "comment": "This package was added to the Trivy analysis for the open-data-contract-standard by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/bitol-io/open-data-contract-standard/archive/f313988438bdaad1d04fc134f59d7c2c41141bf2.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/bitol-io/open-data-contract-standard@f313988438bdaad1d04fc134f59d7c2c41141bf2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "open-data-contract-standard",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "f313988438bdaad1d04fc134f59d7c2c41141bf2"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-bitol-io-open-data-product-standard",
+            "comment": "This package was added to the Trivy analysis for the open-data-product-standard by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/bitol-io/open-data-product-standard/archive/c96141e94545712d01bdcd4f93d58d0e05f0e3ef.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/bitol-io/open-data-product-standard@c96141e94545712d01bdcd4f93d58d0e05f0e3ef",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "open-data-product-standard",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "c96141e94545712d01bdcd4f93d58d0e05f0e3ef"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-88c1d45a2fac5147",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-88c1d45a2fac5147",
+            "relatedSpdxElement": "SPDXRef-lfai-2-bitol-io-open-data-contract-standard",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-88c1d45a2fac5147",
+            "relatedSpdxElement": "SPDXRef-lfai-2-bitol-io-open-data-product-standard",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
