@@ -1,0 +1,1011 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T16:48:55Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Non-commercial restriction",
+            "licenseId": "LicenseRef-Non-commercial-restriction"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Restricted notice",
+            "licenseId": "LicenseRef-Restricted-notice"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Other",
+            "licenseId": "LicenseRef-Other"
+        }
+    ],
+    "name": "/tmp/tmpc3u9lmcv/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpc3u9lmcv/code-9d329872-1f7f-4e1a-9f0d-c0ced8aaed63",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-79f65f0251d1a6ad",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "Aquila2/examples/rag_pipe/models/bge/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "4b8250a703cc8330d0e2c66ddfb09363fd446cf8"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-fd16b97c02cf8a6e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "Aquila2/examples/rag_pipe/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "4b8250a703cc8330d0e2c66ddfb09363fd446cf8"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-7535da8c822ba6c4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "Aquila2/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "4b8250a703cc8330d0e2c66ddfb09363fd446cf8"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-9918c45add8cbc44",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "FlagAI/examples/roberta_faq/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "5e9cfa4e21868bb85452acb0ec74cbd2f87aa18a"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-870a370e28a8e7cb",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "FlagAI/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "5e9cfa4e21868bb85452acb0ec74cbd2f87aa18a"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-171dae0d420ff8c0",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A simple framework for building complex web applications.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/flask@2.3.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "Flask",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/models/bge/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "2.3.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6fa5fee0ec4159d3",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Rate limiting for flask applications",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/flask-limiter@3.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://flask-limiter.readthedocs.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "Flask_Limiter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/models/bge/requirements.txt",
+            "supplier": "Organization: Ali-Akber Saifee",
+            "versionInfo": "3.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-51d7bb8468bf385b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "YAML parser and emitter for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyyaml@5.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "PyYAML",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: FlagAI/requirements.txt",
+            "supplier": "Organization: The YAML Project",
+            "versionInfo": "5.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b764d432c8e5c45a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/charset-normalizer@2.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "charset_normalizer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/requirements.txt",
+            "supplier": "Organization: TAHRI Ahmed R.",
+            "versionInfo": "2.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-124b24e00fcd95cd",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "DeepSpeed library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/deepspeed@0.10.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://deepspeed.ai",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "deepspeed",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/requirements.txt",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "0.10.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-30057cdd27c47f0f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "DeepSpeed library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/deepspeed@0.6.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://deepspeed.ai",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "deepspeed",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: FlagAI/requirements.txt",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "0.6.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-82ff3f3d3261202e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A library for efficient similarity search and clustering of dense vectors.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/faiss-cpu@1.7.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "faiss-cpu",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: FlagAI/examples/roberta_faq/requirements.txt",
+            "supplier": "Organization: Kota Yamaguchi",
+            "versionInfo": "1.7.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3c9de72812aba022",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A library for efficient similarity search and clustering of dense vectors.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/faiss-gpu@1.7.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/kyamagu/faiss-wheels",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "faiss_gpu",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/models/bge/requirements.txt",
+            "supplier": "Organization: Kota Yamaguchi",
+            "versionInfo": "1.7.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4a61b270c3d2e5dc",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Flash Attention: Fast and Memory-Efficient Exact Attention",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/flash-attn@1.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Dao-AILab/flash-attention",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "flash-attn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: FlagAI/requirements.txt",
+            "supplier": "Organization: Dao AI Lab",
+            "versionInfo": "1.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3feba599ed3e8c5a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python library for easily interacting with trained machine learning models",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/gradio@3.28.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/gradio-app/gradio",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "gradio",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/requirements.txt",
+            "supplier": "Organization: Gradio",
+            "versionInfo": "3.28.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3f0c8fd969d86a8e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Building applications with LLMs through composability",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/langchain@0.0.326",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/langchain-ai/langchain",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "langchain",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/models/bge/requirements.txt",
+            "supplier": "Organization: langchain-ai",
+            "versionInfo": "0.0.326"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f56e2f7eb53f2a0d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Building applications with LLMs through composability",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/langchain@0.0.174",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/langchain-ai/langchain",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "langchain",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/requirements.txt",
+            "supplier": "Organization: langchain-ai",
+            "versionInfo": "0.0.174"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2ad730a32b979fc4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "The official Python library for the openai API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openai@0.27.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/openai/openai-python",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "openai",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/models/bge/requirements.txt",
+            "supplier": "Organization: OpenAI",
+            "versionInfo": "0.27.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b1adab30daa23a1c",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Parallel Distributed Deep Learning",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/paddlepaddle@2.4.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.paddlepaddle.org.cn/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "paddlepaddle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/requirements.txt",
+            "supplier": "Organization: PaddlePaddle",
+            "versionInfo": "2.4.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fe5c4d6addcb2415",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@2.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pandas.pydata.org",
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/models/bge/requirements.txt",
+            "supplier": "Organization: pandas",
+            "versionInfo": "2.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-290a256557564bce",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A Python toolkit for reproducible information retrieval research with sparse and dense representations",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyserini@0.21.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/castorini/pyserini",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "pyserini",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/models/bge/requirements.txt",
+            "supplier": "Organization: Castorini",
+            "versionInfo": "0.21.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d2943000276b55ca",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A Python toolkit for reproducible information retrieval research with sparse and dense representations",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyserini@0.21.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/castorini/pyserini",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "pyserini",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/models/bge/requirements.txt",
+            "supplier": "Organization: Castorini",
+            "versionInfo": "0.21.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a749a3b92acbb95f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Graph Neural Network Library for PyTorch",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/torch-geometric@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "torch_geometric",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/models/bge/requirements.txt",
+            "supplier": "Organization: PyG",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-74af1243e02c85e8",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Fast, Extensible Progress Meter",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tqdm@4.65.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MPL-2.0 OR MIT",
+            "licenseDeclared": "MPL-2.0 OR MIT",
+            "name": "tqdm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/models/bge/requirements.txt",
+            "supplier": "NOASSERTION",
+            "versionInfo": "4.65.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cfbb3695be6b762f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/transformers@4.31.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/huggingface/transformers",
+            "licenseConcluded": "Apache-1.1",
+            "licenseDeclared": "Apache-1.1",
+            "name": "transformers",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/requirements.txt",
+            "supplier": "Organization: Hugging Face",
+            "versionInfo": "4.31.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e3fac9aecbbcd5ca",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/transformers@4.29.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/huggingface/transformers",
+            "licenseConcluded": "Apache-1.1",
+            "licenseDeclared": "Apache-1.1",
+            "name": "transformers",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Aquila2/examples/rag_pipe/requirements.txt",
+            "supplier": "Organization: Hugging Face",
+            "versionInfo": "4.29.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-3aecb0bd3a7e8df",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:55Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-Non-commercial-restriction AND LicenseRef-Restricted-notice AND GPL-3.0-only AND (Apache-2.0 AND CC-BY-SA-4.0) AND (Apache-2.0 AND MIT) AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfai-2.FlagAI-Open",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-FlagAI-Open-Aquila2",
+            "comment": "This package was added to the Trivy analysis for the Aquila2 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/FlagAI-Open/Aquila2/archive/4b8250a703cc8330d0e2c66ddfb09363fd446cf8.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/FlagAI-Open/Aquila2@4b8250a703cc8330d0e2c66ddfb09363fd446cf8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-Non-commercial-restriction AND LicenseRef-Restricted-notice AND GPL-3.0-only AND (Apache-2.0 AND CC-BY-SA-4.0) AND (Apache-2.0 AND MIT) AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "Aquila2",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "4b8250a703cc8330d0e2c66ddfb09363fd446cf8"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-FlagAI-Open-FlagAI",
+            "comment": "This package was added to the Trivy analysis for the FlagAI by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/FlagAI-Open/FlagAI/archive/5e9cfa4e21868bb85452acb0ec74cbd2f87aa18a.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/FlagAI-Open/FlagAI@5e9cfa4e21868bb85452acb0ec74cbd2f87aa18a",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-Non-commercial-restriction AND LicenseRef-Restricted-notice AND GPL-3.0-only AND (Apache-2.0 AND CC-BY-SA-4.0) AND (Apache-2.0 AND MIT) AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "FlagAI",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "5e9cfa4e21868bb85452acb0ec74cbd2f87aa18a"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-FlagAI-Open-Aquila-MoE",
+            "comment": "This package was added to the Trivy analysis for the Aquila-MoE by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/FlagAI-Open/Aquila-MoE/archive/ba249308391cc1187a6f69d5837f3b0168de2a2c.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/FlagAI-Open/Aquila-MoE@ba249308391cc1187a6f69d5837f3b0168de2a2c",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-Non-commercial-restriction AND LicenseRef-Restricted-notice AND GPL-3.0-only AND (Apache-2.0 AND CC-BY-SA-4.0) AND (Apache-2.0 AND MIT) AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "Aquila-MoE",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "ba249308391cc1187a6f69d5837f3b0168de2a2c"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-FlagAI-Open-industry-application",
+            "comment": "This package was added to the Trivy analysis for the industry-application by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/FlagAI-Open/industry-application/archive/79b26e83cca0d583a7b7415e49ae96c13bbb209f.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/FlagAI-Open/industry-application@79b26e83cca0d583a7b7415e49ae96c13bbb209f",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-Non-commercial-restriction AND LicenseRef-Restricted-notice AND GPL-3.0-only AND (Apache-2.0 AND CC-BY-SA-4.0) AND (Apache-2.0 AND MIT) AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "industry-application",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "79b26e83cca0d583a7b7415e49ae96c13bbb209f"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-7535da8c822ba6c4",
+            "relatedSpdxElement": "SPDXRef-Package-124b24e00fcd95cd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-7535da8c822ba6c4",
+            "relatedSpdxElement": "SPDXRef-Package-cfbb3695be6b762f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-79f65f0251d1a6ad",
+            "relatedSpdxElement": "SPDXRef-Package-171dae0d420ff8c0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-79f65f0251d1a6ad",
+            "relatedSpdxElement": "SPDXRef-Package-290a256557564bce",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-79f65f0251d1a6ad",
+            "relatedSpdxElement": "SPDXRef-Package-2ad730a32b979fc4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-79f65f0251d1a6ad",
+            "relatedSpdxElement": "SPDXRef-Package-3c9de72812aba022",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-79f65f0251d1a6ad",
+            "relatedSpdxElement": "SPDXRef-Package-3f0c8fd969d86a8e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-79f65f0251d1a6ad",
+            "relatedSpdxElement": "SPDXRef-Package-6fa5fee0ec4159d3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-79f65f0251d1a6ad",
+            "relatedSpdxElement": "SPDXRef-Package-74af1243e02c85e8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-79f65f0251d1a6ad",
+            "relatedSpdxElement": "SPDXRef-Package-a749a3b92acbb95f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-79f65f0251d1a6ad",
+            "relatedSpdxElement": "SPDXRef-Package-d2943000276b55ca",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-79f65f0251d1a6ad",
+            "relatedSpdxElement": "SPDXRef-Package-fe5c4d6addcb2415",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-870a370e28a8e7cb",
+            "relatedSpdxElement": "SPDXRef-Package-30057cdd27c47f0f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-870a370e28a8e7cb",
+            "relatedSpdxElement": "SPDXRef-Package-4a61b270c3d2e5dc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-870a370e28a8e7cb",
+            "relatedSpdxElement": "SPDXRef-Package-51d7bb8468bf385b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9918c45add8cbc44",
+            "relatedSpdxElement": "SPDXRef-Package-82ff3f3d3261202e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fd16b97c02cf8a6e",
+            "relatedSpdxElement": "SPDXRef-Package-3feba599ed3e8c5a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fd16b97c02cf8a6e",
+            "relatedSpdxElement": "SPDXRef-Package-b1adab30daa23a1c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fd16b97c02cf8a6e",
+            "relatedSpdxElement": "SPDXRef-Package-b764d432c8e5c45a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fd16b97c02cf8a6e",
+            "relatedSpdxElement": "SPDXRef-Package-e3fac9aecbbcd5ca",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fd16b97c02cf8a6e",
+            "relatedSpdxElement": "SPDXRef-Package-f56e2f7eb53f2a0d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-3aecb0bd3a7e8df",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-FlagAI-Open-Aquila2",
+            "relatedSpdxElement": "SPDXRef-Application-7535da8c822ba6c4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-FlagAI-Open-Aquila2",
+            "relatedSpdxElement": "SPDXRef-Application-79f65f0251d1a6ad",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-FlagAI-Open-FlagAI",
+            "relatedSpdxElement": "SPDXRef-Application-870a370e28a8e7cb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-FlagAI-Open-FlagAI",
+            "relatedSpdxElement": "SPDXRef-Application-9918c45add8cbc44",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-FlagAI-Open-Aquila2",
+            "relatedSpdxElement": "SPDXRef-Application-fd16b97c02cf8a6e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-3aecb0bd3a7e8df",
+            "relatedSpdxElement": "SPDXRef-lfai-2-FlagAI-Open-Aquila2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-3aecb0bd3a7e8df",
+            "relatedSpdxElement": "SPDXRef-lfai-2-FlagAI-Open-FlagAI",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-3aecb0bd3a7e8df",
+            "relatedSpdxElement": "SPDXRef-lfai-2-FlagAI-Open-Aquila-MoE",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-3aecb0bd3a7e8df",
+            "relatedSpdxElement": "SPDXRef-lfai-2-FlagAI-Open-industry-application",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
