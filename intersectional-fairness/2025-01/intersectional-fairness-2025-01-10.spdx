@@ -1,0 +1,1303 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_intersectional-fairness-2025-01-10.zip_1737622189.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-23T08:49:49Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: intersectional-fairness-2025-01-10.zip
+PackageFileName: intersectional-fairness-2025-01-10.zip
+SPDXID: SPDXRef-upload1755
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 36070aa15cb358122f74e3ffaf2ff930780dd84b
+PackageChecksum: SHA1: 64efcd0885e08c0554f14c27cef51454be2d7042
+PackageChecksum: SHA256: 57263f488a5f80d07c49d9fdf566bf1a53bf48aecb3a436b8e8531efd5ce57b1
+PackageChecksum: MD5: 63fb89e552f0a48edba011e18b6d04aa
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1755
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/fair_downsampling/license of Adult dataset.txt
+SPDXID: SPDXRef-item10380934
+FileChecksum: SHA1: dd6d7e9d3357054b3a6fe8a51d61005f74e0ed36
+FileChecksum: SHA256: 85bd5d4f38da1861097b9c7f16d7c1a4fbbf9a99d89e1ab3dcf3c55994c2d2ad
+FileChecksum: MD5: 2325c3fb841d15a67e0b7c4b9287da48
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/basic.css
+SPDXID: SPDXRef-item10380913
+FileChecksum: SHA1: 6d3f3ed4294b3330b46188c39a801cabd581959b
+FileChecksum: SHA256: 4369d7f54f8ea13f13e34b8a1f50012d9dbfbe3ccdf37acafdaf007043c42009
+FileChecksum: MD5: 23ffe661f835b08e157d492a86aae74d
+LicenseConcluded: LicenseRef-fossology-BSD
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> copyright: Copyright 2007-2022 by the Sphinx team, see AUTHORS. license: BSD, see LICENSE for details. </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/doctools.js
+SPDXID: SPDXRef-item10380911
+FileChecksum: SHA1: 41f698c4c88f10cafa22fbb9fff28130c8741bc7
+FileChecksum: SHA256: 2985f25f79e5ddcd1ed494ca63fc85f215f79e0cd156e622ce2bf3cf2cd9445f
+FileChecksum: MD5: b754836959d1e88b8e2d56b5b39b4d10
+LicenseConcluded: LicenseRef-fossology-BSD
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> copyright: Copyright 2007-2022 by the Sphinx team, see AUTHORS. license: BSD, see LICENSE for details. </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/language_data.js
+SPDXID: SPDXRef-item10380908
+FileChecksum: SHA1: 65b4431affcc1d2ce86e0ef2f3f04f7a511b0034
+FileChecksum: SHA256: d35fde9e52ed4840ec7ed105ddb3302a26eb0f53aa151a9491a2dcce0f5d2534
+FileChecksum: MD5: 501959d410e6af6ff6d64e8a825906a2
+LicenseConcluded: LicenseRef-fossology-BSD
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> copyright: Copyright 2007-2022 by the Sphinx team, see AUTHORS. license: BSD, see LICENSE for details. </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/nature.css
+SPDXID: SPDXRef-item10380914
+FileChecksum: SHA1: a924da9af544d57f1ecfe2cefd7aa23e44c61db8
+FileChecksum: SHA256: e248915eedb1ff39c462ea76ecf612d797536755ff5b6c639d147d7890e0daea
+FileChecksum: MD5: 20f9541b38365dda451843fe6d287422
+LicenseConcluded: LicenseRef-fossology-BSD
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> copyright: Copyright 2007-2022 by the Sphinx team, see AUTHORS. license: BSD, see LICENSE for details. </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/searchtools.js
+SPDXID: SPDXRef-item10380912
+FileChecksum: SHA1: a6dbd7e841c2517a65564f70a8af22bcc4443357
+FileChecksum: SHA256: cd10b35c838bd062f0c9aa9b4fc7e3f19038e802ebc0af1e463b9fee428b0b5f
+FileChecksum: MD5: 5c68e15c1b68db70cb11b42af43e2dec
+LicenseConcluded: LicenseRef-fossology-BSD
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> copyright: Copyright 2007-2022 by the Sphinx team, see AUTHORS. license: BSD, see LICENSE for details. </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_modules/isf/algorithms/lib/checks.html
+SPDXID: SPDXRef-item10380890
+FileChecksum: SHA1: 009bc1770f30e1228022b7f5c54313f1d45a26af
+FileChecksum: SHA256: a2bcbdb1669cb1b6c07fa888326d87d4373e56f5a96f8a8c8b46fd7709f4d86a
+FileChecksum: MD5: 8af180b9b36e4b7f310977305293ae58
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2017 Niels Bantilan</span> span class="c1"># This software is the same as the original software licensed</span> span class="c1"># under the MIT License.</span> span class="c1">#</span> span class="c1"># https://github.com/cosmicBboy/themis-ml/blob/master/LICENSE</span> span class=
+Copyright 2023 Fujitsu Limited</span> span class="c1">#</span> span class="c1"># Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span> span class="c1"># you may not use this file except in compliance with the License.</span> span class="c1"># You may obtain a copy of t
+Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/lib/checks.py
+SPDXID: SPDXRef-item10380963
+FileChecksum: SHA1: 3bbdfbd3dac024096fee7354fd562f72cede7666
+FileChecksum: SHA256: 69681258f4c4fb9abb160ac6c97f5e674b3d67960b346277c74c0a356fd94c6f
+FileChecksum: MD5: 62a770733f03ba5b1dee6084c03cf715
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2017 Niels Bantilan This software is the same as the original software licensed under the MIT License.
+Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_modules/isf/algorithms/lib/eq_odds.html
+SPDXID: SPDXRef-item10380892
+FileChecksum: SHA1: 0962721f900f8b87dc6985e74f17b19dd54db431
+FileChecksum: SHA256: b53c96837740dcf531ac6219416889dd4fb6ffdc6aa6dc473cbfe4b485914ea0
+FileChecksum: MD5: 6f1aa54eeb901020cbfa493936c4445b
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2017 Geoff Pleiss</span> span class="c1"># This software includes modifications made by Fujitsu Limited to the original</span> span class="c1"># software licensed under the MIT License. Modified portions of this software</span> span class="c1"># are for the addition of a new paramet
+Copyright 2023 Fujitsu Limited</span> span class="c1">#</span> span class="c1"># Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span> span class="c1"># you may not use this file except in compliance with the License.</span> span class="c1"># You may obtain a copy of t
+Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/lib/eq_odds.py
+SPDXID: SPDXRef-item10380965
+FileChecksum: SHA1: 323754f52d04eb299864e4da59cc498f59458045
+FileChecksum: SHA256: 3bae5805f1cf70a3c06f60baee298240c6a89dad7d8c990afb0db2d779fcdb78
+FileChecksum: MD5: 973ad9978c70eccaf74a1579bfe161e6
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2017 Geoff Pleiss This software includes modifications made by Fujitsu Limited to the original software licensed under the MIT License. Modified portions of this software are for the addition of a new parameter threshold and support of Equal Opportunity in class Model, especial
+Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/jquery-3.6.0.js
+SPDXID: SPDXRef-item10380906
+FileChecksum: SHA1: af32f706407ab08f800c5e697cce92466e735847
+FileChecksum: SHA256: 1fe2bb5390a75e5d61e72c107cab528fc3c29a837d69aab7d200e1dbb5dcd239
+FileChecksum: MD5: 2849239b95f5a9a2aea3f6ed9420bb88
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright OpenJS Foundation and other contributors Released under the MIT license https://jquery.org/license
+Copyright JS Foundation and other contributors Released under the MIT license https://js.foundation/ </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_modules/isf/algorithms/lib/relabelling.html
+SPDXID: SPDXRef-item10380891
+FileChecksum: SHA1: f00d8deae4325fd1a14e12411b60e2169255c5c5
+FileChecksum: SHA256: d430f71767d7526b77820ef79a9a2eb09117b6363b4813e4c0288d8d90833fd5
+FileChecksum: MD5: 3771a3d764c8e3f35692951600ef63b7
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2017 Niels Bantilan</span> span class="c1"># This software includes modifications made by Fujitsu Limited to the original</span> span class="c1"># software licensed under the MIT License. Modified portions of this software</span> span class="c1"># are the modification of the conditi
+Copyright 2023 Fujitsu Limited</span> span class="c1">#</span> span class="c1"># Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span> span class="c1"># you may not use this file except in compliance with the License.</span> span class="c1"># You may obtain a copy of t
+Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/lib/relabelling.py
+SPDXID: SPDXRef-item10380966
+FileChecksum: SHA1: d61fe1f2ba886e7b432ca02eec1c71b219702175
+FileChecksum: SHA256: d6c01c061c8feba558d42ee575eff4b74371a0790e2eae76cbaadcde879d1a98
+FileChecksum: MD5: 5f3f72143f6f7af3fa291cdcfbbde2d7
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2017 Niels Bantilan This software includes modifications made by Fujitsu Limited to the original software licensed under the MIT License. Modified portions of this software are the modification of the condition to correct target labels especially in functions _n_relabels, _rela
+Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/underscore-1.13.1.js
+SPDXID: SPDXRef-item10380907
+FileChecksum: SHA1: 7202bc60a439a2f82a483f4de237ce22803ef8e2
+FileChecksum: SHA256: cc10f799cd0f6b65f95c4012445497e5ba3cb9f51964a9468940b27bde98b487
+FileChecksum: MD5: 9eb878ee889f880aca37ca63e4195ab4
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2009-2021 Jeremy Ashkenas, Julian Gonggrijp, and DocumentCloud and Investigative Reporters & Editors Underscore may be freely distributed under the MIT license. </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/underscore.js
+SPDXID: SPDXRef-item10380905
+FileChecksum: SHA1: bdf0b85756ee2b41ff1e0c86960bf14c740c34ce
+FileChecksum: SHA256: 218fb1c1fc72e9af6b866f430be2a67fa376392b4db2f4dbf32772671b6ae55c
+FileChecksum: MD5: 426e8e61dd81d4c6f9c17f1150ad07ce
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2009-2021 Jeremy Ashkenas, Julian Gonggrijp, and DocumentCloud and Investigative Reporters & Editors Underscore may be freely distributed under the MIT license. </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/LICENSE
+SPDXID: SPDXRef-item10380921
+FileChecksum: SHA1: 2b8b815229aa8a61e483fb4ba0588b8b6c491890
+FileChecksum: SHA256: cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30
+FileChecksum: MD5: 3b83ef96387f14655fc854ddc3c6bd57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/analysis/__init__.py
+SPDXID: SPDXRef-item10380944
+FileChecksum: SHA1: 4329f4136a08b12e2c9c63ae905296f45cbfd010
+FileChecksum: SHA256: b35c26eeb0549e4062b4c6be709932cad1be68edfaaf510ab7c3e4ceac217d2e
+FileChecksum: MD5: 1085cea9f13f1c639608a5e72a88ec0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/adversarial_debiasing.py
+SPDXID: SPDXRef-item10380961
+FileChecksum: SHA1: ef1210b8a4163ea1c15ede0a5e0aa5b1f6eb3256
+FileChecksum: SHA256: d4ffaee3ec348f8b25c970cb812ffc5d65b4bdca3fd54f644a7285cbc833ae28
+FileChecksum: MD5: 0bf94a077c02de04dbf5bb7a7ad88095
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_modules/isf/utils/common.html
+SPDXID: SPDXRef-item10380881
+FileChecksum: SHA1: f50ebd92e484329cb716898d90d784a736121808
+FileChecksum: SHA256: d2d7c80ab510d14187fe8130b81c5c1300bc019ddb3cc2ac1944f996f365b0cf
+FileChecksum: MD5: 9195f3d6d26bac8da7da9cd1c1f52f11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited</span> span class="c1">#</span> span class="c1"># Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span> span class="c1"># you may not use this file except in compliance with the License.</span> span class="c1"># You may obtain a copy of t
+Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/utils/common.py
+SPDXID: SPDXRef-item10380940
+FileChecksum: SHA1: 312f8bffe4e48c3045b4ce3b72c1b42b11912b48
+FileChecksum: SHA256: e8feb50be4a425845ffa39b04abf7548be2dbb7d8435da41480d686f295e321a
+FileChecksum: MD5: 086814cf9ea2ed8aec56512371b597c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/utils/const.py
+SPDXID: SPDXRef-item10380941
+FileChecksum: SHA1: 5887edfb2b24ce9c9b13e91e84e98ca691b2ebb9
+FileChecksum: SHA256: c7154167c6c836cf50d6ccccb2ad37327aff8a48325a6c56853c48f988cfedcd
+FileChecksum: MD5: ccaaa95e4fc70ccc78b4ae29d1d4d7d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_modules/isf/metrics/disparate_impact.html
+SPDXID: SPDXRef-item10380885
+FileChecksum: SHA1: 060ea8ca80c356c4e09a43508f6df9d47e9d0c42
+FileChecksum: SHA256: 027f988efba0c3dda308bf70632ab37d46b1acb55d0c9c6389d7edb96299bd14
+FileChecksum: MD5: 791144092b8621c7c63a37758de68d9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited</span> span class="c1">#</span> span class="c1"># Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span> span class="c1"># you may not use this file except in compliance with the License.</span> span class="c1"># You may obtain a copy of t
+Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/metrics/disparate_impact.py
+SPDXID: SPDXRef-item10380948
+FileChecksum: SHA1: c4988ead8dae2c9efc64fbbba8402cc19b4474b1
+FileChecksum: SHA256: 021a65d3a9888e9d1d8526ae721287d05c0e24869a2d5a0fedfa5f286711309f
+FileChecksum: MD5: ec2be56eead4e5a5d3be5de1d61644fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/equalized_odds_postprocessing.py
+SPDXID: SPDXRef-item10380969
+FileChecksum: SHA1: d493e6f1a31b664c6fe6bf3ca0f4a9a63633d162
+FileChecksum: SHA256: 2aa2a7f860169ada16ba15f24d50cdefb79fd970c26ace926a7059b9fd5ca3e1
+FileChecksum: MD5: d9d9543691df37aad16a543943192cc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/fair_downsampling/fair_downsampling_tutorial.ipynb
+SPDXID: SPDXRef-item10380933
+FileChecksum: SHA1: f51d5cec3ea7be4b862d5fb9b5f785ef820a6d84
+FileChecksum: SHA256: 15014d45901d45cfaf1c0a411a0298deadc7194462e4ca1050498bae7ff42532
+FileChecksum: MD5: 9ea05bf22beaa701953fe8afe959d283
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2024 Fujitsu Limited\n", </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/fair_oversampling/fair_oversampling_tutorial.ipynb
+SPDXID: SPDXRef-item10380930
+FileChecksum: SHA1: 78d23f03869c4294eff58f6b83fe2f22192b3a20
+FileChecksum: SHA256: ada9dbc16c8fe51a33003eb00e42b8d3977b52f43e75979f7559b33665fd0969
+FileChecksum: MD5: 9bc3572ce2dc472aacd51f8301982c80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2024 Fujitsu Limited\n", </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/fair_downsampling/fairdownsampling.py
+SPDXID: SPDXRef-item10380936
+FileChecksum: SHA1: 7ea274f190c1865b322157bd7290e84ceac1ce0d
+FileChecksum: SHA256: bd44604e7fb74b3b9223eb1529259815a0fe768c5dde5887b9c5467f639dca97
+FileChecksum: MD5: 717e129c44dc00926404db0ca88b3e57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2024 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/fair_oversampling/fairoversampling.py
+SPDXID: SPDXRef-item10380931
+FileChecksum: SHA1: 025c238453b528ab4c084a84fc4a0231057165ca
+FileChecksum: SHA256: 386a1813a875c5ea829b1ba77563ed87b32f626f7901470bbb872c352a20e0c8
+FileChecksum: MD5: 4234b55cc32f7da5067efcc471944ae4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2024 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_modules/isf/algorithms/base/inprocessing.html
+SPDXID: SPDXRef-item10380896
+FileChecksum: SHA1: ff03cb38d82e172c8feda40478f1f9d4d55c5cc2
+FileChecksum: SHA256: 411a579f83c7fc1e1387bac6c2248192d23f6347870b42d5c2ab03b8a542add2
+FileChecksum: MD5: b8f48375c23616c09885a7a80a9e17a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited</span> span class="c1">#</span> span class="c1"># Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span> span class="c1"># you may not use this file except in compliance with the License.</span> span class="c1"># You may obtain a copy of t
+Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/base/inprocessing.py
+SPDXID: SPDXRef-item10380974
+FileChecksum: SHA1: 07fc9886f108f52f555c8c649c520a840cb16675
+FileChecksum: SHA256: dff53298eecf5a8e123b46566a3c51c6060e925706b314dfdf597d6f625ec97d
+FileChecksum: MD5: 073abc310bc4548fbbbebda9f6c3090a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_modules/isf/analysis/intersectional_bias.html
+SPDXID: SPDXRef-item10380883
+FileChecksum: SHA1: b8ba95fb61752cda129f9b785a379361e0a42e71
+FileChecksum: SHA256: f48ea6fcb9ed5ff2d3958efaa4d6f4b8432a6a13080b50fe39958d13c9990992
+FileChecksum: MD5: c5a1f7b4baca6518a326f35309b0d9c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited</span> span class="c1">#</span> span class="c1"># Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span> span class="c1"># you may not use this file except in compliance with the License.</span> span class="c1"># You may obtain a copy of t
+Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/analysis/intersectional_bias.py
+SPDXID: SPDXRef-item10380946
+FileChecksum: SHA1: f6fe83e594ebbeb4d301276840ea198cc7750300
+FileChecksum: SHA256: 11b1591d5a0ee81792ebf2696834b7d381d393c09f1d3be1bea2b0f92df29bee
+FileChecksum: MD5: f937fb3df87b5ee806b42117c15c858d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_modules/isf/core/intersectional_fairness.html
+SPDXID: SPDXRef-item10380887
+FileChecksum: SHA1: 822c11f2cf4e36edb1983c7c09f7fcb3d60aa100
+FileChecksum: SHA256: 818eb64d3abc2e4e195da64e411b3dff0c6af4e852cb37ed2e457282d8b3a99b
+FileChecksum: MD5: 2a42be22ea9e674024c22cbdbd4cb4fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited</span> span class="c1">#</span> span class="c1"># Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span> span class="c1"># you may not use this file except in compliance with the License.</span> span class="c1"># You may obtain a copy of t
+Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/core/intersectional_fairness.py
+SPDXID: SPDXRef-item10380957
+FileChecksum: SHA1: d87ab08746a673747aa9d6b1c8f52206b002f5fb
+FileChecksum: SHA256: 494aadc3508e10905c2f03ca1c7f32445630baef45b457ddcd7f9399fa456bcb
+FileChecksum: MD5: 1e1a54d31e78702138eb38a194bd4175
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/massaging.py
+SPDXID: SPDXRef-item10380960
+FileChecksum: SHA1: 09486e3d14b8895041bff5d2f597c2801f5aac53
+FileChecksum: SHA256: bf186b475ec86041c7ed7a633174090d542ebc631d677cc3c161bcfaf5db151f
+FileChecksum: MD5: 382402fbda4e9f0d8c98cd27842dda89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/analysis/metrics.py
+SPDXID: SPDXRef-item10380945
+FileChecksum: SHA1: 3ee8fb37a18e95ad46f0ee3602cebb01748aa1a2
+FileChecksum: SHA256: 09b65c9dd3a560aa1cf98b79c603da384f0fe37d50b329b4f82dc187dea94d0e
+FileChecksum: MD5: 35f809d3cd0ec82f0f347bf0c0891d02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_modules/isf/algorithms/base/postprocessing.html
+SPDXID: SPDXRef-item10380895
+FileChecksum: SHA1: b3fce5bce65243d2d752d0f5efb894dac0b59998
+FileChecksum: SHA256: 7b90f4db60d01816e35b0128bce76f97986f06e2254dc66ae8fb1482903ad91f
+FileChecksum: MD5: acb299fe4fd0e0ce9520c5e8d7c4d510
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited</span> span class="c1">#</span> span class="c1"># Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span> span class="c1"># you may not use this file except in compliance with the License.</span> span class="c1"># You may obtain a copy of t
+Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/base/postprocessing.py
+SPDXID: SPDXRef-item10380972
+FileChecksum: SHA1: 1d380d3b300e417c9dc2117988ac8222e8daa69a
+FileChecksum: SHA256: c44207bd458999e5d45f28ea23235aaa7aa128c03512696374199579cd8d65c4
+FileChecksum: MD5: 0223adfe52faa63cdd919a088882aee6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_modules/isf/algorithms/base/preprocessing.html
+SPDXID: SPDXRef-item10380894
+FileChecksum: SHA1: d20c245610c4499e3cdd9f5d94941b015d2e87b4
+FileChecksum: SHA256: d12aab7f32d20daa7f000cd3b5e2ed647d97901c186c862f7b444fed91ea500e
+FileChecksum: MD5: cb954a162d4b60f945f6fda5e5724723
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited</span> span class="c1">#</span> span class="c1"># Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span> span class="c1"># you may not use this file except in compliance with the License.</span> span class="c1"># You may obtain a copy of t
+Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/base/preprocessing.py
+SPDXID: SPDXRef-item10380971
+FileChecksum: SHA1: 87a38f329b2b0dced6d86a1db7ae1f82a816d74a
+FileChecksum: SHA256: cab251778d16f978dab8ef3fdeb1767855ee24f1949c7a7d1c35b6910d867d62
+FileChecksum: MD5: 2f0620a675b35fc85c4b1000c532110a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/reject_option_based_classification.py
+SPDXID: SPDXRef-item10380967
+FileChecksum: SHA1: 73781060bdca1b4d2907d2aca1d121ebc531e1af
+FileChecksum: SHA256: c820efc656051fc9f51fcd6ca35721c813b35df2fceba8796bba46e79df5858e
+FileChecksum: MD5: 23e1b4f735adb035c7635dd1d4d97268
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/setup.cfg
+SPDXID: SPDXRef-item10380977
+FileChecksum: SHA1: 9b718bd75bacff3d75e33dc94d71555b473b7876
+FileChecksum: SHA256: 5d39c944b1673f8d405d17b7b167f09903c4dc750590626fd707c2ebff5af9eb
+FileChecksum: MD5: 0fa2f771c17b2e80d090d479316a6b56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/stream.py
+SPDXID: SPDXRef-item10380847
+FileChecksum: SHA1: f0f4cc9fa4edc065c7307cb5b70c1a0e372f0401
+FileChecksum: SHA256: 913fc23de6ca61b4df455e8662b6bcfb4beaf68407106a0445fcca3212ee9ee7
+FileChecksum: MD5: 6aadf22196fce7289352d36ccdeee225
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/fair_downsampling/test_fair_downsampling.py
+SPDXID: SPDXRef-item10380937
+FileChecksum: SHA1: 2455da76992449a0400b5a7b3b798e83d38c0c67
+FileChecksum: SHA256: 6d9df6038f4c616dc8981441b3d26d34b594be0537ed5bb8f56119e5e067dbb0
+FileChecksum: MD5: 4ef091ca91e29e3c981d95ca0e983893
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2024 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/test_isf.py
+SPDXID: SPDXRef-item10380848
+FileChecksum: SHA1: 9bb8fc1321f4a629635221279562e7a72ef2b49c
+FileChecksum: SHA256: f7ce7dcacb925c3524d51afe1b772277b8a459ff7142933730787942ecd9ab1b
+FileChecksum: MD5: f23ebbb675e472ee2cd3bdd8b0671c60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Fujitsu Limited </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/__init__.py
+SPDXID: SPDXRef-item10380849
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/README.md
+SPDXID: SPDXRef-item10380850
+FileChecksum: SHA1: a97a0d88dd3df670b52bdf3f46b26edb3c9d08ad
+FileChecksum: SHA256: b3e25949a92dac750a361902017af0e59a14d3ed04ff293b7be6141313ddee12
+FileChecksum: MD5: b5b27a36b9ebc48d222200d73a7eef39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/result/test02_result_singleattr.csv
+SPDXID: SPDXRef-item10380852
+FileChecksum: SHA1: f544650d41a85cbd82d2909b8b8729263584e7a4
+FileChecksum: SHA256: cfbaa7a9e572be355be2613828a658b8ce1aa5b90c0d793a10cbdf1e2833b19c
+FileChecksum: MD5: 5cfb4cc6973475bd41025cc5109b6f5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/result/test04_result_singleattr.csv
+SPDXID: SPDXRef-item10380853
+FileChecksum: SHA1: 4f8fa2dc3cba8d6e3369dde38930845b3ad78426
+FileChecksum: SHA256: fe01a1df675c27afb7571a0307e84f5219750e1b1fc0cbdb61dbad6094264f47
+FileChecksum: MD5: 690e70bea137d03c18dc247a924f33a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/result/test05_result_combattr.csv
+SPDXID: SPDXRef-item10380854
+FileChecksum: SHA1: b916dff6ea7888da6b8f5fc734eb5bd4d9f9351b
+FileChecksum: SHA256: 6ccf27b8dbad2ec10f5641ca3e80bc123227dfdb455a6a533be766e73ef7618f
+FileChecksum: MD5: 31321fa4bbe2c8c54f00d8833785d2d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/result/test03_result_combattr.csv
+SPDXID: SPDXRef-item10380855
+FileChecksum: SHA1: a937453ca5fd249350ef552b1afe44ddebba4ef3
+FileChecksum: SHA256: c876d8b19fc5ad0162a92b35f76918691647eafba117a07cd8c23ab103ceee43
+FileChecksum: MD5: f0c3722e854300d9c3735618725818ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/result/test01_result_combattr.csv
+SPDXID: SPDXRef-item10380856
+FileChecksum: SHA1: 386f6099defdb9765a4598999dea6279586f724b
+FileChecksum: SHA256: 29f7a2895957b32af25ce78bdc174c89115f8919f345c7203dbcb9d6bf5bb6a1
+FileChecksum: MD5: 03aa6b589f23e230c74902bbd30436ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/result/test01_result_singleattr.csv
+SPDXID: SPDXRef-item10380857
+FileChecksum: SHA1: 1da8a65a4556ba9df1d48e8b0ccff84835a0fee9
+FileChecksum: SHA256: 0f86b2a8f0c95924594a8c37da9522911607295f7a5f33daba568a3907e3e73a
+FileChecksum: MD5: 139b84bc4c012170c3a2af11b85fd463
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/result/test02_result_combattr.csv
+SPDXID: SPDXRef-item10380858
+FileChecksum: SHA1: 99aa1893489fd48edad38990308d7e00652e3bf9
+FileChecksum: SHA256: 9ba62fa35b5e84835e9b7e42bcb44e87fdbc3dff3db01f43985ac40d84396a95
+FileChecksum: MD5: c2810073451410e76d2a534947db4f89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/result/test05_result_singleattr.csv
+SPDXID: SPDXRef-item10380859
+FileChecksum: SHA1: e462b913881966b7ea4876d136b3e427b7979b17
+FileChecksum: SHA256: fe0bbaed63f334dfb65e62a1dcfdd55fb2e86d69f7b749a4b20bbb14c0923e76
+FileChecksum: MD5: e656ea6e065f677c397227a6e21f8e5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/result/test04_result_combattr.csv
+SPDXID: SPDXRef-item10380860
+FileChecksum: SHA1: 8b9fd411f84454b1b252b02603bcf133afd0a0fc
+FileChecksum: SHA256: 8ff162ef3b8a70cb16570ce4014fda8edae3972496ae9e36021dbcee7cda2dfd
+FileChecksum: MD5: 8138fc035112d239105d2f1db9ed1365
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/tests/result/test03_result_singleattr.csv
+SPDXID: SPDXRef-item10380861
+FileChecksum: SHA1: 8812a61356806747b13e875955980426a840b7ee
+FileChecksum: SHA256: 32c0fe766f66babf07e7de4e11e2c96baa73d93eadb46efec46a060ad9845209
+FileChecksum: MD5: b3234447bf803fd33d6fe0304f6df102
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item10380862
+FileChecksum: SHA1: 2a84b57784b12c2c526eaebe59edc1f17efe59b2
+FileChecksum: SHA256: aa63bd0a2cd4458a3e35e038d678bcce7e2c0e74f5247b4f106191bbea616797
+FileChecksum: MD5: c6efc4be67110bf426e42e8cb01526ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_sources/index.rst.txt
+SPDXID: SPDXRef-item10380866
+FileChecksum: SHA1: 3752b6451823815ed01a6386d76914c6d1a030aa
+FileChecksum: SHA256: 002b567b18c70ee41e7d41a28ee42debf044dbd2b17a2b7f448dd31c7b3d4cc1
+FileChecksum: MD5: 615855ba6756fadcd711530ee8b6e1bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_sources/algorithms_base_pak.rst.txt
+SPDXID: SPDXRef-item10380867
+FileChecksum: SHA1: a291f48b8ea9c9b98fd27e5abb5fdaaf99c8fcd4
+FileChecksum: SHA256: 1907dafe766baaf4896325f290c3d8a232682748e4668b1c6bb4eef988a0c0f8
+FileChecksum: MD5: ed3cc23932d4a35eccdd55586759400d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_sources/utils_pak.rst.txt
+SPDXID: SPDXRef-item10380868
+FileChecksum: SHA1: 7a3e9e71ed75d5fdab3a6a9ca633d9c551a624a7
+FileChecksum: SHA256: f17dc3731ca4edb4d6857b176b09ddec332217d0d20f8bef0895fc22d3793c47
+FileChecksum: MD5: 1ae1744f95085953f682fdecbbf87198
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_sources/core_pak.rst.txt
+SPDXID: SPDXRef-item10380869
+FileChecksum: SHA1: d7c32b8a0a1b15720613bb9c8aea05fe6112ec3e
+FileChecksum: SHA256: e3e024f989c2a28496e9d87bd4d3c648cbafd1c9a082f04078abbb6acb504417
+FileChecksum: MD5: 894598569464bffef8a8c7fc6b3bfd88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_sources/analysis_pak.rst.txt
+SPDXID: SPDXRef-item10380870
+FileChecksum: SHA1: a0d1a38498821a08cf2a6bb09ecb7ebef4e1247d
+FileChecksum: SHA256: 9c669128f3572db0d94e6be5c8a0c3e6bccd9e68871f9e3f3229ef2daafd5b33
+FileChecksum: MD5: ef4bc3f0edceb4a8a8efb18764ce66fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_sources/algorithms_lib_pak.rst.txt
+SPDXID: SPDXRef-item10380871
+FileChecksum: SHA1: 293c4c85de318f440faa5f6a4d377b3c8eebd660
+FileChecksum: SHA256: b397ebaa3eb1fdde30fcccb50f576f154646f31ae97011a7eedc5164f3e94698
+FileChecksum: MD5: 61fb87b710d09d13d21655ae726c8379
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_sources/metrics_pak.rst.txt
+SPDXID: SPDXRef-item10380872
+FileChecksum: SHA1: 9deff8ed3c396db792a656b40336c7bac3fe19e3
+FileChecksum: SHA256: fdba55660bef1828dae960ddfd04da56990815a4a30bf4387ec044d22d7b8f1f
+FileChecksum: MD5: 9e03e4d7595f18c6c1a5c48f1b17fda8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/search.html
+SPDXID: SPDXRef-item10380873
+FileChecksum: SHA1: 1c214cb2078d89d96bbb2991a75faa0467a303eb
+FileChecksum: SHA256: 4ad9cd279d14af8c6f5435fc02b846e7836a67417c7b114d74ce31dea68a05ab
+FileChecksum: MD5: 99c87c2b61e98d55547246701d59e285
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/core_pak.html
+SPDXID: SPDXRef-item10380874
+FileChecksum: SHA1: 1d877936ec939e5d04a59d626ebfe4e9a4271d84
+FileChecksum: SHA256: df313a0aba78edc0af2b083763b6c87475fb9a3fd9d437f63b3ead3757593178
+FileChecksum: MD5: a194622e1197f0bb7c043ade96c84af6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/algorithms_base_pak.html
+SPDXID: SPDXRef-item10380875
+FileChecksum: SHA1: edb3aab843f7930290571d367c8cf14bdd212681
+FileChecksum: SHA256: baac450deff112552ac0969aadce0c6ce55d74e3ff153dbd0d7fab9a461c9726
+FileChecksum: MD5: bfb8159cd496219be8d9ff90a5a6ac5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/objects.inv
+SPDXID: SPDXRef-item10380876
+FileChecksum: SHA1: 253df61000a26debc582c07d6e64f1b7d9ef15c2
+FileChecksum: SHA256: edd366f705655db7bfe2724d78e038954ece87c010794a88aad290902ff73e59
+FileChecksum: MD5: 7d6a71d258be35baa81c659344e5f5e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/metrics_pak.html
+SPDXID: SPDXRef-item10380877
+FileChecksum: SHA1: 936ab2db1cbb207453dfb501c41ce539b597d8f4
+FileChecksum: SHA256: b566638b3b74465108c2f40eaa1837136104a89483e695c3d575d984f6cd98a3
+FileChecksum: MD5: 2e2c510ded8f62a57c5d3acf66cf02f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_modules/index.html
+SPDXID: SPDXRef-item10380897
+FileChecksum: SHA1: 575d4354ffff24f04850af3c0ef32c37317ab60e
+FileChecksum: SHA256: 25889e282a29b31ce4579a45a5cadb6185b079b510133a6a31b5280a679d67a1
+FileChecksum: MD5: 2ba6d390b37d227923294ff1a644effa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/searchindex.js
+SPDXID: SPDXRef-item10380898
+FileChecksum: SHA1: 7e139b1be7a0500219fdf84eb3b7e16f98979d59
+FileChecksum: SHA256: aa18af21b703b0f7469a6e2f88de1887f6be87ce53b9d7fbb61042d76ecab593
+FileChecksum: MD5: afa86f517f08a7fcc511feee9a4dd01b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/algorithms_lib_pak.html
+SPDXID: SPDXRef-item10380899
+FileChecksum: SHA1: 14eb170ed395c0621d9d6e4d2523a9bc59d642ee
+FileChecksum: SHA256: 2b10bfd73abc8ead600e1926cdb57d3c436f54d22732b3f2d859c7e47bdd13a3
+FileChecksum: MD5: 93df7934e42860abbeabb49c8f9c1067
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/py-modindex.html
+SPDXID: SPDXRef-item10380900
+FileChecksum: SHA1: a266a192ccdabde108fa9d0596ec48f109760ab3
+FileChecksum: SHA256: 85163049097f6c98ae6a5c8ae81d1f2e104b130b8d9506badd23fdf49c098f31
+FileChecksum: MD5: df78773d15f97db2eae71e0c71a9ed66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/analysis_pak.html
+SPDXID: SPDXRef-item10380901
+FileChecksum: SHA1: 8b1280267e1a75d1fb9fc6ba9f8ef8c54bd0bb34
+FileChecksum: SHA256: 0fe303c2651209966702be5a4c96a3c903ad155a3b98498d62e755d0acf13d04
+FileChecksum: MD5: fa81b87a05e9f06311d21b663395240f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/genindex.html
+SPDXID: SPDXRef-item10380902
+FileChecksum: SHA1: af2346a83ca3c810b2a8302c0209c06ba10a3f15
+FileChecksum: SHA256: 10b73e39372650809e34b3caaa21c6fc0fefe966a571440e011426458ba203cd
+FileChecksum: MD5: 0e9c9d5a58d56d724a574529f93f98df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/pygments.css
+SPDXID: SPDXRef-item10380904
+FileChecksum: SHA1: 2e0983e534dc412ad1a6f1b03a77aebe20b2c80f
+FileChecksum: SHA256: a35d4480834929916c9e4504330ff0a2ea5d40d54ae8687ea0e0a34163094f70
+FileChecksum: MD5: cebd78b1b1cfe62cdac077f55cfb1ed0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/jquery.js
+SPDXID: SPDXRef-item10380909
+FileChecksum: SHA1: b82d238d4e31fdf618bae8ac11a6c812c03dd0d4
+FileChecksum: SHA256: ff1523fb7389539c84c65aba19260648793bb4f5e29329d2ee8804bc37a3fe6e
+FileChecksum: MD5: 8fb8fee4fcc3cc86ff6c724154c49c42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/minus.png
+SPDXID: SPDXRef-item10380910
+FileChecksum: SHA1: 89f4178f1f917ad03726f307fe6d2e28d6a1706a
+FileChecksum: SHA256: 47e7fc50db3699f1ca41ce9a2ffa202c00c5d1d5180c55f62ba859b1bd6cc008
+FileChecksum: MD5: 36b1a4b05451c7acde7ced60b2f6bc21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/_sphinx_javascript_frameworks_compat.js
+SPDXID: SPDXRef-item10380915
+FileChecksum: SHA1: c550cf510010493f19aeebb824da7933803e6d74
+FileChecksum: SHA256: 2f1e30341b31300bdc3af29ee4a64e0f40ed15492345387bb47542d9b9b4813c
+FileChecksum: MD5: 2fc8167ed91f7556e5a9afba5660eba1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/plus.png
+SPDXID: SPDXRef-item10380916
+FileChecksum: SHA1: 365abe63de063ef2d97d3caacc43512415b5a835
+FileChecksum: SHA256: 54115199b96a130cba02147c47c0deb43dcc9b9f08b5162bba8642b34980ac63
+FileChecksum: MD5: 0d7849fd4d4148b7f78cab60a087633a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/file.png
+SPDXID: SPDXRef-item10380917
+FileChecksum: SHA1: 51fd2e4ec924e822c5d434fa98ccfc70c30380f5
+FileChecksum: SHA256: 5c4bc9a16aebf38c4b950f59b8e501ca36495328cb9eb622218bce9064a35e3e
+FileChecksum: MD5: ba0c95766a77a6c598a7ca542f1db738
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/_static/documentation_options.js
+SPDXID: SPDXRef-item10380918
+FileChecksum: SHA1: a9569a8e94718dce9c0622f7a71e10acd4bfa56b
+FileChecksum: SHA256: 48af1015b1fecefb409175a43b12c0272a22117267476db93abb81524f67d5cb
+FileChecksum: MD5: 1e3463a6980ed5f645a15ca9282ea321
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/utils_pak.html
+SPDXID: SPDXRef-item10380919
+FileChecksum: SHA1: 998c38eeb0e3774aaba87b65c6c532e8fffaeff4
+FileChecksum: SHA256: 77fc98944facb8caa8358b5880541628b2f97f2c1391d2579ed1f00ad4c21eb5
+FileChecksum: MD5: 108b8e4e3c8adc1301041081fb4a4637
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/docs/reference/index.html
+SPDXID: SPDXRef-item10380920
+FileChecksum: SHA1: e33b3a2052f0bda7a89316253927015891287dae
+FileChecksum: SHA256: b483c4ffdf30134132b5b8676614042889b8f180e7a108138d499c7687efb3d4
+FileChecksum: MD5: 236a3f12e38b7881b484b1631c5414bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023, Fujitsu Limited. Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.1.1. div> body> html> </text>
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/pyproject.toml
+SPDXID: SPDXRef-item10380922
+FileChecksum: SHA1: c83e87e331a287146d34a59caf57f0c840b72c52
+FileChecksum: SHA256: d6650729e2ec927ebc146f41327e082537e12f9573a8e7ac5c920fd05e939796
+FileChecksum: MD5: 27b32359c47a8bd75d2985f882792ef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/RELEASES.md
+SPDXID: SPDXRef-item10380923
+FileChecksum: SHA1: 779cbd1dbe4e5ee7fb1c54d368ffba02d02b04f1
+FileChecksum: SHA256: 16554fe2abb6c71df3b10bc8c48cb112be8fbe3fec71292bade5c3d39295e254
+FileChecksum: MD5: 87c05e4517ce42265c4ad100769b756b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/CONTRIBUTING.md
+SPDXID: SPDXRef-item10380924
+FileChecksum: SHA1: b46dbfddecd6d193f75db2aafd694ab2d02ac9a9
+FileChecksum: SHA256: 475b7c54465ac2a009c52b5a704fec6f1113fb18e5da4bc8f8890221823278ef
+FileChecksum: MD5: f5ec00fb631da3e496275234fdb38971
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/patches/structured_dataset.patch
+SPDXID: SPDXRef-item10380926
+FileChecksum: SHA1: e02104d98d6fdc5f736495bc8258ce7ba616359c
+FileChecksum: SHA256: 0d24fb53d727d57581d43bc10d632cc52623654d5b827599db74fbaa990cfb6b
+FileChecksum: MD5: 9234566817dfc6e5477f359a23f01b25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/patches/reject_option_classification.patch
+SPDXID: SPDXRef-item10380927
+FileChecksum: SHA1: 3ecc6a391bad0e80e6ce9d4bb6d541e5050770a8
+FileChecksum: SHA256: bc03386e4d4936b749370fff72829f72b597e83e2e948d4c0116a155249645cb
+FileChecksum: MD5: 43d773cca195ae16f0f436ae4bd25d35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/fair_downsampling/adult.csv
+SPDXID: SPDXRef-item10380935
+FileChecksum: SHA1: 36c7022d94ec46e6f6d257a1ea74d2680b56b27f
+FileChecksum: SHA256: b08848d2aa65ee8e5f1665a499497f51ce07b95133a5c34f29bdd18fe5b6b0d4
+FileChecksum: MD5: 7b8c89ed859208a0917cdb9ad76210c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/utils/__init__.py
+SPDXID: SPDXRef-item10380942
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/metrics/__init__.py
+SPDXID: SPDXRef-item10380949
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/aif360_patches/structured_dataset.patch
+SPDXID: SPDXRef-item10380951
+FileChecksum: SHA1: e02104d98d6fdc5f736495bc8258ce7ba616359c
+FileChecksum: SHA256: 0d24fb53d727d57581d43bc10d632cc52623654d5b827599db74fbaa990cfb6b
+FileChecksum: MD5: 9234566817dfc6e5477f359a23f01b25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/aif360_patches/reject_option_classification.patch
+SPDXID: SPDXRef-item10380952
+FileChecksum: SHA1: 3ecc6a391bad0e80e6ce9d4bb6d541e5050770a8
+FileChecksum: SHA256: bc03386e4d4936b749370fff72829f72b597e83e2e948d4c0116a155249645cb
+FileChecksum: MD5: 43d773cca195ae16f0f436ae4bd25d35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/aif360_patches/apply_patches.sh
+SPDXID: SPDXRef-item10380953
+FileChecksum: SHA1: b7cbf29444741e597617b531a42353e69a8a6b8b
+FileChecksum: SHA256: 23aa252d41832a81d32d0f9963217bfc85a026f5d93f5df057bc5a1b738755c9
+FileChecksum: MD5: d89a6266f57eabd5ddd3bc1803ea7cbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/aif360_patches/__init__.py
+SPDXID: SPDXRef-item10380954
+FileChecksum: SHA1: 59a5a216ded4f102058862c013570a5d8788dd0e
+FileChecksum: SHA256: 76380ebfa326e8c92d11f58e2953de3174879914c1baad2cea6f0a9be6037727
+FileChecksum: MD5: e2aa582460f14925300aeb58e6a8c4b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/__init__.py
+SPDXID: SPDXRef-item10380955
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/core/__init__.py
+SPDXID: SPDXRef-item10380958
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/lib/__init__.py
+SPDXID: SPDXRef-item10380964
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/__init__.py
+SPDXID: SPDXRef-item10380968
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/src/isf/algorithms/base/__init__.py
+SPDXID: SPDXRef-item10380973
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/.github/release.yml
+SPDXID: SPDXRef-item10380976
+FileChecksum: SHA1: 7c94d423f036333894df215c6061b834c21119f4
+FileChecksum: SHA256: ab8129f4f8756200782d16c4d0a02f1cb58ec8324ab2cb8103d63b56f8aa4529
+FileChecksum: MD5: 84b44252e914ebb6601573173929b235
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/setup.py
+SPDXID: SPDXRef-item10380978
+FileChecksum: SHA1: 7cd780ce8ea492ec212c4de1811cc7db7455ec13
+FileChecksum: SHA256: 76189f7511a9eb8dab0ccaf022097f598fa32c3026ce2c2174ea7e7c3fccc71e
+FileChecksum: MD5: 602984b2fb471dedc4ec283cae0f5a56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/examples/tutorial.ipynb
+SPDXID: SPDXRef-item10380980
+FileChecksum: SHA1: 20ae12b15f6bca325de6299f605705ea436044f4
+FileChecksum: SHA256: 9a12e1d58ca11658453f5597e8c307baf19e0e71cb6450fbd7f64dd2a9574ef2
+FileChecksum: MD5: 00d4d3851cd88c3814395a41066f6de3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/.gitignore
+SPDXID: SPDXRef-item10380981
+FileChecksum: SHA1: 37f855a4d350aca7d668333eae5df75764a541fc
+FileChecksum: SHA256: f3f346b9584f79f25f1aa1d1ae26b5cd0d276849aeb3370c989e6f7b829eb8d8
+FileChecksum: MD5: f5e3cd697d3d63d7650d06e229209916
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/requirements.txt
+SPDXID: SPDXRef-item10380982
+FileChecksum: SHA1: 3c71417f57061ba167efe2810dd2898004830894
+FileChecksum: SHA256: 244622fbfc97d4c938491abfeb99cf385e39b0ce312520ede78ab74703541594
+FileChecksum: MD5: e14446747558e6a31f006de09e5c59bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/README.md
+SPDXID: SPDXRef-item10380983
+FileChecksum: SHA1: 62235ea2c621cf01cf4c963845943662c2f97698
+FileChecksum: SHA256: 56d3c5fa087dbdcff9494f774e947fc3785da83c8ab76c627af2ec54b2111ee3
+FileChecksum: MD5: d5d9d43609a9a95a39a8f341ac5d830e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/SECURITY.md
+SPDXID: SPDXRef-item10380984
+FileChecksum: SHA1: bfb33b370d333236021fb48e88e1d2ffe3439c18
+FileChecksum: SHA256: 331289758cf2c71e5a0ce61ac6f4ac7b83a74963231a00fba832e8179ee0e419
+FileChecksum: MD5: 35afee633c12776950b13be851df8d40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: intersectional-fairness-2025-01-10.zip/isf/MAINTAINERS.md
+SPDXID: SPDXRef-item10380985
+FileChecksum: SHA1: 1900923392036f985d759826bb9ce70a921ecc35
+FileChecksum: SHA256: 21b97b22dc9d019bb4aaa82d46998b78b3abdb7840e24cb93aa685e0f2ae4f9c
+FileChecksum: MD5: e7249f12299bf44004ca13435e32633c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
