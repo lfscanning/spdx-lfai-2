@@ -1,0 +1,3646 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T17:45:10Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "MIT-License",
+            "licenseId": "LicenseRef-MIT-License"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Other",
+            "licenseId": "LicenseRef-Other"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD-2-Clause-FreeBSD",
+            "licenseId": "LicenseRef-BSD-2-Clause-FreeBSD"
+        }
+    ],
+    "name": "/tmp/tmp94c0yms4/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmp94c0yms4/code-35ffa97a-7ea9-43a0-8cd5-ff4d08dc6508",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-204d207c72c8f564",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree-comparative-benchmark/common_benchmark_suite/openxla/benchmark/models/tf/bert/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "ee999f40825f56d565031c34db21afb172381496"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-6741fea87fae7419",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree-comparative-benchmark/common_benchmark_suite/openxla/benchmark/models/tf/efficientnet/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "ee999f40825f56d565031c34db21afb172381496"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-dbfb87fdc7932055",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree-comparative-benchmark/common_benchmark_suite/openxla/benchmark/models/tf/gpt2/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "ee999f40825f56d565031c34db21afb172381496"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-7375b3d7c66c93f9",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree-comparative-benchmark/common_benchmark_suite/openxla/benchmark/models/tf/resnet/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "ee999f40825f56d565031c34db21afb172381496"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-95954ee94e9c5720",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree-comparative-benchmark/common_benchmark_suite/openxla/benchmark/models/tf/t5/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "ee999f40825f56d565031c34db21afb172381496"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-bec2995e89a3290e",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "ee999f40825f56d565031c34db21afb172381496"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-4430fc215706fd86",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree-experimental/iree-tf/library/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "fed385b83de941737fe96abeaf3b795af8a5a6e9"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-5af6abea6aa82c23",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree-llvm-sandbox/jasc/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "d9ccecf184734122ee26a8d8f607647c8125dadb"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-45456b08083574dc",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree-llvm-sandbox/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "d9ccecf184734122ee26a8d8f607647c8125dadb"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-5adea7683a70ea18",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree-llvm-sandbox/trunk/experimental/sql/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "d9ccecf184734122ee26a8d8f607647c8125dadb"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-ccd87be3767c980",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree-turbine/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "e4550f37dcd8b9b691db93c30b478c1d67eee83b"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-138bdf8a170cdee",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree/docs/api_docs/python/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "e64cb12ce4c18764f963fb40d892267fa14e5fca"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-e08a14bafa8ac295",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree/docs/website/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "e64cb12ce4c18764f963fb40d892267fa14e5fca"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-383493605bda01a6",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Class: lang-pkgs"
+                },
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "Type: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "iree/integrations/pjrt/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "e64cb12ce4c18764f963fb40d892267fa14e5fca"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a985b669b9da0e0b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A very fast and expressive template engine.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jinja2@3.1.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "Jinja2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-turbine/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "3.1.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1376cb6aee28dca1",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "YAML parser and emitter for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "LicenseRef-MIT-License",
+            "name": "PyYAML",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: The YAML Project",
+            "versionInfo": "6.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a8ca616996d0b92b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Abseil Python Common Libraries, see https://github.com/abseil/abseil-py.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/absl-py@2.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/abseil/abseil-py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "absl-py",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: Abseil",
+            "versionInfo": "2.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1762403d6803fc35",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Extensible memoizing collections and decorators",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cachetools@5.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tkem/cachetools/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "cachetools",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Thomas Kemmer",
+            "versionInfo": "5.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-daf3af9db1986e5c",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python package for providing Mozilla's CA Bundle.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/certifi@2023.7.22",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/certifi/python-certifi",
+            "licenseConcluded": "MPL-2.0",
+            "name": "certifi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Certifi",
+            "versionInfo": "2023.7.22"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f786417236bb0aae",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/charset-normalizer@3.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "charset-normalizer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: TAHRI Ahmed R.",
+            "versionInfo": "3.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a981041dd10f966b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Chex: Testing made fun, in JAX!",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/chex@0.1.85",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/deepmind/chex",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "chex",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: Google DeepMind",
+            "versionInfo": "0.1.85"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6e77a38cf513d543",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python parser for the CommonMark Markdown spec",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/commonmark@0.9.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rtfd/commonmark.py",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "commonmark",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/api_docs/python/requirements.txt",
+            "supplier": "Organization: Read the Docs",
+            "versionInfo": "0.9.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-153a21a96c19f316",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Build and run queries against data",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/datafusion@32.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://datafusion.apache.org/python",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "datafusion",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/requirements.txt",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "32.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7628a422a0dc9533",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Tools to expand Python's enum module.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/enum-tools@0.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/domdfcoding/enum_tools",
+            "licenseConcluded": "LGPL-3.0-or-later",
+            "licenseDeclared": "LGPL-3.0-or-later",
+            "name": "enum-tools",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/api_docs/python/requirements.txt",
+            "supplier": "Organization: Dominic Davis-Foster",
+            "versionInfo": "0.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6e6bd932d23c2ebe",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A Python-native clone of LLVMs FileCheck tool",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/filecheck@0.0.18",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/AntonLydike/filecheck",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "filecheck",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/trunk/experimental/sql/requirements.txt",
+            "supplier": "Organization: Anton Lydike",
+            "versionInfo": "0.0.18"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8a757b9dd3f8e6fb",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A Python-native clone of LLVMs FileCheck tool",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/filecheck@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/AntonLydike/filecheck",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "filecheck",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-turbine/requirements.txt",
+            "supplier": "Organization: Anton Lydike",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bdf26fcd8bb7cf65",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Google API client core library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/google-api-core@2.11.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "google-api-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Google APIs",
+            "versionInfo": "2.11.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f1d95396cef660c6",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Google Authentication Library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/google-auth@2.19.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/googleapis/google-auth-library-python",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "google-auth",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Google APIs",
+            "versionInfo": "2.19.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5dd9d2026314c5f4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Google BigQuery API client library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/google-cloud-bigquery@3.11.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "google-cloud-bigquery",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Google APIs",
+            "versionInfo": "3.11.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ff30c7172717aa78",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Google Cloud API client core library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/google-cloud-core@2.3.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/googleapis/python-cloud-core",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "google-cloud-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Google APIs",
+            "versionInfo": "2.3.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6994145849daee59",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Google Cloud Storage API client library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/google-cloud-storage@2.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/googleapis/python-storage",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "google-cloud-storage",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Google APIs",
+            "versionInfo": "2.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8fb3b72eda047833",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A python wrapper of the C library 'Google CRC32C'",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/google-crc32c@1.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/googleapis/python-crc32c",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "google-crc32c",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Google APIs",
+            "versionInfo": "1.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-478440866de21c42",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Utilities for Google Media Downloads and Resumable Uploads",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/google-resumable-media@2.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/googleapis/google-resumable-media-python",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "google-resumable-media",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Google APIs",
+            "versionInfo": "2.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2c4bcdaba12c07db",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Common protobufs used in Google APIs",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/googleapis-common-protos@1.59.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/googleapis/python-api-common-protos",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "googleapis-common-protos",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Google APIs",
+            "versionInfo": "1.59.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-db2d8cefc70f1062",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A template engine for people who enjoy the simpler things in life.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ibis@3.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/dmulholl/ibis",
+            "licenseConcluded": "Unlicense",
+            "licenseDeclared": "Unlicense",
+            "name": "ibis",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/requirements.txt",
+            "supplier": "Organization: Darren Mulholland",
+            "versionInfo": "3.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e1a6744694bed76c",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "The portable Python dataframe library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ibis-framework@8.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ibis-project.org",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "ibis-framework",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/requirements.txt",
+            "supplier": "Organization: Ibis Project",
+            "versionInfo": "8.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e8dcfa04f661a688",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "The portable Python dataframe library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ibis-framework@7.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ibis-project.org",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "ibis-framework",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/trunk/experimental/sql/requirements.txt",
+            "supplier": "Organization: Ibis Project",
+            "versionInfo": "7.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4b12bb18902e911",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Subtrait compiler for ibis",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ibis-substrait@3.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ibis-project/ibis-substrait",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "ibis-substrait",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/requirements.txt",
+            "supplier": "Organization: Ibis Project",
+            "versionInfo": "3.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a5515190d81e8fe4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Internationalized Domain Names in Applications (IDNA)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/idna@3.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "idna",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Kim Davies",
+            "versionInfo": "3.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a3281910a1223068",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "brain-dead simple config-ini parsing",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/iniconfig@2.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytest-dev/iniconfig",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "iniconfig",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "2.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a47e50be7b9a349f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "IREE Python Compiler API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/iree-base-compiler@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-base-compiler",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/integrations/pjrt/requirements.txt",
+            "supplier": "Organization: iree-org",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ec65a23f104a0cfa",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Differentiate, compile, and transform Numpy code.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jax@0.4.23",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jax-ml/jax",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "jax",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: Google",
+            "versionInfo": "0.4.23"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6a30bfeba2f1cd55",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "XLA library for JAX",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jaxlib@0.4.23",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jax-ml/jax",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "jaxlib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: Google",
+            "versionInfo": "0.4.23"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d0f39563345c43c5",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "XLA library for JAX",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jaxlib@0.4.17.dev20230922",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jax-ml/jax",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "jaxlib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/integrations/pjrt/requirements.txt",
+            "supplier": "Organization: Google",
+            "versionInfo": "0.4.17.dev20230922"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-28ac53ec372eeee6",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A Software Testing Tool",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/lit@14.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://llvm.org",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lit",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/trunk/experimental/sql/requirements.txt",
+            "supplier": "Organization: LLVM",
+            "versionInfo": "14.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cce374786c98faa4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A Software Testing Tool",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/lit@18.1.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://llvm.org",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lit",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-turbine/requirements.txt",
+            "supplier": "Organization: LLVM",
+            "versionInfo": "18.1.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5e650a5a41942122",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Documentation that simply works",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-material@9.5.48",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-material",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/website/requirements.txt",
+            "supplier": "Organization: Martin Donath",
+            "versionInfo": "9.5.48"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-947188ec44316fd3",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A MkDocs plugin for dynamic page redirects to prevent broken links",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-redirects@1.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-redirects",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/website/requirements.txt",
+            "supplier": "Organization: MkDocs",
+            "versionInfo": "1.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-197c3d7467477a9b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ml-dtypes@0.3.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "ml-dtypes",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: jax-ml",
+            "versionInfo": "0.3.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c02c56a96bb030d8",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ml-dtypes@0.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "ml_dtypes",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-turbine/requirements.txt",
+            "supplier": "Organization: jax-ml",
+            "versionInfo": "0.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-999762bf98b76fc",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Multiple dispatch",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/multipledispatch@0.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/mrocklin/multipledispatch/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "multipledispatch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/trunk/experimental/sql/requirements.txt",
+            "supplier": "Organization: Matthew Rocklin",
+            "versionInfo": "0.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f58390eeba16dff4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Optional static typing for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mypy@1.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.mypy-lang.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mypy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-turbine/requirements.txt",
+            "supplier": "Organization: Python",
+            "versionInfo": "1.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8978072ea958a385",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "An extended [CommonMark](https://spec.commonmark.org/) compliant parser,",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/myst-parser@0.15.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/executablebooks/MyST-Parser",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "myst-parser",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/api_docs/python/requirements.txt",
+            "supplier": "Organization: Executable Books",
+            "versionInfo": "0.15.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-17ff50199ed48dba",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@1.26.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "1.26.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e5609c445612d034",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Path optimization of einsum functions.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/opt-einsum@3.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "opt-einsum",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: Daniel Smith",
+            "versionInfo": "3.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-997a31d5df8b6430",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Core utilities for Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/packaging@23.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 OR BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0 OR BSD-3-Clause",
+            "name": "packaging",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "23.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2efa568028d3d781",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Parameterized testing with any Python test framework",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/parameterized@0.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/wolever/parameterized",
+            "licenseConcluded": "LicenseRef-BSD-2-Clause-FreeBSD",
+            "licenseDeclared": "LicenseRef-BSD-2-Clause-FreeBSD",
+            "name": "parameterized",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-turbine/requirements.txt",
+            "supplier": "Organization: David Wolever",
+            "versionInfo": "0.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f3969a72e82b6f53",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "plugin and hook calling mechanisms for python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pluggy@1.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytest-dev/pluggy",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pluggy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "1.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5d0e58231c774bb4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Plumbum: shell combinators library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/plumbum@1.8.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tomerfiliba/plumbum",
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "plumbum",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Tomer Filiba",
+            "versionInfo": "1.8.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5f267391a27e6bed",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/protobuf@4.23.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://developers.google.com/protocol-buffers/",
+            "licenseConcluded": "BSD-1-Clause",
+            "licenseDeclared": "BSD-1-Clause",
+            "name": "protobuf",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "NOASSERTION",
+            "versionInfo": "4.23.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-733e9f0e22e5b4d4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Cross-platform lib for process and system monitoring in Python.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/psutil@5.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/giampaolo/psutil",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "psutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/trunk/experimental/sql/requirements.txt",
+            "supplier": "Organization: Giampaolo Rodola",
+            "versionInfo": "5.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4609233a75df1bb",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Pure-Python implementation of ASN.1 types and DER/BER/CER codecs (X.208)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyasn1@0.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pyasn1/pyasn1",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "pyasn1",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: pyasn1 maintenance organization",
+            "versionInfo": "0.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-80482d833f885969",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A collection of ASN.1-based protocols modules",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyasn1-modules@0.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pyasn1/pyasn1-modules",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "pyasn1-modules",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: pyasn1 maintenance organization",
+            "versionInfo": "0.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a74e162801238cb8",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Command line wrapper for pyright",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyright@0.0.13",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/RobertCraigie/pyright-python",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pyright",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/trunk/experimental/sql/requirements.txt",
+            "supplier": "Organization: Robert Craigie",
+            "versionInfo": "0.0.13"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4e7d36d89821a2d5",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "pytest: simple powerful testing with Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest@6.2.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docs.pytest.org/en/latest/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pytest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/trunk/experimental/sql/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "6.2.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5c9c602bb8262239",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "pytest: simple powerful testing with Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest@7.4.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docs.pytest.org/en/latest/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pytest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "7.4.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cc7855511643f571",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "pytest: simple powerful testing with Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest@8.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docs.pytest.org/en/latest/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pytest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-turbine/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "8.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a95d6dcbbda2fb29",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "pytest xdist plugin for distributed testing, most importantly across multiple CPUs",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest-xdist@3.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytest-dev/pytest-xdist",
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "pytest-xdist",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-turbine/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "3.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7d78a495db075c80",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "YAML parser and emitter for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pyyaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: The YAML Project",
+            "versionInfo": "6.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3675440b273be79f",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python HTTP for Humans.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/requests@2.32.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://requests.readthedocs.io",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "requests",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Python Software Foundation",
+            "versionInfo": "2.32.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-295f3061cc525449",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python bindings to Rust jrsonnet crate",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/rjsonnet@0.5.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/messense/rjsonnet-py",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "rjsonnet",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: messense",
+            "versionInfo": "0.5.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-59df58a1e302f5bb",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Pure-Python RSA implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/rsa@4.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://stuvel.eu/rsa",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "rsa",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Sybren A. St\u00fcvel",
+            "versionInfo": "4.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-862df9bdbda56d8b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.11.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.11.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e04045924aa511e4",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python 2 and 3 compatibility utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/six@1.16.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benjaminp/six",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "LicenseRef-MIT-License",
+            "name": "six",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: Benjamin Peterson",
+            "versionInfo": "1.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-43f136e6037a7e12",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Python documentation generator",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinx@4.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "sphinx",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/api_docs/python/requirements.txt",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "4.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d04475b5f90b696b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Read the Docs theme for Sphinx",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinx-rtd-theme@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/readthedocs/sphinx_rtd_theme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "sphinx-rtd-theme",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/api_docs/python/requirements.txt",
+            "supplier": "Organization: Read the Docs",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b51452ec83689cf3",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Box of handy tools for Sphinx \ud83e\uddf0 \ud83d\udcd4",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinx-toolbox@2.16.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sphinx-toolbox/sphinx-toolbox",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "sphinx-toolbox",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/api_docs/python/requirements.txt",
+            "supplier": "Organization: sphinx-toolbox",
+            "versionInfo": "2.16.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3c23c59b008df993",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "sphinxcontrib-applehelp is a Sphinx extension which outputs Apple help books",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinxcontrib-applehelp@1.0.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "sphinxcontrib-applehelp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/api_docs/python/requirements.txt",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "1.0.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c5746424dd91f41b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "sphinxcontrib-devhelp is a sphinx extension which outputs Devhelp documents",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinxcontrib-devhelp@1.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "sphinxcontrib-devhelp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/api_docs/python/requirements.txt",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "1.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-817b5b6fbca37d6d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "sphinxcontrib-htmlhelp is a sphinx extension which renders HTML help files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinxcontrib-htmlhelp@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "sphinxcontrib-htmlhelp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/api_docs/python/requirements.txt",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1ee34caec4ff57df",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "sphinxcontrib-qthelp is a sphinx extension which outputs QtHelp documents",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinxcontrib-qthelp@1.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "sphinxcontrib-qthelp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/api_docs/python/requirements.txt",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "1.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f70a2d4e73c18e8b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "sphinxcontrib-serializinghtml is a sphinx extension which outputs \"serialized\" HTML files (json and pickle)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinxcontrib-serializinghtml@1.1.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "sphinxcontrib-serializinghtml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree/docs/api_docs/python/requirements.txt",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "1.1.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-33772353963cd813",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "TensorFlow is an open source machine learning framework for everyone.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tensorflow@2.14.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.tensorflow.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tensorflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/common_benchmark_suite/openxla/benchmark/models/tf/resnet/requirements.txt",
+            "supplier": "Organization: tensorflow",
+            "versionInfo": "2.14.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6088e767efb9ab81",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "TensorFlow is an open source machine learning framework for everyone.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tensorflow@2.14.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.tensorflow.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tensorflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/common_benchmark_suite/openxla/benchmark/models/tf/efficientnet/requirements.txt",
+            "supplier": "Organization: tensorflow",
+            "versionInfo": "2.14.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6a3a62c888034c21",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "TensorFlow is an open source machine learning framework for everyone.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tensorflow@2.12.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.tensorflow.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tensorflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-experimental/iree-tf/library/requirements.txt",
+            "supplier": "Organization: tensorflow",
+            "versionInfo": "2.12.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-80ef42a8cad397",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "TensorFlow is an open source machine learning framework for everyone.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tensorflow@2.14.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.tensorflow.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tensorflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/common_benchmark_suite/openxla/benchmark/models/tf/bert/requirements.txt",
+            "supplier": "Organization: tensorflow",
+            "versionInfo": "2.14.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-904f003da5e1fbcd",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "TensorFlow is an open source machine learning framework for everyone.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tensorflow@2.14.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.tensorflow.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tensorflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/common_benchmark_suite/openxla/benchmark/models/tf/gpt2/requirements.txt",
+            "supplier": "Organization: tensorflow",
+            "versionInfo": "2.14.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e2d0f0432b7af119",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "TensorFlow is an open source machine learning framework for everyone.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tensorflow@2.14.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.tensorflow.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tensorflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/common_benchmark_suite/openxla/benchmark/models/tf/t5/requirements.txt",
+            "supplier": "Organization: tensorflow",
+            "versionInfo": "2.14.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c6b8d9d0c954645d",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "List processing tools and functional utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/toolz@0.12.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytoolz/toolz/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "toolz",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: pytoolz",
+            "versionInfo": "0.12.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5ad678ac33821b6c",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "Backported and Experimental Type Hints for Python 3.8+",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/typing-extensions@4.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python/typing_extensions",
+            "licenseConcluded": "PSF-2.0",
+            "licenseDeclared": "PSF-2.0",
+            "name": "typing_extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/jasc/requirements.txt",
+            "supplier": "Organization: Python",
+            "versionInfo": "4.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f3ca099b5efed496",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "HTTP library with thread-safe connection pooling, file post, and more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/urllib3@1.26.19",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "urllib3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-comparative-benchmark/devtools/db_import/requirements.txt",
+            "supplier": "Organization: urllib3",
+            "versionInfo": "1.26.19"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f54d302fde752c0b",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "xDSL",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/xdsl@0.7.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://xdsl.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "xdsl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/trunk/experimental/sql/requirements.txt",
+            "supplier": "Organization: xdslproject",
+            "versionInfo": "0.7.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c828e76e71b4521a",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "PkgType: pip"
+                }
+            ],
+            "description": "A formatter for Python code",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/yapf@0.32.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/yapf",
+            "licenseConcluded": "LicenseRef-Other",
+            "licenseDeclared": "LicenseRef-Other",
+            "name": "yapf",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: iree-llvm-sandbox/trunk/experimental/sql/requirements.txt",
+            "supplier": "Organization: Google",
+            "versionInfo": "0.32.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T17:45:10Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfai-2.iree-org",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-base-docker-images",
+            "comment": "This package was added to the Trivy analysis for the base-docker-images by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/base-docker-images/archive/f97cc2f710ae11184742a5f4e28b044c4c481ecd.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/base-docker-images@f97cc2f710ae11184742a5f4e28b044c4c481ecd",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "base-docker-images",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "f97cc2f710ae11184742a5f4e28b044c4c481ecd"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-hip-build-deps",
+            "comment": "This package was added to the Trivy analysis for the hip-build-deps by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/hip-build-deps/archive/c64ec391ab8eaf4c9872660b24a71fda8026b438.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/hip-build-deps@c64ec391ab8eaf4c9872660b24a71fda8026b438",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "hip-build-deps",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "c64ec391ab8eaf4c9872660b24a71fda8026b438"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-hsa-runtime-headers",
+            "comment": "This package was added to the Trivy analysis for the hsa-runtime-headers by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/hsa-runtime-headers/archive/ffa0dc3307be5472ccdf7c9825c3dc68340649de.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/hsa-runtime-headers@ffa0dc3307be5472ccdf7c9825c3dc68340649de",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "hsa-runtime-headers",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "ffa0dc3307be5472ccdf7c9825c3dc68340649de"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree",
+            "comment": "This package was added to the Trivy analysis for the iree by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree/archive/e64cb12ce4c18764f963fb40d892267fa14e5fca.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree@e64cb12ce4c18764f963fb40d892267fa14e5fca",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "e64cb12ce4c18764f963fb40d892267fa14e5fca"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-bare-metal-arm",
+            "comment": "This package was added to the Trivy analysis for the iree-bare-metal-arm by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-bare-metal-arm/archive/96b7ca56e4ff101c952b2a68c364e8f49b1cf77e.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-bare-metal-arm@96b7ca56e4ff101c952b2a68c364e8f49b1cf77e",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-bare-metal-arm",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "96b7ca56e4ff101c952b2a68c364e8f49b1cf77e"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-comparative-benchmark",
+            "comment": "This package was added to the Trivy analysis for the iree-comparative-benchmark by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-comparative-benchmark/archive/ee999f40825f56d565031c34db21afb172381496.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-comparative-benchmark@ee999f40825f56d565031c34db21afb172381496",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-comparative-benchmark",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "ee999f40825f56d565031c34db21afb172381496"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-experimental",
+            "comment": "This package was added to the Trivy analysis for the iree-experimental by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-experimental/archive/fed385b83de941737fe96abeaf3b795af8a5a6e9.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-experimental@fed385b83de941737fe96abeaf3b795af8a5a6e9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-experimental",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "fed385b83de941737fe96abeaf3b795af8a5a6e9"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-jax",
+            "comment": "This package was added to the Trivy analysis for the iree-jax by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-jax/archive/fec8b59f921ac259972d9a5357bf06e2802a9c72.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-jax@fec8b59f921ac259972d9a5357bf06e2802a9c72",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-jax",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "fec8b59f921ac259972d9a5357bf06e2802a9c72"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-llvm-sandbox",
+            "comment": "This package was added to the Trivy analysis for the iree-llvm-sandbox by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-llvm-sandbox/archive/d9ccecf184734122ee26a8d8f607647c8125dadb.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-llvm-sandbox@d9ccecf184734122ee26a8d8f607647c8125dadb",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-llvm-sandbox",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "d9ccecf184734122ee26a8d8f607647c8125dadb"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-nvgpu",
+            "comment": "This package was added to the Trivy analysis for the iree-nvgpu by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-nvgpu/archive/b4b88ffc3a6c3616e7ea929780901c87a314cad1.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-nvgpu@b4b88ffc3a6c3616e7ea929780901c87a314cad1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-nvgpu",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "b4b88ffc3a6c3616e7ea929780901c87a314cad1"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-org.github.io",
+            "comment": "This package was added to the Trivy analysis for the iree-org.github.io by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-org.github.io/archive/51124cdf5d905313b0e3f2ea4d4c8e26919289ca.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-org.github.io@51124cdf5d905313b0e3f2ea4d4c8e26919289ca",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-org.github.io",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "51124cdf5d905313b0e3f2ea4d4c8e26919289ca"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-template-compiler-cmake",
+            "comment": "This package was added to the Trivy analysis for the iree-template-compiler-cmake by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-template-compiler-cmake/archive/10e7a3a3e7a08d0956aa3b8ea878b38f17ca3651.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-template-compiler-cmake@10e7a3a3e7a08d0956aa3b8ea878b38f17ca3651",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-template-compiler-cmake",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "10e7a3a3e7a08d0956aa3b8ea878b38f17ca3651"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-template-runtime-cmake",
+            "comment": "This package was added to the Trivy analysis for the iree-template-runtime-cmake by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-template-runtime-cmake/archive/dd599c33360a4bf46c1cdbd5074856e0d0c97ccf.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-template-runtime-cmake@dd599c33360a4bf46c1cdbd5074856e0d0c97ccf",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-template-runtime-cmake",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "dd599c33360a4bf46c1cdbd5074856e0d0c97ccf"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-test-suites",
+            "comment": "This package was added to the Trivy analysis for the iree-test-suites by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-test-suites/archive/59f1f1c46e46628e364a3debbb089bc8be074110.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-test-suites@59f1f1c46e46628e364a3debbb089bc8be074110",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-test-suites",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "59f1f1c46e46628e364a3debbb089bc8be074110"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-tf",
+            "comment": "This package was added to the Trivy analysis for the iree-tf by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-tf/archive/761659efeac72806ee75caccc9fe65e6d1655f3c.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-tf@761659efeac72806ee75caccc9fe65e6d1655f3c",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-tf",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "761659efeac72806ee75caccc9fe65e6d1655f3c"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-torch",
+            "comment": "This package was added to the Trivy analysis for the iree-torch by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-torch/archive/f84123ddb1086cc32674883114672e78c379a545.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-torch@f84123ddb1086cc32674883114672e78c379a545",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-torch",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "f84123ddb1086cc32674883114672e78c379a545"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-iree-turbine",
+            "comment": "This package was added to the Trivy analysis for the iree-turbine by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/iree-turbine/archive/e4550f37dcd8b9b691db93c30b478c1d67eee83b.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/iree-turbine@e4550f37dcd8b9b691db93c30b478c1d67eee83b",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "iree-turbine",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "e4550f37dcd8b9b691db93c30b478c1d67eee83b"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-llvm-project",
+            "comment": "This package was added to the Trivy analysis for the llvm-project by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/llvm-project/archive/edd72f9f08fd505eccc76e7fa16558332185c361.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/llvm-project@edd72f9f08fd505eccc76e7fa16558332185c361",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "llvm-project",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "edd72f9f08fd505eccc76e7fa16558332185c361"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-megabump",
+            "comment": "This package was added to the Trivy analysis for the megabump by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/megabump/archive/37cbfaf83374f51d6d02528745711d9d7d515a69.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/megabump@37cbfaf83374f51d6d02528745711d9d7d515a69",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "megabump",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "37cbfaf83374f51d6d02528745711d9d7d515a69"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-stablehlo",
+            "comment": "This package was added to the Trivy analysis for the stablehlo by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/stablehlo/archive/1c1f089849546310018e29afce46401d487d533f.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/stablehlo@1c1f089849546310018e29afce46401d487d533f",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "stablehlo",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "1c1f089849546310018e29afce46401d487d533f"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-iree-org-torch-mlir",
+            "comment": "This package was added to the Trivy analysis for the torch-mlir by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/iree-org/torch-mlir/archive/ccfe6ccf2a7f8e4bf62b8cbde5242116ba25323b.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/iree-org/torch-mlir@ccfe6ccf2a7f8e4bf62b8cbde5242116ba25323b",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND GPL-3.0-only AND LGPL-3.0-only AND BSD-3-Clause AND MIT AND NCSA AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "torch-mlir",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "ccfe6ccf2a7f8e4bf62b8cbde5242116ba25323b"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-138bdf8a170cdee",
+            "relatedSpdxElement": "SPDXRef-Package-1ee34caec4ff57df",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-138bdf8a170cdee",
+            "relatedSpdxElement": "SPDXRef-Package-3c23c59b008df993",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-138bdf8a170cdee",
+            "relatedSpdxElement": "SPDXRef-Package-43f136e6037a7e12",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-138bdf8a170cdee",
+            "relatedSpdxElement": "SPDXRef-Package-6e77a38cf513d543",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-138bdf8a170cdee",
+            "relatedSpdxElement": "SPDXRef-Package-7628a422a0dc9533",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-138bdf8a170cdee",
+            "relatedSpdxElement": "SPDXRef-Package-817b5b6fbca37d6d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-138bdf8a170cdee",
+            "relatedSpdxElement": "SPDXRef-Package-8978072ea958a385",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-138bdf8a170cdee",
+            "relatedSpdxElement": "SPDXRef-Package-b51452ec83689cf3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-138bdf8a170cdee",
+            "relatedSpdxElement": "SPDXRef-Package-c5746424dd91f41b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-138bdf8a170cdee",
+            "relatedSpdxElement": "SPDXRef-Package-d04475b5f90b696b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-138bdf8a170cdee",
+            "relatedSpdxElement": "SPDXRef-Package-f70a2d4e73c18e8b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-204d207c72c8f564",
+            "relatedSpdxElement": "SPDXRef-Package-80ef42a8cad397",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-383493605bda01a6",
+            "relatedSpdxElement": "SPDXRef-Package-a47e50be7b9a349f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-383493605bda01a6",
+            "relatedSpdxElement": "SPDXRef-Package-d0f39563345c43c5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4430fc215706fd86",
+            "relatedSpdxElement": "SPDXRef-Package-6a3a62c888034c21",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-45456b08083574dc",
+            "relatedSpdxElement": "SPDXRef-Package-153a21a96c19f316",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-45456b08083574dc",
+            "relatedSpdxElement": "SPDXRef-Package-4b12bb18902e911",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-45456b08083574dc",
+            "relatedSpdxElement": "SPDXRef-Package-db2d8cefc70f1062",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-45456b08083574dc",
+            "relatedSpdxElement": "SPDXRef-Package-e1a6744694bed76c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5adea7683a70ea18",
+            "relatedSpdxElement": "SPDXRef-Package-28ac53ec372eeee6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5adea7683a70ea18",
+            "relatedSpdxElement": "SPDXRef-Package-4e7d36d89821a2d5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5adea7683a70ea18",
+            "relatedSpdxElement": "SPDXRef-Package-6e6bd932d23c2ebe",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5adea7683a70ea18",
+            "relatedSpdxElement": "SPDXRef-Package-733e9f0e22e5b4d4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5adea7683a70ea18",
+            "relatedSpdxElement": "SPDXRef-Package-999762bf98b76fc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5adea7683a70ea18",
+            "relatedSpdxElement": "SPDXRef-Package-a74e162801238cb8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5adea7683a70ea18",
+            "relatedSpdxElement": "SPDXRef-Package-c828e76e71b4521a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5adea7683a70ea18",
+            "relatedSpdxElement": "SPDXRef-Package-e8dcfa04f661a688",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5adea7683a70ea18",
+            "relatedSpdxElement": "SPDXRef-Package-f54d302fde752c0b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-1376cb6aee28dca1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-17ff50199ed48dba",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-197c3d7467477a9b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-5ad678ac33821b6c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-5c9c602bb8262239",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-6a30bfeba2f1cd55",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-862df9bdbda56d8b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-997a31d5df8b6430",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-a3281910a1223068",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-a8ca616996d0b92b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-a981041dd10f966b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-c6b8d9d0c954645d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-e5609c445612d034",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-ec65a23f104a0cfa",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5af6abea6aa82c23",
+            "relatedSpdxElement": "SPDXRef-Package-f3969a72e82b6f53",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-6741fea87fae7419",
+            "relatedSpdxElement": "SPDXRef-Package-6088e767efb9ab81",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-7375b3d7c66c93f9",
+            "relatedSpdxElement": "SPDXRef-Package-33772353963cd813",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-95954ee94e9c5720",
+            "relatedSpdxElement": "SPDXRef-Package-e2d0f0432b7af119",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-1762403d6803fc35",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-295f3061cc525449",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-2c4bcdaba12c07db",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-3675440b273be79f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-4609233a75df1bb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-478440866de21c42",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-59df58a1e302f5bb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-5d0e58231c774bb4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-5dd9d2026314c5f4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-5f267391a27e6bed",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-6994145849daee59",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-7d78a495db075c80",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-80482d833f885969",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-8fb3b72eda047833",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-a5515190d81e8fe4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-bdf26fcd8bb7cf65",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-daf3af9db1986e5c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-e04045924aa511e4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-f1d95396cef660c6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-f3ca099b5efed496",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-f786417236bb0aae",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bec2995e89a3290e",
+            "relatedSpdxElement": "SPDXRef-Package-ff30c7172717aa78",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ccd87be3767c980",
+            "relatedSpdxElement": "SPDXRef-Package-2efa568028d3d781",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ccd87be3767c980",
+            "relatedSpdxElement": "SPDXRef-Package-8a757b9dd3f8e6fb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ccd87be3767c980",
+            "relatedSpdxElement": "SPDXRef-Package-a95d6dcbbda2fb29",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ccd87be3767c980",
+            "relatedSpdxElement": "SPDXRef-Package-a985b669b9da0e0b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ccd87be3767c980",
+            "relatedSpdxElement": "SPDXRef-Package-c02c56a96bb030d8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ccd87be3767c980",
+            "relatedSpdxElement": "SPDXRef-Package-cc7855511643f571",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ccd87be3767c980",
+            "relatedSpdxElement": "SPDXRef-Package-cce374786c98faa4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ccd87be3767c980",
+            "relatedSpdxElement": "SPDXRef-Package-f58390eeba16dff4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-dbfb87fdc7932055",
+            "relatedSpdxElement": "SPDXRef-Package-904f003da5e1fbcd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e08a14bafa8ac295",
+            "relatedSpdxElement": "SPDXRef-Package-5e650a5a41942122",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e08a14bafa8ac295",
+            "relatedSpdxElement": "SPDXRef-Package-947188ec44316fd3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree",
+            "relatedSpdxElement": "SPDXRef-Application-138bdf8a170cdee",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree-comparative-benchmark",
+            "relatedSpdxElement": "SPDXRef-Application-204d207c72c8f564",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree",
+            "relatedSpdxElement": "SPDXRef-Application-383493605bda01a6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree-experimental",
+            "relatedSpdxElement": "SPDXRef-Application-4430fc215706fd86",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree-llvm-sandbox",
+            "relatedSpdxElement": "SPDXRef-Application-45456b08083574dc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree-llvm-sandbox",
+            "relatedSpdxElement": "SPDXRef-Application-5adea7683a70ea18",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree-llvm-sandbox",
+            "relatedSpdxElement": "SPDXRef-Application-5af6abea6aa82c23",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree-comparative-benchmark",
+            "relatedSpdxElement": "SPDXRef-Application-6741fea87fae7419",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree-comparative-benchmark",
+            "relatedSpdxElement": "SPDXRef-Application-7375b3d7c66c93f9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree-comparative-benchmark",
+            "relatedSpdxElement": "SPDXRef-Application-95954ee94e9c5720",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree-comparative-benchmark",
+            "relatedSpdxElement": "SPDXRef-Application-bec2995e89a3290e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree-turbine",
+            "relatedSpdxElement": "SPDXRef-Application-ccd87be3767c980",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree-comparative-benchmark",
+            "relatedSpdxElement": "SPDXRef-Application-dbfb87fdc7932055",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfai-2-iree-org-iree",
+            "relatedSpdxElement": "SPDXRef-Application-e08a14bafa8ac295",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-base-docker-images",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-hip-build-deps",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-hsa-runtime-headers",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-bare-metal-arm",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-comparative-benchmark",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-experimental",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-jax",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-llvm-sandbox",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-nvgpu",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-org.github.io",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-template-compiler-cmake",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-template-runtime-cmake",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-test-suites",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-tf",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-torch",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-iree-turbine",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-llvm-project",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-megabump",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-stablehlo",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e0e54480b66fc4fc",
+            "relatedSpdxElement": "SPDXRef-lfai-2-iree-org-torch-mlir",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
