@@ -1,0 +1,70 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T16:48:17Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpc1crv44z/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpc1crv44z/code-04694292-37ee-4aca-b2e6-3563b65d6126",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-78fc87c0b9e6f8b2",
+            "annotations": [
+                {
+                    "annotationDate": "2025-01-29T16:48:17Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfai-2.artigraph",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "2025-01"
+        },
+        {
+            "SPDXID": "SPDXRef-lfai-2-artigraph-artigraph",
+            "comment": "This package was added to the Trivy analysis for the artigraph by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/artigraph/artigraph/archive/a158a7eae0406c35905d8bb3b2f27a733c2c18bc.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/artigraph/artigraph@a158a7eae0406c35905d8bb3b2f27a733c2c18bc",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "artigraph",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfai-2",
+            "supplier": "Organization: Linux Foundation Project lfai-2",
+            "versionInfo": "a158a7eae0406c35905d8bb3b2f27a733c2c18bc"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-78fc87c0b9e6f8b2",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-78fc87c0b9e6f8b2",
+            "relatedSpdxElement": "SPDXRef-lfai-2-artigraph-artigraph",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
