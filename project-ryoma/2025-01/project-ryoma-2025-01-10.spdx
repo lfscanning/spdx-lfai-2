@@ -1,0 +1,2818 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_project-ryoma-2025-01-10.zip_1737623125.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-23T09:05:25Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: project-ryoma-2025-01-10.zip
+PackageFileName: project-ryoma-2025-01-10.zip
+SPDXID: SPDXRef-upload1768
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 1ec999be659dd7ff7f58ed1054c573ef70da023f
+PackageChecksum: SHA1: 4d317643ac84a334d7c47b10e03e743b6eeccb7d
+PackageChecksum: SHA256: 359816c68e3d027cd0479dd36a49377a83a2d4233a0f04eb2e306d7457209042
+PackageChecksum: MD5: 731e7595d4ca7dd5c62625fd12eb3351
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1768
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/README.md
+SPDXID: SPDXRef-item10432907
+FileChecksum: SHA1: c624a54dca26ca1160c8ab56d116e8d59c8b1100
+FileChecksum: SHA256: d097788c47c9d943e1fbb85c4717aa513bbaa8a40d398bbbeed4cf3c4afa318d
+FileChecksum: MD5: 39b8daa8aa54df3b8fbb664a125932b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/LICENSE
+SPDXID: SPDXRef-item10432875
+FileChecksum: SHA1: 01426498a8ccf7977d3f9e1e75f0711be26f6e06
+FileChecksum: SHA256: bacaa31ccba79dc2195b3fe927531a44466804dcad3a27459be1e913001fe536
+FileChecksum: MD5: eb802918d4a959791a2620d99c4ee81d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+copyright owner as "Not a Contribution."
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2024 ryoma </text>
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/pyproject.toml
+SPDXID: SPDXRef-item10432994
+FileChecksum: SHA1: 40185e39dcc7ebc0967be68c63331d4ff32dae86
+FileChecksum: SHA256: 0b03b2d4458e6ca63b8349df8923ccdb7c4cacfd279f7a0381a0ede500767765
+FileChecksum: MD5: 8ccb6e190c93038552b39c8b53142d13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Python
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/index.md
+SPDXID: SPDXRef-item10432817
+FileChecksum: SHA1: aab2d858ce2807094f7bc6b9e73711cf09b3e9e9
+FileChecksum: SHA256: ca881bf71cdd16eb4fb6f122fd671456e321ac66b20dcf7cd631c13e65b63036
+FileChecksum: MD5: bf7d5f484349ce47353987a39592eecb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) Ryoma Project Contributors </text>
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/research/nn/transformer.py
+SPDXID: SPDXRef-item10432789
+FileChecksum: SHA1: c0abdd8484aa118457c89d13d58154997e6f34fa
+FileChecksum: SHA256: b1504f5e905988038751abbdd7d298d3151cf6c31741bd2a32f3e18d2948ed70
+FileChecksum: MD5: e4dda6babce099d634143616c96df1d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/research/nn/simple_nn.py
+SPDXID: SPDXRef-item10432790
+FileChecksum: SHA1: 59ef1cf251f9db96981ad6b8d264d97876a3cfdc
+FileChecksum: SHA256: 2a6234b316c08a9ca08a53b827056aeb2e5755e51857c0529456e507c601cc6c
+FileChecksum: MD5: 4f27a59f84c8710d459efac9a45489ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/research/nn/transformer_classifier.py
+SPDXID: SPDXRef-item10432791
+FileChecksum: SHA1: eba0cde5dc86b39d90875c88117b8981f0627117
+FileChecksum: SHA256: c2e47c7ded0eb58da7ca8761397fd0cafecb9097837c9b492acedf5adca38b63
+FileChecksum: MD5: f32511487f9c931d212e40aa772a2130
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/research/azure_openai.py
+SPDXID: SPDXRef-item10432792
+FileChecksum: SHA1: 6684782305f1a9cf49655e81a2dde9b9788685da
+FileChecksum: SHA256: 687f0dfca5bb47e819607aaad14759e4966e5c51d4c425a7a59f51d1c3ebe6bf
+FileChecksum: MD5: f6da71b919999a1d9343b10452a99292
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/tests/unit_tests/test_agent.py
+SPDXID: SPDXRef-item10432795
+FileChecksum: SHA1: ca15a864137804ed08676a777fee3db33ff331c1
+FileChecksum: SHA256: 1fb164d064578c6162f466dd3dcc9d7bd197469d79ca7ec5f11e836135d2008d
+FileChecksum: MD5: 83b4ca23a26fe7e85a73c501d32f9aa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/tests/unit_tests/test_utils.py
+SPDXID: SPDXRef-item10432796
+FileChecksum: SHA1: b8496f29d2e9af3fe9172d4db1a2dc661cd247f5
+FileChecksum: SHA256: 9fc8548ec25c062823e43a199069983c18dfb97dabae49915c736dbe37b27fbd
+FileChecksum: MD5: 07295db6796322e4ecb028de5d9ee193
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/tests/unit_tests/test_catalog.py
+SPDXID: SPDXRef-item10432797
+FileChecksum: SHA1: 1fc6bb7109ae891d8ad37531d090b1fd49234a67
+FileChecksum: SHA256: db6ef6f403b1d2c3f462f8631c5853b696581a2833710a46e69b3d7871345778
+FileChecksum: MD5: d40760cc1b9ca28aaf065d603e58ecc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/tests/unit_tests/datasource/test_duckdb.py
+SPDXID: SPDXRef-item10432799
+FileChecksum: SHA1: 9f8c0a045a980b2bba7fb87b1632d9f1c8f92d74
+FileChecksum: SHA256: c10392334826f236ed9a19ff56f0dc3269e59a8841cd354b51d73cdbf200b054
+FileChecksum: MD5: 054683fcec4791a518bf9e140bdd4a78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/tests/unit_tests/test_tool.py
+SPDXID: SPDXRef-item10432800
+FileChecksum: SHA1: cb717daa404e7f5f0e8dd8e2c72de45dee4fa374
+FileChecksum: SHA256: 9d8ef12b0f7c63025b5898888c3502d6a3bc0a77ed21e02039af5fce1ab29094
+FileChecksum: MD5: c897a22d34208e5b60ffdfd6caa8d9ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/tests/unit_tests/test_datasource.py
+SPDXID: SPDXRef-item10432801
+FileChecksum: SHA1: 28057da1f0d2448222fb36cfbfe681d1a939f47d
+FileChecksum: SHA256: e553a34089d04589847efe5b9e9039254c04aaab6fb5cf401dc196e098665a09
+FileChecksum: MD5: 65aae665f96ab96fee03c715ea83830b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/tests/unit_tests/__init__.py
+SPDXID: SPDXRef-item10432802
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/tests/unit_tests/test_prompt_template.py
+SPDXID: SPDXRef-item10432803
+FileChecksum: SHA1: 9ccfb9cb6165c0f48850292d85cdeaa233aa8ef5
+FileChecksum: SHA256: 729c7fa85e296b9eedba0a5dd496ae3e08f04e0f03210ba5f7ffaa45ff29978d
+FileChecksum: MD5: 711c145f3e14ebf4b2d438b5c391fa60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/tests/__init__.py
+SPDXID: SPDXRef-item10432804
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/tests/e2e/test_agent.py
+SPDXID: SPDXRef-item10432806
+FileChecksum: SHA1: 13f06bce7d5f72e08847e4fe6399132e4a8c37f1
+FileChecksum: SHA256: 26f3680dd689fe2dcb47cd225aa738c1044b21ce9b60f0306c4fdb9b01f720c7
+FileChecksum: MD5: db85a8377d25028cd1f026db5408d264
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/tests/e2e/test_datasource.py
+SPDXID: SPDXRef-item10432807
+FileChecksum: SHA1: 1baf1a968f5764573fda4577c464e7e251b0c238
+FileChecksum: SHA256: b50e3bd90b004859bb18914924fdb7cc6e7e339ad53e37ee2686d84f0b0a5c3d
+FileChecksum: MD5: ede0a79c4267756aa3515893e2a1385c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/tests/e2e/__init__.py
+SPDXID: SPDXRef-item10432808
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item10432809
+FileChecksum: SHA1: f7a087000f3e7c6afa83dcbd36bf4882c09c51b5
+FileChecksum: SHA256: c95cce924e7dc09551852dc387478ff1c7262f341aea641c01a722bbff15265d
+FileChecksum: MD5: 2eb882c28e270dc95c730d9c6286cf75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/Makefile
+SPDXID: SPDXRef-item10432811
+FileChecksum: SHA1: 2be856df3072a41f2d96bfb2c33ccf896dd30d82
+FileChecksum: SHA256: e33bf74d59130029ba24168a813112dd923d7044d780ce942db6645d93f56acf
+FileChecksum: MD5: 45ecc4dd568420521f285e291939ecf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/make.bat
+SPDXID: SPDXRef-item10432812
+FileChecksum: SHA1: ef366ce7777e7a9eeac10d85ef3cab546141ccf2
+FileChecksum: SHA256: 2f82394fbb835088f01b231127ecbd1684fad6cc48c82b9a62e2722edf1cfa70
+FileChecksum: MD5: 31a400c00b28c398f2490a8f05b6e168
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/contribution/index.md
+SPDXID: SPDXRef-item10432815
+FileChecksum: SHA1: e948fc8782be03c6a263c64250bd42660b2f82f3
+FileChecksum: SHA256: f5c9580e3f9a335d977fd183274dbda6fa3cbcce5969e22d901f9e7a562e132b
+FileChecksum: MD5: e477700247fabec2eb3fc67464852ec1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/contribution/contribution.md
+SPDXID: SPDXRef-item10432816
+FileChecksum: SHA1: d917f1954a50bb0bf170ced74255a43091ce7065
+FileChecksum: SHA256: 6ed885589a9672389141ed6c2285e949b572f9da012dff5f0b41e0dcabeb3597
+FileChecksum: MD5: 7dac7b99c27aa50e6620b72c1d429ffa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/aita-lab/ryomalab.md
+SPDXID: SPDXRef-item10432819
+FileChecksum: SHA1: baf9900d1255d484393eff7d816608ec8d02917b
+FileChecksum: SHA256: ff66aaaee662466c140422099c8c198dbc55f8c02440ef38687cdcbe4a5573fd
+FileChecksum: MD5: c83d5392bfcd02e4fea50c0fd573d534
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/aita-lab/index.md
+SPDXID: SPDXRef-item10432820
+FileChecksum: SHA1: 0b06b1d8e85a121a794dfedca484291b377f8ab3
+FileChecksum: SHA256: fffc7ce447f94e208211be006652dfa4f28b7c5e45a8d71128f6dcc7e631539e
+FileChecksum: MD5: 05418d219f10a5f38ea201aabab59515
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/aita-lab/data-source.md
+SPDXID: SPDXRef-item10432821
+FileChecksum: SHA1: 64c3810fc696aa77b5e2c1fa46735627248a9b92
+FileChecksum: SHA256: 066c73a1360f7a986c3e11519bd894965fa99376d9787b0f1c8a9798326fbff7
+FileChecksum: MD5: fe56bab106071d25c117b8e24b9e2209
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/aita-lab/chat.md
+SPDXID: SPDXRef-item10432822
+FileChecksum: SHA1: 09185cadbc91a1a947e8ac97e6c8d34f3a53836e
+FileChecksum: SHA256: 2a9f9f79259e6b4a9395dc317c1b395e61b17308e2ea62f3f3edd806c980fa33
+FileChecksum: MD5: 23c8a618bac75986f3259e1714ccb5e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/roadmap/index.md
+SPDXID: SPDXRef-item10432824
+FileChecksum: SHA1: 96f1fe920d10714095d6c0cd8dd33cb892ee9114
+FileChecksum: SHA256: f0e1a8719481eaa992ac42979b2c956e146d2ae1168eb7ab6f86ddb2e8c758ab
+FileChecksum: MD5: 2004b000bfa95e9ab975e059ca207fe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/roadmap/roadmap.md
+SPDXID: SPDXRef-item10432825
+FileChecksum: SHA1: a2e0f82a84ba3d35de8b027716ff316aa70026f9
+FileChecksum: SHA256: d700354b1dbd99f770d49b935476157279fafafed2b95d227b8ce8a421024870
+FileChecksum: MD5: fa01ef928a3d1d252db09f3c895193e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/tool/pandas.md
+SPDXID: SPDXRef-item10432828
+FileChecksum: SHA1: e3c7a45952bdcce966a58008000c1c086d0a260f
+FileChecksum: SHA256: c89be773159bbf06cbd4ed2d2aba228b1851a358250fe657c374f4d46e7d2ab4
+FileChecksum: MD5: da03399f314ab80783150b9831749e29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/tool/index.md
+SPDXID: SPDXRef-item10432829
+FileChecksum: SHA1: d62661b20684bda5e2ca236b926d971bb344a81f
+FileChecksum: SHA256: c25f23d0b7b381ba70d59dcc957fb95456ce51e311e060b0a50d17253e3d385e
+FileChecksum: MD5: 9326af43ff18980d3da532d9d74b18b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/tool/pyarrow.md
+SPDXID: SPDXRef-item10432830
+FileChecksum: SHA1: 24beaed1dfe9e74e74ffafafea126ccb383112cc
+FileChecksum: SHA256: e185b23590ef7c1fa548bb292e337a01fcf6df261ba706deea51a92b48abaef5
+FileChecksum: MD5: 4931ef2aab7d1e954784165ec81dd491
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/tool/sql.md
+SPDXID: SPDXRef-item10432831
+FileChecksum: SHA1: e320abd6b4cac447f9731018b258e3d61f4c2838
+FileChecksum: SHA256: a0de6fd2c5e7c4efca852ba2baf745cec8958223da5189370e4ba7789b06952c
+FileChecksum: MD5: 5e720d0a3e6f71e5c68749bfdb115282
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/tool/pyspark.md
+SPDXID: SPDXRef-item10432832
+FileChecksum: SHA1: 840f375a2da59a65f02d8133dab6b72171847775
+FileChecksum: SHA256: 7321ed926b1c7b362e9e34a86005137f36816936bc6d9e3783f24ed46d3c81f8
+FileChecksum: MD5: 0abd739959d9dc2c9f1d5a1ba3d67480
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/tool/IPython.md
+SPDXID: SPDXRef-item10432833
+FileChecksum: SHA1: 577699ee62b54cb151e05bbd5c2c3c4904697a35
+FileChecksum: SHA256: 754ae32cf8dde916e044f4caa1065ef71042ab4a695dd9322eebc951efbe96f9
+FileChecksum: MD5: a302cc6214c13ee7c904c95ca7962c20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/agent/pandas.md
+SPDXID: SPDXRef-item10432835
+FileChecksum: SHA1: 2e130b3bafb947cc77c3bcb23ce02d50074027b7
+FileChecksum: SHA256: 0494df2f558e15856c8816f25a6a341140a1dd026e60e04423954a707d510ca0
+FileChecksum: MD5: efba9349ed03ebfdf7af27c17d7d5da5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/agent/index.md
+SPDXID: SPDXRef-item10432836
+FileChecksum: SHA1: b0143a6677d2fc744780ad1c8429e23ffd79468e
+FileChecksum: SHA256: a9274e908233742de3a7ba67bc0b8c0272adad39e3145f09636071b4e43b093f
+FileChecksum: MD5: 08168793f8f6c6f3ec025ff059e43234
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/agent/python.md
+SPDXID: SPDXRef-item10432837
+FileChecksum: SHA1: a34a76c51afc1b68e00dad6b460f3a20d653f136
+FileChecksum: SHA256: 57f9bddeac9f6c60a3a6da0b4897fd091ad410b8ae6b238305a35df0f7db3ae9
+FileChecksum: MD5: 9efae00751346728c297afc0a5057a42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/agent/pyarrow.md
+SPDXID: SPDXRef-item10432838
+FileChecksum: SHA1: 44a3096fc916ed6509470b04da66ca1fc0e0dc9f
+FileChecksum: SHA256: f10d978609e29be34e9c6a4ef214d7613841992cc3e1e627a8f1676332524beb
+FileChecksum: MD5: c7484915082db28de57db3232bdef381
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/agent/sql.md
+SPDXID: SPDXRef-item10432839
+FileChecksum: SHA1: 5c5e414fac3a7e8a9d8a8fc9a17399da99fd4e6e
+FileChecksum: SHA256: 3bc8175e64b34c354a72775329e247d0427de29c47ac1e274dcb4580a9061a4d
+FileChecksum: MD5: a8b445462a17f12e2e30a46674d22ce5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/agent/spark.md
+SPDXID: SPDXRef-item10432840
+FileChecksum: SHA1: 0775b3461085807c8ae5f9c5f35d4bfaabb0e75b
+FileChecksum: SHA256: f7e9577793c4dbce0cc82e5c32122ee5a3cac3142a6f0c2f73b0f5e751d9d377
+FileChecksum: MD5: cec171c769015e9dcab7043b53a6443e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/index.md
+SPDXID: SPDXRef-item10432841
+FileChecksum: SHA1: ee4004b906ca7a0973d92b01a40b6e1229b5a180
+FileChecksum: SHA256: 1eb18081f490e6857170b87e9da46a3edf26e5caf442f70dd99453e96428072f
+FileChecksum: MD5: 491b37c9eee473acc871a41e48d3046b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/data-sources/file.md
+SPDXID: SPDXRef-item10432843
+FileChecksum: SHA1: 8d991098fd14b67e0b8b8183639bca504e368e5f
+FileChecksum: SHA256: 1b3e1379fa94998b9e49f215ca0e5ba9d2c0ef572ba5dc4e5f75675d69b7a4c0
+FileChecksum: MD5: 6f244e3593cab4acfafd76fb3c7c9eca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/data-sources/index.md
+SPDXID: SPDXRef-item10432844
+FileChecksum: SHA1: 5ad05cce4faae21c895c66ba5f891cf74af2556e
+FileChecksum: SHA256: 01d79a5a52892976c2a100496ec64340dcd246a92cc172a22c3519f1966bc5f2
+FileChecksum: MD5: 4629a9cc6130b426edb4298ce43d6513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/data-sources/bigquery.md
+SPDXID: SPDXRef-item10432845
+FileChecksum: SHA1: 890adf4fca0ddb06c624d71daf17aee598d73ae2
+FileChecksum: SHA256: 9e3f8a44a6707d27d0aa2f5fca666ecf82fa7bfbff23265bdf10421148073a8d
+FileChecksum: MD5: 509870025b27ae35fa4dc844bf868669
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/data-sources/postgresql.md
+SPDXID: SPDXRef-item10432846
+FileChecksum: SHA1: d587424407c2cfcc979f7661152b32f288f38562
+FileChecksum: SHA256: 57b943f6d0efca80184f4edd672b4df7a60daabac302b26ac28e2de3790f2abf
+FileChecksum: MD5: 49ce5ec5c17af63b0735591981d76d42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/reference/data-sources/snowflake.md
+SPDXID: SPDXRef-item10432847
+FileChecksum: SHA1: a0f58ed12eb8dd4821e515367b545dcb56cf0657
+FileChecksum: SHA256: 871661c0b35fb885adf88188e067f7ffc84f77eddfd17ee358602d319a429c29
+FileChecksum: MD5: c2fbff78dea0b3184436530d93511454
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/architecture/architecture.md
+SPDXID: SPDXRef-item10432849
+FileChecksum: SHA1: b231253800f77fd4b895ebaf1d31e97726abb73d
+FileChecksum: SHA256: 50fda4e177f0c407637c53b4ee0f0df091ae479c5671fa52b08cd18f0ab5b0cb
+FileChecksum: MD5: 709e87cf9deea53edc224dd9e8901d67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/architecture/index.md
+SPDXID: SPDXRef-item10432850
+FileChecksum: SHA1: 860e388796f6e2f50a0d63aa739d953609148377
+FileChecksum: SHA256: cad8ca2ff7ec9adaaa87a86ef1e291567e69a03e3c0aea048caa29ed37aaf659
+FileChecksum: MD5: 4cd50945a017cde63d9ee781bb63a42c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/architecture/img_1.png
+SPDXID: SPDXRef-item10432851
+FileChecksum: SHA1: 5b0d60b740851c6e48f823c0784acfa780a04b56
+FileChecksum: SHA256: 976eec88c06c19b4178d0a629e2b6b125869d59a9e51397f42a012bea75dd645
+FileChecksum: MD5: 26ead3bb83e463eb093941c347c51011
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/architecture/validate.excalidraw
+SPDXID: SPDXRef-item10432852
+FileChecksum: SHA1: a20365154e948b9a1b41491125c42d36f434db0d
+FileChecksum: SHA256: 11c41fda2e303bdd7718e3fde834b2eaa1dd37cb59bc29874ab2c8b293e144c6
+FileChecksum: MD5: 8054b2bfc7b61d3d50dc13c258926339
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/architecture/arc.excalidraw
+SPDXID: SPDXRef-item10432853
+FileChecksum: SHA1: 6996e111bfc9aec44627e222f888aa5cf5643fe4
+FileChecksum: SHA256: 8ebee858009659f108f0d8b8806d64dffa6b6c1cedace77b48d47eda1df9615c
+FileChecksum: MD5: 4c3d7f8f5845fd6ee52503dff8b26000
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/architecture/img.png
+SPDXID: SPDXRef-item10432854
+FileChecksum: SHA1: ef7f35d1ee261fa83e8d1520bfc5edc2511a2ef2
+FileChecksum: SHA256: 14a7e7778bf616eac2f5cc22bdcf00fbf8175ae1db72e3795ba5b75a4791953a
+FileChecksum: MD5: b501ccb2cdd24445c5c0810a69efbca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/architecture/Architecture_v1.png
+SPDXID: SPDXRef-item10432855
+FileChecksum: SHA1: 7974e46cd12773dc37e020dbbd775e515c0228c2
+FileChecksum: SHA256: 1a56d096df386bd2f484a8266fbb95864b54e29780bfde1377e1d558d167b6ba
+FileChecksum: MD5: 75799063eb41f0082593ac08c264c484
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/requirements.txt
+SPDXID: SPDXRef-item10432856
+FileChecksum: SHA1: cf787137dbd532ec7e3975bf427a3ef22b49f532
+FileChecksum: SHA256: 65958301b484b3d61c9c8706b8989cd072ca04c5d301172c01143300061e9d71
+FileChecksum: MD5: fd6c8b774474896e2ec3d6d68930f94e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/tech-specs/tech_spec_v1.md
+SPDXID: SPDXRef-item10432858
+FileChecksum: SHA1: 8c9ee1c77aa3aef51e86f952eecfeca5a6f97190
+FileChecksum: SHA256: 7a27d54daa9679b77ac3e1036033c4f24229a92d288c9bf6f4290f9e3482b15a
+FileChecksum: MD5: da80b975196685382695fe132d023994
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/tech-specs/index.md
+SPDXID: SPDXRef-item10432859
+FileChecksum: SHA1: 43621f3e26de8bf5bfc5c56e0a2a5e29957fc133
+FileChecksum: SHA256: 06bf8d79edfb17c9c21278a61366ae3c24028ef4757c05acdf3388da86e94d9e
+FileChecksum: MD5: 1dbb743a648217e41e0b49b918dceff3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/tech-specs/Architecture_v1.png
+SPDXID: SPDXRef-item10432860
+FileChecksum: SHA1: 7974e46cd12773dc37e020dbbd775e515c0228c2
+FileChecksum: SHA256: 1a56d096df386bd2f484a8266fbb95864b54e29780bfde1377e1d558d167b6ba
+FileChecksum: MD5: 75799063eb41f0082593ac08c264c484
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/installation/index.md
+SPDXID: SPDXRef-item10432862
+FileChecksum: SHA1: 7e7f2eb89f4e1408ff82062191a2f599c0e778ea
+FileChecksum: SHA256: d0b304d44b205fa37e31ded793308ee7fc44556c256253c8a73df2392b89fae4
+FileChecksum: MD5: afd76f1597ad1779ff1a5a4c91c92110
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/installation/installation.md
+SPDXID: SPDXRef-item10432863
+FileChecksum: SHA1: 88f1362b886102d4650c594d74e6f960eaf6e135
+FileChecksum: SHA256: 62a84486b5da2ce99b93139b2f25ba3903b2611b14b375704c35bf8d73b73028
+FileChecksum: MD5: 3196bbd6d238d0e814dd8301c6e747da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/getting-started/index.md
+SPDXID: SPDXRef-item10432865
+FileChecksum: SHA1: 7c367325c6332748e81f5d0df7eae6ed29cc1c2e
+FileChecksum: SHA256: 22e5ec90a041a559df3c659337503765cd9ce63e976df4a30ccfc8a3dd1a39e1
+FileChecksum: MD5: f70c36cbd6aa143cb885240b88d94385
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/getting-started/quickstart.md
+SPDXID: SPDXRef-item10432866
+FileChecksum: SHA1: 967e5202f73d7ad2aba5338ba9054c3312e2440d
+FileChecksum: SHA256: 521157c6b8a41b07a2ea6675bc40c41aa57dabf73de5ee5b8042b2b97b8def1b
+FileChecksum: MD5: 03ed1da46fcd2706ac100800fa12a097
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/_static/css/custom.css
+SPDXID: SPDXRef-item10432869
+FileChecksum: SHA1: abfa68720987a7215f3fbca246f026420c914d14
+FileChecksum: SHA256: c33b2f47c5bc1dcf896ff37730000e8fa52949dc52bf485bbecca8469c2a17f5
+FileChecksum: MD5: 5169feaea0d0c19123e9c98bd63debc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/_static/ryoma.png
+SPDXID: SPDXRef-item10432870
+FileChecksum: SHA1: 14ce7ad3e0b592b823d64f998853ac2d42d50e5c
+FileChecksum: SHA256: afeefdcc6741cb352c33eddad3db1c061b0bebbe1a7e3acd54622a2ee32f08ad
+FileChecksum: MD5: dcedaf677342fcd55d88a1cd31f689a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/_static/diff2html.min.css
+SPDXID: SPDXRef-item10432871
+FileChecksum: SHA1: e2b31a86008d83c0f5f2eb07ce2567100dc1c4e4
+FileChecksum: SHA256: 0d9e05c88715034ef0b1acef78703b017ffb7ae8d43a1d375948f10b4889e4fe
+FileChecksum: MD5: ae40cb280434514ce286ed4338917f96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/_static/diff2html-ui-slim.min.js
+SPDXID: SPDXRef-item10432872
+FileChecksum: SHA1: ffbb65d7a7b641cc749cc630e3e81da26af8e4b3
+FileChecksum: SHA256: fa2760208bfc6212b193bc098163cba9f3c177bf11ca307fc4ec8e54eb2b9e2d
+FileChecksum: MD5: 69fb3dec78a1ff9b79a04994a3553e61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright","-doc","-vsn","-import","-include","-include_lib","-compile","-define","-else","-endif","-file","-behaviour","-behavior","-spec"].map((e=>`${e}|1.5`)).join(" ")},contains:[p]},r,e.QUOTE_STRING_MODE,u,c,d,l,{begin:/\.$/}]}}},6652:e=>{function n(e){return new RegExp(e.replace(/[-/\\^$*+?.() </text>
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/docs/source/conf.py
+SPDXID: SPDXRef-item10432873
+FileChecksum: SHA1: bd9038b693f7557853f7e7e50e4da700811612bd
+FileChecksum: SHA256: 5c4ff81d407ae0bb0bb99044997f704980e7694c1b64c3e31dfe5a938fb32bb5
+FileChecksum: MD5: 4872d80b8a9ea16e8607c48baba3037a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/Makefile
+SPDXID: SPDXRef-item10432874
+FileChecksum: SHA1: e8a375b72ede66c0314023734ea91bd745a16cbc
+FileChecksum: SHA256: b6d6388c816e3d229f4e6bc56f5e610b550d7a69f1b52ad52590ed1df05ce5b9
+FileChecksum: MD5: abd1440f83e4b49f36c9cf03464dd3d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/pyproject.toml
+SPDXID: SPDXRef-item10432876
+FileChecksum: SHA1: 7b0af994242a69bce1b2eb2078bd53aef566630a
+FileChecksum: SHA256: 5f91d471c88420833ed870abc3bdef6b050405735d41d5d84bd126ac25146731
+FileChecksum: MD5: 166160f7b57c21e628267acc88fe8b1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/CONTRIBUTING.md
+SPDXID: SPDXRef-item10432877
+FileChecksum: SHA1: 268c4c90d2560d17317b1ee08766419e84433802
+FileChecksum: SHA256: 779f27eebaa3c3d881f298ce54e48e6899202dcf22b18286aecc60e2db6dba0f
+FileChecksum: MD5: e655212101a189fdc53b22d91692b0d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/ISSUE_TEMPLATE/question.md
+SPDXID: SPDXRef-item10432880
+FileChecksum: SHA1: 0b87a14b7502fc63d42a097686ec0437755bcee8
+FileChecksum: SHA256: 7918c4be41c2978d99452b2b140a9385ab44b9b46011d3a58c14ef4007a4e7e8
+FileChecksum: MD5: 42720539ea1ae8379ec08ad9a1b248bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item10432881
+FileChecksum: SHA1: 634c66e35c3c20c6474286dc3e1704989634bd1c
+FileChecksum: SHA256: 994a7540a66e5e9ff50d2da7b5abecc9362f7f5c927ab5b6d66c9a00d678756f
+FileChecksum: MD5: c9f25d09a1852e4e7e22c054dd67d6df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/ISSUE_TEMPLATE/config.yml
+SPDXID: SPDXRef-item10432882
+FileChecksum: SHA1: 8127946ed946a9e0364fb9040a0bc5aa7f35b2fd
+FileChecksum: SHA256: 6d82b0b90d0d0a90ea032fc7da661e21fedfee01e667159018fc92b9912baaf0
+FileChecksum: MD5: 5e40c6bcce9de7b8cea8d2044aa84421
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item10432883
+FileChecksum: SHA1: 7389c6ad47a674b8c22a8153367b7a4197fb4497
+FileChecksum: SHA256: c74100aff173626c46398bd3784eb60e03c0a7283ff7aa4c312c8f2f46e998f6
+FileChecksum: MD5: 21e8312da13195ca12ea5b9e48a938b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/release-drafter.yml
+SPDXID: SPDXRef-item10432884
+FileChecksum: SHA1: 92ab462781b666328e14953a9bfc7ebba2467f1e
+FileChecksum: SHA256: 8de5ac039febef95642c749221edbd7ad9b9a8cd6466d707e40183c33724f928
+FileChecksum: MD5: 016e1be0d94bdf40711f48da951741ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/workflows/gitpages.yml
+SPDXID: SPDXRef-item10432886
+FileChecksum: SHA1: 6c5c0ff0b04826afb76562d2a33add9624d5c69d
+FileChecksum: SHA256: 112f384ed181dadd3154b5a7064dd45b09a5d0e9693740967e6725324d4389a8
+FileChecksum: MD5: cf8f6227b8819e8f4a65949d55013554
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/workflows/release.yml
+SPDXID: SPDXRef-item10432887
+FileChecksum: SHA1: a035c94c2f528faf67a12699b9c51b531fe2652a
+FileChecksum: SHA256: d1f2a24f530ff0fe189fb3e8e996f8d2729dffeedc6fb44e3c589e8d58b1e39e
+FileChecksum: MD5: 58f42daadc655d5deb9a4e4ec935ec40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/workflows/release-drafter.yml
+SPDXID: SPDXRef-item10432888
+FileChecksum: SHA1: 1ae7418991102cc451611e8b431ca20a2d5c1ac5
+FileChecksum: SHA256: 9439946ea3135db54c686a9d721e6455bac8a932de51e7f07b137731f1d9e4a4
+FileChecksum: MD5: ed71941bd31e08fd2d72f226fd5ad638
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/workflows/main_aita-demo.yml
+SPDXID: SPDXRef-item10432889
+FileChecksum: SHA1: 5c45c331705539df2ca89a07c999de5079a70c68
+FileChecksum: SHA256: 91035c24a3d4890543daa656828fd51340376e2e7bfdefb0a16e069aeb0a6c0e
+FileChecksum: MD5: 9f00a8cca9faf11b34928cb3b24a0ca4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/workflows/build.yml
+SPDXID: SPDXRef-item10432890
+FileChecksum: SHA1: bee510d7fc6965c1beccecc336906c0291207d0d
+FileChecksum: SHA256: ca704ba4de826388218ad56be80216da36ac33febd273354c984ef30dc19502e
+FileChecksum: MD5: c6ce07bd72c76d10d21b61a648fb35bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/dependabot.yml
+SPDXID: SPDXRef-item10432891
+FileChecksum: SHA1: 23895d20da66f81d0de52fe8b0689d25d2d024cc
+FileChecksum: SHA256: f6c8bfc045ae4dee3fc1d65f89b64a27cdd6f1d936547f6800dad771430ce1c8
+FileChecksum: MD5: bf3aa3662a18b72539d907de1b38a038
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/.stale.yml
+SPDXID: SPDXRef-item10432892
+FileChecksum: SHA1: e3c90ea19f7a09533555e437aff7c067ef613a4b
+FileChecksum: SHA256: 9f92c3d0c0082e9409d62ddf4a7c4612acf8692dcf1b4bed33fdffbe43f153fe
+FileChecksum: MD5: 0dbc7969d5ecf7a82aa40f9b889aaba5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.github/PULL_REQUEST_TEMPLATE.md
+SPDXID: SPDXRef-item10432893
+FileChecksum: SHA1: d358bb2888d55107be224df046941238d0bb81ae
+FileChecksum: SHA256: 2fa5f48868650fc3c1ab5a2973e230b1803f9ee2fbc206c645438fc3c4efeabf
+FileChecksum: MD5: 184cd033d259f723f4281bce62f4f67e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/setup.cfg
+SPDXID: SPDXRef-item10432894
+FileChecksum: SHA1: d0b71ad95ecacfde1863424def930acae738905e
+FileChecksum: SHA256: 331030254c39ab5747c077cbba7a34c97cd9abb06393ae546f6ee13074a661d0
+FileChecksum: MD5: f8e9a65658e100e7c4c0720e380ce3d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.gitbook.yaml
+SPDXID: SPDXRef-item10432895
+FileChecksum: SHA1: 8a567856bc8c03f2bb6bb508fa761f58fdf97d24
+FileChecksum: SHA256: eed61cd8f49b22d8243ef95b22d5b70cb2d08ff55948c7676142397d449190f1
+FileChecksum: MD5: 9059873ebc03978cd8642236ce581587
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.gitignore
+SPDXID: SPDXRef-item10432896
+FileChecksum: SHA1: 4d7b0a663f641611e90a658cbc4487c7b9fd998e
+FileChecksum: SHA256: efd9e0e81ab572b661d53b0088b1ffc1af0ff8057a728588d52d6a442f7083b6
+FileChecksum: MD5: 75e44f4ef6b43a81ad3954147801b90b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/alembic.ini
+SPDXID: SPDXRef-item10432897
+FileChecksum: SHA1: 6f0f4c45c2e140790acdda433fa88b6691957d88
+FileChecksum: SHA256: 673a3496541a2307c45ca295ff3350e777a5b7c0ff4f8e937312f09c994d8a50
+FileChecksum: MD5: 6efa5385338ffb1fe9fcc0998f6144f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/uv.lock
+SPDXID: SPDXRef-item10432898
+FileChecksum: SHA1: 8ff9a572b90b60021fb4b96147655d17b2ebea9a
+FileChecksum: SHA256: 3bc9b76978fa54b2cc6a4133d220365770ebd959d0ec29ba5d053c7ab18038c4
+FileChecksum: MD5: b2497ecd91d8fab56594772a19c9fa13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-RSA-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/CHANGELOG.md
+SPDXID: SPDXRef-item10432899
+FileChecksum: SHA1: 730abd547ae9c75b5bd5ce0a7b63e8503b7b7bbe
+FileChecksum: SHA256: e6b3e15fd56e43dc07aad450a54cb5602c135c310fad72f2550050fd9947b1d7
+FileChecksum: MD5: 3a47be271a180f83b0e72d3bd35659d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/requirements.txt
+SPDXID: SPDXRef-item10432900
+FileChecksum: SHA1: e40bea313e66f361ddc9ddc4fa7ca76f7e7a2014
+FileChecksum: SHA256: 641628a642e376b3a1c4e9710097d70836ea5990ab6fcf93254dc5a46fe2b099
+FileChecksum: MD5: 722733bb5b6ea59e41541796a736defa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/rxconfig.py
+SPDXID: SPDXRef-item10432901
+FileChecksum: SHA1: 4a8ec8d15649e46cdba9b5b4f6d3f116f83a7061
+FileChecksum: SHA256: fe83585acfe579fe64c151e49c4c7745207d6e1406837ba3c0a458e175316077
+FileChecksum: MD5: 9ffd4cb0b1ed10d8d17c09b12d8cd52b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/ryoma.code-workspace
+SPDXID: SPDXRef-item10432902
+FileChecksum: SHA1: 6874fba33a5edd16a2f27bb0162e3e44553f6c08
+FileChecksum: SHA256: 69e7b37e2ebdaf8fc313bf6cb74882fed65895e5f853736e65759bafb333bc6b
+FileChecksum: MD5: 25bf50b0ec79d01de8b83b7b5801b4ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/Dockerfile
+SPDXID: SPDXRef-item10432903
+FileChecksum: SHA1: 53552d67b767b970876f57cbb65fffa0249daa20
+FileChecksum: SHA256: 6f9285cb3b50df74544b8b0ee7542dd52cacb25bcc91f0720160135575708cb6
+FileChecksum: MD5: 57bb0ea2a114ad51f3b32a06d597bdf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/scripts/langchain_test.py
+SPDXID: SPDXRef-item10432905
+FileChecksum: SHA1: 6ca427211df0436d07a0ad12da08bb77af1928bf
+FileChecksum: SHA256: 8981e73a2abd4b014f02bc4645e0a571bd4396726e40c431fa78889c51c41ed2
+FileChecksum: MD5: 2478e100d2c73d2d24425a7df7f4fbe4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/scripts/test.py
+SPDXID: SPDXRef-item10432906
+FileChecksum: SHA1: 3a57550bfd9288fdcda3fc7f1c99db634ecd76cf
+FileChecksum: SHA256: 9c916d51ae3f2bb24c9938324b85d75bfa7fcfdebd6912f9d552cb8f1634944a
+FileChecksum: MD5: 5f4321abd79a0cdc736985f90ac2c33e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/pyproject.toml
+SPDXID: SPDXRef-item10432910
+FileChecksum: SHA1: 9d792b4018781a4abf35f5bd9182b8b5ab186afd
+FileChecksum: SHA256: bf946d3ce72bed78cc7a81a395583ce8262a4cd5bdf9f30ffa27cdcfa5fee25b
+FileChecksum: MD5: 78b83c570825f4040528f29efd93a145
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/cli.py
+SPDXID: SPDXRef-item10432912
+FileChecksum: SHA1: 47fbeda905daea26984ccdacd2747fcb6916bd76
+FileChecksum: SHA256: 51a07ff05b0f00d394c55b0b65b42870667edfcdc4473b81799c03ff7c9a877a
+FileChecksum: MD5: d7928adff14368f12581088af0973778
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/models/agent.py
+SPDXID: SPDXRef-item10432914
+FileChecksum: SHA1: 8ba66487f6208e5908fb39b916881c06054e257b
+FileChecksum: SHA256: d23861649b675f802e2782199f4228a8039b52d9e0f9252588e9f9dae8965b43
+FileChecksum: MD5: 1640193fb773a8a9cc62a00e96e873ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/models/kernel.py
+SPDXID: SPDXRef-item10432915
+FileChecksum: SHA1: d86e49629b66e09feb3e836f72ace0b09b6fc7fd
+FileChecksum: SHA256: 634a1bda3ac8afcb858da083ff7d1d8c3b6ab79e47e6af412edaac2aa73a7bf8
+FileChecksum: MD5: 800a247ad955a1866581d333609b6862
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/models/prompt.py
+SPDXID: SPDXRef-item10432916
+FileChecksum: SHA1: f524622d5d9932f648b7a8e50700750e9aa9807f
+FileChecksum: SHA256: 521a2b28efbcd0f746fe67ae3a4ce55b5f47e17257d82e67573a55277742712b
+FileChecksum: MD5: 581c280114ffa23b081b1fd51148d831
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/models/embedding.py
+SPDXID: SPDXRef-item10432917
+FileChecksum: SHA1: ceffe5f379d0fb0f090f42c0f23304e71bfdc5df
+FileChecksum: SHA256: 32788ef38e8b3afbbb1372deafe76f38bd536e5a061a01aaa0bb683f821a5fe9
+FileChecksum: MD5: f822012dde3b58d1b9a69cdddddd1154
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/models/datasource.py
+SPDXID: SPDXRef-item10432918
+FileChecksum: SHA1: 02d9e52052380b1d8248c77243a1700cfa369f2c
+FileChecksum: SHA256: 3482d3193a7b934de0a8b277574a5c822cb220c558d12e8587312f9bc4add311
+FileChecksum: MD5: 736190cc80cba32307004e16699a08a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/models/cell.py
+SPDXID: SPDXRef-item10432919
+FileChecksum: SHA1: fa60c275edf913e6cc57a6d9cc1f591ad95f1ced
+FileChecksum: SHA256: 0ca8f4efbc5850638f044da28d0183fd69d035f1ec30d7304d83802471ee659f
+FileChecksum: MD5: b3ba296381b7dfe758985cede9583163
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/models/llm.py
+SPDXID: SPDXRef-item10432920
+FileChecksum: SHA1: e05bc8faa5d9424e8bec6dce0762b32c508c07ee
+FileChecksum: SHA256: 5da7811bc09a8ff0175456eed9b3fa18e0c84cefab9832da164b6e1889c31d92
+FileChecksum: MD5: c5449f10ffc763b04345ea32621ccc87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/models/data_catalog.py
+SPDXID: SPDXRef-item10432921
+FileChecksum: SHA1: 12bfb4d812e769882ec301ab21bafad42ddd779b
+FileChecksum: SHA256: 05cf02eedd15beadf9e76db5dea33ccc6af158de1698e14431a7c5e70e17daf1
+FileChecksum: MD5: 146d40f515f97f64d57ae243028ea6b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/models/vector_store.py
+SPDXID: SPDXRef-item10432922
+FileChecksum: SHA1: a8979196ead84cace82bf8ef8822115af63d1275
+FileChecksum: SHA256: 70808ab5ab37a2a1bdd0180b51ddb443506c5ae93304bef08c0cd5984fff55f2
+FileChecksum: MD5: 62be6c7e47511258fd58b26cd540a421
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/models/tool.py
+SPDXID: SPDXRef-item10432923
+FileChecksum: SHA1: c0deb2ae4575332bbca580ba6b83bb213854a966
+FileChecksum: SHA256: 15024963d5f54c20d1c5731aa1dc64a231ec25129da3178b92304879ee9ab202
+FileChecksum: MD5: add6332c2cc2fbd8c0634e4ddd026ec2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/file_manager.py
+SPDXID: SPDXRef-item10432925
+FileChecksum: SHA1: 5a6ede12758225af0205e1c9dc0d882a0d09588f
+FileChecksum: SHA256: 5047e45e4fa19a39e28678d2ec6a20a9d466cf45df6fa511b0bd26966970de10
+FileChecksum: MD5: d1ec26cd52dddd31f3c355213276e7f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/embedding.py
+SPDXID: SPDXRef-item10432926
+FileChecksum: SHA1: 086b8eb3a603eeff788a7e6ed32ca36e9ee8a057
+FileChecksum: SHA256: a09c9ff160f6f4cc73832c3adbe3aa54602b5ec32c4d5fb93afb504e6404ba52
+FileChecksum: MD5: f789b8e80d3ffe4d54cc84926c0cdf26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/formatted_prompt_examples.json
+SPDXID: SPDXRef-item10432927
+FileChecksum: SHA1: 96bf148a1cab33b8ac54b0fdc9619b983490d8df
+FileChecksum: SHA256: f635232cfef5b977c5f87729324291f1ed05bc7a79852f21e99b438b7b299301
+FileChecksum: MD5: a07beacaba7a12e765560fd23e9fdd33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/datasource.py
+SPDXID: SPDXRef-item10432928
+FileChecksum: SHA1: 22e35ee4f37e3d36e1251222423d725c9eea0b07
+FileChecksum: SHA256: 237d8922b7d8a2e3c59324928b5ec21e10e0b9146738db843c570e6d8de19059
+FileChecksum: MD5: c94e90df64a185ee97a0baf50648baeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/kernel/sqlkernel.py
+SPDXID: SPDXRef-item10432930
+FileChecksum: SHA1: 7db48b5aeef090dbf4c57c19e99ef803a0746193
+FileChecksum: SHA256: 52df90ff8cc1ea51b43a504be74f7bd7a3f7c84d93ab404e49dadb26cc230c86
+FileChecksum: MD5: 76459c2798ba6c9d93d68e459a851141
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/kernel/__init__.py
+SPDXID: SPDXRef-item10432931
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/kernel/base.py
+SPDXID: SPDXRef-item10432932
+FileChecksum: SHA1: cbacbf766b487ac1db3909d639b2bf9f06473539
+FileChecksum: SHA256: b739d46af7f678f67ad5ea751d464c15e1b67851ba59f2931107a97b22243e1b
+FileChecksum: MD5: 85b5f88ecbba8c7687f62c248319356f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/kernel/service.py
+SPDXID: SPDXRef-item10432933
+FileChecksum: SHA1: 47d061c0ef1c663f80feb478f5e7f91bd01182b1
+FileChecksum: SHA256: 4552f6d9ab7a0de3940eadebe9f110ad44a2883d7085dbe6e1c79e0b03a31d4e
+FileChecksum: MD5: 71ac06c81f194b0f4b86f4ad8ebe016e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/kernel/pythonkernel.py
+SPDXID: SPDXRef-item10432934
+FileChecksum: SHA1: e3114f489437bcac924a9051e00e8c4f9f0e81e8
+FileChecksum: SHA256: 191a3da2d8a63780380d202e98fdc7b760cea86a806ddb1318c57427eeabe13a
+FileChecksum: MD5: fba9c11410c7b95ac1e28bd3ca840780
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/prompt_template.py
+SPDXID: SPDXRef-item10432935
+FileChecksum: SHA1: 5ef5372186d821f48413ff48037186b51a8b144f
+FileChecksum: SHA256: 046679b596ff23464db20f9651cbf7c99924fe6bc26f04d8c39d89a72b8d9c0d
+FileChecksum: MD5: 2b1c6af47cb923c2696e712f0c9c3b4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/user.py
+SPDXID: SPDXRef-item10432936
+FileChecksum: SHA1: 1a3a39d20a138338e650ed29cfd9943ff5dcc42f
+FileChecksum: SHA256: 5e535d5caaf710f6e9b3fe56d66e95af0cf9e1fd6d78d5c5fc965eb5b3fe6f14
+FileChecksum: MD5: c82b88ef26d510e2900af123fe10f209
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/vector_store.py
+SPDXID: SPDXRef-item10432937
+FileChecksum: SHA1: b912f99db1a44f7691b2320b70272b54dc4d85bf
+FileChecksum: SHA256: 9170fee540c84a49ad3ec3d3fd07690854ef13f8a5b08ae907f94e00d3cabe15
+FileChecksum: MD5: 0a878214e5e74e9bff17321e6cca7b16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/services/catalog.py
+SPDXID: SPDXRef-item10432938
+FileChecksum: SHA1: e66539be14719f1d32359b79360ee52049897887
+FileChecksum: SHA256: 577e2ccad721142f574af64e85837da5d35afdcb2a462462b6cb847f5497e966
+FileChecksum: MD5: 696a9d37bab2f57391e1120ad8fb9017
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/pages/ai.py
+SPDXID: SPDXRef-item10432940
+FileChecksum: SHA1: 708382fe3c471f89962a616621cdf1c3c821dd80
+FileChecksum: SHA256: 95e5687bb253d729904fb063dbe1cc026822f65905d977ac06c2643c42912685
+FileChecksum: MD5: 05e3837a85677f6aa5b4279d1c60c103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/pages/settings.py
+SPDXID: SPDXRef-item10432941
+FileChecksum: SHA1: 588602dcb792d81d8624c20711b721844af7c018
+FileChecksum: SHA256: 9afabd65656fd5fe5266de655729c39e985df40f2049671afb98d4723e44dcef
+FileChecksum: MD5: 9d79b8ea7777a359d188bf11c1f0a8fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/pages/workspace.py
+SPDXID: SPDXRef-item10432942
+FileChecksum: SHA1: 89cc554b6f86b2316b0f309ad59e501cd41cede6
+FileChecksum: SHA256: 6f4c49de2ac50b3b199781465532545f2f7684f62b7c1fc1be7ec8d2f1abb886
+FileChecksum: MD5: 9e37bc270d193a61e909058ca1075b15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/pages/datasource.py
+SPDXID: SPDXRef-item10432943
+FileChecksum: SHA1: 222b696373857d3ad801ae1fbe73201b6d67450a
+FileChecksum: SHA256: e2e54813ee54ed49c58866d5d4d20cbb8550d93b7b053f38919dad0ce9c94b9a
+FileChecksum: MD5: 41dcdc8464363f624e97312775c1a6ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/pages/__init__.py
+SPDXID: SPDXRef-item10432944
+FileChecksum: SHA1: 527fd3b764d23ada1ceded67cd4ab9b849f921e4
+FileChecksum: SHA256: 1be2b8f6e958720aca8b35f7718d22818f9fff5c7d9bd07eb6fe4f5576c10df4
+FileChecksum: MD5: bfed2a3d5c82bd4d501736fb10d92a6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/pages/document.py
+SPDXID: SPDXRef-item10432945
+FileChecksum: SHA1: eeb3ac27de928578050b9f47246f398885e09f3b
+FileChecksum: SHA256: c2ae9bfb037941a14bf7780df1827864fab33e284c0b00c5a347e29d8199fd53
+FileChecksum: MD5: 19d394dd62d3f320d5eb93d953012b98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/agent.py
+SPDXID: SPDXRef-item10432947
+FileChecksum: SHA1: c161df921b3e14f5c72137c785e321bfbee763b7
+FileChecksum: SHA256: 003485b891e51de1724fe9c4c2f996b16ccec6f50f700212f446be101ffb3b90
+FileChecksum: MD5: c91e311db5fbc357c7724d6f525d5b4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/model_selector.py
+SPDXID: SPDXRef-item10432948
+FileChecksum: SHA1: d348b80ad6422d04c2d5a3470830ec4f44322fb4
+FileChecksum: SHA256: b51784795ce292fc81a3455feacc0ccc791e3e7fc68ac28fa6a1f4cb468086c5
+FileChecksum: MD5: 33580f771bf4d7d64db784673b189b52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/code_editor.py
+SPDXID: SPDXRef-item10432949
+FileChecksum: SHA1: 4e509795c4a76a4c37b96ccf08deaeb3276faac2
+FileChecksum: SHA256: 309665e5f245f468dcefa17c726df2e6818db677e14395e5f7d2d2f389dcb445
+FileChecksum: MD5: af49ae76799c7c5f7b00587552ac66fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/reactflow.py
+SPDXID: SPDXRef-item10432950
+FileChecksum: SHA1: 6b31b839e61754ebfd3c0cf7960c3e1dec826cab
+FileChecksum: SHA256: adc44b39f735524a8238768ff0729216ae0346a4871ce3b6f0309ddd9066594d
+FileChecksum: MD5: 4cc85a1cbeb9ea194ea9174ba5a39d19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/modal.py
+SPDXID: SPDXRef-item10432951
+FileChecksum: SHA1: 1e626d0e4815bbfbb5fa2bcbc5b40930f3e1dcf7
+FileChecksum: SHA256: a1a045d709eafd2da7b5e5d0d4cb131f5f4d4f5726df0d8e167fa3bc9eff78ce
+FileChecksum: MD5: 65aa8677ef4dfb3a09615903bc5f5b25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/chat_navbar.py
+SPDXID: SPDXRef-item10432952
+FileChecksum: SHA1: aa0a7c4415701f1f0bd2c8388c1507436226068d
+FileChecksum: SHA256: 251aec27028b22b38376652d442e98b094705dda5ab812b38d12ebf0e48f363e
+FileChecksum: MD5: d38ae0299cbdf10b7fe4151e85e21937
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/loading_icon.py
+SPDXID: SPDXRef-item10432953
+FileChecksum: SHA1: f9bf194f635432ff191d882c0e536ab3bf461280
+FileChecksum: SHA256: daf0a9bba79fb69161b36b9d5dbca7836c22ec71f3c1dd702347dde526899770
+FileChecksum: MD5: 99f3ce584abdf6a87e7e365fc12dba4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/embedding.py
+SPDXID: SPDXRef-item10432954
+FileChecksum: SHA1: f08f35da099b7e542bfa1887106826bdd9dc2608
+FileChecksum: SHA256: 660455a1970f757c4680459995b870173995c4fd880bd88512206a3de64e3a3e
+FileChecksum: MD5: 0b0ad2b6d960169add316046d99b87a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/sidebar.py
+SPDXID: SPDXRef-item10432955
+FileChecksum: SHA1: cd48d1de71fbfbc980187409efb35048ec44a82a
+FileChecksum: SHA256: d264789c43d557622f623c84b058c64142e949826cd0345ce7d4a31b018fffc8
+FileChecksum: MD5: 1ba12308821a7233c301a348393d9ed1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/react_rnd.py
+SPDXID: SPDXRef-item10432956
+FileChecksum: SHA1: 50d717c8135761f3fec60e48e7e5c136e26585f5
+FileChecksum: SHA256: 30f495fa20eea27a19cef1d545de5f4d36dd94494332127022a47d6062a5f10c
+FileChecksum: MD5: 27ada5b3b24f80228f43a53ebe6d4953
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/react_resizable_panels.py
+SPDXID: SPDXRef-item10432957
+FileChecksum: SHA1: d7fa90b16195a21c58bf02b3be552c70e20a889e
+FileChecksum: SHA256: fa4f661c0229f2c283a711ac3f010818b0fc98cf28042045e8dc4d2e6f98b105
+FileChecksum: MD5: 58c74b1ac9e9cd6bbc8a21ea924b2c4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/workspace/notebook.py
+SPDXID: SPDXRef-item10432959
+FileChecksum: SHA1: ff382abc1a910c3b9a092ad18aabd0034d343244
+FileChecksum: SHA256: b8b64605bf891389c9ffddc34305e0f18dc18e6cb11af9e84d916506d47efd02
+FileChecksum: MD5: ecfbefb8b96a97dbcca33b8ba497713d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/workspace/__init__.py
+SPDXID: SPDXRef-item10432960
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/workspace/cell.py
+SPDXID: SPDXRef-item10432961
+FileChecksum: SHA1: ac19001e0b4dd47cce70156c0546189f6bb68274
+FileChecksum: SHA256: 5eefd437a8da0203953f2a38e1ff3dc7c9e2e840d6070e9aee64ff62849b7fde
+FileChecksum: MD5: 9e25129955a2b51a7a1aa0771e5c3c08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/workspace/file_directory_sidebar.py
+SPDXID: SPDXRef-item10432962
+FileChecksum: SHA1: 16cfb1f1973ca92a9cef28544371e4e2f2141e7e
+FileChecksum: SHA256: ddb212d4e188cc90e02c7cb56fc2683acb0f574d7a5a737c44676b7481e78ef2
+FileChecksum: MD5: 4016a75f13a476863b2de035a33aa68d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/__init__.py
+SPDXID: SPDXRef-item10432963
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/prompt_template.py
+SPDXID: SPDXRef-item10432964
+FileChecksum: SHA1: 54af0bd425b6396f73c537497ebfe934672497bd
+FileChecksum: SHA256: 61cc04aa2850c3f6eb9fe6e5313675637069e3501d8bcf7279186349345204ca
+FileChecksum: MD5: d0705726659fcc9134a615275492dafd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/table.py
+SPDXID: SPDXRef-item10432965
+FileChecksum: SHA1: 69346357df3ab79ed1fe2a8239268e792bde36c0
+FileChecksum: SHA256: b318b23150dfdb4132e31b30bdf78f01acaea0479523a8862b29cb959d43db12
+FileChecksum: MD5: c8c152aa97a641b6a45b3c8eb4c07ded
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/upload.py
+SPDXID: SPDXRef-item10432966
+FileChecksum: SHA1: cc55ba208cb366e21d692da571c0607a714dca2b
+FileChecksum: SHA256: d80ba1c9bbe4cef167f2fe1dbc9023d1a4886720ab3b46291fa11b1d9326d95a
+FileChecksum: MD5: 9ec7f3bd38dd7fb124bd58c6e9f7c40b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/vector_store.py
+SPDXID: SPDXRef-item10432967
+FileChecksum: SHA1: a099723b4fde88f21ba8253cfdb254ae367b7530
+FileChecksum: SHA256: f7771c87432cd68aad97dad456161b0a1a9cade32f419cb8fe8146922f22e408
+FileChecksum: MD5: e0751665d9e2694ffd8c4d0ba1925ebe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/tool.py
+SPDXID: SPDXRef-item10432968
+FileChecksum: SHA1: 39034b98d9da45aa164e7a1bfb9972263bfc266d
+FileChecksum: SHA256: 8ab36a1dbd1fb0ab9389d92378f9699797b375463824cf275622a424e8e389cd
+FileChecksum: MD5: 0fe3ca810f4aeb8af881e757ab8a5547
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/components/catalog.py
+SPDXID: SPDXRef-item10432969
+FileChecksum: SHA1: 125b20c52e572a17871d622ab8f30a36c90acf4b
+FileChecksum: SHA256: 95e672db1cc56918a2157e45aede173d4bb2c917aff58a123c54b83f1c6d297b
+FileChecksum: MD5: d8b06d2fcd1dd5bb1b634d7be4c37ce2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/ryoma_lab.py
+SPDXID: SPDXRef-item10432970
+FileChecksum: SHA1: 28d5c3e8a56df37a89d27e08da56bfd6600c98db
+FileChecksum: SHA256: 40498b38f924cd5335347aa4705c05e534a5a451a8f523ba9e0fd334462f828b
+FileChecksum: MD5: 3759bbbec854cb34991e92733562fe72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/__init__.py
+SPDXID: SPDXRef-item10432971
+FileChecksum: SHA1: c816c7ec319d5f383784a0f4f16045c6c2101636
+FileChecksum: SHA256: 918a49ebf7589654de983f1117ab3f2c7f332f5d0fb8ae19ba882eb6dd687802
+FileChecksum: MD5: 713fca6dfa124fdbbd03711798c04be2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/states/agent.py
+SPDXID: SPDXRef-item10432973
+FileChecksum: SHA1: 14fbce4d01a3e2e26ce13bf2a0ca68a75c76a90a
+FileChecksum: SHA256: 3192be851d5d53c946722e0f8d9d91052f2ae24b17727e4570c24fcfb6720d13
+FileChecksum: MD5: aff113e4a9980f924248f8b965f266ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/states/chat.py
+SPDXID: SPDXRef-item10432974
+FileChecksum: SHA1: 40365dc945ebf2f8e9a779aa8731a3dc45e4a12d
+FileChecksum: SHA256: d051ed9487464ba7fd0b8cc042657b56e81d2b07994bbf79efb9a2624a530b88
+FileChecksum: MD5: af76ccfb48de251fb7eed5855d4a9f14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/states/ai.py
+SPDXID: SPDXRef-item10432975
+FileChecksum: SHA1: 8b82fa8534c6d83bdf6d025240f183eaf06c8fe7
+FileChecksum: SHA256: 5fa97ef82f40585fcda6552a1db6f6c851c4aeac565689b4db165c60f522ba8e
+FileChecksum: MD5: cc1d5da4e088a0b426ccb8fd342621b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/states/workspace.py
+SPDXID: SPDXRef-item10432976
+FileChecksum: SHA1: d7832ca01ee7ea9b6ba4445ddd20ba2378aa3071
+FileChecksum: SHA256: 685fbcea3a4c70c68373ca338b56e59496d8f76a151ee132dadee503b69d2fbb
+FileChecksum: MD5: 441b8dab45f834f0f8e7ae900eb3896e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/states/datasource.py
+SPDXID: SPDXRef-item10432977
+FileChecksum: SHA1: 6272198a6a556ad19e6689a631bc8e44e4b9e5f3
+FileChecksum: SHA256: aaedf42f9d27c69609f16e628f9ec85cf24b3c33be3dd60a6b0ab121a3959a9e
+FileChecksum: MD5: 8a0fa292ca3ed903abb3131e74b19fb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/states/graph.py
+SPDXID: SPDXRef-item10432978
+FileChecksum: SHA1: 7024ccf19dd41d6ea900a14da5a59a4481f9fbad
+FileChecksum: SHA256: a3abf4ae80df6434de71b4c9ae696af085996dcbac45d41b68ebcaac2395f729
+FileChecksum: MD5: 8ae931d70196f3198c057472943189c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/states/prompt_template.py
+SPDXID: SPDXRef-item10432979
+FileChecksum: SHA1: 453c390ac4604122e4c0746d8fbb431fe020e12d
+FileChecksum: SHA256: 3f58899d8da1f66fda7aca0248ff68330026c3b141fc4f30881091ccd76f847a
+FileChecksum: MD5: 7ec2a492ad7c2fe27c74577f3267354a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/states/base.py
+SPDXID: SPDXRef-item10432980
+FileChecksum: SHA1: c83f8d9a169a7a6768c8c3bfeb4f9a8e01073b97
+FileChecksum: SHA256: 6857d43cd5fd8f672e37449204db74117b478edf2355fac91d63b1e2e5072f64
+FileChecksum: MD5: b0c7ed8f6c0a9392627f9038ed355be2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/states/vector_store.py
+SPDXID: SPDXRef-item10432981
+FileChecksum: SHA1: 4c43c3b127fda80ebdddbb68a632c23a5829f139
+FileChecksum: SHA256: 20b0094472d0ee870bff5be27fbf2dca33dee3710de22edb15073f055116997e
+FileChecksum: MD5: c3d942b87e6e95fe92a2e32bf5974ba5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/states/tool.py
+SPDXID: SPDXRef-item10432982
+FileChecksum: SHA1: 19549b393819f0de095464aedb353df5a6aa4a33
+FileChecksum: SHA256: 8ad679be39c08fee3cb37bc1f79ff5c8a72fba453471817d49bac47ed42bb618
+FileChecksum: MD5: c8e67c0cefdecafac5ed9f802db7b5f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/states/utils.py
+SPDXID: SPDXRef-item10432983
+FileChecksum: SHA1: 1f7c361c92b4ce69f29c3dd2cd3501d9eabbb206
+FileChecksum: SHA256: e381bf4d49ffa968b78adccbc5e9a7304d9ed28315ccad1ddf35d7109f0fb70a
+FileChecksum: MD5: b9cf799df4d904ac8d68ec0c24484224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/states/catalog.py
+SPDXID: SPDXRef-item10432984
+FileChecksum: SHA1: 1e0157165d68181f1e7415cfb255d69223bee853
+FileChecksum: SHA256: 7cb6c05123e6c6d291723341baa46982b24c42a9d053485fc86009390bcf2020
+FileChecksum: MD5: 61f7ef3a2772a04c319f0e425dd3501f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/styles.py
+SPDXID: SPDXRef-item10432985
+FileChecksum: SHA1: cb61417c80d97c686e2c9a631276622bc7e52490
+FileChecksum: SHA256: 52522eba7a93eb565b6ca53a70bcd287acbe1e5f7a3343f5d49dc154e9fbcaf1
+FileChecksum: MD5: a8cfb54b0a49065138cd6643c151b467
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/apps/app_factory.py
+SPDXID: SPDXRef-item10432987
+FileChecksum: SHA1: c4ef6a95e03ba4c91320bc76fe5129a640c5d9ac
+FileChecksum: SHA256: 7070cedb9f4dd17e66a8cd0cb5cb51c0850b63ec4b64f6f1afc936e5fcbf9a91
+FileChecksum: MD5: 3232f19495eac2facf7bdb91568285d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/templates/__init__.py
+SPDXID: SPDXRef-item10432989
+FileChecksum: SHA1: 1e5c8e2d5f22c9dbf6c42335df07e8ee20cf8cc5
+FileChecksum: SHA256: 429c0f341b0d5b165ba7a181cd22231b06d0fc3975664ff9383692c5beab649e
+FileChecksum: MD5: dc879c63495478212f544602a0d5e083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/ryoma_lab/templates/template.py
+SPDXID: SPDXRef-item10432990
+FileChecksum: SHA1: 1672691725d4aca120ae203e28c66d5ba8e95e10
+FileChecksum: SHA256: 84199d9e33f69f045ffc12c4caec94aafb226f16b80ea1bf2571557d88938b98
+FileChecksum: MD5: 56181065eb4aac4d7fbff164144a1558
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/setup.py
+SPDXID: SPDXRef-item10432991
+FileChecksum: SHA1: 66159d4849fe50544ba5d0e88e39202c90b671ad
+FileChecksum: SHA256: ca08d1a9a8690d08309f710ae28f4e0c59a25be523b89f20ab129c079f920cc6
+FileChecksum: MD5: 3f3db5010aa5b47bc3a779f0d0e94204
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_lab/README.md
+SPDXID: SPDXRef-item10432992
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/setup.py
+SPDXID: SPDXRef-item10432995
+FileChecksum: SHA1: 66159d4849fe50544ba5d0e88e39202c90b671ad
+FileChecksum: SHA256: ca08d1a9a8690d08309f710ae28f4e0c59a25be523b89f20ab129c079f920cc6
+FileChecksum: MD5: 3f3db5010aa5b47bc3a779f0d0e94204
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/.gitignore
+SPDXID: SPDXRef-item10432996
+FileChecksum: SHA1: 4356e360ebfc63e510d4364b64039f8c3e292592
+FileChecksum: SHA256: b608e1a4f9d6dca5e0f82e3d1c0b713b4a6dd2a56755ee4dd3ba5538e984029f
+FileChecksum: MD5: 85b896c85860dfedf5cffbde7e8d2550
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/.editorconfig
+SPDXID: SPDXRef-item10432997
+FileChecksum: SHA1: 39407d23e75321a73f7eb60aa1921e4a840d626c
+FileChecksum: SHA256: d8b46c77109fa68de6a32595251ad78042465a89c514e4fa7fed689079186c98
+FileChecksum: MD5: eeaeab6423ec9a4b28219282f2ff48de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/tool/python_tool.py
+SPDXID: SPDXRef-item10433000
+FileChecksum: SHA1: 221276561cefa9dd394be5e3a6f855ead69ed5b5
+FileChecksum: SHA256: 7e789c26685f28b09d9d56b9dc7013f26a715ed2952f8657ba665f6928968407
+FileChecksum: MD5: 05b7474c77fed3b40da74ea1af315f8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/tool/pyarrow_tool.py
+SPDXID: SPDXRef-item10433001
+FileChecksum: SHA1: 4f5cbc55bf3869cf2ebfac1b4b69ebbad677bd29
+FileChecksum: SHA256: 3be47fa74c8d10b96244dac59b303e7b09dbf1628939276bfc418b3c0ce69820
+FileChecksum: MD5: d0f371212c2140886c216278a80131af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/tool/pandas_tool.py
+SPDXID: SPDXRef-item10433002
+FileChecksum: SHA1: ca6120eb610b49595df99cf9fded5fb6db7c961b
+FileChecksum: SHA256: c819f1ee376452da9567e5a15bc55ae24db8a3d9ad5106e6201cc3fa970700ad
+FileChecksum: MD5: 447aa3ade7283b0b1457174c78a7f585
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/tool/__init__.py
+SPDXID: SPDXRef-item10433003
+FileChecksum: SHA1: 487704ea20ed1d853d76c04a91526c7494d702b4
+FileChecksum: SHA256: 3fa208f46880b84c09b3fb486a34e6a95a5fc27d70c0bd4bd29322189c1a5218
+FileChecksum: MD5: 4bf79763718335ec74f0917f169e3d64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/tool/sql_tool.py
+SPDXID: SPDXRef-item10433004
+FileChecksum: SHA1: dc6bf5179d938348fdc309b4220d3e34395ebdc7
+FileChecksum: SHA256: d7eefe053dd085ff92de26b5cddca65fc629e25a3bfb19e9a81ed78bd01a67fb
+FileChecksum: MD5: f9f203bb46e210121569902956b9016f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/tool/spark_tool.py
+SPDXID: SPDXRef-item10433005
+FileChecksum: SHA1: f0c27d863c4331735137cbc29d3c915324d341e3
+FileChecksum: SHA256: 918d940821aef6b5a34942ece76db4d47514cfa938a50a6eddd4a8ce58319650
+FileChecksum: MD5: 0d8f44b24d1bfe98aeb3a5054ddaadf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/validator.py
+SPDXID: SPDXRef-item10433007
+FileChecksum: SHA1: e762f1a623592f2eaa3eaceae8af2f42ad494402
+FileChecksum: SHA256: 4e2dbecc352384b254b17e1941e44214335c395494d02de0ef7932d231416fc4
+FileChecksum: MD5: 71302927f078f7b19572c2257aaed34d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/embedding.py
+SPDXID: SPDXRef-item10433008
+FileChecksum: SHA1: d79ac27685ffa9ed889c95baa4579c943000c3ef
+FileChecksum: SHA256: de04578f8e515803bfb5d8a941551a12ce35fa5da71a70c6e88c3e69762b963b
+FileChecksum: MD5: c2fb6e08e3b59b83d7841948213dfabd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/pandas_agent.py
+SPDXID: SPDXRef-item10433009
+FileChecksum: SHA1: c8d0a1b0eced2db2559bd7692c75264ef1470209
+FileChecksum: SHA256: 50496587605a7c102b5add15ecdfcc98c3891c0c420bcd9d6c5f383260bd1a9c
+FileChecksum: MD5: 000549402d99e02b2583753eea00c570
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/spark_agent.py
+SPDXID: SPDXRef-item10433010
+FileChecksum: SHA1: 1c141ce7e45770309d86c5e53bec96f3a2526fda
+FileChecksum: SHA256: 92cd65bff4e7a85e1c9ff55badcd74f92d0ac4e5ab7a3f35800f2fdbb89fd4a4
+FileChecksum: MD5: caa0ac2f8d55bddea2b359159c023bf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/workflow.py
+SPDXID: SPDXRef-item10433011
+FileChecksum: SHA1: 3628bf2e7b608d1ffd375674140e8c6bb9dabbbc
+FileChecksum: SHA256: 76a04ae99bb8b2d44f22578fa2a90cfc19c2d7a7d64f023e2903111208c9e927
+FileChecksum: MD5: 0df3808ff0f4da5b6ba9111fd1ae1db8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/python_agent.py
+SPDXID: SPDXRef-item10433012
+FileChecksum: SHA1: cfd6b2db4b3a19d9f25bf6152fa9be5dcd345f67
+FileChecksum: SHA256: 20c602285e78ad9b132cc66e294b610047b21863befb540fd86014e0a345c970
+FileChecksum: MD5: 1be4b70d1a1f3daad5cf84ea8364342d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/__init__.py
+SPDXID: SPDXRef-item10433013
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/sql.py
+SPDXID: SPDXRef-item10433014
+FileChecksum: SHA1: 9f8e58fc95a6c5b133493f20bab0f946406fc593
+FileChecksum: SHA256: 7859b44db639b9f5cae5de781c9485dc0c0e6758b76cf424cb1123444f9def96
+FileChecksum: MD5: 158d1cb339fa647fc57e9a539063c4ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/base.py
+SPDXID: SPDXRef-item10433015
+FileChecksum: SHA1: 6a51ce69791a8b4ecbd6190b38aac0c15331f53b
+FileChecksum: SHA256: 13a4980a871d873e96ba94d6ef8c989b748f7f8eb3790c3279ec7a99f9ea632e
+FileChecksum: MD5: 93b98c4fa1ec6d9885432492a596e5d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/kernel_node.py
+SPDXID: SPDXRef-item10433016
+FileChecksum: SHA1: 55adf9376b0b98e6b964113e2eb6286dfe10b54f
+FileChecksum: SHA256: dabe8590f953ef8422840d34ed04163f603d9e10e64d4962e2516f21a70e62bb
+FileChecksum: MD5: c620a680a4dff343b3652688e1ba96dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/factory.py
+SPDXID: SPDXRef-item10433017
+FileChecksum: SHA1: 7215e8d992682876b5cf7870dd65abc4827d68f2
+FileChecksum: SHA256: fd94cca1b1a66ecd45edeb039abbe2dde2ccc135f91bb7368d816092fdf9bf96
+FileChecksum: MD5: 32daf36bf70c9ce8bcbf085d97e170a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/arrow_agent.py
+SPDXID: SPDXRef-item10433018
+FileChecksum: SHA1: 5704b6cffb1a42ba6b32e86c713673ee77b0d5fc
+FileChecksum: SHA256: 91b83c0e08a884c509b28a88a7ca89038d6622e0ae42fb184942629609a0e5ee
+FileChecksum: MD5: 86825feaad79abae1b59cba75c6a87fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/agent/utils.py
+SPDXID: SPDXRef-item10433019
+FileChecksum: SHA1: 73f8efb9af5e056a872626e50cb8dbed99f9012c
+FileChecksum: SHA256: 1b8dc78a474da1d8f886fc8803164bf6e52f6454b87ea23131d2cb757a3b7c0b
+FileChecksum: MD5: bd5dd6fb3b21b1ca8b238fc5b84d8b89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/models/agent.py
+SPDXID: SPDXRef-item10433021
+FileChecksum: SHA1: 9fc47f39135ca8742111772f982ac17c187fcd09
+FileChecksum: SHA256: b6ce25c142b240a975692a891458f7835ff4a199f9467c0172b389b4445d9330
+FileChecksum: MD5: e9e9de616374b889e247fbae9ad23e0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/PromptICLTemplate.py
+SPDXID: SPDXRef-item10433023
+FileChecksum: SHA1: b71827cf46eeee74c6df6ef0ae593635f346da53
+FileChecksum: SHA256: ca69840779df1cad6fea1cf1de38e8be24a8c6b8b775a982e70ac090e767792f
+FileChecksum: MD5: eb421f5b99cfed52101dd5e5b42991bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/__init__.py
+SPDXID: SPDXRef-item10433024
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/enums.py
+SPDXID: SPDXRef-item10433025
+FileChecksum: SHA1: 8c1cc9775490b098c73d962f348cdd0cc14ff80f
+FileChecksum: SHA256: 6ed5689b5dd091007c7260aa67b07e7785b9d7e82e4ad3c73eb45872c11e75c2
+FileChecksum: MD5: 58ff6c81b9c7ab50cca2e00b59afbb2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/prompt_template.py
+SPDXID: SPDXRef-item10433026
+FileChecksum: SHA1: f1401265211bd1e0d5aa6e21ce398616478d1d40
+FileChecksum: SHA256: 17165c3a2417875f041937a8a3d1d55ad5fee4c13d754302aadcaa1f69763617
+FileChecksum: MD5: f8c09fcabfbac024a27fbfede3e5335f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/base.py
+SPDXID: SPDXRef-item10433027
+FileChecksum: SHA1: 5d5a38ba05af9ed74a26b32e6a6dd43f798a4255
+FileChecksum: SHA256: af583e6f97de517f1c3e0dd516d87eb89b751ae6cb9ceb29d71d92ebb45aecf9
+FileChecksum: MD5: 760a546af8e12d732940d69a6c626644
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/prompt_builder.py
+SPDXID: SPDXRef-item10433028
+FileChecksum: SHA1: 0a29e98b00d86d5d35741d593d1e11a53af9177c
+FileChecksum: SHA256: 63f4f45075a50e3b627f2b22cba29d5083165ebc96a170bd3afa91f504be6e9b
+FileChecksum: MD5: 72d797ba14c28a4ef2baaf2899f0c197
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/ExampleFormatTemplate.py
+SPDXID: SPDXRef-item10433029
+FileChecksum: SHA1: 6598c28132a55de7b6a4fa26ac3f05a94ccba318
+FileChecksum: SHA256: a8e5de82cd5ce006e3443038e5078b60aaf6542435cfdb45bc4509736c313eb5
+FileChecksum: MD5: 51cf39b3f6965ac1571a77e528ad0cbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/ExampleSelectorTemplate.py
+SPDXID: SPDXRef-item10433030
+FileChecksum: SHA1: 28d7e85159b8ae08a98d13d0d52961ba54165fa0
+FileChecksum: SHA256: 192f48fe45e98528215a6bb4932024bbc4ee9780d4fa39d23db6b8b2b6d071f6
+FileChecksum: MD5: a8985d12352b0144cfca93a9f4cf1e5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/templates/formatted_data.json
+SPDXID: SPDXRef-item10433032
+FileChecksum: SHA1: 31409ee65525e73e8347170d6e447f0139afbf01
+FileChecksum: SHA256: d6c870812ee7ec102a1083ada4227889b762be60182cf6c228d910c1ff748d2e
+FileChecksum: MD5: a523ecfebbadf0576b54105b20f11f75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/templates/dataset2.json
+SPDXID: SPDXRef-item10433033
+FileChecksum: SHA1: 21a9a1d319d032d5ac45b9cd1ece864d7bdd8f8f
+FileChecksum: SHA256: d7f16a17f6a6212a431cb8f99531c78f998ad835185d3b291d8335f03817f5d4
+FileChecksum: MD5: f1a40867a3c65635926118bdb477b5fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/templates/dataset1.json
+SPDXID: SPDXRef-item10433034
+FileChecksum: SHA1: 1d63cca431e89537462d94467b5cf9936de94d09
+FileChecksum: SHA256: 0d8f4c5c45109df74deed5843896daad7f73945fcea6bccb673a8bbbb09ef0fc
+FileChecksum: MD5: 331efb9cf0fd2c74093030ca64451720
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/templates/templates_parser.py
+SPDXID: SPDXRef-item10433035
+FileChecksum: SHA1: c325a0cc46bf04ad4ed4be346679664e071ce64f
+FileChecksum: SHA256: 133c3e0c825cea06713a057ba748a137fafd1cf629ad0a6dafb763c2d44d8bc6
+FileChecksum: MD5: 3b0f9929f4f3e4a2b5336a681036d207
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/PromptReprTemplate.py
+SPDXID: SPDXRef-item10433036
+FileChecksum: SHA1: 1c7fadf2e83b56ea95a3306f4df312c8a5fc1cf5
+FileChecksum: SHA256: 34b1899c3a5ac2191744f6dcf887884c87ac3cf450375f8b00e12d3ed7afba98
+FileChecksum: MD5: b39ababbe71cc0853fb01a87a2191542
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/prompt/utils.py
+SPDXID: SPDXRef-item10433037
+FileChecksum: SHA1: f79e29b5111204147c63599f38279fd7efad105d
+FileChecksum: SHA256: be239371e50ab2f3aa0c89caebc0e72f15150202a9995bacaaafd3d09ea0dd5f
+FileChecksum: MD5: 5382a05a6f1d88dce9ef9a040fef244e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/datasource/nosql.py
+SPDXID: SPDXRef-item10433039
+FileChecksum: SHA1: 3cebde8b5385df9326c3a727e5eb75c943515168
+FileChecksum: SHA256: aadab206802a42291117f2452c2d2a90faf4bd80fccb4915cb29c2b5f93dec72
+FileChecksum: MD5: ff9f6804c6ef52fd4ba6a469438a9b8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/datasource/file.py
+SPDXID: SPDXRef-item10433040
+FileChecksum: SHA1: 8f2ad1acab9c121ffdaebf3573175b1009b2ac63
+FileChecksum: SHA256: 45cb9f1f73b78d76fe8d76cb81f4413d5d2cca828e5a0b3cfe13c8a3e76d59d5
+FileChecksum: MD5: d4032385a66e2e150cf8a25762397aff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/datasource/duckdb.py
+SPDXID: SPDXRef-item10433041
+FileChecksum: SHA1: 00e101864331b6e2f65eff0437c2325182bb6423
+FileChecksum: SHA256: 0f645012dde830662d795a927a3197457aa8691f51fe5d63dfbbc5f97d55d847
+FileChecksum: MD5: c8e21c4dbc28f479f31ebd1fba6606c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/datasource/postgres.py
+SPDXID: SPDXRef-item10433042
+FileChecksum: SHA1: ad48dff256d1b634f1bafc91592092faae85c80d
+FileChecksum: SHA256: fa16b07dc6d1371d1c649970bca9494b1d910af24d8f88da9b40a15f5e96d2cf
+FileChecksum: MD5: 48e43410daeecd3a761021eeb2384f8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/datasource/metadata.py
+SPDXID: SPDXRef-item10433043
+FileChecksum: SHA1: e902ed2af768f374210f4b0b831f389418a10b6e
+FileChecksum: SHA256: 2f21d5a197fefab6a5ef34711b59e07e62fa31e575bfad429121e9c661daf69e
+FileChecksum: MD5: 5987fa83e5268163ad2dc530f2106c10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/datasource/__init__.py
+SPDXID: SPDXRef-item10433044
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/datasource/snowflake.py
+SPDXID: SPDXRef-item10433045
+FileChecksum: SHA1: fd67d156e879b7f6aeb64f09cc535684860d51ad
+FileChecksum: SHA256: c1bf81487107bc8efdc663b5ce79fc5f9bb7e78571cdc510e40ab95c2dfc4da6
+FileChecksum: MD5: 9b35137d4648b7aacf414a17d5220a3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/datasource/base.py
+SPDXID: SPDXRef-item10433046
+FileChecksum: SHA1: 8cd9cf030d8afb897ce45b9140dfbb3464236598
+FileChecksum: SHA256: 2e1b355834c72b3fe02abb6ddcb376fff4f552b1aeaeac2df4b303b295be6750
+FileChecksum: MD5: f7f3373a3504f646f6db3562dff71323
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/datasource/mysql.py
+SPDXID: SPDXRef-item10433047
+FileChecksum: SHA1: 93e40bbe2c5f3df497112c42d88d27e811b01c24
+FileChecksum: SHA256: 02abdd9a5eec130b5877d698028934e10bdad0fc4403c11a11e367e0f94c0ea4
+FileChecksum: MD5: a559da612cce1e7cb6175c18d8bf41c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/datasource/sqlite.py
+SPDXID: SPDXRef-item10433048
+FileChecksum: SHA1: cdbb9e6d2502e336e06482f47c3b7d5f04e06589
+FileChecksum: SHA256: 7f66a5b8e63bc1c90d49f0af1eef4d0630f4edfe1efb5b9ea38b10da7181ce16
+FileChecksum: MD5: 57ae98b9438976127aee1da85e521c9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/datasource/factory.py
+SPDXID: SPDXRef-item10433049
+FileChecksum: SHA1: 3a7e1480045d08d6cc6dc74a99f0f7c1d2ee5ee0
+FileChecksum: SHA256: 25205889a0beac39697099aa8363f54a24f14fdc8dcb7067af4681510c3b158d
+FileChecksum: MD5: 4f234c6dd0c9af03481fbf0d819cc63d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/datasource/bigquery.py
+SPDXID: SPDXRef-item10433050
+FileChecksum: SHA1: 9a9f277166c724e6cbb3e9be2fca93c6c7c2f92d
+FileChecksum: SHA256: ed460d5c4247dbfe09e5907c48f5fe617da77a527893c4d3583e3d6b6f3d75e3
+FileChecksum: MD5: 14be9d598cb0eb0e5e578a1b02e7e802
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/__init__.py
+SPDXID: SPDXRef-item10433051
+FileChecksum: SHA1: 3e78e76ee19c6281e21e93ac69e1895a1de23fb0
+FileChecksum: SHA256: 686238d772516afd1685bfd44ed5f9ec2c3c83d24676f9405f29dce62ee61a38
+FileChecksum: MD5: 30b2a25c12479f83345ed2b2c53eec28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/ryoma_ai/states.py
+SPDXID: SPDXRef-item10433052
+FileChecksum: SHA1: 1ec4c72d6ad73b961540371f59bd870a6d0acd9a
+FileChecksum: SHA256: 97f3f9b6bb4192028eb46c8a77a480111a332540dbbd6ef7d41225ec12fa0598
+FileChecksum: MD5: c4eea2f7bfeebd6216467281139f487f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/packages/ryoma_ai/README.md
+SPDXID: SPDXRef-item10433053
+FileChecksum: SHA1: 8bb4651033a419afc4bfdff3f18ff6a8d08df370
+FileChecksum: SHA256: c4f6ad1ab96b85e15d20b6c029ceca6a0a79cfdac5c15490f24f005e73df2f59
+FileChecksum: MD5: 2d62f1f369688ffee79d19862c56340b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/SECURITY.md
+SPDXID: SPDXRef-item10433054
+FileChecksum: SHA1: cab001aa257d110e005328c4474062bfa429b1c2
+FileChecksum: SHA256: 8adad336a3f47e43ff555f95f6145f32a3456d5248d335d7a1e82391a2ff8d1d
+FileChecksum: MD5: 33f934ae5943bbf397324ad364227890
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/example/pandas_example.ipynb
+SPDXID: SPDXRef-item10433056
+FileChecksum: SHA1: f988dde2495e0b66ef2a1dfef8dee16a76b5f758
+FileChecksum: SHA256: 20d6f3426fd367f8746358a3ce499bf36ee912bd625dd336ae4fb64a8974484b
+FileChecksum: MD5: 4a6164308acf654b206e05fcb93cb9b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/example/example_langgraph.py
+SPDXID: SPDXRef-item10433057
+FileChecksum: SHA1: 4b962ef42ab6ed99c3bf106a13321ef17481de66
+FileChecksum: SHA256: 6f588320ae8eb3892199fdb4484a9b718ad3637f5ba2acbcda79087a7ca7fe77
+FileChecksum: MD5: 1f9f2a43e5c8a01a78953acd16b91ec1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/example/file_example.py
+SPDXID: SPDXRef-item10433058
+FileChecksum: SHA1: 0b49cd3f35c3427d2f7766754384b4969ca7a361
+FileChecksum: SHA256: 4163359a01b04ce6fe41c867dd5d311f5c78605bce6d6e92f7c968a8d9dbb8c6
+FileChecksum: MD5: e2fbd60365554a66a410570104df306c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/example/basic_example.ipynb
+SPDXID: SPDXRef-item10433059
+FileChecksum: SHA1: 47138a5c3220ae041c86aafb0e4ebf9e2085bcf3
+FileChecksum: SHA256: aa4b5536bd93bde322ba2583553faafd1d515d87e381954d3611666be42b8574
+FileChecksum: MD5: 2d6277ee547362d9a6b52ffe707eaf24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/example/file_example.ipynb
+SPDXID: SPDXRef-item10433060
+FileChecksum: SHA1: e0f51621ae8cd76bee61593d2ea027983cd5e6c2
+FileChecksum: SHA256: 4db295823b106ae47c763f586d226426814da8c42ab27233b1dd401b768ec7de
+FileChecksum: MD5: ca61a57ead6285ae8af177c63065390c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/example/ds_example.ipynb
+SPDXID: SPDXRef-item10433061
+FileChecksum: SHA1: c21099ecc808420ca4b5fe74926575acc574e6d0
+FileChecksum: SHA256: 12647540ce6e81d08133114f6d9181fbdad830ea0761bbc304aec7018757fa11
+FileChecksum: MD5: 219c6a4e1f6893a828362503c0c3e911
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/example/azure_openai_agent.ipynb
+SPDXID: SPDXRef-item10433062
+FileChecksum: SHA1: 6f56f8ba69c009ddfdd923c9b8a931d8cd66bef8
+FileChecksum: SHA256: 8a13f21f72ea1696d810ee69711721c8e794d8271563e17ed5c50b21b2edb393
+FileChecksum: MD5: 6225ef2545e8c71b4bde8564c2057d97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/example/e2e_example.py
+SPDXID: SPDXRef-item10433063
+FileChecksum: SHA1: 0e619a65affef09ed775a4e5bb7133009e76ce4c
+FileChecksum: SHA256: f41f02aff0270a60093c30bf9df58376fa14257f7fde7508e84c4e26192795ab
+FileChecksum: MD5: 65a26818fdc5ff76eeddbcc2dbf4f35d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/example/example_arrow.py
+SPDXID: SPDXRef-item10433064
+FileChecksum: SHA1: 333335aa7932fb59222e19a340572efd56c6c752
+FileChecksum: SHA256: d2228f74784b20953e4d87da0bbc88884e81e6f32491f3c4fcae9d04b0d4dd53
+FileChecksum: MD5: 5c3235977d7a0206675a68bc679920d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/assets/images/coverage.svg
+SPDXID: SPDXRef-item10433067
+FileChecksum: SHA1: 1d56833da962e60db139a236ff36182b5bc9430f
+FileChecksum: SHA256: 0b7b216335f1fde982ffa2871f705b95ef691ba9560ba99dbca060251ce336d6
+FileChecksum: MD5: 402a0fd8f82a890267b39228a6274a6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/assets/aita_white.svg
+SPDXID: SPDXRef-item10433068
+FileChecksum: SHA1: 3a59e648a4950ae8fed957077872ec53797a2355
+FileChecksum: SHA256: 6e9d59494939c3654399f7807ae9b322f4d64215bf9c69c55573ecf9f12002db
+FileChecksum: MD5: 7380a22d4dafd590802ee791b41e4ec0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/assets/paneleft.svg
+SPDXID: SPDXRef-item10433069
+FileChecksum: SHA1: fbee68f994509adf5bf92c6a0ddaee69aeca05c2
+FileChecksum: SHA256: c978f4b47f95a6741a130ae25e66fd6abd8781e5dc194e56e9de1bb8a0d4900e
+FileChecksum: MD5: 64faaf713657c09749ea162b2a1f2c95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/assets/aita_black.svg
+SPDXID: SPDXRef-item10433070
+FileChecksum: SHA1: bea7e70babb8775944ba1cd1295abfa74ae8228a
+FileChecksum: SHA256: 185b860ff55528905eb74f3a1fc76be215089e2b43086b95a054f0d470a7cbfb
+FileChecksum: MD5: 8a266c8aa42b113d4fb1a4b204f4c56b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/assets/ui.png
+SPDXID: SPDXRef-item10433071
+FileChecksum: SHA1: 2c999f0f403fc4760a964de29cedcc1f1149fa62
+FileChecksum: SHA256: e263a9f0cde8fa22e9193d44aa18d4d712726553201c1e36366166e84d9c526b
+FileChecksum: MD5: d07ee753529f69552a23922e23822e3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/assets/github.svg
+SPDXID: SPDXRef-item10433072
+FileChecksum: SHA1: c9155cf2472c913f210edfb0e2d128feed9c6a16
+FileChecksum: SHA256: de24377912fef3d6c189798bd23a1073f73c6a0fed7fc8cf6587b8cb28069dde
+FileChecksum: MD5: 4a3ebff38764ee20aba77ff0d118076f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/assets/ryoma-horizontal-white.svg
+SPDXID: SPDXRef-item10433073
+FileChecksum: SHA1: bfa0167cf995c626ecebf15f693a029fdb9a8662
+FileChecksum: SHA256: b6a9df7f3a1209b74129750a11c53c135c2f3061d5a7be84f7d2d07bf2827bbb
+FileChecksum: MD5: f820f660970ee647ec25efd53036ecbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/assets/logo.svg
+SPDXID: SPDXRef-item10433074
+FileChecksum: SHA1: 7eafa67f271a66b3f0b2a409c528bc5bd825c408
+FileChecksum: SHA256: 18c4a1fd37e73bafc7c35b3c6a051337a0107c4875dff08524a7fd1061184aff
+FileChecksum: MD5: 507f932c5876b454fa036f67a36a33be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/assets/ryoma-horizontal-color.svg
+SPDXID: SPDXRef-item10433075
+FileChecksum: SHA1: 21f3812c82ec7f4f30e48482de2ecea8cee7a8c9
+FileChecksum: SHA256: acbcd14ea9e139bf3491e98d1fc95e204ba3ebdfa5accbe146341d2948a36a84
+FileChecksum: MD5: aabdb17ebfd3d3076d82c083c44a3965
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/assets/chakra_color_mode_provider.js
+SPDXID: SPDXRef-item10433076
+FileChecksum: SHA1: 5025687d49717fff962c4020c3f32979fba0972b
+FileChecksum: SHA256: 13ff8cb21c45331ea074b808094d8ada01014094d6410acf7ede52360e599c5a
+FileChecksum: MD5: 419b73ce611b97a4df4494aa8de4a3d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/assets/favicon.ico
+SPDXID: SPDXRef-item10433077
+FileChecksum: SHA1: cfc5abdc44c708aaf10b5d7d1c3cd80bb64132ab
+FileChecksum: SHA256: 6dac71803010d95e3e1b94384b6c8ae6e5094d41a4bfe00e581434c5dea6c94a
+FileChecksum: MD5: 19882a3bba6122cd729ac832088c74a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/alembic/env.py
+SPDXID: SPDXRef-item10433079
+FileChecksum: SHA1: 77dc1cccc0d47eb09612e35dc76dc1e1422f3f2c
+FileChecksum: SHA256: 49ec47c9dc1bb097385ea0b8733a5b8f9bfc6ce6dc58f82098b77c48804b1233
+FileChecksum: MD5: 3766a070abfe3e291c014ca8aab15222
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/alembic/README
+SPDXID: SPDXRef-item10433080
+FileChecksum: SHA1: 5cfaa42ee567367c1eeb81aa9f59a58c54151db7
+FileChecksum: SHA256: 31595cf53626af9ed16e15c44fa43183209cc163fbc3ebcb904b22ac436a8884
+FileChecksum: MD5: 0d64fccd082782288b1dce1b4743bc9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/alembic/versions/32c47e486eed_.py
+SPDXID: SPDXRef-item10433082
+FileChecksum: SHA1: a3a8b1056bf11df1c04c8574e901381f0a562a42
+FileChecksum: SHA256: 9722ded73142357b47354b61ef45c41a368f878bb37cfeb713c309e5ae52f667
+FileChecksum: MD5: 9960cd43775f9d49fa3b3f6a4cad50db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/alembic/script.py.mako
+SPDXID: SPDXRef-item10433083
+FileChecksum: SHA1: d467ab0ed9f37f461377626574b9da3639f648aa
+FileChecksum: SHA256: 304a8bfb6a804e5493f5300e79882c70c9f5bb2e87512f4d16f0e097dddd323f
+FileChecksum: MD5: dbe2609632797d37d908ab6a957e5604
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.dockerignore
+SPDXID: SPDXRef-item10433084
+FileChecksum: SHA1: 1a705ba696f44f9cd9b2c8462824ea540813335c
+FileChecksum: SHA256: 45a1c0852aa6fa6118393271f8a8e16be4f7cf0e918660d6c75950f936998d1c
+FileChecksum: MD5: 688970a836c0f437681f4b6cc3cab9b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: project-ryoma-2025-01-10.zip/ryoma/.pre-commit-config.yaml
+SPDXID: SPDXRef-item10433085
+FileChecksum: SHA1: df4d566ed343c61c0e375b18a6ca11ccf48cb61e
+FileChecksum: SHA256: a2576991c9c94e8bfe9767f67c8f3c6e0c89013a6e52a5d0ce4243d09e83a1dc
+FileChecksum: MD5: 560045e1cff8b5d3b3a2aeaa07ce820b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-Python
+LicenseName: Python
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-RSA-possibility
+LicenseName: RSA-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
